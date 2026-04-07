@@ -1,0 +1,151 @@
+id,title,decision,category,confidence,notes
+38452517,Neuropsychological Rehabilitation for Epilepsy in India,OUT_OF_SCOPE,non-Canadian; non-pharma (cognitive rehab),0.98,India-based RCT; neuropsych rehab not pharmacological
+38451197,Sertraline versus venlafaxine in trauma-affected refugees,OUT_OF_SCOPE,non-Canadian,0.95,Denmark-based RCT for PTSD in refugees
+38435873,Effect of Integrated Yoga as Adjuvant for Panic Disorder,OUT_OF_SCOPE,non-Canadian; non-pharma,0.98,India-based; yoga intervention
+38430820,Efficacy of Ginkgo biloba dropping pill on stable angina with depression,OUT_OF_SCOPE,non-Canadian; primary condition not MH,0.97,China-based; primary target is angina not MH disorder
+38428936,Impact of Sling Use on Functional Mobility in Geriatric Population,OUT_OF_SCOPE,not MH; non-pharma,0.99,Orthopedic study; no mental health intervention
+38425206,Baseline symptom severity and efficacy of Silexan in anxiety disorders,OUT_OF_SCOPE,non-Canadian,0.97,European pooled analysis of Silexan trials
+38420046,Effect of Vortioxetine vs Fluoxetine on Metabolic Parameters in Depression,OUT_OF_SCOPE,non-Canadian,0.95,India-based RCT
+38412543,Walking and Social Reminiscence in Gentrifying Neighborhoods,OUT_OF_SCOPE,non-pharma; not RCT,0.97,US-based pilot; behavioral intervention
+38411577,HD-tDCS Primed iTBS in Treatment-Resistant Depression,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,India-based; neuromodulation not pharmacological
+38408937,Efficacy of empagliflozin as adjunctive therapy to citalopram in MDD,OUT_OF_SCOPE,non-Canadian,0.95,Iran-based RCT
+38401806,Mediating effect of inflammation on sleep disruption and suicidal ideation in MDD,OUT_OF_SCOPE,non-Canadian; observational,0.97,China-based cross-sectional study
+38401072,Clinical Efficacy of Ultrasound-Guided Acupuncture for Chronic Subjective Dizziness,OUT_OF_SCOPE,non-Canadian; non-pharma,0.98,China-based; acupuncture intervention
+38393913,Vaccines and Dementia Part II,OUT_OF_SCOPE,review; non-pharma for MH,0.99,Review article; not an RCT
+38385994,MSK1 Methylation and Executive Function With Suicidal Ideation in Adolescent MDD,OUT_OF_SCOPE,non-Canadian,0.95,China-based prospective cohort; antidepressant treatment but not Canadian
+38370556,Electroacupuncture versus Escitalopram for Post-Stroke Depression,OUT_OF_SCOPE,non-Canadian; non-pharma primary,0.95,China-based; electroacupuncture is primary intervention
+38352079,Mental Illness Diagnoses May Not Cause All Mental Symptoms: A Simulation Study,OUT_OF_SCOPE,not RCT; simulation study,0.99,Computational simulation; no clinical trial
+38343833,Because We Love You (BeWeL): Protocol for RCT for suicide in Alaska Native people,OUT_OF_SCOPE,non-Canadian; protocol without results,0.98,Alaska US-based protocol; no results
+38343313,Harnessing Placebo Effects for Functional Cognitive Disorder,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,US-based; sham TMS (placebo) study
+38342033,Accelerated dTMS with double cone coil in OCD,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,Turkey-based; TMS intervention
+38336164,Efficacy and safety of sertraline in maintenance hemodialysis patients with depression,OUT_OF_SCOPE,non-Canadian,0.95,China-based RCT
+38332909,Serum S100A8/A9 and MMP-9 in SLE patients with cognitive impairment,OUT_OF_SCOPE,not RCT; not pharma for MH,0.98,Cross-sectional biomarker study
+38330322,Pretreatment relationship characteristics predict outcomes in PTSD treatment,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,US military couples; psychotherapy intervention
+38327498,High-frequency rTMS over bilateral primary motor cortex in Parkinson's disease,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,China-based; TMS intervention
+38325605,Magnitude and sustainability of zuranolone treatment on SF-36 in MDD and PPD,OUT_OF_SCOPE,non-Canadian,0.95,US-based integrated analysis of zuranolone trials
+38321914,Intergenerational Effects of Fast Track Intervention,OUT_OF_SCOPE,non-pharma,0.97,US-based; psychosocial behavioral intervention
+38312234,Instant and short-term effects of acupuncture for depression and anxiety in UAP,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,China-based; acupuncture intervention
+38306509,Application effect of behavioral cognition combined with psychological intervention on orthodontic patients,OUT_OF_SCOPE,non-pharma; not MH primary,0.98,China-based; behavioral intervention for orthodontic patients
+38306352,A computational model to characterize time-course of response to rapid antidepressants,OUT_OF_SCOPE,not RCT; computational modeling,0.97,Simulation/modeling study
+38301091,Celecoxib in Treatment of Postpartum Depression: A Case Report,OUT_OF_SCOPE,not RCT; non-Canadian,0.98,Iran-based case report
+38293596,Comparing duloxetine and nortriptyline in functional dyspepsia,OUT_OF_SCOPE,non-Canadian; primary condition not MH,0.95,Iran-based; primary condition is functional dyspepsia
+38285160,Electronic biofeedback combined with nursing intervention in VCIND,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,China-based; biofeedback intervention
+38281595,Individual deviations from normative EEG connectivity predict antidepressant response,OUT_OF_SCOPE,non-Canadian; secondary analysis,0.95,US-based; predictive modeling from EMBARC study
+38276013,Comparison of Anxiolytic Properties of Tofisopam and Diazepam,OUT_OF_SCOPE,non-Canadian,0.95,Poland-based crossover trial
+38271079,Pilot trial of brief intervention for cannabis use,OUT_OF_SCOPE,non-Canadian,0.95,US-based pilot trial; behavioral intervention primary
+38263368,Effect of music on the operating surgeon: MOSART study,OUT_OF_SCOPE,not MH; non-pharma,0.99,Surgical stress study; not mental health treatment
+38260017,Effect of deep brain stimulation vs drug therapy on Parkinson's progression,OUT_OF_SCOPE,non-Canadian; primary condition neurological,0.95,China-based; Parkinson's disease not primary MH disorder
+38259422,Evaluating impact of motivational interviewing on web-based gambling intervention,OUT_OF_SCOPE,non-pharma,0.90,Canadian RCT but intervention is web-based self-help + motivational interviewing (non-pharma)
+38258865,Associations of Methadone and BUP/NX Dose Titration Patterns: OPTIMA Study,OUT_OF_SCOPE,secondary analysis,0.95,Secondary analysis of OPTIMA Canadian RCT
+38258568,Healthcare utilization in mothers with PPD before and during COVID-19,OUT_OF_SCOPE,non-pharma,0.92,Ontario Canada but intervention is 1-day CBT-based; non-pharmacological
+38253032,Toward nuanced assessment of intensive home visiting: commentary,OUT_OF_SCOPE,not RCT; commentary,0.99,Commentary on Canadian nurse home visiting RCT
+38247574,Effect of CBT based on health education pathway on papillary thyroid carcinoma patients,OUT_OF_SCOPE,non-Canadian; non-pharma; not MH primary,0.97,China-based; CBT for thyroid cancer patients
+38241803,Lavender essential oil inhalation aromatherapy on depression and sleep in stroke,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,China-based; aromatherapy intervention
+38237637,Therapeutic Effects of Tamsulosin in Nightmare Disorder,OUT_OF_SCOPE,non-Canadian,0.95,Iran-based crossover trial
+38234393,Feasibility Study of the Boston Naming Test for the Arab Population,OUT_OF_SCOPE,not RCT; not MH treatment,0.99,Saudi Arabia; neuropsychological test validation
+38232776,Efficacy of tDCS for treating anhedonia in depression,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,China-based; tDCS intervention
+38232439,Association between high-threshold practices and buprenorphine treatment termination,OUT_OF_SCOPE,not RCT; non-Canadian,0.97,US survey study of prescribers
+38228914,Connectivity-guided iTBS versus rTMS for treatment-resistant depression,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,UK-based; TMS intervention
+38228395,Pharmacometabolomics in Drug Disposition Toxicity and Precision Medicine,OUT_OF_SCOPE,review,0.99,Mini review article
+38218932,Active versus sham DLPFC-NAc rTMS for depressed adolescents: protocol,OUT_OF_SCOPE,non-Canadian; protocol,0.97,China-based protocol; no results
+38216917,Adjuvant probiotic effects on sexual function in depressed women on SSRIs,OUT_OF_SCOPE,non-Canadian,0.95,Iran-based RCT
+38204767,Effectiveness of Rajyoga Meditation as Adjuvant for Panic Anxiety,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,India-based; meditation intervention
+38199406,Efficacy of iTBS on adolescents and young adults with MDD,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,China-based; TMS intervention
+38192206,Efficacy and safety of pregabalin vs carbamazepine in central post-stroke pain,OUT_OF_SCOPE,non-Canadian; not MH primary,0.95,China-based; pain treatment
+38186634,Brain ventricle and choroid plexus morphology as predictor in depression: EMBARC study,OUT_OF_SCOPE,non-Canadian; secondary analysis,0.95,US EMBARC study; imaging biomarker analysis
+38170541,Home-Use tDCS for Treatment of MDD: RCT,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,Brazil-based; tDCS intervention
+38167460,Correction to NIDUS-family dementia trial,OUT_OF_SCOPE,correction; not original RCT,0.99,Author name correction; not an RCT
+38165374,FDA Patient-Focused Drug Development Guidances for DEE,OUT_OF_SCOPE,not RCT; regulatory review,0.99,Review of FDA guidances
+38164826,Exercise combined with CBT for anxiety in pregnant women,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,China-based; exercise + CBT intervention
+38160889,Summer mood status in SAD: construct validity,OUT_OF_SCOPE,not pharmacological intervention,0.90,US-based; seasonal depression follow-up; treatments were CBT and light therapy
+38158049,Evaluating impact of bright light therapy on sleep quality in MDD,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,Italy-based; bright light therapy
+38156242,Effect of acupuncture on mild cognitive impairment in elderly: protocol,OUT_OF_SCOPE,non-Canadian; non-pharma; protocol,0.97,China-based; acupuncture protocol
+38151181,Effect of Chaihu-Shugan-San on functional dyspepsia and gut microbiota,OUT_OF_SCOPE,non-Canadian; not MH primary,0.97,China-based; traditional Chinese medicine for dyspepsia
+38150768,TMS combined with pain-directed intervention for fibromyalgia,OUT_OF_SCOPE,non-Canadian; non-pharma; not MH primary,0.95,Israel-based; TMS for fibromyalgia pain
+38149653,Effects of contralateral vs ipsilateral electroacupuncture after total knee arthroplasty,OUT_OF_SCOPE,non-Canadian; non-pharma; not MH,0.98,China-based; acupuncture for postoperative pain
+38143779,Hierarchical Multi-Dimensional Cognitive Training for Stroke: Protocol,OUT_OF_SCOPE,non-Canadian; non-pharma; protocol,0.97,China-based; cognitive training protocol
+38141403,Safety and tolerability of inhaled DMT (BMND01): Phase I,OUT_OF_SCOPE,non-Canadian; phase I healthy volunteers,0.95,Brazil-based; phase I in healthy volunteers
+38138957,Effects of Anxious Depression on Antidepressant Treatment Response,OUT_OF_SCOPE,non-Canadian,0.95,Germany-based; naturalistic study
+38130375,Duloxetine plus exercise for knee OA and depression: feasibility study,OUT_OF_SCOPE,non-Canadian,0.90,US-based feasibility study; duloxetine for OA + depression
+38116669,Efficacy and safety of adding celecoxib to escitalopram for MDD,OUT_OF_SCOPE,non-Canadian,0.95,Iran-based RCT
+38106401,Self-help MBCT on mindfulness and depression symptoms,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,China-based; MBCT self-help intervention
+38101205,Neurobiological basis of reinforcement-based decision making in ADHD with LDX,OUT_OF_SCOPE,non-Canadian,0.90,US-based; fMRI crossover study with lisdexamfetamine
+38100389,Influence of Neostigmine on Postoperative Cognitive Dysfunction,OUT_OF_SCOPE,non-Canadian; not MH primary,0.97,China-based; anesthesia study
+38086858,Clinical efficacy of mulligan maneuver for cervicogenic headache,OUT_OF_SCOPE,non-Canadian; non-pharma; not MH,0.98,China-based; manual therapy for headache
+38082225,Effects of QLB on postoperative cognitive function in hip surgery,OUT_OF_SCOPE,non-Canadian; not MH primary,0.97,China-based; nerve block for surgery
+38079408,Can new approaches to synthesising evidence help achieve consensus in psychotherapy research,OUT_OF_SCOPE,review; not RCT,0.99,Commentary/review article
+38079034,Virtual Reality to Raise Awareness About Autism,OUT_OF_SCOPE,non-pharma; not MH treatment,0.95,Canadian (Montreal) but VR awareness intervention not pharma for MH disorder
+38064630,Effects of TCM Five-Element Music Therapy with Mirtazapine on Depression after Stroke,OUT_OF_SCOPE,non-Canadian,0.95,China-based; music therapy + mirtazapine
+38064262,Role of Daily Steps in Treatment of MDD: Secondary Analysis of iCBT RCT,OUT_OF_SCOPE,secondary analysis; non-pharma,0.92,Canadian (CAMH) but secondary analysis of iCBT trial; non-pharmacological
+38060308,rTMS With and Without Text4Support for Resistant Depression: Protocol,OUT_OF_SCOPE,protocol without results,0.95,Canadian (Edmonton) but protocol only; no results reported
+38059944,Identifying who benefits from supportive vs expressive techniques in psychotherapy,OUT_OF_SCOPE,non-pharma,0.95,US/Israel-based; psychotherapy techniques study
+38055283,Clinical Outcomes of Magnetic Seizure Therapy vs ECT for MDD,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,US-based; MST vs ECT
+38049760,Abnormal alterations of regional spontaneous neuronal activity in insomnia,OUT_OF_SCOPE,non-Canadian; not RCT,0.97,China-based fMRI study
+38043646,EEG synchronized TMS for treatment resistant depression,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,US-based; TMS intervention
+38035737,Add-on pramipexole for anhedonic depression: protocol,OUT_OF_SCOPE,non-Canadian; protocol,0.95,Sweden-based protocol
+38026787,Impact of iOAT on Criminalized Activities: SALOME Secondary Analysis,OUT_OF_SCOPE,secondary analysis,0.95,Canadian (Vancouver) but secondary analysis of SALOME trial
+38022835,Phase IIb RCT of Anyu Peibo capsules for MDD,OUT_OF_SCOPE,non-Canadian,0.95,China-based; herbal medicine trial
+38009933,Pharmacogenetics of Abstinence in OAT: OPTIMA Study,OUT_OF_SCOPE,secondary analysis,0.95,Canadian OPTIMA trial but pharmacogenetics secondary analysis
+38000472,Antidepressant effects of dexmedetomidine compared with ECT in TRD,OUT_OF_SCOPE,non-Canadian,0.95,China-based RCT
+37989532,Effect of music on preoperative anxiety in cataract surgery,OUT_OF_SCOPE,non-Canadian; non-pharma; not MH primary,0.98,Nigeria-based; music for surgical anxiety
+37971845,Increased functional connectivity following bright light therapy in subthreshold depression,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,China-based; bright light therapy
+37969858,Evaluation of Video-Based Education for Parents of Children Undergoing Fontan Surgery,OUT_OF_SCOPE,non-pharma; not MH primary,0.92,Canadian (Edmonton) but video education for surgical patients; not pharmacological MH intervention
+37960717,Assessing efficacy and safety of Craniosacral therapy for migraine,OUT_OF_SCOPE,non-Canadian; non-pharma; not MH,0.98,China-based; manual therapy for migraine
+37957926,IV valproate vs oral valproate for bipolar disorder,OUT_OF_SCOPE,non-Canadian,0.95,Italy-based; retrospective non-randomized study
+37952772,Efficacy of citalopram or escitalopram in patients with asthma and MDD,OUT_OF_SCOPE,non-Canadian,0.90,US-based pooled analysis of 3 RCTs
+37943587,Effect of Electroacupuncture vs CBT-I for Perimenopausal Insomnia: Protocol,OUT_OF_SCOPE,non-Canadian; protocol,0.97,China-based protocol
+37938152,Comparing effectiveness of CBT and LF rTMS in OCD,OUT_OF_SCOPE,non-Canadian,0.95,Iran-based RCT
+37934579,Supporting Clinical Competencies in Men's Mental Health: Men in Mind,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,Australia-based; practitioner training program
+37933521,Adjunctive brexpiprazole for Japanese patients with MDD,OUT_OF_SCOPE,non-Canadian,0.95,Japan-based phase 2/3 trial
+37930200,Adjunctive Docosahexaenoic Acid in Residual Depression and Anxiety,OUT_OF_SCOPE,non-Canadian,0.90,Australia-based crossover trial
+37930199,Relationship of Early Sleep Improvement With Response in Unipolar Psychotic Depression,OUT_OF_SCOPE,non-Canadian; secondary analysis,0.95,Netherlands-based; secondary analysis of RCT
+37922732,Effect of zolpidem-CR on HRSD suicide item in depression with insomnia,OUT_OF_SCOPE,non-Canadian; secondary analysis,0.95,US-based; secondary analysis of REST-IT
+37915094,Examining impact of universal SEL intervention on internalising symptoms,OUT_OF_SCOPE,non-Canadian; non-pharma,0.98,UK-based; school SEL intervention
+37913740,Development and validation of Ayurveda-based assessment scale for anxiety,OUT_OF_SCOPE,non-Canadian; not RCT of pharma for MH,0.97,India-based; scale validation
+37907321,Worsening stimulant use disorder outcomes with off-label antipsychotic prescribing,OUT_OF_SCOPE,not RCT; case report,0.99,Case report
+37907036,Comparison of tandospirone and escitalopram in MSA-C,OUT_OF_SCOPE,non-Canadian; primary condition neurological,0.95,China-based; multiple system atrophy
+37905735,Methylxanthine for prevention and treatment of apnea in preterm infants,OUT_OF_SCOPE,not MH; neonatal,0.99,Cochrane review of neonatal apnea
+37899716,Associations Between BUP/NX and Methadone and non-Opioid Substance Use: OPTIMA,OUT_OF_SCOPE,secondary analysis,0.95,Canadian OPTIMA but secondary analysis
+37893840,Benefits of Urban Forest Healing Program on Depression,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,Korea-based; forest healing program
+37887975,Can Leucine Supplementation Improve Frailty Index Scores,OUT_OF_SCOPE,non-Canadian; not MH,0.98,Spain-based; nutritional supplement for frailty
+37886444,Comparing sleep measures in cancer survivors: Fitbit vs sleep diary,OUT_OF_SCOPE,not MH treatment; non-pharma,0.98,US-based; sleep measurement comparison
+37881420,Comparison of Single and Double-Dose IV Ketamine in Bipolar Depression,OUT_OF_SCOPE,non-Canadian,0.95,Iran-based RCT
+37878284,Withania somnifera with Piperine for anxiety and depression,OUT_OF_SCOPE,non-Canadian,0.95,India-based; herbal supplement trial
+37875578,Rapid improvements in MDD with somatic pain using rTMS combined with sertraline,OUT_OF_SCOPE,non-Canadian,0.95,China-based RCT
+37865342,Efficacy of MCT-Silver for depression in older adults,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,Germany-based; metacognitive training
+37863972,Specialist treatment for persistent depression in secondary care: UK RCT,OUT_OF_SCOPE,non-Canadian,0.95,UK-based RCT
+37863366,Efficacy of Tuina for chronic low back pain with anxiety: protocol,OUT_OF_SCOPE,non-Canadian; non-pharma; protocol,0.97,China-based; tuina massage protocol
+37854169,Influence of Melatonin on Emotion Sleep and QoL in Perimenopausal Women,OUT_OF_SCOPE,non-Canadian; primary condition not MH,0.95,China-based; melatonin for perimenopause
+37846462,Factors Associated with Antidepressant Effects of Ketamine: Reanalysis,OUT_OF_SCOPE,non-Canadian; secondary analysis,0.95,Japan-based reanalysis of US trial
+37842359,Association Between Post-COVID Pulmonary Dysfunction and New-Onset Anxiety/Depression,OUT_OF_SCOPE,non-Canadian; not MH primary,0.95,India-based; COVID pulmonary study
+37830771,myHealthHub for older adult inpatients: protocol,OUT_OF_SCOPE,non-pharma; protocol,0.92,Canadian (Montreal) but protocol for non-pharma digital intervention
+37827257,Effect of aripiprazole on cognitive function in first-episode depression,OUT_OF_SCOPE,non-Canadian,0.95,China-based RCT
+37816252,Incentive Spirometer-Based Exercises for Post-COVID Anxiety and Depression,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,India-based; breathing exercises
+37815004,Effects of 3-month Qigong exercise on anxiety in college students,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,China-based; Qigong exercise
+37814607,Evaluating Efficacy of Acupuncture for Chronic Subjective Tinnitus: protocol,OUT_OF_SCOPE,non-Canadian; non-pharma; protocol,0.97,China-based; acupuncture protocol
+37811314,Primary healthcare provider experience of knowledge brokering for mood management,OUT_OF_SCOPE,not RCT of pharma for MH,0.92,Canadian qualitative study from RCT; not a pharma intervention for MH disorder
+37802223,Audit and feedback to family physicians on opioid prescribing: pragmatic trial,OUT_OF_SCOPE,not pharma for MH disorder,0.92,Canadian (BC) but intervention is audit/feedback to prescribers; not treatment of MH disorder
+37795687,CBT in patients with DBS for OCD,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,Netherlands-based; CBT + DBS for OCD
+37779552,Depression in Diabetes-The Hidden Bane,OUT_OF_SCOPE,not RCT; observational,0.99,India-based cross-sectional study
+37776559,Intrathecal autologous thrombin-activated condensed platelet cytokines in neurodegeneration,OUT_OF_SCOPE,not RCT; hypothesis paper,0.99,Hypothesis/proposed study
+37763233,Effects of Treatment with Probiotics on Cognitive Function in Adolescent MDD,OUT_OF_SCOPE,non-Canadian,0.95,China-based RCT
+37763175,SIRI at Baseline Predicts Clinical Response in Treatment-Resistant Bipolar Depression,OUT_OF_SCOPE,non-Canadian; secondary analysis,0.95,US-based; retrospective analysis of RCT
+37751242,Feasibility Study of VR-Based CBT for Depression: Protocol,OUT_OF_SCOPE,non-Canadian; protocol; non-pharma,0.97,Japan-based; VR-CBT protocol
+37748002,Changes of Serum CRP in Depressive Disorders After Agomelatine Combined with Aerobic Exercise,OUT_OF_SCOPE,non-Canadian,0.95,China-based RCT
+37746608,Force Profile as Surgeon-Specific Signature,OUT_OF_SCOPE,not MH; not RCT,0.99,Surgical technique analysis
+37745479,Propofol for treatment resistant depression: RCT,OUT_OF_SCOPE,non-Canadian,0.90,US-based RCT; propofol for TRD
+37735801,Changes in Quality of Life in Three RCTs of Online Interventions Including Alcohol,OUT_OF_SCOPE,secondary analysis; non-pharma,0.90,Canadian RCTs but secondary analysis; interventions are online/behavioral
+37734668,Effect of Zishen pingchan granules with pramipexole on depression in PD,OUT_OF_SCOPE,non-Canadian,0.95,China-based RCT; traditional Chinese medicine
+37711125,Efficacy of Low-dose Olanzapine with Sertraline on Negative Symptoms in Schizophrenia,OUT_OF_SCOPE,non-Canadian,0.95,China-based RCT
+37708145,Emotional states affect steady state walking performance,OUT_OF_SCOPE,not MH treatment; not RCT,0.99,Experimental psychology study
+37700038,Usefulness of mirtazapine and SSRIs in late-life depression: post hoc analysis,OUT_OF_SCOPE,non-Canadian; secondary analysis,0.95,Japan-based post hoc analysis of RCT
+37697164,L-Theanine adjunct to risperidone in chronic schizophrenia,OUT_OF_SCOPE,non-Canadian,0.95,Iran-based RCT
+37680802,Effect of BIPAP therapy on COPD complicated with Anxiety and Depression,OUT_OF_SCOPE,non-Canadian; non-pharma; not MH primary,0.97,China-based; BIPAP for COPD
+37679030,Cognitive and psychiatric outcomes in GALAXY trial: DBS for PD,OUT_OF_SCOPE,non-Canadian; non-pharma; not MH primary,0.95,Netherlands-based; DBS for Parkinson's
+37674551,Efficacy of VRET for Alcohol Use Disorder: RCT protocol,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,China-based; VR exposure therapy for AUD
+37672238,Gabapentin Use Among Individuals Initiating Buprenorphine Treatment for OUD,OUT_OF_SCOPE,non-Canadian; observational,0.95,US-based retrospective case-control study
+38313658,Use of cognitive-behavioral career coaching to reduce work anxiety and depression,OUT_OF_SCOPE,non-Canadian; non-pharma,0.97,Nigeria-based; CBT career coaching intervention
+37857544,Efficacy of Tuina in chronic low back pain with anxiety: protocol,OUT_OF_SCOPE,non-Canadian; non-pharma; protocol,0.97,China-based; tuina massage protocol for LBP
+37800194,Circadian Reinforcement Therapy for Safe Postdischarge Period in Major Depression,OUT_OF_SCOPE,non-Canadian; non-pharma,0.95,Denmark-based RCT; circadian behavioral intervention
+37798662,Open-label pilot trial of LSD microdosing in MDD (LSDDEP1),OUT_OF_SCOPE,non-Canadian,0.90,New Zealand-based; open-label pilot (not RCT)
+37797350,Effect of Heartfulness meditation on infertility outcomes,OUT_OF_SCOPE,non-Canadian; non-pharma; not MH,0.98,India-based; retrospective case series; meditation for infertility

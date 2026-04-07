@@ -1,0 +1,33 @@
+RECORD: #96
+PMID: 32457492
+PMCID: PMC7250869
+TITLE: Melatonin for Treatment-Seeking Alcohol Use Disorder patients with sleeping problems: A randomized clinical pilot trial
+AUTHORS AND AFFILIATIONS:
+- Marie N S Gendy - Translational Addiction Research Laboratory, CAMH; Department of Pharmacology, University of Toronto
+- Dina Lagzdins - Translational Addiction Research Laboratory, CAMH
+- Jessika Schaman - Alcohol Research and Treatment Clinic, CAMH
+- Bernard Le Foll - Translational Addiction Research Laboratory, CAMH; Alcohol Research and Treatment Clinic; Campbell Family Mental Health Research Institute; Department of Family and Community Medicine, University of Toronto; Department of Pharmacology, University of Toronto; Department of Psychiatry, University of Toronto; Institute of Medical Sciences, University of Toronto
+TRIAL REGISTRATION: NCT03043443 (registration date: 06/02/2017)
+FUNDING: Centre for Addiction and Mental Health (CAMH) funds
+
+METHODS:
+Double-blind randomized placebo-controlled trial with 60 treatment-seeking AUD participants recruited from CAMH clinics (January 2017-January 2019). Participants were randomized to melatonin (5 mg) or placebo taken nightly for 4 weeks. Primary outcome: sleep quality measured by Pittsburgh Sleep Quality Index (PSQI). Secondary outcomes included PSQI subscales, Beck Depression Inventory (BDI), and Beck Anxiety Inventory (BAI). Linear mixed models analyzed differences between groups. Participants required PSQI >5, DSM-5 AUD diagnosis, 2-3 weeks prior abstinence verified by Timeline Followback, and exclusion of benzodiazepine/sleep medication use. Demographics, comorbidities, and concomitant medications were assessed at baseline.
+
+RESULTS:
+Among 60 participants (76.7% male, mean age 41-60 range), both melatonin and placebo groups showed significant reductions in PSQI global scores and subscales over 4 weeks, with no significant drug effect between groups. Mean PSQI decreased from 12.97 (melatonin) and 11.70 (placebo) at baseline to 9.24 and 8.20 post-treatment respectively. BDI and BAI scores significantly decreased over time without drug effect differences. Medication adherence was 75%; 78.6% maintained alcohol abstinence throughout. Mild side effects reported (irritability, weakness, dizziness in melatonin; daytime sleepiness, rash, vomiting in placebo). Cohen's h effect size = 0.27.
+
+EDIA/EQUITY REPORTING:
+- Sex: 76.7% male, 23.3% female
+- Race/ethnicity: 75% Caucasian, 3.3% Black/African, 1.7% Asian, remainder mixed races
+- Age ranges: 19-25 (1.7%), 26-40 (35%), 41-60 (55%), >60 (8.3%)
+- Employment status documented (full-time, disability, welfare, unemployed, retired)
+- Education levels: high school through graduate degree
+- Smoking status: ~50% smokers in each group
+- Comorbidities: 65% depression diagnosis in both groups
+No stratified analyses by equity variables reported.
+
+CANADIAN INVOLVEMENT:
+- All research conducted at Centre for Addiction and Mental Health (CAMH), Toronto, Ontario
+- All four authors affiliated with Canadian institutions (CAMH, University of Toronto)
+- Research Ethics Board approval from CAMH
+- Funding from CAMH

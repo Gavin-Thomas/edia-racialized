@@ -1,0 +1,151 @@
+id,title,decision,category,confidence,notes
+10058,CAN A REFORM OF PRIMARY CARE IMPROVE THE MANAGEMENT OF PATIENTS WITH DEMENTIA?,EXCLUDE,non-pharma,0.90,Quebec Alzheimer Plan evaluation; not RCT of pharma for MH; observational chart review
+10059,Economic Evaluation of Implementing a Novel Pharmacogenomic Test (IDgenetix) to Guide Treatment of Patients with Depression and/or Anxiety,EXCLUDE,non-Canadian,0.85,US-based economic evaluation of pharmacogenomic test for depression/anxiety
+10060,Modeling the appearance and progression of cognitive impairment,EXCLUDE,non-pharma,0.95,Computer simulation model of cognitive impairment; not pharma RCT
+10061,Group rumination-focused cognitive-behavioural therapy (CBT) v. group CBT for depression: phase II trial,EXCLUDE,non-pharma,0.95,Danish RCT of RFCBT vs CBT for depression; non-pharma; non-Canadian
+10062,A 6-Year Posttreatment Follow-up of Panic Disorder Patients: Treatment With Clonazepam Predicts Lower Recurrence Than Treatment With Paroxetine,EXCLUDE,non-Canadian,0.95,Brazilian observational follow-up of clonazepam vs paroxetine RCT for PD; non-Canadian
+10063,Impact of Pharmacogenomics on Clinical Outcomes for Patients Taking Medications With Gene-Drug Interactions in a Randomized Controlled Trial,EXCLUDE,non-Canadian,0.85,US GUIDED trial of pharmacogenomic-guided treatment for MDD
+10064,The Optimization of an eHealth Solution (Thought Spot) with Transition-Aged Youth in Postsecondary Settings,EXCLUDE,non-pharma,0.95,Canadian participatory design research for eHealth; not pharma RCT
+10065,Corrigendum to Optimizing Outcomes of Treatment-Resistant Depression in Older Adults (OPTIMUM),EXCLUDE,secondary,0.90,Corrigendum/erratum; not primary RCT results
+10066,Effect of mirtazapine versus selective serotonin reuptake inhibitors on benzodiazepine use in patients with major depressive disorder,EXCLUDE,non-Canadian,0.95,Japanese open-label RCT of mirtazapine vs SSRIs for MDD
+10067,A Randomized Controlled Pilot Study on Mindfulness-Based Cognitive Therapy for Unipolar Depression in Patients With Chronic Pain,EXCLUDE,non-pharma,0.90,US RCT of MBCT for depression in chronic pain; non-pharma
+10068,Influence of baseline severity on the effects of SSRIs in depression: an item-based patient-level post-hoc analysis,EXCLUDE,secondary,0.95,Post-hoc secondary analysis of pooled SSRI trial data; Swedish
+10069,Testing the Mechanism of Action of Computerized Cognitive Training in Young Adults with Depression: Protocol,EXCLUDE,non-pharma,0.95,US protocol; no results; computerized cognitive training not pharma
+10070,Risk of injury from alcohol marijuana and other drug use among emergency department patients,EXCLUDE,non-pharma,0.85,Vancouver BC ED study; not RCT of MH pharma; epidemiological
+10071,The Relationship Between Depression and Pain During Acute Electroconvulsive Therapy and Follow-Up Period,EXCLUDE,non-Canadian,0.90,Taiwanese RCT of ECT+agomelatine for TRD; non-Canadian
+10072,Masitinib for treatment of severely symptomatic indolent systemic mastocytosis,EXCLUDE,non-MH,0.95,Multinational RCT for mastocytosis; not MH condition
+10073,Cognitive behavioral therapy improves diverse profiles of depressive symptoms in Parkinson's disease,EXCLUDE,non-pharma,0.95,US RCT of CBT for depression in PD; non-pharma
+10074,The effectiveness of telemedicine-delivered opioid agonist therapy in a supervised clinical setting,EXCLUDE,non-MH,0.90,Ontario Canada; non-randomized cohort comparison of OAT delivery; OUD not diagnosed DSM-5 MH; not RCT
+10075,GSK-3beta and BDNF genes may not be associated with venlafaxine treatment response in Chinese of Han ethnicity,EXCLUDE,non-Canadian,0.95,Chinese pharmacogenomics study of venlafaxine for MDD
+10076,Are Patients with Childhood Onset of Insomnia and Depression More Difficult to Treat Than Are Those with Adult Onsets? TRIAD Study,EXCLUDE,non-Canadian,0.85,US multisite RCT secondary analysis of escitalopram/CBT-I for depression+insomnia
+10077,Novel TMS for Stroke and Depression (NoTSAD),EXCLUDE,non-pharma,0.95,US open-label study of rTMS for post-stroke depression; non-pharma
+10078,Effect of Pretreatment of S-Ketamine On Postoperative Depression for Breast Cancer Patients,EXCLUDE,non-Canadian,0.90,Chinese RCT of S-ketamine for postoperative depression in breast cancer; non-Canadian
+10079,Capacity to provide informed consent among adults with bipolar disorder,EXCLUDE,non-pharma,0.90,US study; cross-sectional assessment of consent capacity; not pharma RCT
+10080,Sertraline hydrochloride treatment for patients with stable COPD complicated with depression,EXCLUDE,non-Canadian,0.95,Chinese RCT of sertraline for COPD+depression; non-Canadian
+10081,Effect of recombinant erythropoietin on inflammatory markers in patients with affective disorders,EXCLUDE,non-Canadian,0.90,Danish RCT of EPO for affective disorders; non-Canadian
+10082,Evaluating the Psychometric Properties of 3 Depression Measures in a Sample of Persons With TBI and MDD,EXCLUDE,secondary,0.95,US secondary analysis of CBT RCT data; psychometric validation
+10083,Effects of Jianpi Qingchang decoction on the quality of life of patients with ulcerative colitis,EXCLUDE,non-MH,0.95,Chinese RCT of herbal decoction for ulcerative colitis; not MH
+10084,Effects of Psychoactive Massage in Outpatients with Depressive Disorders,EXCLUDE,non-pharma,0.95,German RCT of massage therapy for depression; non-pharma
+10085,Effectiveness of electroconvulsive therapy in patients with less treatment-resistant depression,EXCLUDE,non-Canadian,0.95,Chinese observational study of ECT for depression
+10086,Perinatal depressive symptoms among low-income South African women at risk of depression,EXCLUDE,non-Canadian,0.95,South African RCT secondary analysis; non-Canadian
+10087,Vitamin D3 supplementation and treatment outcomes in patients with depression (D3-vit-dep),EXCLUDE,non-Canadian,0.90,Danish RCT of vitamin D for depression; non-Canadian
+10088,Functions of reminiscence in later life,EXCLUDE,non-pharma,0.90,Canadian sample but observational longitudinal study; not pharma RCT
+10089,Machine Learning Based Classification of Deep Brain Stimulation Outcomes in a Rat Model of Binge Eating,EXCLUDE,animal,0.95,Animal (rat) study
+10090,T51. TREATMENT OF NEGATIVE SYMPTOMS OF SCHIZOPHRENIA WITH TDCS,EXCLUDE,non-pharma,0.95,Brazilian RCT of tDCS for schizophrenia; non-pharma
+10091,Patterns of depressive symptom remission during the treatment of SAD with CBT or light therapy,EXCLUDE,non-pharma,0.95,US RCT of CBT-SAD vs light therapy; non-pharma
+10092,Do people with bipolar disorders have access to psychosocial treatments? A survey in Italy,EXCLUDE,non-pharma,0.95,Italian survey; not RCT of pharma
+10093,Dexmedetomidine Use in ICU Sedation and Postoperative Recovery in Elderly Patients Post-Cardiac Surgery,EXCLUDE,non-MH,0.95,Irish RCT of ICU sedation post-cardiac surgery; not MH pharma
+10094,EFFECT OF A SINGLE DOSE OF LORAZEPAM ON SALIVARY CORTISOL RESPONSE IN CHILDREN UNDERGOING DIGESTIVE ENDOSCOPY,UNCERTAIN,uncertain-Canadian,0.50,Canadian RCT (Montreal) of lorazepam for procedural anxiety; pharma but procedural anxiety not DSM-5 diagnosed MH
+10095,Chronic fatigue syndrome treated by the traditional Chinese procedure abdominal tuina,EXCLUDE,non-pharma,0.95,Chinese RCT of abdominal tuina for CFS; not pharma
+10096,IMPACT OF ADAPTED DANCE ON MOOD AND PHYSICAL FUNCTION AMONG ALZHEIMER'S DISEASE ASSISTED LIVING RESIDENTS,EXCLUDE,non-pharma,0.95,US RCT of adapted dance; not pharma
+10097,Administration of ketamine for unipolar and bipolar depression,EXCLUDE,review,0.95,Review of ketamine trials; not a primary RCT
+10098,Application of Patient-Reported Outcome Measurements in Clinical Trials in China,EXCLUDE,non-Canadian,0.95,Chinese cross-sectional study of PRO use
+10099,A Wrinkle in Measuring Time Use for Cognitive Health,EXCLUDE,non-pharma,0.95,Review/methodology paper; not RCT
+10100,Influence of psychological nursing on negative emotion and sleep quality of glaucoma trabeculectomy patients,EXCLUDE,non-pharma,0.95,Chinese RCT of psychological nursing; not pharma for MH
+10101,Interventions for treating anxiety after stroke,EXCLUDE,review,0.95,Cochrane systematic review; not primary RCT
+10102,Efficacy and cost-effectiveness of a specialist depression service versus usual specialist mental health care,EXCLUDE,non-Canadian,0.95,UK RCT of specialist depression service
+10103,Reduced spontaneous neuronal activity in the insular cortex and thalamus in healthy adults with insomnia symptoms,EXCLUDE,non-pharma,0.95,Chinese neuroimaging study; not pharma RCT
+10104,Preliminary findings from the Music and Movement for Health study,EXCLUDE,non-pharma,0.95,Irish feasibility study of music/movement; not pharma
+10105,Analgesic effects of rTMS on modified 2010 criteria-diagnosed fibromyalgia,EXCLUDE,non-pharma,0.90,Taiwanese RCT of rTMS for fibromyalgia+MDD; non-pharma
+10106,The effects of total enteral nutrition via nasal feeding and percutaneous radiologic gastrostomy,EXCLUDE,non-MH,0.95,Chinese RCT of enteral nutrition for dysphagia; not MH pharma
+10107,The effectiveness of acupuncture as a treatment for tinnitus,EXCLUDE,non-pharma,0.95,Brazilian RCT of acupuncture for tinnitus; non-pharma
+10108,Ketamine for depression relapse prevention following ECT: protocol for a randomised pilot trial,EXCLUDE,non-Canadian,0.85,Irish RCT protocol; protocol no results; non-Canadian
+10109,Influence of ACE gene on differential response to sertraline versus fluoxetine in patients with major depression,EXCLUDE,non-Canadian,0.95,Iranian pharmacogenomics RCT; non-Canadian
+10110,Correction to: A randomized controlled trial on the efficacy of MBCT and CBASP for chronically depressed patients,EXCLUDE,non-pharma,0.95,Correction to German psychotherapy RCT; non-pharma
+10111,The Validity of the Different Versions of the Hamilton Depression Scale,EXCLUDE,secondary,0.90,Danish secondary analysis of vortioxetine trial; psychometric validation
+10112,T16. SCHIZOPHRENIA SPECTRUM DISORDER: DEPRESSION TRAJECTORIES AND IMMUNE MARKERS,EXCLUDE,non-Canadian,0.70,BestIntro trial (Norway/Austria); non-Canadian
+10113,Efficacy of bright light therapy in bipolar depression,EXCLUDE,non-pharma,0.90,Turkish RCT of bright light therapy for BD; non-pharma add-on
+10114,Effect of high-dose simvastatin on cognitive neuropsychiatric and HRQoL measures in SPMS,EXCLUDE,non-MH,0.90,UK MS-STAT trial of simvastatin for MS; not MH pharma
+10115,5-HTR1A and 5-HTR2A genetic polymorphisms and SSRI antidepressant response in depressive Chinese patients,EXCLUDE,non-Canadian,0.95,Chinese pharmacogenomics study; non-Canadian
+10116,Bayesian synthesis using prior information on fracture risk from randomized trials,EXCLUDE,non-MH,0.95,Ontario Canada cohort study of fracture risk in breast cancer; observational; not MH pharma RCT
+10117,A Virtual Supermarket Program for the Screening of Mild Cognitive Impairment in Older Adults,EXCLUDE,non-pharma,0.95,Chinese VR screening tool validation; not pharma RCT
+10118,Effectiveness of Chinese Hand Massage on Anxiety Among Patients Awaiting Coronary Angiography,EXCLUDE,non-pharma,0.95,Chinese RCT of hand massage; not pharma
+10119,Differential change on depressive symptom factors with antidepressant medication and CBT for MDD,EXCLUDE,non-Canadian,0.85,US PReDICT study RCT; non-Canadian
+10120,Determinants of hospitalization in Chinese patients with type 2 diabetes receiving peer support,EXCLUDE,non-Canadian,0.95,Hong Kong RCT of peer support; not Canadian MH pharma
+10121,Impact of Psychiatric Diagnosis and Treatment on Medication Adherence in Youth With SLE,EXCLUDE,non-pharma,0.90,US observational claims study; not RCT
+10122,Effectiveness of community-based depression intervention programme (ComDIP),EXCLUDE,non-Canadian,0.95,Indian RCT of community depression intervention; non-Canadian
+10123,Change in Alcohol Use Based on Self-Report and a Quantitative Biomarker,EXCLUDE,non-pharma,0.90,US secondary analysis of alcohol RCT data; not MH pharma RCT
+10124,The Screen-ICD trial,EXCLUDE,non-pharma,0.95,Danish RCT protocol of CBT for ICD patients; non-pharma; non-Canadian
+10125,Effects of Restricted Time in Bed on Antidepressant Treatment Response,EXCLUDE,non-Canadian,0.80,US RCT of fluoxetine with time-in-bed restriction; non-Canadian
+10126,A randomized sham-controlled study of maintenance rTMS for treatment-resistant depression,EXCLUDE,non-pharma,0.90,French RCT of maintenance rTMS; non-pharma
+10127,The prevention of delirium in elderly with obstructive sleep apnea (PODESA) study,EXCLUDE,non-MH,0.80,Canadian (Toronto) protocol; RCT of APAP for delirium prevention; not MH pharma; protocol
+10128,Application of interdisciplinary collaborative hospice care for terminal geriatric cancer patients,EXCLUDE,non-MH,0.95,Chinese RCT of hospice care; not MH pharma
+10129,Randomized Trial of a Tailored CBT Mobile Application for Anxiety in Patients with Incurable Cancer,EXCLUDE,non-pharma,0.95,US RCT of CBT app for anxiety; non-pharma
+10130,Slowed Processing Speed Disrupts Patient Expectancy in Late Life Depression,EXCLUDE,non-Canadian,0.85,US RCT of open vs placebo-controlled antidepressant in LLD
+10131,Warm-season temperatures and emergency department visits among children with health insurance,EXCLUDE,non-MH,0.95,US epidemiological study; not MH pharma RCT
+10132,Effects of SSRI medication on heart rate and blood pressure in individuals with hypertension and depression,EXCLUDE,non-Canadian,0.95,Brazilian RCT of escitalopram; non-Canadian
+10133,The effects of levomilnacipran ER in adult patients with first-episode highly recurrent or chronic MDD,EXCLUDE,secondary,0.85,Post-hoc analysis of pooled levomilnacipran trials; secondary
+10134,Semaglutide (Wegovy): CADTH Reimbursement Recommendation,EXCLUDE,non-MH,0.95,Canadian CADTH recommendation for obesity drug; not MH
+10135,Early Symptom Trajectories as Predictors of Treatment Outcome for Citalopram Versus Placebo,EXCLUDE,non-Canadian,0.85,US secondary analysis of citalopram RCT in elderly
+10136,Immeasurable Time Bias in Self-controlled Designs,EXCLUDE,non-MH,0.95,Korean methodological study; not MH pharma RCT
+10137,Interpersonal psychotherapy as add-on for treatment-resistant depression,EXCLUDE,non-pharma,0.90,Brazilian RCT of IPT for TRD; psychotherapy; non-Canadian
+10138,Metabolic syndrome depression and fibromyalgia syndrome prevalence in IBS,EXCLUDE,non-pharma,0.95,Turkish case-control study; not RCT of pharma
+10139,Agomelatine versus paroxetine in treating depressive and anxiety symptoms in patients with CKD,EXCLUDE,non-Canadian,0.95,Chinese RCT of agomelatine vs paroxetine; non-Canadian
+10140,The association of ARRB1 polymorphisms with response to antidepressant treatment in depressed patients,EXCLUDE,non-Canadian,0.95,French pharmacogenomics study; non-Canadian
+10141,The Effectiveness of CBT versus Psychoeducation in the Management of Depression among Haemodialysis Patients,EXCLUDE,non-pharma,0.95,Jordanian RCT of CBT vs psychoeducation; non-pharma
+10142,Evaluation of the online-based self-help programme Selfapy in patients with unipolar depression: protocol,EXCLUDE,non-pharma,0.95,German RCT protocol of online self-help; non-pharma
+10143,Study on the Therapeutic Effects of Drug and CBT on Non-Erosive Reflux Disease Patients With Emotional Disorders,EXCLUDE,non-Canadian,0.95,Chinese RCT of CBT+drug for NERD; non-Canadian
+10144,Does heroin-assisted treatment reduce crime? A review,EXCLUDE,review,0.90,Systematic review of HAT RCTs; not primary RCT
+10145,Hypothalamic-pituitary-adrenal axis and depression symptom effects of an arginine vasopressin type 1B receptor antagonist,EXCLUDE,non-Canadian,0.85,US RCT of ABT-436 for MDD; non-Canadian
+10146,Effects of two types of exercise training on psychological well-being in patients with high-grade glioma,EXCLUDE,non-pharma,0.95,Swiss RCT protocol of exercise for glioma; non-pharma
+10147,Vortioxetine versus sertraline in metabolic control distress and depression in Mexican patients with T2D,EXCLUDE,non-Canadian,0.95,Mexican RCT of vortioxetine vs sertraline; non-Canadian
+10148,Are clinical trials randomising households to lifestyle interventions to delay cognitive decline feasible?,EXCLUDE,non-pharma,0.95,Irish qualitative study; non-pharma
+10149,Chronic cough not asthma is associated with depression in the elderly,EXCLUDE,non-pharma,0.95,Korean cross-sectional study; not RCT of pharma
+10150,Changes in music-evoked emotion and ventral striatal functional connectivity after psilocybin therapy for depression,EXCLUDE,non-Canadian,0.90,UK psilocybin therapy study; non-Canadian
+10151,Intervention for Treating Depression in Parents of Children with Intellectual Disability of Down Syndrome,EXCLUDE,non-Canadian,0.95,Nigerian RCT of REBT; non-pharma; non-Canadian
+10152,Evaluation of an Ecological Momentary Intervention for Depression in Older Adults Living Alone,EXCLUDE,non-pharma,0.95,Korean mHealth EMI for depression; non-pharma
+10153,MULTIMODAL PERSONALIZED CHRONOTHERAPY IMPROVES SLEEP IN ADULTS WITH MILD COGNITIVE IMPAIRMENT,EXCLUDE,non-pharma,0.85,Canadian RCT of chronotherapy (light+PA) for MCI sleep; non-pharma intervention
+10154,Maximizing the Treatment Benefit of tDCS in Neurodegenerative Anomia,EXCLUDE,non-pharma,0.85,Canadian (Montreal) tDCS for anomia in dementia; non-pharma neuromodulation
+10155,Therapeutic effects of proprioceptive exercise on functional capacity anxiety and depression in patients with diabetic neuropathy,EXCLUDE,non-pharma,0.95,Saudi Arabian RCT of exercise; non-pharma
+10156,Associations between Serotonergic Genes and Escitalopram Treatment Responses: EsDEPACS Study,EXCLUDE,non-Canadian,0.85,Korean RCT of escitalopram for depression+ACS; non-Canadian
+10157,The effect of early systematic rehabilitation nursing on the quality of life and limb function in elderly patients with stroke sequelae,EXCLUDE,non-pharma,0.95,Chinese RCT of rehabilitation nursing; non-pharma
+10158,Augmentation of Positive Valence System-Focused CBT by Inaudible High-Frequency Sounds for Anhedonia: Protocol,EXCLUDE,non-pharma,0.95,Japanese RCT protocol of CBT+sound therapy; non-pharma
+10159,Additional Benefit of Intraoperative Electroacupuncture in Improving Tolerance of DBS Surgical Procedure,EXCLUDE,non-pharma,0.95,French RCT of electroacupuncture during DBS; non-pharma
+10160,THE EFFECTS OF GROUP ARTS THERAPY BASED ON EMOTION MANAGEMENT TRAINING IN PATIENTS WITH SCHIZOPHRENIA,EXCLUDE,non-pharma,0.95,Korean RCT of group arts therapy; non-pharma
+10161,Baseline blood levels of omega-3 and depression remission: a secondary analysis,EXCLUDE,secondary,0.95,US secondary analysis of omega-3 RCT
+10162,S30. COMBINING PHARMACOTHERAPY OF BI 425809 WITH COMPUTERIZED COGNITIVE TRAINING IN SCHIZOPHRENIA,EXCLUDE,non-Canadian,0.85,Multinational protocol; no results; no Canadian sites specified
+10163,Rhythmic low-field magnetic stimulation may improve depression by increasing BDNF,EXCLUDE,non-pharma,0.95,Chinese RCT of LFMS for MDD; non-pharma
+10164,Predicting Response to the Antidepressant Bupropion using Pretreatment fMRI,EXCLUDE,non-Canadian,0.85,US EMBARC trial secondary analysis; non-Canadian
+10165,Efficacy of light therapy for a college student sample with non-seasonal subthreshold depression,EXCLUDE,non-pharma,0.95,Chinese RCT of light therapy; non-pharma
+10166,Effects of adjunctive N-acetylcysteine on depressive symptoms,EXCLUDE,non-Canadian,0.85,Brazilian RCT of NAC for depression; non-Canadian
+10167,Adjuvant Guided Exercise Therapy Versus Self-Organized Activity in Patients With Major Depression,EXCLUDE,non-pharma,0.95,German RCT of exercise for depression; non-pharma
+10168,Abrupt Symptom Improvements in Antidepressant Clinical Trials: Transient Placebo Effects or Therapeutic Reality?,EXCLUDE,secondary,0.90,US secondary analysis of citalopram vs placebo RCT
+10169,Cortical thickness predicts remission of depression with antidepressants in patients with late-life depression and cognitive impairment,EXCLUDE,non-Canadian,0.80,US (Columbia+Duke) neuroimaging study within antidepressant trial
+10170,A study on the effects of MBCT and loving-kindness meditation on depression,EXCLUDE,non-pharma,0.95,Chinese RCT of MBCT+LKM; non-pharma
+10171,Duloxetine Reduces Pain and Improves Quality of Recovery Following Total Knee Arthroplasty,EXCLUDE,non-MH,0.90,Korean RCT of duloxetine for post-TKA pain; not for diagnosed MH condition
+10172,Effects of delaying binge drinking on adolescent brain development,EXCLUDE,non-pharma,0.85,Canadian (Montreal Co-Venture) longitudinal neuroimaging; not pharma RCT for MH
+10173,Anticholinergic Drug Burden in Persons with Dementia Taking a Cholinesterase Inhibitor,EXCLUDE,non-MH,0.90,Ontario Canada population study; observational; not MH pharma RCT
+10174,Baseline Working Memory Predicted Response to Low-Dose Ketamine Infusion in Patients with TRD,EXCLUDE,non-Canadian,0.85,Taiwanese RCT of ketamine for TRD; non-Canadian
+10175,Effects of neuronavigation-guided rTMS on serum BDNF TrkB and VGF levels in depressive patients with suicidal ideation,EXCLUDE,non-pharma,0.90,Chinese RCT of rTMS for depression; non-pharma
+10176,People with diabetes need a lower cut-off than others for depression screening with PHQ-9,EXCLUDE,non-pharma,0.95,Polish psychometric validation study; not RCT of pharma
+10177,Mindfulness for Motor and Nonmotor Dysfunctions in Parkinson's Disease,EXCLUDE,non-pharma,0.95,Australian pilot of mindfulness for PD; non-pharma
+10178,O9.3. EFFECT OF INTRANASAL VASOPRESSIN ON ALTRUISTIC BEHAVIOR IN SCHIZOPHRENIA,EXCLUDE,non-Canadian,0.90,Indian crossover study of vasopressin in schizophrenia; non-Canadian
+10179,Positive effects of the inclusion of open-mouth pressure for elimination of blood in microscopic subinguinal varicocelectomy,EXCLUDE,non-MH,0.95,Chinese surgical RCT for varicocele; not MH
+10180,Effect of Chaihu plus Longgu Muli decoction plus five-element music therapy for cancer-related depression,EXCLUDE,non-Canadian,0.95,Chinese RCT of herbal decoction+music; non-Canadian
+10181,Combined treatment with memantine/escitalopram for older depressed patients with cognitive impairment: a pilot study,EXCLUDE,non-Canadian,0.85,US open-label pilot; not RCT; non-Canadian
+10182,Psychological therapies for people with borderline personality disorder,EXCLUDE,review,0.95,Cochrane systematic review; not primary RCT
+10183,Effects of hyperthermic baths on depression sleep and heart rate variability,EXCLUDE,non-pharma,0.95,German RCT of hyperthermic baths; non-pharma
+10184,A pilot study on high amplitude low frequency-music impulse stimulation as add-on treatment for depression,EXCLUDE,non-pharma,0.95,Danish RCT of HALF-MIS for depression; non-pharma
+10185,Cardiac Rehabilitation in Primary Care. Impact of an Intervention on Perceived Self-Efficacy,EXCLUDE,non-pharma,0.95,Spanish community trial of cardiac rehab; non-pharma
+10186,Enhancing Social Interaction in Depression (SIDE study): protocol of a RCT on CBCT for couples,EXCLUDE,non-pharma,0.90,German RCT protocol of compassion training; non-pharma
+10187,Effects and feasibility of hyperthermic baths in comparison to exercise as add-on treatment to usual care in depression,EXCLUDE,non-pharma,0.95,German RCT of hyperthermic baths vs exercise; non-pharma
+10188,Adolescent cognitive control and mediofrontal theta oscillations are disrupted by neglect,EXCLUDE,non-pharma,0.95,Romanian foster care RCT; non-pharma; non-Canadian
+10189,The Efficacy of Miniaturized Repetitive Transcranial Magnetic Stimulation in Patients with Depression,EXCLUDE,non-pharma,0.95,Korean RCT of miniaturized rTMS; non-pharma
+10190,A Pilot Randomized Controlled Study of Tai Chi in the Treatment of Depressed Chinese Americans,EXCLUDE,non-pharma,0.90,US RCT of tai chi for MDD; non-pharma
+10191,Comparison of prescribing practices for older adults treated by female versus male physicians,EXCLUDE,non-pharma,0.90,Ontario Canada observational study of prescribing patterns; not RCT of MH pharma
+10192,Impact of Pharmacist-Led Cognitive Behavioural Therapy for Chronic Insomnia,EXCLUDE,non-pharma,0.85,Canadian (Saskatchewan) retrospective chart audit of CBT-i; non-pharma; not RCT
+10193,Effects of bilateral sequential theta-burst stimulation on 5-HT1A receptors in TRD,EXCLUDE,non-pharma,0.90,Austrian RCT of TBS for TRD; non-pharma
+10194,Variables Associated With Body Image Concerns in Acromegaly Patients,EXCLUDE,non-MH,0.95,Chinese cross-sectional study; not RCT of pharma
+10195,Effectiveness and cost-effectiveness of a guided internet-based depression intervention for chronic back pain: protocol,EXCLUDE,non-pharma,0.90,German RCT protocol of internet depression intervention; non-pharma
+10196,Integrated Yoga Practice in Cardiac Rehabilitation Program,EXCLUDE,non-pharma,0.95,Indian RCT of yoga in cardiac rehab; non-pharma
+10197,Adjunctive low-dose docosahexaenoic acid (DHA) for major depression: An open-label pilot trial,EXCLUDE,non-Canadian,0.85,Australian open-label pilot of DHA for MDD; not RCT; non-Canadian
+10198,The Impact of Hormonal Contraceptive Use on Serotonergic Neurotransmission and Antidepressant Treatment Response,EXCLUDE,non-Canadian,0.90,Danish NeuroPharm1 study of escitalopram; non-Canadian
+10199,Assessment of anxiety depression and serum cortisol level in oral submucous fibrosis patients,EXCLUDE,non-MH,0.95,Indian cross-sectional study of OSMF; not MH pharma RCT
+10200,100000 lumens to treat seasonal affective disorder: A proof of concept RCT of BROAD light therapy,EXCLUDE,non-pharma,0.90,German RCT of BROAD light therapy for SAD; non-pharma
+10201,Accelerated intermittent theta burst stimulation in major depression induces decreases in modularity,EXCLUDE,non-pharma,0.95,Belgian RCT of aiTBS for TRD; non-pharma
+10202,Detecting Critical Decision Points during CBT and Light Therapy for Winter Depression,EXCLUDE,non-pharma,0.95,US secondary analysis of CBT vs light therapy RCT; non-pharma
+10203,Antidepressant effects of ketamine and ECT: A pilot comparison,EXCLUDE,non-Canadian,0.95,Indian RCT of ketamine vs ECT; non-Canadian
+10204,Trastuzumab Deruxtecan (Enhertu): CADTH Reimbursement Recommendation,EXCLUDE,non-MH,0.95,Canadian CADTH recommendation for breast cancer drug; not MH
+10205,The effectiveness of MBCT for reducing rumination and improving mindfulness and self-compassion in patients with TRD,EXCLUDE,non-pharma,0.90,Iranian quasi-experimental study of MBCT; non-pharma; non-Canadian
+10206,High-Frequency External Muscle Stimulation Reduces Depressive Symptoms in Older Male Veterans,EXCLUDE,non-pharma,0.90,Taiwanese RCT of muscle stimulation for LLD; non-pharma; non-Canadian
+10207,SUPPORTING OPTIMAL AGING OF OLDER PERSONS WITH MULTIPLE CHRONIC CONDITIONS AND THEIR FAMILIES,EXCLUDE,non-pharma,0.85,Canadian symposium abstract (CIHR-funded); includes pragmatic RCTs but not pharma for diagnosed MH

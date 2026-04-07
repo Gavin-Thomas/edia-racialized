@@ -1,0 +1,159 @@
+RECORD: #98
+PMID: 34303786
+PMCID: PMC8782920
+TITLE: Micronutrients for Attention-Deficit/Hyperactivity Disorder in Youth: A Placebo-Controlled Randomized Clinical Trial
+AUTHORS AND AFFILIATIONS:
+- Jeanette M Johnstone, PhD: Oregon Health & Science University, Portland; National University of Natural Medicine, Helfgott Research Institute, Portland, Oregon
+- Irene Hatsu, PhD, RD: Ohio State University, Columbus
+- Gabriella Tost, BA: Oregon Health & Science University, Portland
+- Priya Srikanth, MPH: OHSU-Portland State University School of Public Health, Oregon
+- Leanna P Eiterman, PhD: Ohio State University, Columbus
+- Alisha Bruton, ND, MS: Oregon Health & Science University, Portland
+- Hayleigh K Ast, ND: Oregon Health & Science University, Portland
+- Lisa M Robinette, MS: Ohio State University, Columbus
+- Madeline M Stern, MS: Ohio State University, Columbus
+- Elizabeth G Millington, MC: University of Lethbridge, Alberta, Canada
+- Barbara Gracious, MD: Ohio State University, Columbus; Orange Park Medical Center, Florida; Edward Via College of Osteopathic Medicine, Spartanburg, South Carolina
+- Andrew J Hughes, MD: Oregon Health & Science University, Portland
+- Brenda MY Leung, PhD: University of Lethbridge, Alberta, Canada
+- L Eugene Arnold, MD, Med: Ohio State University, Columbus
+TRIAL REGISTRATION: NCT03252522 (Micronutrients for ADHD in Youth [MADDY] Study)
+FUNDING: The study was funded through private donations to the Nutrition and Mental Health Research Fund, managed by the Foundation for Excellence in Mental Health Care (FEMHC), plus a direct grant from FEMHC, and from the Gratis Foundation. Authors also received support from the National Institutes of Health (NIH) National Center for Complementary and Integrative Health (NCCIH) 5R90AT00892403 to the National University for Natural Medicine, NIH-NCCIH T32 AT002688 to Oregon Health & Science University (OHSU); the National Center for Advancing Translational Sciences of the NIH, UL1TR000128, UL1TR002369; 8UL1TR000090-05 at OHSU and Ohio State University; OHSU's Department of Child and Adolescent Psychiatry; the Department of Behavioral Health and Psychiatry and the Research Institute at Nationwide Children's Hospital, the Department of Psychiatry and Behavioral Health as well as the Department of Human Sciences at Ohio State University. Dr. Gracious received support from the Jeffrey Fellowship. In Canada, funding was received through the Nutrition and Mental Health Fund, administered by the Calgary Foundation. Dr. Leung is supported by the Emmy Droog Chair in Complementary and Alternative Healthcare.
+
+METHODS:
+
+Trial Design:
+The Micronutrients for ADHD in Youth (MADDY) Study used an eight-week, fully-blinded [children, parents, study staff, primary investigators (PI)] design in which participants at three sites were randomized to multinutrient or placebo groups in a 3:2 ratio. This ratio, with greater likelihood of active treatment, was selected to encourage enrollment. The study was approved by Institutional Review Boards at Oregon Health & Science University (OHSU) (#16870) and The Ohio State University (OSU) (#2017H0188), the Conjoint Health Research Ethics Board at University of Calgary (#17-0325) for the University of Lethbridge; the US Food and Drug Administration (FDA IND#127832 to Dr. Gracious), and Health Canada (Control #207742). It was registered prospectively with the National Clinical Trials Registry: NCT03252522.
+
+Participants:
+Families were recruited at the three sites through children's hospitals, referrals from pediatricians and mental health providers, social media websites (e.g. Facebook) and school districts (Peachjar.com). For inclusion, children had to: 1) be 6-12 years old; 2) be willing/able to swallow 9-12 capsules per day with food and attend all study appointments; 3) meet Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5) criteria for ADHD as assessed by parent reports on the CASI-5 ADHD questions using a threshold of 6 or more symptoms scored 2 or 3, ("often" or "very often,") (or sufficient "sometimes" responses, scored 0.5, to meet a count of 6), with symptoms present in more than one setting and significant functional impairment; 4) display at least one symptom of irritability or anger as assessed by a score of 2 or 3 ("often" or "very often"), or two "sometimes" responses from the CASI-5 Oppositional Defiant Disorder (ODD) or Disruptive Mood Dysregulation Disorder (DMDD) subscales; 5) be psychotropic medication-free for at least 2 weeks prior to in-person baseline assessment; and 6) be willing to give blood samples at baseline and week 8 at the two United States sites. Concomitant nutritional supplementation was permitted only if the supplement did not contain ingredients in the active intervention. Other treatments, such as occupational therapy or counselling, were permitted and recorded.
+
+Exclusion criteria were based on parent report of: 1) a neurological disorder involving central function (e.g., intellectual disability, autism spectrum disorder, epilepsy, narcolepsy) or another major psychiatric condition requiring hospitalization (e.g. significant mood disorder, active suicidal ideation, or psychosis); 2) any serious medical condition, such as inflammatory bowel disease, history of cancer, kidney or liver disease, hyperthyroidism, or diabetes; 3) known allergy to any ingredient in either intervention; 4) any known abnormality of mineral metabolism (Wilson's disease, hemochromatosis); 5) currently taking any other medication with primary central nervous system activity, including stimulants, or having taken any within two weeks prior to enrollment; 6) severe anxiety preventing separation from parent to answer study questionnaires; 7) any disability that would interfere with participant answering questions verbally; 8) non-English-speaking; 9) being pregnant or sexually active.
+
+Parents completed a phone screen with a research assistant, who described the study purpose, procedures, risks and benefits; assessed willingness to participate, and determined eligibility. If eligible based on parent responses, the parent was emailed a REDCap link to complete the CASI-5 eligibility questions, comprised of the ADHD, ODD, and DMDD symptom and impairment subscales. Study PIs at each site reviewed and discussed phone screen data for questionable cases and reached consensus on eligibility by cross-site teleconference. At the baseline visit, parents provided written informed consent; children provided verbal and written assent.
+
+Interventions:
+The active intervention (micronutrients) consisted of capsules containing a blend of ingredients comprised of all vitamins and known essential minerals, plus amino acids and antioxidants. Nine to 12 capsules/day accumulated to doses above the Recommended Dietary Allowance (RDA), but below the Upper Tolerable Intake Level (UL). The formula, Daily Essential Nutrients, was developed and provided without cost by Hardy Nutritionals (Raymond, Alberta, Canada; www.hardynutritionals.com). Hardy Nutritionals also provided visually identical capsules for placebo containing cellulose filler and 0.1 mg of riboflavin per capsule to mimic the color of urine as when supplemented with B-vitamins. To reduce the characteristic smell of vitamins and minerals, micronutrient bottles contained vanilla-scented desiccants, while the placebo bottles contained desiccants that had previously been stored with micronutrients, providing a mild vitamin/mineral scent in the bottle.
+
+Randomization:
+Prior to study initiation, an OHSU statistician, not associated with the study or data analysis, generated the randomization sequence spreadsheet using R (http://cran.r-project.org), arranged in permuted blocks of 5 to correspond with the 3:2 ratio of active to placebo. Unblinded site collaborators who had no contact with participants received the spreadsheet and prepared sequentially numbered capsule kits in accordance with the randomization sequence. The study team had no access to the randomization code.
+
+Blinding and Dosing:
+To maintain blinding, the sequentially numbered capsule kits were provided in a closed plain paper bag and included: A) a seven-day pill caddy, with each day divided into three sections, ramping up to the first week's full dose, B) bottles with capsules sufficient for the rest of the four-week period, and C) five days' extra capsules in case of a delayed 4-week visit. The parent was shown a sample pill caddy and instructed to give the child capsules with food, starting with one capsule three times daily (t.i.d.) on days one and two, two capsules t.i.d on days three and four, and three capsules t.i.d for the remaining four weeks. At four weeks, there was an option to escalate to 4 capsules t.i.d. for children over age 9, if there were neither side effects nor sufficient improvement. To stay within UL range, the maximum dosage was nine capsules for 6-to-9-year-olds. Those unable to tolerate nine capsules per day could decrease to six after study team review of reasons for intolerance (e.g., difficulty swallowing or possible transient side effects). At the end of the 8-week trial, parent, child, and study staff reported whether they thought the child was taking the active supplement or the matching placebo.
+
+Adherence:
+Treatment adherence for per-protocol analyses was calculated from the number of pills returned at each visit, which were counted by research staff not associated with the study. The adherence calculation considered the number of returned capsules, the number dispensed, the number of days between visits, and the assigned dosage per day. Participants included in the per-protocol analysis met the following criteria: 1) completed eight weeks of treatment and attended all visits, 2) took >=80% of the assigned capsules, 3) met full inclusion criteria, including not using medication during the study (e.g. antibiotics, known to alter gut absorption of micronutrients), and 4) had the same parent/caregiver informant at all visits.
+
+Outcome Measures:
+Of the two a priori primary outcome measures, one was the clinician-rated CGI; the other, the parent-rated CASI-5. The CGI is a validated, standard clinical measure with two subscales, assessing symptom severity (CGI-S) and improvement (CGI-I). The CGI-S is rated 1-7 from "normal" to "among the most extremely ill," and the CGI-I is rated 1-7 from "very much improved" to "very much worse."
+
+The dichotomous primary outcome was "treatment responder," defined by a CGI-I of 1 or 2, "very much" or "much" improved. The week 8 CGI-I rating relied on all available data, including a range of behavioral scales and narrative comments from child and parents that were recorded at each visit. The CGI-I, rated only at week 8, along with CGI-S ratings at baseline and week 8, were recorded by trained study staff blinded to treatment allocation. CGI anchor points, as described in Dunlop et al., were used to guide and standardize ratings. All CGIs were reviewed in weekly cross-site phone calls with senior staff, many of whom had no direct contact with the families.
+
+The CASI-5 composite score was derived from subscales measuring: 1) ADHD symptoms, 2) oppositional-defiant (ODD) and dysphoric mood dysregulation disorder (DMDD) symptoms to measure oppositionality/irritability, and 3) the Peer Conflict subscale to measure anger and aggression toward peers, plus 4) impairment for each syndrome. The composite score was the mean of item means of the symptom and impairment scores. To assess response, the CGI-I was rated after the week 8 visit; the CASI-5 was completed at baseline and week 8 by a parent and a teacher or other adult who knew the child well and by the parent at week 4.
+
+Safety:
+The Pediatric Adverse Events Rating Scale (PAERS) established criteria for an adverse event (AE) based on parent responses to 43 symptom questions asked by study staff. If a symptom was present and new or increased in severity, the parent provided details including the level of severity and impairment, and staff completed an AE record to aid the site clinician in determining the symptom's clinical or medical severity and whether it was related to the study's treatment with options: "unrelated," "unlikely," "possibly," "probably," or "definitely" related; and what action, if any, needed to be taken. PAERS data were collected at baseline, week 4, and week 8, as requested by the FDA in the interest of standardizing reporting of AEs in pediatric clinical trials. A data safety monitoring board, comprised of one member from each institution who was not involved with the study, met via videoconference every three-to-six months to review recruitment, enrollment, and adverse events and ensure procedural consistency and participant safety.
+
+Biological Samples:
+At baseline and week 8, participants in the US provided fasting blood and urine to identify contraindications to study participation or subsequent AEs. Safety labs included complete blood count, comprehensive metabolic panel, thyroid, iron, and urinalysis. Such tests were not required by Health Canada. Samples were also frozen for future mechanistic analyses.
+
+Biometric Data Collection:
+Anthropometric measures were assessed for each participant while they wore light clothing without shoes. Height was measured to the nearest 0.1 centimeter using a stadiometer with an adjustable headpiece. Weight was measured to the nearest 0.1 kg using a calibrated digital scale. Body mass index (BMI) was calculated from the height and weight measures. Participants' systolic and diastolic blood pressures were measured as follows: participants sat in a chair with back straight, legs and arms uncrossed, and feet flat on the floor for about 5 minutes; blood pressure was then measured via a digital wrist cuff for participants at OHSU, and a digital upper arm cuff for participants in Ohio and Canada.
+
+Data Management:
+Data were collected and managed using the Research Electronic Data Capture (REDCap) software, hosted at OHSU. REDCap provides a secure, web-based platform designed to support data capture for research studies.
+
+Sample Size:
+For power = 0.8, with a two-tailed alpha = 0.05 and a 3:2 randomization ratio, 123 participants were needed to detect an effect of d>=0.6, based on the effect size from a similar RCT population and intervention with a parent-rated primary outcome measure that is a composite of the CASI-5 subscale scores. Given three sites and two treatments in a 3:2 ratio, we needed a number divisible by 15. Assuming two dropouts per arm per site, based on a previous similar study, 135 participants (45 per site) needed to be randomized with 123 retained.
+
+Statistical Methods:
+To provide descriptive baseline comparisons between the micronutrient and placebo groups, we used two-sample t-tests with equal variances (or unequal variances if ratio of standard deviations >2) for continuous variables and Pearson's chi-square or Fisher's exact test (if expected counts <5) for categorical variables. We tested a site-by-visit-by-treatment interaction to determine whether there were significant site differences. We used log-binomial regression to estimate the risk ratio of CGI-I after adjusting for site. We used last observation carried forward from week 4, if week 8 data were missing, to inform CGI-I rating. We examined associations between groups and change in CGI-S by categorizing as 'severity reduced' (>=1 category lower), 'remained the same,' or 'severity worsened' (>=1 category higher). We used linear mixed-effects modeling to model the CASI composite score, safety labs, and biometric data to account for the within-subject correlation with a random effect for site (if the site-by-visit-by-treatment interaction was not significant), a visit-by-treatment interaction term, and an adjustment for the baseline value. A Bonferroni-corrected alpha of 0.025 was used for statistical significance for the two primary outcomes to maintain the overall Type I error rate of 0.05. All analyses were conducted using STATA, Release 15, College Station, TX.
+
+RESULTS:
+
+Recruitment and Participants:
+Of 384 participants screened, 135 were randomized; 126 (93%) had a post-baseline assessment and comprise the modified ITT population. Data are presented for total participants, as the site-by-time-by-treatment and sex-by-time-by-treatment interactions were not significant (p=0.32-0.80).
+
+Participants enrolled April 2018 through January 2020. At OHSU and Ohio, all visits were completed in person, prior to COVID-19. Because of COVID shutdown, seven Canadian participants completed their week 8 visits by telephone in April 2020.
+
+The demographic and baseline clinical characteristics of the participants were well matched between treatment groups; 72% had a formal ADHD diagnosis by a clinician prior to enrollment. Marginally more participants in the placebo group than in the micronutrient group had asthma (18% vs 7%, p=0.06). On the CGI-Severity (CGI-S) scale, 56% of the participants were rated "moderately ill" at baseline; 43% percent were rated "markedly" or "severely ill."
+
+Baseline Demographics (Table 1, N=126):
+- Mean age: 9.8 years (SD 1.7)
+- Sex: 73% male (92/126)
+- Race: 88% White (105/126), 3% Asian, 3% African American/Black, 6% Other (including American Indian/Native American or Alaska Native, Metis, Native Hawaiian/Pacific Islander)
+- Ethnicity: 85% Not Hispanic/Latino, 8% Hispanic/Latino, 7% Other
+- Parent marital status: 79% Married, 12% Divorced, 9% Single
+- Parent education: 16% High school, 23% Technical college/trade school, 61% University or higher
+- Family income: 10% <=30K, 22% >30K-<=60K, 11% >60K-<=80K, 58% >80K
+- Previous ADHD diagnosis: 72%
+- Past stimulant use: 39%
+- Comorbidities: Generalized Anxiety Disorder 65%, Anxiety 50%, Manic symptoms 30%, Autism Spectrum 29%, Separation anxiety 15%, Nocturnal Enuresis 17%, Enuresis/Encopresis 18%, Major Depressive Episode 4%
+
+Blinding:
+Correct guesses about treatment assignment were not significantly different from chance: children guessed correctly 51% of the time, parents 63%, and research assistants 67%.
+
+Primary Outcomes:
+Using ITT data with N=126 (n=71 in micronutrient group, n=55 in placebo), participants in the micronutrient group were 3 times as likely to be treatment responders as those in the placebo group, 54% vs 18%, based on blinded CGI-I ratings (Risk Ratio: 2.97; 97.5% CI: 1.5, 5.9, p<0.001) after adjusting for (non-significant) site differences. No significant between-group differences were found on the parent-rated CASI-5 composite score (p=0.70); both groups improved in all subscales (p<0.01). On individual CASI-5 subscales, a DMDD trend favored micronutrients (-0.42) over placebo (-0.22) in symptom reduction (p=0.09). A sensitivity analysis of ODD questions specific to irritability/anger showed a non-significant tendency favoring micronutrients: -0.44 versus -0.28 (p=0.11). Per-protocol adherence criteria were met by 74% (N=93) of participants: 75% in placebo vs 73% in micronutrient group. CGI-I between-group differences remained significant in per-protocol analyses (p=0.003), with no significant difference between groups for the CASI-5.
+
+Secondary Outcomes:
+The illness severity of three participants who received placebo worsened by one category on the CGI-S, while none worsened in the micronutrient group; 56% of participants in the micronutrient group vs 22% in the placebo group had illness severity reduced by at least one category on the CGI-S, p<0.001.
+
+Based on other adult/teacher-rated CASI subscales, the only significant between-group difference was on the Peer Conflict subscale, which was 0.13 points lower for micronutrients than placebo (95% CI: -0.26, -0.01), p=0.04, d=0.16. Four other subscales showed significant improvement in both groups, p<0.05; all subscales were significantly improved in the micronutrient group: all ps<0.01.
+
+Safety Outcomes:
+No concerning blood or urine values were detected. One child on placebo had aspartate aminotransferase (AST) and alanine transaminase (ALT) values above reference range at baseline that fell to within range after intervention; four children on micronutrients had elevated AST (48-58 U/L) and ALT (52-99 U/L) values after intervention (not clinically significant).
+
+During the 8 weeks, participants in the micronutrient group (N=67) grew 6 millimeters more on average than those in the placebo group (N=55) (p=0.002), d=1.15. At baseline, height between the two intervention groups was not significantly different (p=0.34). To rule out possible rebound from previous stimulant use as an explanation of the significant micronutrient height gain, we checked the triple interaction of treatment arm (micronutrient vs placebo)*visit (baseline vs week 8)*stimulant (used prior to study vs not used). This triple interaction was not significant (p=0.37). There was no between-group difference in weight change across time (p=0.95), but the between-group difference in body mass index (BMI) was trending (p=0.08) with the placebo group increasing in BMI by 0.19.
+
+Adverse Events:
+No between-group differences for treatment-emergent adverse events (AEs) were detected. Rated by the site clinician as possibly, probably, or likely attributable to the treatment, 32% in the micronutrient group reported at least one attributable AE compared to 45% in the placebo group (p=0.13). No between-group differences for overall number of AEs were detected regardless of attribution: 72.5% of participants in the micronutrient group versus 71.7% in the placebo groups reported at least one AE (p=0.93). None were serious.
+
+EDIA/EQUITY REPORTING:
+
+Race/Ethnicity:
+- Race reported in Table 1: 88% White (105/126), 3% Asian (3/126), 3% African American/Black (4/126), 6% Other (7/126) including American Indian/Native American or Alaska Native, Metis, Native Hawaiian/Pacific Islander
+- Ethnicity: 85% Not Hispanic/Latino, 8% Hispanic/Latino, 7% Other
+- No significant differences between treatment groups reported for race or ethnicity
+- Race/ethnicity was NOT used as a covariate or stratification variable
+
+Sex/Gender:
+- Sex reported: 73% male (92/126), with 79% male in micronutrient group vs 65% male in placebo group
+- Sex-by-time-by-treatment interaction tested and found not significant (p=0.32-0.80)
+- Sex was NOT used as a stratification variable in randomization
+
+Age:
+- Mean age 9.8 years (SD 1.7), range 6-12 years (inclusion criterion)
+
+Socioeconomic Status/Income:
+- Family household income reported in 4 categories: <=30K (10%), >30K-<=60K (22%), >60K-<=80K (11%), >80K (58%)
+
+Education (Parental):
+- Parent education: High school 16%, Technical college/trade school 23%, University or higher 61%
+
+Marital Status/Family Structure:
+- Parent marital status: Married 79%, Divorced 12%, Single 9%
+
+Disability/Neurodevelopmental Status:
+- Comorbid conditions reported: Autism Spectrum 29%, Learning Disabilities not separately reported
+- Exclusion criteria included intellectual disability, autism spectrum disorder, epilepsy, narcolepsy
+- After study completion, two children were found to have previously undiagnosed fetal alcohol spectrum disorder, and another was later diagnosed with autism; all three were in the micronutrient group and were rated as responders
+
+Language:
+- Exclusion criterion: non-English-speaking
+
+Place of Residence:
+- Three sites: Portland, Oregon (OHSU); Columbus, Ohio (OSU); Lethbridge, Alberta, Canada (University of Lethbridge)
+
+CANADIAN INVOLVEMENT:
+
+Canadian Site: University of Lethbridge, Alberta, Canada
+Canadian Authors:
+- Elizabeth G Millington, MC (University of Lethbridge)
+- Brenda MY Leung, PhD (University of Lethbridge) - held significant research roles including conceptualization, data curation, funding acquisition, investigation, methodology, resources, and supervision
+Canadian Ethics Approval: Conjoint Health Research Ethics Board at University of Calgary (#17-0325) for the University of Lethbridge
+Canadian Regulatory Approval: Health Canada (Control #207742)
+Canadian Funding: Nutrition and Mental Health Fund, administered by the Calgary Foundation; Emmy Droog Chair in Complementary and Alternative Healthcare (Dr. Leung)
+Canadian Participants: Seven Canadian participants completed week 8 visits by telephone in April 2020 due to COVID shutdown
+Canadian Intervention Provider: Hardy Nutritionals (Raymond, Alberta, Canada) developed and provided the Daily Essential Nutrients formula without cost
+Note: This is a multinational (US-Canada) trial with one of three sites in Canada. Canadian PI (Dr. Leung) was involved in study conceptualization and leadership but the coordinating center was OHSU in Portland, Oregon.

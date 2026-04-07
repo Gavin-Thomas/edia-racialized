@@ -1,0 +1,35 @@
+RECORD: #102
+PMID: 33641259
+PMCID: PMC8301569
+TITLE: Pharmacogenomics guided versus standard antidepressant treatment in a community pharmacy setting: A randomized controlled trial
+AUTHORS AND AFFILIATIONS:
+- John Papastergiou - University of Toronto; University of Waterloo; Shoppers Drug Mart
+- Lena C Quilty - University of Toronto; Centre for Addiction and Mental Health
+- Wilson Li - Shoppers Drug Mart
+- Thulasi Thiruchselvam - University of Toronto; Centre for Addiction and Mental Health
+- Esha Jain - Centre for Addiction and Mental Health
+- Peter Gove - Green Shield Canada
+- Leilany Mandlsohn - Green Shield Canada
+- Bart van den Bemt - Sint Maartenskliniek (Netherlands); Radboud University Medical Center (Netherlands)
+- Nedzad Pojskic - University of Toronto; Green Shield Canada
+TRIAL REGISTRATION: NCT03591224
+FUNDING: Green Shield Canada, a nonprofit organization, provided operating funds toward study execution.
+
+METHODS:
+A prospective, single-blind randomized controlled design with 213 outpatients diagnosed with major depressive disorder and/or generalized anxiety disorder across three community pharmacies in Ontario. Participants were randomized to pharmacogenomics-guided treatment or standard treatment. Clinical outcomes measured included PHQ-9 (depression), GAD-7 (anxiety), and SDS (disability). Follow-up over 6 months.
+
+RESULTS:
+All clinical outcomes demonstrated significant improvements over the 6-month period. The pharmacogenomics-guided group showed greater improvements in depression (PHQ-9), anxiety (GAD-7), and disability (SDS) compared to standard treatment. Treatment satisfaction improved similarly in both groups.
+
+EDIA/EQUITY REPORTING:
+- Sex/Gender: 159 women, 53 men, 1 unreported (n=213; 74.65% female)
+- Age: Range 18-77 years (M=42.69, SD=14.90)
+- Payment/Socioeconomic: Third-party insurance (n=113), provincial drug coverage (n=69), participant-paid (n=30)
+- Limitations noted: Predominantly female sample; limited power to examine sex as moderator; urban pharmacy settings only
+- Race/ethnicity: Not reported
+
+CANADIAN INVOLVEMENT:
+- Study conducted in Toronto and Oakville, Ontario, Canada
+- Institutions: University of Toronto, University of Waterloo, Shoppers Drug Mart, Centre for Addiction and Mental Health, Green Shield Canada
+- Funding: Green Shield Canada (Canadian nonprofit)
+- Regulatory Context: Ontario Drug Benefit program referenced

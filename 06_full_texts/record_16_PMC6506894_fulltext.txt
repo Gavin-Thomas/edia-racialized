@@ -1,0 +1,857 @@
+JAMA Psychiatry 
+. 2019 May 8;76(8):783–790. doi: 10.1001/jamapsychiatry.2019.0779 
+
+ Search in PMC 
+
+ Search in PubMed 
+
+ View in NLM Catalog 
+
+ Add to search 
+
+Efficacy of Adjunctive Infliximab vs Placebo in the Treatment of Adults With Bipolar I/II Depression
+
+A Randomized Clinical Trial
+
+ Roger S McIntyre 
+
+ Roger S McIntyre , MD 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+ 2 Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada
+
+ 3 Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada
+
+ 4 Department of Pharmacology, University of Toronto, Toronto, Ontario, Canada
+
+Find articles by Roger S McIntyre 
+
+ 1, 2, 3, 4, ✉ , Mehala Subramaniapillai 
+
+ Mehala Subramaniapillai , MSc 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+Find articles by Mehala Subramaniapillai 
+
+ 1 , Yena Lee 
+
+ Yena Lee , HBSc 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+ 2 Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada
+
+Find articles by Yena Lee 
+
+ 1, 2 , Zihang Pan 
+
+ Zihang Pan , HBSc 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+ 2 Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada
+
+Find articles by Zihang Pan 
+
+ 1, 2 , Nicole E Carmona 
+
+ Nicole E Carmona , HBSc 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+Find articles by Nicole E Carmona 
+
+ 1 , Margarita Shekotikhina 
+
+ Margarita Shekotikhina , MD 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+ 5 Department of Psychiatry, University of Ottawa, Ottawa, Ontario, Canada
+
+Find articles by Margarita Shekotikhina 
+
+ 1, 5 , Joshua D Rosenblat 
+
+ Joshua D Rosenblat , MD 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+ 3 Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada
+
+Find articles by Joshua D Rosenblat 
+
+ 1, 3 , Elisa Brietzke 
+
+ Elisa Brietzke , MD, PhD 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+ 6 Department of Psychiatry, Federal University of São Paulo, São Paulo, Brazil
+
+Find articles by Elisa Brietzke 
+
+ 1, 6 , Joanna K Soczynska 
+
+ Joanna K Soczynska , PhD 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+Find articles by Joanna K Soczynska 
+
+ 1 , Victoria E Cosgrove 
+
+ Victoria E Cosgrove , PhD 
+
+ 7 Department of Psychiatry & Behavioral Sciences, Stanford University, School of Medicine, Palo Alto, California
+
+Find articles by Victoria E Cosgrove 
+
+ 7 , Shefali Miller 
+
+ Shefali Miller , MD 
+
+ 7 Department of Psychiatry & Behavioral Sciences, Stanford University, School of Medicine, Palo Alto, California
+
+Find articles by Shefali Miller 
+
+ 7 , Eileen Grace Fischer 
+
+ Eileen Grace Fischer , BSc 
+
+ 7 Department of Psychiatry & Behavioral Sciences, Stanford University, School of Medicine, Palo Alto, California
+
+Find articles by Eileen Grace Fischer 
+
+ 7 , Nicole E Kramer 
+
+ Nicole E Kramer , MSc 
+
+ 7 Department of Psychiatry & Behavioral Sciences, Stanford University, School of Medicine, Palo Alto, California
+
+Find articles by Nicole E Kramer 
+
+ 7 , Kiley Dunlap 
+
+ Kiley Dunlap , MSc 
+
+ 7 Department of Psychiatry & Behavioral Sciences, Stanford University, School of Medicine, Palo Alto, California
+
+Find articles by Kiley Dunlap 
+
+ 7 , Trisha Suppes 
+
+ Trisha Suppes , MD, PhD 
+
+ 7 Department of Psychiatry & Behavioral Sciences, Stanford University, School of Medicine, Palo Alto, California
+
+Find articles by Trisha Suppes 
+
+ 7 , Rodrigo B Mansur 
+
+ Rodrigo B Mansur , MD, PhD 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+ 3 Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada
+
+Find articles by Rodrigo B Mansur 
+
+ 1, 3 
+
+ Author information 
+
+ Article notes 
+
+ Copyright and License information 
+
+ 1 Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, Ontario, Canada
+
+ 2 Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada
+
+ 3 Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada
+
+ 4 Department of Pharmacology, University of Toronto, Toronto, Ontario, Canada
+
+ 5 Department of Psychiatry, University of Ottawa, Ottawa, Ontario, Canada
+
+ 6 Department of Psychiatry, Federal University of São Paulo, São Paulo, Brazil
+
+ 7 Department of Psychiatry & Behavioral Sciences, Stanford University, School of Medicine, Palo Alto, California
+
+ Accepted for Publication: January 23, 2019.
+
+ ✉ 
+ Corresponding Author: Roger S. McIntyre, MD, Mood Disorders Psychopharmacology Unit, University Health Network, 399 Bathurst St, Toronto, ON M5T 2S8, Canada ( roger.mcintyre@uhn.ca ).
+
+ Published Online: May 8, 2019. doi: 10.1001/jamapsychiatry.2019.0779 
+
+ Author Contributions: Dr McIntyre had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+
+ Concept and design: McIntyre, Lee, Shekotikhina, Rosenblat, Brietzke, Soczynska, Suppes, Mansur.
+
+ Acquisition, analysis, or interpretation of data: McIntyre, Subramaniapillai, Lee, Pan, Carmona, Shekotikhina, Rosenblat, Brietzke, Cosgrove, Miller, Fischer, Kramer, Dunlap, Suppes, Mansur.
+
+ Drafting of the manuscript: McIntyre, Subramaniapillai, Lee, Pan, Shekotikhina, Soczynska, Miller, Fischer, Suppes, Mansur.
+
+ Critical revision of the manuscript for important intellectual content: McIntyre, Subramaniapillai, Lee, Pan, Carmona, Shekotikhina, Rosenblat, Brietzke, Soczynska, Cosgrove, Kramer, Dunlap, Suppes, Mansur.
+
+ Statistical analysis: McIntyre, Lee, Pan, Shekotikhina, Rosenblat, Brietzke, Mansur.
+
+ Obtained funding: McIntyre, Soczynska.
+
+ Administrative, technical, or material support: McIntyre, Subramaniapillai, Lee, Pan, Carmona, Shekotikhina, Rosenblat, Brietzke, Soczynska, Cosgrove, Miller, Fischer, Dunlap, Mansur.
+
+ Supervision: McIntyre, Subramaniapillai, Shekotikhina, Rosenblat, Cosgrove, Suppes.
+
+ Conflict of Interest Disclosures: Dr McIntyre reported receiving grants from Stanley Medical Research Institute during the conduct of the study; receiving grants from the Canadian Institutes of Health Research/Global Alliance for Chronic Diseases/Chinese National Natural Research Foundation outside the submitted work; and receiving speaking/consultation fees from Lundbeck, Janssen, Shire, Purdue, Pfizer, Otsuka, Allergan, Takeda, Neurocrine, Sunovion, and Minerva outside the submitted work. Ms Subramaniapillai reported receiving grants from Stanley Medical Research Institute during the conduct of the study. Dr Brietzke reported receiving personal fees from Daiichi Sankyo and receiving grants from Conselho Nacional de Desenvolvimento Cientifico e Tecnológico, Sãn Paulo Research Foundation, Coordenação de Aperfeicoamento de Pessoal de Nível Superior (CAPES), and L’Oreal for Women in Science Award outside the submitted work. Dr Suppes reported receiving grants from Stanley Medical Research Institute during the conduct of the study and from the National Institute on Drug Abuse, the National Institutes of Health, National Institute of Mental Health, Palo Alto Health Sciences, Pathway Genomics, and VA Cooperative Studies Program; receiving personal and nonfinancial support from CMEology, Global Medical Education, and Sunovion Pharmaceuticals Inc; and receiving personal fees from Allergan Inc, Hogrefe Publishing, Jones and Bartlett, Medscape Education, and UpToDate. Dr Miller reported receiving grants from Stanley Medical Research Institute during the conduct of the study and from Merck & Co and Sunovion outside the submitted work. No other disclosures were reported.
+
+ Funding/Support: This study was supported by grant 13T-012 from the Stanley Medical Research Institute.
+
+ Role of the Funder/Sponsor: The Stanley Medical Research Institute had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+ Data Sharing Statement: See Supplement 3 .
+
+ ✉ 
+Corresponding author.
+
+Received 2018 Sep 21; Accepted 2019 Jan 23; Issue date 2019 Aug.
+
+Copyright 2019 American Medical Association. All Rights Reserved.
+
+ PMC Copyright notice 
+
+PMCID: PMC6506894  PMID: 31066887 
+
+See commentary " Biomarker-Guided Anti-inflammatory Therapies: From Promise to Reality Check. " with doi: 10.1001/jamapsychiatry.2019.0673.
+
+This randomized clinical trial compares the efficacy of infliximab therapy vs placebo in improving depressive symptoms among adults with bipolar depression in Canada and the United States.
+
+Key Points
+
+Question
+
+What is the efficacy of tumor necrosis factor–antagonist infliximab in the treatment of bipolar depression?
+
+Findings
+
+This randomized clinical trial replicates a previous study indicating that infliximab is not significantly more efficacious compared with placebo for improving depressive symptoms in adults with a mood disorder.
+
+Meaning
+
+Infliximab therapy is not efficacious at improving depressive symptoms in patients with bipolar depression.
+
+Abstract
+
+Importance
+
+To our knowledge, no study has previously evaluated whether individuals with bipolar depression enriched a priori on the basis of biochemical and/or phenotypic immuno-inflammatory activation would differentially respond to an anti-inflammatory agent for the treatment of depressive symptoms.
+
+Objective
+
+To assess the antidepressant efficacy of adjunctive infliximab, a monoclonal antibody targeting tumor necrosis factor, in adults with bipolar I and bipolar II depression and inflammatory conditions.
+
+Design, Setting, and Participants
+
+This 12-week, randomized, double-blind, placebo-controlled, parallel-group trial of 60 participants was conducted at 2 outpatient tertiary care sites in Canada and the United States. Eligible adults (aged 18-65 years) met DSM-5 –defined criteria for bipolar I or bipolar II depression and exhibited pretreatment biochemical and/or phenotypic evidence of inflammatory activation. Participants were enrolled between October 1, 2015, and April 30, 2018. Data analysis was performed from May 1 through July 31, 2018, using modified intent-to-treat analysis.
+
+Interventions
+
+Patients were randomized to receive 3 intravenous infusions of infliximab therapy or placebo at baseline and at weeks 2 and 6 of the 12-week study.
+
+Main Outcomes and Measures
+
+The primary efficacy outcome was baseline-to–end point (ie, week-12) change in Montgomery-Asberg Depression Rating Scale (MADRS) total score. History of childhood maltreatment, as assessed by the Childhood Trauma Questionnaire, was used for exploratory analyses as 1 of several secondary outcomes.
+
+Results
+
+A total of 60 participants were randomized to infliximab (n = 29 [48%]; mean [SD] age, 45.0 [11.7] years; 20 of 28 female [71%]) or to placebo (n = 31 [52%]; mean [SD] age, 46.8 [10.2] years; 26 of 30 female [87%]) across study sites. Overall baseline-to–end point change in MADRS total score was observed across treatment × time interaction (χ 2  = 10.33; P  = .04); reduction in symptom severity was not significant at week 12 (relative risk, 1.09; 95% CI, 0.80-1.50; df =  1; P  = .60). As part of a secondary analysis, a significant treatment × time × childhood maltreatment interaction was observed in which infliximab-treated individuals with childhood history of physical abuse exhibited greater reductions in MADRS total score (χ 2  = 12.20; P  = .02) and higher response rates (≥50% reduction in MADRS total score) (χ 2  = 4.05; P  = .04).
+
+Conclusions and Relevance
+
+Infliximab did not significantly reduce depressive symptoms compared with placebo in adults with bipolar depression. Results from secondary analyses identified a subpopulation (ie, those reporting physical and/or sexual abuse) that exhibited a significant reduction in depressive symptoms with infliximab treatment compared with placebo.
+
+Trial Registration
+
+ClinicalTrials.gov identifier: NCT02363738 
+
+Introduction
+
+Depressive symptoms and episodes dominate the course of bipolar disorder types I/II and disproportionately account for morbidity and mortality. 1 No existing treatment approved by the US Food and Drug Administration for bipolar disorder has been developed using an a priori disease model. The relatively high rate of negative and failed trials in bipolar depression, as well as the variable response to existing treatments, implicates distinct biotypes within heterogeneous populations with bipolar disorders. 2 Subgrouping heterogeneous populations into those with similar phenotypic and biosignature characteristics may identify groups more (or less) likely to respond to select agents.
+
+Convergent and replicated evidence implicates immuno-inflammatory disturbances during the onset, phenomenology, comorbidity, and treatment response in bipolar disorder. 3 , 4 The sources of immuno-inflammatory activation in bipolar disorder are multifactorial (eg, epigenetic modification, intrinsic physiologic alterations in bipolar disorder, and exposure to early childhood adversity). 5 Interventional studies and meta-analytic reviews have reported that disparate anti-inflammatory agents have variable antidepressant effects in adults with unipolar and bipolar depressive disorders. 6 , 7 These variable effects suggest that select anti-inflammatory agents may be differentially efficacious in a subset of individuals with bipolar disorder who are exhibiting proinflammatory balance.
+
+A previous randomized, double-blind, placebo-controlled, proof-of-concept clinical trial evaluating the antidepressant efficacy of infliximab, a tumor necrosis factor (TNF) antagonist, in adults with major depressive disorder and bipolar disorder did not identify any significant differences between infliximab- and placebo-treated patients on a measure of depressive symptom severity at 12 weeks. 8 A post hoc analysis, however, revealed a significant antidepressant effect in favor of infliximab among individuals exhibiting pretreatment C-reactive protein (CRP) levels of 5 mg/L or higher (to convert CRP to nanomoles per liter, multiply by 9.524). 8 The foregoing observation accords with the notion of a possible inflammatory biotype that is more likely to respond to an on-target anti-inflammatory treatment. 9 To our knowledge, no study has previously evaluated whether individuals with bipolar disorder enriched a priori on the basis of biochemical and/or phenotypic immuno-inflammatory activation would differentially respond to an anti-inflammatory agent for the treatment of depressive symptoms.
+
+ We sought to determine whether adults with bipolar disorder I/II depression who have biochemical and/or phenotypic evidence of immuno-inflammatory activation before randomization would be more likely to show an antidepressant response to infliximab compared with placebo.
+
+Methods
+
+Study Design
+
+This study was conducted at 2 tertiary outpatient centers: the Mood Disorders Psychopharmacology Unit (MDPU), University Health Network, in Toronto, Ontario, Canada, and the Department of Psychiatry and Behavioral Sciences, School of Medicine, Stanford University, in Palo Alto, California. This 12-week, randomized, double-blind, placebo-controlled, parallel-group, fixed-dose clinical trial evaluated the efficacy, safety, and tolerability of adjunctive infliximab for the treatment of individuals with DSM-5 –defined bipolar disorder I/II depression who met inflammatory criteria. The study was approved by the Institutional Ethics Board at the University Health Network and Stanford University. All participants provided written informed consent after receiving a complete description of the study (trial protocol in Supplement 1 ). Data were collected from May 1, 2018, through July 31, 2018. Data analysis was performed from May 1, 2018, through July 31, 2018, using modified intent-to-treat analysis.
+
+Participants
+
+Eligible participants were outpatients (aged 18-65 years) with bipolar disorder meeting DSM-5 criteria for a current major depressive episode. The Mini-International Neuropsychiatric Interview 5.0.0 for DSM-IV-TR and Structured Clinical Interview for DSM-5 were used to confirm bipolar disorder diagnoses and screen for a mixed features specifier. Eligibility criteria included total scores of 22 or higher on the Montgomery-Asberg Depression Rating Scale (MADRS) and total scores lower than 12 on the Young Mania Rating Scale; receipt of at least 2 treatments for bipolar disorder for an index episode for a minimum of 4 weeks before randomization; no changes in medication regimen 4 weeks preceding randomization and throughout the study; and for women with childbearing potential, a negative pregnancy test result (ie, human chorionic gonadotropin blood test) and use of adequate birth control (eg, abstinence, oral contraceptive medications, intrauterine device, barrier method with spermicide, or surgical sterilization) throughout the study and for 6 months after the last study dose. Participants were not excluded based on their past or current psychiatric medication use or the presence of mixed features (in association with Young Mania Rating Scale <12).
+
+Participants were required to meet 1 of the following biochemical or phenotypic inflammatory criteria at baseline: CRP of 5 mg/L or more; obesity (ie, ethnicity-specific waist circumference or body mass index [BMI] ≥30 [calculated as weight in kilograms divided by height in meters squared]) and increased triglyceride levels, decreased high-density lipoprotein cholesterol level, or elevated blood pressure; type 1 or 2 diabetes; inflammatory bowel disorder; rheumatologic disorder; daily cigarette smoking; or migraine headaches 10 , 11 , 12 ( Box ). The rationale for selecting the foregoing conditions (a proxy of immune-inflammatory activation) is provided by replicated evidence indicating that each of these foregoing conditions is highly associated with a proinflammatory balance. 14 
+
+Box. Biochemical or Phenotypic Inflammatory Criteria at Baseline for Eligibility.
+
+Biochemical criteria
+
+Peripheral C-reactive protein level ≥5 mg/L
+
+Phenotypic criteria
+
+Obesity (ethnicity-specific waist circumference a or BMI ≥30) and at least 1 of the following:
+
+Triglyceride levels 150 mg/dL or specific treatment for this lipid abnormality
+
+HDL cholesterol level 40 mg/dL for men and 50 mg/dL for women
+
+Hypertension defined as systolic blood pressure ≥130 mm Hg, diastolic pressure ≥85 mm Hg, or treatment of previously diagnosed hypertension
+
+Diabetes type 1 or 2 defined as 8-hour fasting plasma glucose level ≥126 mg/dL, hemoglobin A 1c level ≥6.5%, or treatment of previously diagnosed diabetes b 
+
+Inflammatory bowel disorder (ie, ulcerative colitis or Crohn disease)
+
+Rheumatologic disorder (ie, rheumatoid arthritis or psoriasis)
+
+Daily cigarette smoking defined as daily minimum of one-half pack of cigarettes
+
+Migraine headaches c 
+
+Exclusion criteria are detailed in the eMethods in Supplement 2 and include a concurrent psychiatric disorder that was a primary focus of clinical attention; a history of schizophrenia; active psychotic symptoms; substance abuse and/or dependence in the previous 6 months; electroconvulsive therapy in the previous 6 months; at risk of suicide or actively suicidal; clinically significant unstable medical illness (eg, autoimmune, cardiovascular, endocrinologic, hematologic, hepatic, renal, or neurologic disease) determined by physical examination and laboratory testing; current or previous exposure to anti-TNF biologic agents; or previous immediate hypersensitivity response (eg, anaphylaxis) to a plasma-derived or recombinant immunoglobulin product (eg, monoclonal antibody).
+
+Procedures
+
+Participants were enrolled between October 1, 2015, and April 30, 2018. Individuals were randomized to adjunctive intravenous infliximab (5 mg/kg) or placebo. The dose and infusion schedules were adopted from the protocol of a previously published clinical trial with infliximab. 8 A registered nurse in rheumatology administered infusions for 120 minutes at weeks 0 (baseline), 2, and 6. All participants completed the baseline infusion within 1 month of the screening assessment. Infliximab and placebo were prepared and dispensed in a concealed 250-mL infusion bag, matched in color and consistency, by hospital pharmacists who had no contact with participants. A research team member without any contact with participants created computer-generated randomization schedules in blocks of 6.
+
+Routine laboratory assessments were conducted at screening baseline and at weeks 2, 4, 6, and 12. Blood samples were additionally collected and stored for biomarker analyses at weeks 0, 2, 4, 6, and 12. Participants, outcome assessors, principal investigators, and infusion nurses were masked to treatment randomization. Participants completed clinical assessments at screening and at weeks 0, 1, 2, 3, 4, 6, 8, 10, and 12 and cognitive assessments (ie, Rey Auditory Verbal Learning Test and Digit Symbol Substitution Test [DSST]) at weeks 0, 2, and 12. Single-voxel proton magnetic resonance spectroscopy and T1-weighted magnetic resonance imaging data were obtained at baseline and week 12 at the MDPU site for future post hoc analyses.
+
+Outcomes
+
+Our primary outcome was baseline-to–end point change in MADRS total score. Exploratory analyses evaluated the moderating effects of baseline CRP level, illness severity and course, and self-reported childhood maltreatment (ie, Childhood Trauma Questionnaire [CTQ]). The 28-item CTQ measures 5 subdomains of emotional abuse, physical abuse, sexual abuse, emotional neglect, and physical neglect. Total and subdomain scores of the CTQ were used as continuous variables in moderation analyses. The inclusion of childhood maltreatment as an interaction variable was informed by evidence of differential response in populations with mood disorders who reported trauma, as well as the association between childhood trauma and immuno-inflammatory disturbances. 5 , 15 Subgroup analyses compared individuals with and without a clinically significant history of childhood maltreatment (ie, CTQ subdomain score ≥8). 16 
+
+Statistical Analysis
+
+Between-group differences in baseline demographic characteristics were assessed using 2-sided Mann-Whitney and 2-sided χ 2 tests. Baseline clinical severity was scored using 5 outcome variables that have been consistently associated with poor outcomes in bipolar disorder: age at onset, number of lifetime psychiatric hospitalizations, number of lifetime suicide attempts, functional impairment (ie, Sheehan Disability Scale [SDS] total score), and cognitive dysfunction (ie, DSST score). 17 The foregoing clinical severity score was used because there was no single variable to adequately proxy baseline severity and reduce issues related to multiplicity, colinearity, and multiple testing. The score was operationalized as an equally weighted sum of the z scores of the number of lifetime psychiatric hospitalizations, the number of suicide attempts, and the SDS total score minus the z scores of DSST and the age at onset and was adjusted for age using a residual method. Treatment response was operationalized as 50% or more decrease in total score, and remission was operationalized as a MADRS total score of 12 or lower. 18 
+
+The modified intent-to-treat analysis included all participants who had received at least 1 infusion of study medication and completed at least 1 after-baseline efficacy assessment. Because of the nonnormal distribution of MADRS total scores (ie, positively skewed count data), generalized estimating equations with negative binomial models and log link specification were used. An autoregressive covariance structure, which best fit the data, was selected. The independent variables were treatment group (ie, infliximab vs placebo), time (as a categorical variable), and treatment × time interaction. Age and sex were included as covariates. Moderators were analyzed in separate models (eg, treatment × time × childhood trauma) and corrected using the Bonferroni adjustment for multiple tests (significance levels of P  = .02 for the moderators and P  = .01 for the 5 CTQ subdomains).
+
+Response and remission rates were assessed using age- and sex-adjusted logistic regressions. Estimated β coefficients were transformed to rate ratios (RR) since the models were nonlinear. Lower RR indicated lower MADRS total score. No interim analysis was conducted. The statistics regarding the primary analyses were masked to treatment allocation; post hoc analyses were not masked to treatment allocation.
+
+Results
+
+Demographics and Clinical Characteristics
+
+Sixty participants (55 from MDPU and 5 from Stanford University) were randomized to infliximab (n = 29 [48%]; mean [SD] age, 45.0 [11.7] years; 20 of 28 female [71%]) or placebo (n = 31 [52%]; mean [SD] age, 46.8 [10.2] years; 26 of 30 female [87%]) ( Figure 1 ). A total of 29 participants randomized to receive infliximab (48%) and 31 randomized to receive placebo (52%) received all 3 infusions. Forty-seven participants (78%) completed all 12 weeks; differences in study completion rates between treatment groups were not statistically significant (infliximab: 21 of 29 [72%]; placebo: 26 of 31 [84%]; df =  1; P  = .28). Fifteen of 30 placebo recipients (50%) and 16 of 28 infliximab recipients (57%) had a diagnosis of bipolar disorder I. There were no statistically significant sociodemographic or clinical differences between groups ( Table ).
+
+Figure 1. Flow Diagram.
+
+ Open in a new tab 
+
+Table. Clinical and Demographic Characteristics of the Modified Intent-to-Treat Population.
+
+ Participant Characteristic
+
+ Mean (SD)
+
+ P Value
+
+ Placebo (n = 30)
+
+ Infliximab (n = 28)
+
+ Age, y
+
+ 46.8 (10.2)
+
+ 45.0 (11.7)
+
+ .52
+
+ Age at onset, y
+
+ 17.7 (9.6)
+
+ 18.6 (8.1)
+
+ .70
+
+ BMI
+
+ 34.6 (8.0)
+
+ 34.5 (10.0)
+
+ .96
+
+ No. of lifetime psychiatric hospitalizations
+
+ 1.6 (2.0)
+
+ 1.8 (1.9)
+
+ .80
+
+ Length of current depressive episode, mo
+
+ 11.1 (20.2)
+
+ 11.8 (15.5)
+
+ .88
+
+ Baseline total score
+
+ MADRS
+
+ 29.5 (7.0)
+
+ 30.6 (7.2)
+
+ .56
+
+ YMRS
+
+ 4.4 (4.2)
+
+ 3.5 (3.0)
+
+ .33
+
+ CRP level, age-adjusted, mg/L
+
+ Baseline
+
+ 7.3 (8.1)
+
+ 4.5 (3.3)
+
+ .09
+
+ End point
+
+ 6.4 (5.3)
+
+ 3.1 (1.4)
+
+ .003
+
+ Mean change
+
+ −0.9 (6.8)
+
+ −1.4 (2.3)
+
+ <.001
+
+ Bipolar I disorder
+
+ 15 (50)
+
+ 16 (57)
+
+ .78
+
+ Bipolar II disorder
+
+ 15 (50)
+
+ 12 (43)
+
+ White race/ethnicity
+
+ 24 (80)
+
+ 24 (86)
+
+ .42
+
+ Female
+
+ 26 (87)
+
+ 20 (71)
+
+ .15
+
+ Educational level
+
+ High school
+
+ 5 (17)
+
+ 6 (21)
+
+ .14
+
+ College or university
+
+ 24 (80)
+
+ 17 (61)
+
+ Graduate school
+
+ 1 (3)
+
+ 5 (18)
+
+ Inflammatory criteria met
+
+ CRP level ≥5 mg/L
+
+ 15 (50)
+
+ 10 (36)
+
+ .27
+
+ Obesity combined with hypertension or dyslipidemia
+
+ 25 (83)
+
+ 20 (71)
+
+ .28
+
+ Diabetes type 1 or 2
+
+ 5 (17)
+
+ 7 (25)
+
+ .43
+
+ Inflammatory bowel disorder
+
+ 2 (7)
+
+ 1 (4)
+
+ .60
+
+ Rheumatologic disorder
+
+ 8 (27)
+
+ 6 (21)
+
+ .64
+
+ Daily cigarette smoking
+
+ 8 (27)
+
+ 6 (21)
+
+ .64
+
+ Migraine headaches
+
+ 7 (23)
+
+ 9 (32)
+
+ .45
+
+ Medications
+
+ Lithium carbonate
+
+ 5 (19)
+
+ 6 (22)
+
+ .91
+
+ Valproate sodium
+
+ 3 (11)
+
+ 5 (19)
+
+ .42
+
+ Quetiapine fumarate
+
+ 5 (19)
+
+ 8 (31)
+
+ .70
+
+ Olanzapine and fluoxetine hydrochloride
+
+ 1 (4)
+
+ 0
+
+ .33
+
+ Lurasidone hydrochloride
+
+ 5 (19)
+
+ 4 (15)
+
+ .77
+
+ Lamotrigine
+
+ 7 (26)
+
+ 8 (31)
+
+ .71
+
+ Antidepressant
+
+ 20 (74)
+
+ 13 (50)
+
+ .20
+
+ Open in a new tab 
+
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); CRP, C-reactive protein; MADRS, Montgomery-Asberg Depression Rating scale; YMRS, Young Mania Rating Scale.
+
+SI conversion: to convert CRP to nanomoles per liter, multiply by 9.524.
+
+Safety and Tolerability of Infliximab
+
+Infliximab was generally well tolerated. Three participants had moderate allergic reactions to infliximab (ie, skin rashes, hair loss, and reactive arthritis). One participant presented with replicated abnormalities in laboratory assessments of liver function (ie, alanine aminotransferase and aspartate aminotransferase levels) without associated symptoms after 2 infusions of infliximab and was dismissed from the study before the third infusion. One participant who developed psychosis-related symptoms after 2 infusions of placebo was dismissed from the study and was later hospitalized. One death occurred during the study that was deemed not to be study related. A participant who received infliximab at the Stanford site died due to anoxic brain injury approximately 4 weeks after the third infusion (detailed reporting in eMethods in Supplement 2 ).
+
+Antidepressant Efficacy
+
+After adjustment for age and sex, there were significant time effects (χ 2  = 78.41; df  = 1; P  < .001) and treatment × time interactions (χ 2  = 10.33; df =  4; P  = .04) but no group effects (χ 2  = 0.22; df  = 1; P  = .64) ( Figure 2 and eTable in Supplement 2 ). Time effects were significant at all weeks, and MADRS total scores decreased (week 2: relative risk [RR], 0.88; 95% CI, 0.80-0.97; df  = 1; P  = .01; week 6: RR, 0.75; 95% CI, 0.62-0.91; df  = 1; P  = .003; week 8: RR, 0.56; 95% CI, 0.44-070; df  = 1; P  < .001; week 12: RR, 0.58; 95% CI, 0.47-0.71; df  = 1; P  < .001). The treatment × time interaction was significant only at week 2 (RR, 0.86; 95% CI, 0.75-0.98; df =  1; P  = .024); individuals receiving infliximab presented with lower depressive symptom severity at week 2 compared with individuals receiving placebo but not at week 6 (RR, 0.87; 95% CI, 0.67-1.13; df =  1; P  = .31), week 8 (RR, 1.17; 95% CI, 0.85-1.161; df =  1; P  = .32), or week 12 (RR, 1.09; 95% CI, 0.80-1.50; df =  1; P  = .60).
+
+Figure 2. Depressive Symptom Severity Observed in Both Treatment Groups With vs Without History of Physical Abuse.
+
+ Open in a new tab 
+
+Modified intent-to-treat generalized estimating equation analysis of 58 participants with bipolar disorder who were administered 3 infusions of infliximab (n = 28) or placebo (n = 30) at baseline and at weeks 2 and 6 of a 12-week trial. Error bars indicate 95% CIs; LS, least squares; and MADRS, Montgomery-Asberg Depression Rating Scale.
+ 
+We did not observe a time × treatment × CRP interaction (χ 2  = 3.76; df  = 4; P  = .44) or time × treatment × clinical severity interaction (χ 2  = 2.01; df  = 4; P  = .73). There was, however, a time × treatment × CTQ total score effect (χ 2  = 12.20; df =  4; P  = .02), which was more strongly associated with the physical abuse subdomain (χ 2  = 33.64; df  = 4; P  < .001). Time × physical abuse (χ 2  = 18.90; df  = 4; P  = .001) and treatment × physical abuse interactions (χ 2  = 25.47; df  = 4; P  < .001) were also significant. Higher levels of physical abuse were associated with higher response rates among infliximab-treated patients at week 8 (RR, 0.95; 95% CI, 0.91-0.99; df =  1; P  = .02) and week 12 (RR, 0.88; 95% CI, 0.81-0.96; df =  1; P  = .003) ( Figure 2 ). The time × treatment × sexual abuse interaction effect was not significant at the adjusted level (χ 2  = 11.30; df  = 4; P  = .023). There were no significant interactions with physical neglect (χ 2  = 0.94; df  = 4; P  = .92), emotional abuse (χ 2  = 3.70; df  = 4; P  = .44) or neglect (χ 2  = 3.39; df  = 4; P  = .45).
+
+Of note, at baseline, scores in the CTQ physical abuse subdomain were associated with clinical severity ( r  = 0.32; 95% CI, 0.04-0.56; P  = .02) and CRP ( r  = 0.31; 95% CI, 0.01-0.55; P  = .03). The time × treatment × physical abuse interaction effect remained significant after adjustment for baseline clinical severity and CRP (χ 2  = 35.23; df  = 4; P  < .001).
+
+At week 12, there were no between-group differences in treatment response (χ 2  = 0.07; df  = 1; P  = .79) or remission rates (χ 2  = 0.004; df  = 1; P  = .95). Physical abuse moderated the effects of intervention on response (χ 2  = 4.05; df  = 4; P  = .04), whereas there was no statistically significant effect on remission (χ 2  = 1.35; df  = 4; P  = .24) ( Figure 3 ).
+
+Figure 3. Treatment Outcomes at Week 12 Among Individuals With vs Without Clinically Significant History of Physical Abuse.
+
+ Open in a new tab 
+
+Percentage of infliximab-randomized (n = 28) and placebo-randomized (n = 30) individuals meeting criteria for treatment response (≥50% decrease in the MADRS total score) or remission (MADRS total score ≤12) at week 12. Error bars indicate standard error of mean; MADRS, Montgomery-Asberg Depression Rating Scale.
+ 
+We conducted a sensitivity analysis restricted to participants at the MDPU site to evaluate the effects of study site on outcomes. Study site was not included as a moderator because of the small sample size from Stanford University. This analysis indicated that the time × treatment (χ 2  = 8.00; df  = 4; P  = .046) and time × treatment × CTQ total score interaction effects (χ 2  = 10.06; df  = 4; P  = .02) remained significant.
+
+Discussion
+
+The TNF-antagonist agent infliximab was not associated with significant antidepressant efficacy compared with placebo in the treatment of bipolar depression. In a secondary post hoc analysis, a significant and sustained response was observed in the subset of participants with a history of childhood maltreatment, mainly physical abuse. Although the analyses in individuals with childhood maltreatment was a secondary outcome of interest, it was noteworthy that childhood maltreatment was associated with improved antidepressant response to infliximab and reduced response to placebo.
+
+Available evidence indicates that childhood maltreatment is associated with immuno-inflammatory activation extending into adulthood. 19 The most replicated increase in proinflammatory markers among persons reporting childhood maltreatment are CRP, interleukin-6, and TNF. 20 , 21 , 22 , 23 , 24 Results from a meta-analysis 20 indicated that the association between increased pro-inflammatory markers and childhood maltreatment was more robust for childhood sexual and physical abuse compared with emotional abuse. In addition to negatively influencing risks for depressive disorder and bipolar disorder, childhood adversity is associated with the phenomenology, severity, illness course, and treatment response in adults with bipolar disorder. 25 , 26 It remains a testable hypothesis whether persons reporting childhood physical abuse are consistently more (or less) likely to respond to treatments specifically targeting the immune-inflammatory system.
+
+We endeavored to identify subpopulations of adults with bipolar disorder I/II depression who may be more likely to respond to an on-target anti-inflammatory agent and less likely to respond to placebo. We deployed a broad definition of biochemical and phenotypic evidence of disturbed immuno-inflammatory homeostasis. The selection of the acute-phase reactant, CRP, was influenced by the results of a previous post hoc analysis and the replicability of elevated peripheral CRP levels in adults with mood disorders. 27 A limitation of peripheral CRP is its nonspecificity and potential for confounding by other factors (eg, sleep deprivation, exercise, and poor diet). 9 The decision to select comorbidities as a proxy of immuno-inflammatory activation was supported by data implicating proinflammatory changes as both the cause and the consequence of these conditions. 23 , 28 , 29 , 30 , 31 , 32 
+
+Strengths and Limitations
+
+To our knowledge, this is the first study evaluating an anti-inflammatory agent in adults with bipolar disorder that was enriched a priori based on biochemical or phenotypic evidence of inflammation. Although the study inclusion criteria were heterogeneous, the resulting sample was more homogeneous compared with most published clinical trials of bipolar disorder, wherein individuals were typically recruited based only on current symptomatology and/or on history of treatment resistance. These studies commonly excluded individuals with acute or unstable medical comorbidities but allowed (often without reporting details) the enrollment of individuals with a myriad of chronic conditions. Moreover, childhood maltreatment was assessed with a validated tool (ie, the CTQ) using clinically validated cutoff scores for the domains. 16 It has been previously shown that there is a differential response to treatment among individuals with a history of childhood maltreatment; however, the results of our study are, to our knowledge, the first to show an improved response among adults with bipolar disorder reporting childhood physical abuse, whereas all previous studies have shown decreased response rates associated with a history of childhood maltreatment. Our study was further strengthened by the high retention rates among both the infliximab and placebo groups. Although this study was not an attempt to instantiate infliximab as a viable treatment option for most individuals with bipolar disorder, this proof-of-concept study may be used to substantiate the development of interventions targeting inflammation in mood disorders.
+
+Notwithstanding the rationale and pragmatism (ie, for recruitment), it was a limitation of this study that a more direct measure of proinflammatory balance was not captured for most enrolled participants. Methodologic aspects of the study herein that affect inferences and interpretations of the results included, but were not limited to, the following: a relatively small sample size (ie, N = 60) that was sufficiently powered to detect large effect sizes; the interaction effect of history of childhood maltreatment, which may have been subject to type 1 error; disproportionate recruitment between the 2 study sites; and the inclusion of participants receiving complex and mixed pharmacotherapy regimens. We broadened the criteria for inflammation for pragmatic reasons to hasten recruitment because exclusive dependence on the nonspecific peripheral CRP measure was not a viable recruitment strategy. The placebo response rate was significant in this highly multimorbid, heterogeneous, and relatively treatment-resistant population; of note, placebo responses in our trial were significantly reduced among persons reporting childhood trauma. 8 , 33 This finding accord with results by Raison and colleagues 8 insofar as persons exhibiting biochemical evidence of immuno-inflammatory activation also exhibited decreased placebo response. 8 , 33 Our primary outcome measure failed to replicate the post hoc finding of Raison and colleagues, 8 wherein they observed a significant antidepressant effect among persons with higher baseline CRP levels. An additional limitation was the use of the clinical severity score, which has not been previously validated; our overarching aim was to characterize a severe or progressed bipolar disorder phenotype, perhaps more likely to exhibit immune-inflammatory alterations.
+
+Conclusions
+
+The results of this randomized, placebo-controlled clinical trial failed to show the efficacy of infliximab in the treatment of bipolar disorder. It is unclear whether our results suggest a negative or a failed study. A future study could introduce a more complex biosignature characterization and enrichment for inflammation among patients deemed potentially to be eligible and more responsive to an anti-inflammatory treatment. Our post hoc analyses in persons reporting a history of childhood maltreatment should inform future studies that aim to stratify and enrich for persons more likely to benefit from an inflammatory intervention. The results herein have conceptual and clinical implications: conceptually, the results comport with a putative inflammatory biotype in bipolar disorder on the basis of biochemical or phenotypic evidence. Clinically, the results of our study support the stratification of participants by history of childhood maltreatment within studies that broadly aim to determine whether anti-inflammatory agents are potentially symptom mitigating or disease modifying in bipolar disorder.
+
+ Supplement 1. 
+ Trial Protocol 
+
+ Click here for additional data file. (726KB, pdf) 
+
+ Supplement 2. 
+ eMethods. Detailed Exclusion Criteria and Detailed Reporting of Adverse Events
+
+ eTable. Least Square (LS) Mean Change in MADRS Total Scores From Baseline to the Indicated Week, Adjusted for Age and Gender
+
+ Click here for additional data file. (82.8KB, pdf) 
+
+ Supplement 3. 
+ Data Sharing Statement 
+
+ Click here for additional data file. (17.4KB, pdf) 
+
+Footnotes
+
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); HDL, high-density lipoprotein.
+
+SI conversion: to convert CRP to nanomoles per liter, multiply by 9.524; glucose to millimoles per liter, multiply by 0.0555; HDL cholesterol to millimoles per liter, multiply by 0.0259; and triglycerides to millimoles per liter, multiply by 0.0113.
+
+ a 
+Waist circumference as indicated by the International Diabetes Federation.
+
+ b 
+Per 2013 Canadian Diabetes Association diagnostic criteria. 13 
+
+ c 
+International Headache Society guidelines. 12 
+
+References
+
+ 1. Judd LL, Akiskal HS, Schettler PJ, et al. 
+The long-term natural history of the weekly symptomatic status of bipolar I disorder. Arch Gen Psychiatry. 2002;59(6):530-537. doi: 10.1001/archpsyc.59.6.530
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 2. Insel PA, Amara SG, Blaschke TF. 
+Introduction to the theme “precision medicine and prediction in pharmacology.”
+Annu Rev Pharmacol Toxicol. 2015;55:11-14. doi: 10.1146/annurev-pharmtox-101714-123102
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 3. Subramaniapillai M, Carmona NE, Rong C, McIntyre RS. 
+Inflammation: opportunities for treatment stratification among individuals diagnosed with mood disorders. Dialogues Clin Neurosci. 2017;19(1):27-36. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 4. Passos IC, Vasconcelos-Moreno MP, Costa LG, et al. 
+Inflammatory markers in post-traumatic stress disorder: a systematic review, meta-analysis, and meta-regression. Lancet Psychiatry. 2015;2(11):1002-1012. doi: 10.1016/S2215-0366(15)00309-0
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 5. Aas M, Dieset I, Hope S, et al. 
+Childhood maltreatment severity is associated with elevated C-reactive protein and body mass index in adults with schizophrenia and bipolar diagnoses. Brain Behav Immun. 2017;65:342-349. doi: 10.1016/j.bbi.2017.06.005
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 6. Rosenblat JD, Kakar R, Berk M, et al. 
+Anti-inflammatory agents in the treatment of bipolar depression: a systematic review and meta-analysis. Bipolar Disord. 2016;18(2):89-101. doi: 10.1111/bdi.12373
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 7. Kappelmann N, Lewis G, Dantzer R, Jones PB, Khandaker GM. 
+Antidepressant activity of anti-cytokine treatment: a systematic review and meta-analysis of clinical trials of chronic inflammatory conditions. Mol Psychiatry. 2018;23(2):335-343. doi: 10.1038/mp.2016.167
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 8. Raison CL, Rutherford RE, Woolwine BJ, et al. 
+A randomized controlled trial of the tumor necrosis factor antagonist infliximab for treatment-resistant depression: the role of baseline inflammatory biomarkers. JAMA Psychiatry. 2013;70(1):31-41. doi: 10.1001/2013.jamapsychiatry.4
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 9. Felger JC, Haroon E, Patel TA, et al. 
+What does plasma CRP tell us about peripheral and central inflammation in depression? [published online June 12, 2018]. Mol Psychiatry. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 10. Karabulut KU, Egercioglu TU, Uyar M, Ucar Y. 
+The change of neutrophils/lymphocytes ratio in migraine attacks: a case-controlled study. Ann Med Surg (Lond). 2016;10:52-56. doi: 10.1016/j.amsu.2016.07.023
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 11. Sarchielli P, Alberti A, Baldi A, et al. 
+Proinflammatory cytokines, adhesion molecules, and lymphocyte integrin expression in the internal jugular blood of migraine patients without aura assessed ictally. Headache. 2006;46(2):200-207. doi: 10.1111/j.1526-4610.2006.00337.x
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 12. International Headache Society ICHD/Guidelines. https://www.ihs-headache.org/ichd-guidelines . Accessed on April 1, 2018. 
+
+ 13. Cheng AY; Canadian Diabetes Association Clinical Practice Guidelines Expert Committee . 
+Canadian Diabetes Association 2013 clinical practice guidelines for the prevention and management of diabetes in Canada: introduction. Can J Diabetes. 2013;37(suppl 1):S1-S3. doi: 10.1016/j.jcjd.2013.01.009 [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 14. Rosenblat JD, Gregory JM, McIntyre RS. 
+Pharmacologic implications of inflammatory comorbidity in bipolar disorder. Curr Opin Pharmacol. 2016;29:63-69. doi: 10.1016/j.coph.2016.06.007
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 15. Etain B, Lajnef M, Brichant-Petitjean C, et al. 
+Childhood trauma and mixed episodes are associated with poor response to lithium in bipolar disorders. Acta Psychiatr Scand. 2017;135(4):319-327. doi: 10.1111/acps.12684
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 16. Walker EA, Gelfand A, Katon WJ, et al. 
+Adult health status of women with histories of childhood abuse and neglect. Am J Med. 1999;107(4):332-339. doi: 10.1016/S0002-9343(99)00235-1
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 17. Sheehan DV, Harnett-Sheehan K, Raj BA. 
+The measurement of disability. Int Clin Psychopharmacol. 1996;11(suppl 3):89-95. doi: 10.1097/00004850-199606003-00015
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 18. Hawley CJ, Gale TM, Sivakumaran T; Hertfordshire Neuroscience Research Group . 
+Defining remission by cut off score on the MADRS: selecting the optimal value. J Affect Disord. 2002;72(2):177-184. doi: 10.1016/S0165-0327(01)00451-7
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 19. Cohen-Woods S, Fisher HL, Ahmetspahic D, et al. 
+Interaction between childhood maltreatment on immunogenetic risk in depression: discovery and replication in clinical case-control samples. Brain Behav Immun. 2018;67:203-210. doi: 10.1016/j.bbi.2017.08.023
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 20. Baumeister D, Akhtar R, Ciufolini S, Pariante CM, Mondelli V. 
+Childhood trauma and adulthood inflammation: a meta-analysis of peripheral C-reactive protein, interleukin-6 and tumour necrosis factor-α. Mol Psychiatry. 2016;21(5):642-649. doi: 10.1038/mp.2015.67
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 21. Coelho R, Viola TW, Walss-Bass C, Brietzke E, Grassi-Oliveira R. 
+Childhood maltreatment and inflammatory markers: a systematic review. Acta Psychiatr Scand. 2014;129(3):180-192. doi: 10.1111/acps.12217
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 22. Pedrotti Moreira F, Wiener CD, Jansen K, et al. 
+Childhood trauma and increased peripheral cytokines in young adults with major depressive: population-based study [published online February 28, 2018]. J Neuroimmunol. 2018;319:112-116. doi: 10.1016/j.jneuroim.2018.02.018 [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 23. Danese A, Moffitt TE, Harrington H, et al. 
+Adverse childhood experiences and adult risk factors for age-related disease: depression, inflammation, and clustering of metabolic risk markers. Arch Pediatr Adolesc Med. 2009;163(12):1135-1143. doi: 10.1001/archpediatrics.2009.214
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 24. Grosse L, Ambrée O, Jörgens S, et al. 
+Cytokine levels in major depression are related to childhood trauma but not to recent stressors. Psychoneuroendocrinology. 2016;73:24-31. doi: 10.1016/j.psyneuen.2016.07.205
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 25. Daruy-Filho L, Brietzke E, Lafer B, Grassi-Oliveira R. 
+Childhood maltreatment and clinical outcomes of bipolar disorder [published online November 3, 2017]. Acta Psychiatr Scand. 2011;124(6):427-434. doi: 10.1111/j.1600-0447.2011.01756.x
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 26. Kane JC, Murray LK, Cohen J, et al. 
+Moderators of treatment response to trauma-focused cognitive behavioral therapy among youth in Zambia. J Child Psychol Psychiatry. 2016;57(10):1194-1202. doi: 10.1111/jcpp.12623
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 27. Danese A, Moffitt TE, Pariante CM, Ambler A, Poulton R, Caspi A. 
+Elevated inflammation levels in depressed adults with a history of childhood maltreatment. Arch Gen Psychiatry. 2008;65(4):409-415. doi: 10.1001/archpsyc.65.4.409
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 28. Goldstein BI, Carnethon MR, Matthews KA, et al. ; American Heart Association Atherosclerosis; Hypertension and Obesity in Youth Committee of the Council on Cardiovascular Disease in the Young . 
+Major depressive disorder and bipolar disorder predispose youth to accelerated atherosclerosis and early cardiovascular disease: a scientific statement from the American Heart Association. Circulation. 2015;132(10):965-986. doi: 10.1161/CIR.0000000000000229
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 29. Köhler CA, Freitas TH, Maes M, et al. 
+Peripheral cytokine and chemokine alterations in depression: a meta-analysis of 82 studies. Acta Psychiatr Scand. 2017;135(5):373-387. doi: 10.1111/acps.12698
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 30. Köhler CA, Freitas TH, Stubbs B, et al. 
+Peripheral alterations in cytokine and chemokine levels after antidepressant drug treatment for major depressive disorder: systematic review and meta-analysis. Mol Neurobiol. 2018; 55(5):4195-4206. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 31. Marrie RA, Walld R, Bolton JM, et al. ; CIHR Team in Defining the Burden and Managing the Effects of Psychiatric Comorbidity in Chronic Immunoinflammatory Disease . 
+Rising incidence of psychiatric disorders before diagnosis of immune-mediated inflammatory disease. Epidemiol Psychiatr Sci. 2017:1-10. doi: 10.1017/S2045796017000579
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 32. Leighton SP, Nerurkar L, Krishnadas R, Johnman C, Graham GJ, Cavanagh J. 
+Chemokines in depression in health and in inflammatory illness: a systematic review and meta-analysis. Mol Psychiatry. 2018;23(1):48-58. doi: 10.1038/mp.2017.205
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 33. Nierenberg AA, Østergaard SD, Iovieno N, Walker RS, Fava M, Papakostas GI. 
+Predictors of placebo response in bipolar depression. Int Clin Psychopharmacol. 2015;30(2):59-66. doi: 10.1097/YIC.0000000000000058
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Associated Data
+
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+
+Supplementary Materials
+
+ Supplement 1. 
+ Trial Protocol 
+
+ Click here for additional data file. (726KB, pdf) 
+
+ Supplement 2. 
+ eMethods. Detailed Exclusion Criteria and Detailed Reporting of Adverse Events
+
+ eTable. Least Square (LS) Mean Change in MADRS Total Scores From Baseline to the Indicated Week, Adjusted for Age and Gender
+
+ Click here for additional data file. (82.8KB, pdf) 
+
+ Supplement 3. 
+ Data Sharing Statement 
+
+ Click here for additional data file. (17.4KB, pdf) 
+
+Articles from JAMA Psychiatry are provided here courtesy of American Medical Association

@@ -1,0 +1,479 @@
+[Skip to Navigation]
+Access Provided by University of Calgary
+Navigation
+Search
+  
+Home
+Issues
+Multimedia
+News
+For Authors
+Home
+JAMA
+New Online
+Sections
+PDF
+Share
+Original Investigation
+A Decision-Support System to Personalize Antidepressant Treatment in Major Depressive Disorder
+A Randomized Clinical Trial
+Andrea Cipriani, MD, PhD1,2,3; Karen Barros Parron Fernandes, PhD4,5; Benoit H. Mulsant, MD6,7,8 et al
+Author Affiliations 
+Article Information
+ Metrics
+JAMA
+Published Online: March 4, 2026
+doi: 10.1001/jama.2026.1327
+Read the Research Summary
+related icon
+ RELATED ARTICLES
+figure icon
+ FIGURES
+attach icon
+ SUPPLEMENTAL CONTENT
+Key Points
+
+Question  Does the PETRUSHKA tool, a web-based clinical decision-support system combining clinical and demographic predictors with patient preferences to personalize antidepressant treatment, improve clinical outcomes of people with major depressive disorder?
+
+Findings  In this international, randomized clinical trial including 520 adults with major depressive disorder, patients who received a personalized antidepressant selected using the PETRUSHKA tool were less likely to discontinue their treatment due to any reason at 8 weeks compared with participants treated by their clinicians under usual care conditions (41/241 [17%] vs 69/252 [27%], respectively; adjusted relative risk, 0.62 [95% CI, 0.44-0.88]; P = .007).
+
+Meaning  In adults with major depressive disorder, the PETRUSHKA tool was effective in personalizing antidepressant treatment and increased the likelihood of continuing treatment through 8 weeks.
+
+Abstract
+(opens in new tab)
+ A Decision-Support System to Personalize Antidepressant Treatment in Major Depressive Disorder
+Visual Abstract.
+
+Importance  Antidepressants for moderate to severe major depressive disorder may be discontinued prematurely because the prescribed antidepressant is not always the most appropriate medication for an individual. Guidelines have recommended more precise targeting of antidepressant treatment.
+
+Objective  To evaluate the efficacy of a web-based tool to personalize antidepressant treatment.
+
+Design, Setting, and Participants  This multicenter, randomized clinical trial included persons between the ages of 18 and 74 years with major depressive disorder. The trial was conducted at 47 sites in 3 countries (Brazil, Canada, and the UK). The first participant was screened on November 29, 2022, and the last follow-up visit occurred on January 15, 2025.
+
+Intervention  A total of 540 participants were randomized (1:1) to an evidence-based clinical decision-support system (PETRUSHKA tool; n = 271) or usual care (n = 269).
+
+Main Outcomes and Measures  The primary outcome was treatment discontinuation due to any cause at 8 weeks. The secondary outcomes included treatment discontinuation up to 24 weeks due to adverse events and changes in depressive symptoms (measured with the 9-item Patient Health Questionnaire [PHQ-9]; range, 0-27; higher scores indicate more severe depression) and anxiety symptoms (measured with the 7-item Generalized Anxiety Disorder [GAD-7] questionnaire; range, 0-21; higher scores indicate more severe symptoms).
+
+Results  Of the 520 eligible participants, 493 were included in the primary analysis (median age, 35 [IQR, 25 to 48] years; 58% female; PHQ-9 mean score, 16.6 [SD, 5.1]; GAD-7 mean score, 11.5 [SD, 4.1]). At 8 weeks, 41 of 241 participants (17%) in the PETRUSHKA group discontinued the prescribed antidepressant due to any cause vs 69 of 252 (27%) in the usual care group (adjusted relative risk, 0.62 [95% CI, 0.44 to 0.88]; P = .007). At 8 weeks, 22 of 241 participants (9%) in the PETRUSHKA group discontinued the prescribed antidepressant due to adverse events vs 39 of 252 (16%) in the usual care group (adjusted relative risk, 0.59 [95% CI, 0.36 to 0.97]; P = .04). For the assessment of depressive symptoms at 24 weeks, the mean PHQ-9 score was 7.1 (SD, 5.4) in the PETRUSHKA group vs 9.2 (SD, 6.5) in the usual care group (n = 129 in each group; adjusted between-group mean difference, −1.92 [95% CI, −3.06 to −0.78]; P < .001). For the assessment of anxiety symptoms at 24 weeks, the mean GAD-7 score was 4.6 (SD, 4.1) in the PETRUSHKA group (n = 133) vs 5.8 (SD, 4.9) in the usual care group (n = 126) (adjusted between-group mean difference, −1.39 [95% CI, −2.26 to −0.52]; P = .002).
+
+Conclusions and Relevance  Compared with usual care, use of the PETRUSHKA tool increased the number of patients still taking their antidepressant at 8 weeks and improved depressive and anxiety symptoms at 24 weeks. However, lack of a double-blind design and the large amount of missing data limit the validity of these results.
+
+Trial Registration  ClinicalTrials.gov Identifier: NCT05608330
+
+Introduction
+
+With 280 million people currently affected in the world, major depressive disorder (MDD) is one of the leading causes of global health burden, and it is forecast to increase further by 2050.1 Antidepressants are recommended as one of the first-line options for people with moderate to severe symptoms2; however, a key challenge is how to best implement these treatments in clinical practice. Prescription of antidepressants has increased over the last 25 years,3 but the majority of people with MDD take them for too short a period.4 The initial adverse events associated with antidepressant use contribute to the suboptimal duration of treatment, reducing the clinical effectiveness of these medications.5 This is exacerbated by the inability of clinicians to reliably predict which antidepressant will cause adverse events in each individual patient, and which medication will be the most effective for each patient. Although guidelines advocate personalized treatment decisions, implementation in practice remains limited.
+
+In some fields of medicine, such as oncology and cardiology, prediction tools play an important role in clinical decision-making.6,7 However, in psychiatry, prediction of treatment outcomes is challenging,8 especially for patients with MDD, because treatment trajectories are influenced by the complex etiology and heterogeneous symptomatology of the disorder.9 Previous studies have found that sociodemographic features (eg, age, biological sex, marital status) and clinical characteristics (eg, symptom severity, prior treatments, comorbidities) are associated with individual treatment outcomes in MDD. However, there is no consensus on which pretreatment characteristics can accurately predict efficacy and acceptability of specific antidepressants. Moreover, the acceptance of adverse events by patients is heterogeneous and some patients may be more willing to tolerate certain adverse events over others based on their personal circumstances.
+
+As part of the PETRUSHKA (Personalising Antidepressant Treatment for Unipolar Depression Combining Individual Choices, Risks and Big Data) project, we developed an online, evidence-based, decision-support system for patients and clinicians to enable personalized antidepressant treatment decision-making for patients with MDD treated in routine clinical practice.10 The PETRUSHKA tool is based on prediction models that combine statistical and machine learning methods to identify which antidepressants work better for each individual patient, which varies depending on personal characteristics (including age, sex, ethnicity, socioeconomic status, body mass index, smoking status, severity of depressive symptoms, past use of antidepressants, childhood maltreatment, anxiety, comorbid medical conditions, and use of other nonpsychiatric medications) and patient preferences. In this randomized clinical trial, we compared the PETRUSHKA tool with usual care.
+
+Methods
+
+This randomized clinical trial was performed in accordance with the principles of Good Clinical Practice and the Declaration of Helsinki.11 The trial protocol and the statistical analysis plan appear in Supplement 1. All participants provided written or electronic informed consent. This report followed the Consolidated Standards of Reporting Trials (CONSORT) reporting guideline.12 The protocol deviations appear in eTable 1 in Supplement 2. This study received approval from the South Central–Hampshire B research ethics committee.
+
+Trial Population
+
+Eligible patients from primary and secondary care were between the ages of 18 and 74 years with a clinical diagnosis of MDD, had an indication for pharmacological treatment, and were willing to take an antidepressant as monotherapy. Exclusion criteria included a diagnosis of treatment-resistant depression, being pregnant, having arrhythmias or QT prolongation, and requiring urgent mental health care or hospital admission (Supplement 1). Information about race and ethnicity was self-reported using fixed categories.
+
+Trial Design, Treatments, and Assessments
+
+The PETRUSHKA trial was an international, multicenter, superiority randomized clinical trial conducted at 47 sites in both primary care (in Brazil and in the UK) and secondary care (in Canada). Patients were randomly assigned (1:1) to the PETRUSHKA tool or usual care via a secured randomization system (Sortition version 2.3; University of Oxford), using randomly permuted blocks of different sizes and stratified according to severity of illness and recruiting center (Brazil and Canada were each considered as one separate recruiting center and the recruiting center was defined by the Integrated Care Board in the UK). Treatment group allocation was known to the patients and the treating clinicians. However, the rating scale assessors and statisticians were masked to treatment group allocation. During the baseline visit and before randomization, the clinician entered in the study database the name of the antidepressant they would prescribe to each participant under usual care conditions. This database record was created to ensure the clinician’s decision would not be affected by the outcome of the randomization. The diagnosis of MDD was formally confirmed with the revised version of the Clinical Interview Schedule, which is a standardized self-administered computerized assessment based on the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision.13
+
+For participants randomized to usual care (control group), the clinician prescribed the antidepressant they had chosen before randomization. By contrast, in the experimental group, the PETRUSHKA tool was used to select the antidepressant with the best profile for each individual.10 Based on the participant’s individual demographic and clinical characteristics, the PETRUSHKA tool predicted the performance of each drug for each outcome. These predictions were then combined with the patient’s preferences about avoiding particular adverse events to create a short list of the 3 best antidepressants (Figure 1).14 -17 The development pipeline for the PETRUSHKA prediction model appears in Supplement 1. The tool was codeveloped with people with lived experience, taking into account diverse literacy levels and digital skills. Follow-up visits were scheduled at 4, 8, and 24 weeks after randomization.
+
+Figure 1.  Screenshots of the PETRUSHKA Tool for Patients With Major Depressive Disorder (MDD)
+View LargeDownload
+(opens in new tab)
+
+The full description of the tool has been published elsewhere.10 The tool enables real-time shared decision-making because the clinician logs into the PETRUSHKA web app and invites the patient with MDD. The clinician and the patient simultaneously access the tool from any internet-connected device either in the same consultation room or remotely.
+
+The patient interacts with the tool in parts A through C. In D, the tool generates a personalized ranked list of recommended antidepressants with an overall score (pictogram) along with a breakdown of the actual probability for the patient to experience each of the 5 adverse events that they selected in A. The list of recommended antidepressants in D will inform the discussion between the clinician and the patient and will lead to the final treatment selection.
+
+The version of the tool included in this study only included treatments that had been assessed in randomized clinical trials.14 The foundation of the tool is based on prediction models that used a combination of advanced statistical and machine learning methods15 and electronic health record data from adults with MDD taking antidepressants for depression. The tool incorporates preferences from patients and clinicians elicited in real time, with a specific focus on common nonserious adverse events.16,17
+
+The web-based platform for the tool was developed using Django version 4.1.1 (a Python-based free and open-source framework). The tool was also translated into Brazilian Portuguese. PETRUSHKA indicates Personalising Antidepressant Treatment for Unipolar Depression Combining Individual Choices, Risks and Big Data.
+
+Study Outcomes
+
+The primary outcome was treatment discontinuation due to any cause at 8 weeks. This binary outcome indicates whether the participant was still taking the antidepressant prescribed at randomization (the dosage could be altered but the antidepressant should remain the same; if participants switched to another antidepressant or were taking no medication, it was considered a treatment discontinuation).
+
+The prespecified secondary outcomes were discontinuation from treatment due to adverse events and self-rated change in depressive symptoms (9-item Patient Health Questionnaire [PHQ-9])18 and anxiety symptoms (7-item Generalized Anxiety Disorder [GAD-7] questionnaire)19 at 8 and 24 weeks. We also assessed symptoms using observer-rated scales for depression (17-item Hamilton Depression Rating Scale [HAM-D])20 and anxiety (Hamilton Anxiety Rating Scale [HAM-A]).21 Throughout the study, we collected information about the risk of suicidality (Columbia Suicide Severity Rating Scale [C-SSRS]),22 health-related quality of life (EuroQol 5-dimension 5-level questionnaire, including the EuroQol visual analog scale),23 and adverse events.
+
+Statistical Analysis
+
+All-cause treatment discontinuation at 8 weeks was considered clinically relevant with a discontinuation rate of 35% in the control (usual care) group and an absolute between-group difference of 15%.24 If 252 patients were enrolled in each group, the trial would have 95% power (Supplement 1).
+
+Participants were analyzed according to their allocated intervention group. Participants found to be ineligible after randomization were excluded from the analysis. We used separate binomial mixed-effects generalized linear models with a logit link function at 8 and 24 weeks. We derived the adjusted relative risk (RR)25 and calculated the corresponding 95% CIs with delta-method SEs.26 A sensitivity analysis of the primary outcome using multiple imputation of all time points simultaneously was carried out, and the results were pooled using the Rubin rule.27 The analysis of the binary outcomes was performed using a logistic regression model. Marginal RRs were calculated from the model. The RRs are presented in this article instead of odds ratios to facilitate the interpretation of the results. The continuous outcomes were analyzed using a linear mixed-effects regression model and an unstructured covariance structure. The adjusted mean differences (MDs) with 95% CIs and P values were calculated.
+
+The statistical analyses were performed using Stata version 18.0 (StataCorp). The analysis codes are freely available online (https://github.com/PC-CTU1/PETRUSHKA) and the full details appear in Supplement 1.
+
+Results
+Trial Population
+
+Between November 29, 2022, and July 31, 2024, 540 patients were randomized and enrolled; however, 20 were found to be ineligible (18 in the PETRUSHKA group and 2 in the usual care group) after randomization and were excluded from the analysis (Figure 2 and eFigure 1 in Supplement 2). The baseline characteristics were similar in the 2 groups (Table 1 and eTables 2-3 in Supplement 2). Of the 520 eligible participants, 493 were included in the primary analysis (median age, 35 [IQR, 25 to 48] years; 300 [58%] were female). The baseline severity of depression symptoms was reflected by the PHQ-9 mean score of 16.6 (SD, 5.1) and the HAM-D mean score of 16.3 (SD, 5.2). The baseline severity of anxiety symptoms was reflected by the GAD-7 mean score of 11.5 (SD, 4.1) and the HAM-A mean score of 18.9 (SD, 7.4). The majority (84%) were White patients (437 of 520) and the median body mass index (calculated as weight in kilograms divided by height in meters squared) was 26.6 (IQR, 23.0-30.8). The baseline characteristics by country appear in eTable 4 in Supplement 2.
+
+Figure 2.  Flow Diagram Showing the Path of Participants Through the Trial
+View LargeDownload
+(opens in new tab)
+
+aAdditional details not available because screening logs were not kept.
+
+bBased on a 1:1 ratio and was balanced using randomly permuted blocks of different sizes. The randomization process was stratified by severity of illness, recruiting center, and allocation group.
+
+cThe primary statistical analysis of efficacy outcomes was performed on the dataset of eligible participants with the primary outcome at 8 weeks available. After randomization, eligible participants were analyzed according to their allocated intervention group irrespective of what intervention they actually received. Participants that were found to be ineligible after randomization were excluded from the analysis. Every effort was made to collect follow-up data for every participant to ensure the analyses were as complete as possible.
+
+PETRUSHKA indicates Personalising Antidepressant Treatment for Unipolar Depression Combining Individual Choices, Risks and Big Data.
+
+Table 1.  Patient Characteristics at Baseline
+View LargeDownload
+(opens in new tab)
+	No. (%)a
+PETRUSHKA (n = 253)	Usual care (n = 267)
+Demographics
+Country		
+Brazil	59 (23.3)	62 (23.2)
+Canada	16 (6.3)	18 (6.7)
+UK	178 (70.4)	187 (70.0)
+Care setting		
+Primary	237 (93.7)	249 (93.3)
+Secondary	16 (6.3)	18 (6.7)
+Severity of illness based on 9-Item Patient Health Questionnaire scoreb		
+More severe (score ≥16)	158 (62.5)	160 (59.9)
+Less severe (score <16)	95 (37.5)	107 (40.1)
+Age, median (IQR), y	35.4 (25.5-48.6)	34.8 (25.7-48.4)
+Sex		
+Male	105 (41.5)	115 (43.1)
+Female	148 (58.5)	152 (56.9)
+Race and ethnicityc		
+African/Caribbean	9 (3.6)	8 (3.0)
+Asian	22 (8.7)	15 (5.6)
+White	207 (81.8)	230 (86.1)
+Otherd	15 (5.9)	14 (5.2)
+Currently smoke	47 (18.6)	57 (21.3)
+Body mass index, median (IQR)e	26.6 (23.0-30.8)	26.4 (23.1-31.0)
+Assessment of depression history
+First episode of depression	81 (32.0)	89 (33.3)
+Has had a referral to secondary care for depression	37 (14.6)	44 (16.5)
+Treatment history
+Has taken fluoxetine	60 (23.7)	70 (26.2)
+Has taken a selective serotonin reuptake inhibitor	106 (41.9)	104 (39.0)
+Sertraline	71 (67.0)	76 (73.1)
+Citalopram	34 (32.1)	44 (42.3)
+Escitalopram	21 (19.8)	14 (13.5)
+Paroxetine	5 (4.7)	9 (8.7)
+Fluvoxamine	0	1 (1.0)
+Has taken an antidepressant	51 (20.2)	56 (21.0)
+Has undergone psychotherapy	133 (52.6)	137 (51.3)
+History of comorbid conditions
+Anxiety	170 (67.2)	173 (64.8)
+Migraine	61 (24.1)	59 (22.1)
+Chronic inflammatory disease	23 (9.1)	25 (9.4)
+Diabetes	14 (5.5)	17 (6.4)
+Coronary heart disease	6 (2.4)	5 (1.9)
+Hypothyroidism	5 (2.0)	14 (5.2)
+Epilepsy	4 (1.6)	2 (0.7)
+Concomitant medications
+Oral contraceptive or hormone replacement therapyf	38 (15.1)	25 (9.4)
+Antihypertensive drug	29 (11.5)	23 (8.6)
+Statins	20 (7.9)	19 (7.1)
+Nonsteroidal anti-inflammatory drug	19 (7.5)	24 (9.0)
+Hypnotic or anxiolytic	7 (2.8)	7 (2.6)
+Aspirin	6 (2.4)	7 (2.6)
+Questionnaires and rating scalesg
+9-Item Patient Health Questionnaire score, mean (SD)b	16.6 (5.1)	16.6 (5.2)
+17-Item Hamilton Depression Rating Scale score, mean (SD)h	16.3 (5.1)	16.3 (5.3)
+7-Item Generalized Anxiety Disorder questionnaire score, mean (SD)i	11.5 (4.2) [n = 244]	11.4 (4.1) [n = 259]
+14-Item Hamilton Anxiety Rating Scale score, mean (SD)j	18.4 (6.9)	19.4 (7.9)
+Health-related quality of life		
+EuroQol 5-dimension 5-level questionnaire score, median (IQR)k	0.6 (0.4-0.7) [n = 193]	0.6 (0.4-0.7) [n = 205]
+EuroQol visual analog scale score, mean (SD)l	52.4 (20.3) [n = 251]	53.2 (20.9) [n = 266]
+16-Item Oxford Capabilities Questionnaire-Mental Health score, mean (SD)m	56.1 (6.2) [n = 193]	56.0 (6.2) [n = 202]
+Columbia Suicide Severity Rating Scale score, No. (%)n	47 (18.6)	49 (18.4)
+5-Item Work and Social Adjustment Scale score, mean (SD)o	22.7 (8.3) [n = 221]	23.0 (8.1) [n = 252]
+Revised Clinical Interview Schedule score, mean (SD)p	17.1 (7.1) [n = 128]	17.7 (7.1) [n = 137]
+
+The range and frequency of the specific antidepressants prescribed differed between the 2 groups. In the PETRUSHKA group, mirtazapine (29%), escitalopram (28%), and vortioxetine (24%) were the top choices compared with sertraline (52%), citalopram (15%), and fluoxetine (9%) in the usual care group (Figure 3 and eTables 2 and 5 in Supplement 2).
+
+Figure 3.  Alluvial Diagrams Depicting the Distribution of Antidepressant Prescriptions
+View LargeDownload
+(opens in new tab)
+
+Part A should be read from left to right and part B should be read from right to left. This figure shows the distribution of intended prescriptions prior to randomization (treatment selected), the actual prescriptions (treatment prescribed), and the outcome at 8 weeks (ie, whether participants continued or discontinued the antidepressant prescribed at randomization). The blocks (strata) represent individual antidepressants and the flows (alluvia) between the blocks represent prescription changes in the antidepressants over time (from baseline to randomization and to the primary time point at week 8). The height of each block is proportional to the total number of participants taking each individual drug. At week 8, all the participants who were not taking the antidepressant allocated at randomization were merged into the “discontinued” category. PETRUSHKA indicates Personalising Antidepressant Treatment for Unipolar Depression Combining Individual Choices, Risks and Big Data.
+
+Treatment Discontinuation
+
+Of the 241 participants in the PETRUSHKA group, 41 (17%) discontinued their antidepressant at 8 weeks due to any cause (primary outcome) compared with 69 of 252 participants (27%) in the usual care group (adjusted RR, 0.62 [95% CI, 0.44-0.88]; P = .007). Of the 241 participants in the PETRUSHKA group, 22 (9%) discontinued their antidepressant at 8 weeks due to adverse events compared with 39 of 252 participants (16%) in the usual care group (adjusted RR, 0.59 [95% CI, 0.36-0.97]; P = .04) (Table 2 and eTable 6 in Supplement 2).
+
+Table 2.  Primary and Secondary Outcomes
+View LargeDownload
+(opens in new tab)
+	PETRUSHKA	Usual care	Adjusted between-group difference (95% CI)	Adjusted relative risk(95% CI)a	P value
+Primary outcomeb
+Treatment discontinuation at 8 wk, No./total (%)c	41/241 (17.0)	69/252 (27.4)	−10.4 (−17.5 to −3.0)d	0.62 (0.44 to 0.88)	.007
+Secondary outcomese
+Treatment discontinuation at 24 wk, No./total (%)f	77/224 (34.4)	97/240 (40.4)	−6.3 (−15.0 to 2.5)d	0.85 (0.67 to 1.07)	.16
+Treatment discontinuation due to adverse events, No./total (%)b					
+At 8 wk	22/241 (9.1)	39/252 (15.5)	−6.3 (−12.0 to −0.5)d	0.59 (0.36 to 0.97)	.04
+At 24 wk	34/224 (15.2)	46/240 (19.2)	−3.7 (−10.2 to 2.8)d	0.80 (0.54 to 1.19)	.27
+9-Item Patient Health Questionnaire score, mean (SD)f					
+At 8 wk	8.6 (5.2) [n = 164]	9.1 (5.9) [n = 169]	−0.47 (−1.52 to 0.59)g		.39
+At 24 wk	7.1 (5.4) [n = 129]	9.2 (6.5) [n = 129]	−1.92 (−3.06 to −0.78)g		<.001
+17-Item Hamilton Depression Rating Scale score, mean (SD)f					
+At 8 wk	8.4 (6.0) [n = 158]	9.0 (6.1) [n = 155]	−0.59 (−1.78 to 0.61)g		.34
+At 24 wk	6.7 (5.7) [n = 132]	7.0 (5.6) [n = 138]	−0.25 (−1.51 to 1.02)g		.70
+7-Item Generalized Anxiety Disorder questionnaire score, mean (SD)f					
+At 8 wk	5.9 (4.0) [n = 166]	5.7 (4.5) [n = 168]	0.02 (−0.79 to 0.83)g		.96
+At 24 wk	4.6 (4.1) [n = 133]	5.8 (4.9) [n = 126]	−1.39 (−2.26 to −0.52)g		.002
+14-Item Hamilton Anxiety Rating Scale score, mean (SD)f					
+At 8 wk	9.5 (7.4) [n = 158]	10.3 (7.6) [n = 157]	−0.56 (−2.00 to 0.88)g		.45
+At 24 wk	7.5 (6.9) [n = 131]	8.6 (7.4) [n = 139]	−0.74 (−2.28 to 0.80)g		.35
+Health-related quality of life					
+EuroQol 5-dimension 5-level questionnaire score, mean (SD)f					
+At 8 wk	0.7 (0.2) [n = 114]	0.7 (0.2) [n = 106]	0 (−0.05 to 0.05)g		.94
+At 24 wk	0.7 (0.2) [n = 85]	0.6 (0.3) [n = 74]	−0.05 (−0.11 to 0)g		.05
+EuroQol visual analog scale score, mean (SD)f					
+At 8 wk	65.6 (20.8) [n = 163]	68.6 (18.7) [n = 163]	1.65 (−2.05 to 5.36)g		.38
+At 24 wk	70.3 (19.2) [n = 128]	66.8 (20.6) [n = 125]	−4.28 (−8.37 to −0.20)g		.04
+Revised Clinical Interview Schedule score, No./total (%)					
+At 8 wk	0/160	2/158 (1.3)			.68h
+At 24 wk	1/135 (0.7)	1/140 (0.7)			>.99h
+
+Of the participants who discontinued treatment at 8 weeks, 15 in the PETRUSHKA group switched to another antidepressant compared with 27 in the usual care group. When measured in primary care only, there was a larger effect in favor of the PETRUSHKA tool for treatment discontinuation at 8 weeks due to any cause (36/226 [16%] in the PETRUSHKA group vs 66/234 [28%] in the usual care group; adjusted RR, 0.57 [95% CI, 0.39-0.81]; P = .002) (eTable 7 and eFigure 2 in Supplement 2).
+
+Efficacy
+
+Although there were no between-group differences at 8 weeks in both self-rated depression and anxiety symptoms, there were differences at 24 weeks. For depressive symptoms assessed with the PHQ-9 score, the mean score was 7.1 (SD, 5.4) in the PETRUSHKA group vs 9.2 (SD, 6.5) in the usual care group (n = 129 in each group) (adjusted between-group MD, −1.92 [95% CI, −3.06 to −0.78]; P < .001). For anxiety symptoms assessed with the GAD-7, the mean score was 4.6 (SD, 4.1) in the PETRUSHKA group (n = 133) vs 5.8 (SD, 4.9) in the usual care group (n = 126) (adjusted between-group MD, −1.39 [95% CI, −2.26 to −0.52]; P = .002) (Table 2). For the observer-rated scales of depression and anxiety, the direction of the effect favored the PETRUSHKA tool, but there was large uncertainty (Table 2 and eTable 8 in Supplement 2).
+
+At week 8, there was no evidence of a between-group difference in terms of health-related quality of life assessed with the EuroQol visual analog scale (mean score of 65.6 [SD, 20.8] in the PETRUSHKA group vs 68.6 [SD, 18.7] in the usual care group [n = 163 in each group]; adjusted between-group MD, −1.65 [95% CI, −2.05 to 5.36]). However, at 24 weeks there was strong evidence that the PETRUSHKA tool was better than usual care in terms of health-related quality of life assessed with the EuroQol visual analog scale (mean score of 70.3 [SD, 19.2] in the PETRUSHKA group [n = 128] vs 66.8 [SD, 20.6] in the usual care group [n = 125]; adjusted between-group MD, −4.28 [95% CI, −8.37 to −0.20], P = .04; Table 2). No evidence of a difference was found for the other secondary outcomes (Table 2 and eTable 8 and eFigure 3 in Supplement 2). We also conducted a series of sensitivity analyses to examine the effects of missing data with multiple imputation on the primary and secondary outcomes (eTables 9-11 and eFigures 4-5 in Supplement 2). The results were not materially different with multiple imputation for the primary outcome (adjusted RR, 0.63 [95% CI, 0.45 to 0.89]; P = .009).
+
+Safety
+
+There were 2 serious adverse events in the PETRUSHKA group; neither was judged to be caused by the PETRUSHKA tool or the prescribed antidepressant. One participant died because of undiagnosed metastatic breast cancer. Another participant was hospitalized for an overdose without suicidal intent; after hospital discharge, the patient restarted escitalopram, which was the antidepressant selected at randomization.
+
+Discussion
+
+Compared with usual care, participants with MDD whose antidepressant was selected using the PETRUSHKA tool had a reduced risk by approximately 40% of discontinuing their antidepressant during the first 8 weeks of treatment.
+
+The primary outcome was selected in consultation with people with lived experience. It is a pragmatic measure of effectiveness, combining efficacy and tolerability and reflecting a range of features, including lack of clinical improvement, concerns about adverse events, and failure to perceive a benefit.28 For mental health disorders, staying on a treatment for a longer time can be considered a success in as much as it leads to greater reductions in symptoms, fewer hospitalizations, or improved quality of life.29-31 However, all-cause treatment discontinuation is not a direct and specific measure of efficacy or tolerability per se. Thus, we supplemented all-cause discontinuation (primary outcome) with an evaluation of individual clinical outcomes of efficacy, safety, quality of life, and treatment adherence (secondary outcomes) at 8 and 24 weeks.
+
+We found that the PETRUSHKA tool was more effective than usual care when used in primary care in Brazil and the UK compared with in a psychiatric setting in Canada. A psychiatrist’s experience with a wider range of antidepressants and knowledge about specific mechanisms of action may allow them to better tailor antidepressant treatment.32 We cannot generalize these findings because we recruited patients in secondary care only from one academic hospital.33 However, our results suggest that the use of the PETRUSHKA tool could be ideally placed in clinical settings where MDD is managed by other clinicians at community hospitals and specialist outpatient clinics (neurology and cardiology clinics or another specialty), in low-resource or rural areas, and in low- and middle-income countries.
+
+To our knowledge, the PETRUSHKA tool is the first coproduced, evidence-based, shared-decision support system to personalize treatment in depression.34 We systematically reviewed the available literature using study-level and individual-patient data from multiple sources to make predictions for relative antidepressant effects.35 We developed a bespoke approach to analyze information from randomized evidence and real-world data, combining individual-patient data network meta-regression and prognostic modeling,8 while using both machine learning and traditional statistical models.15 We then combined our predictions with individual patient preferences to calculate an overall recommendation score for each antidepressant based on multicriteria decision analysis.10
+
+When calculating the sample size for the trial, we hypothesized an absolute between-group difference of 15%. Starting from an all-cause discontinuation rate of 35% across all antidepressants,24 we expected the PETRUSHKA tool to reduce the discontinuation rate to 20% (corresponding to an RR of 0.42). In the current trial, the all-cause discontinuation rate was 17% (rather than hypothesized 15%) in the PETRUSHKA group and 28% (rather than the hypothesized 35%) in the usual care group, reducing the observed absolute between-group difference to about 11%. Notwithstanding this smaller difference in absolute rates, the RR reduction of 0.38 was close to the originally hypothesized RR reduction of 0.42, and this difference does not affect our clinical interpretation of the findings.
+
+We do not know if the favorable results with use of the PETRUSHKA tool are due to the prediction (ie, the recommended treatment is actually a better match for the patient), the elicitation of patient preferences (ie, patients may be more motivated to continue the prescribed medicine if they are informed and actively involved in its selection), or a combination of both. A factorial design would be needed to assess separate and combined effects of prediction and personalization, which would have required a substantially larger sample size. There is a growing trend of incorporating the patient perspective into clinical management and health care decision-making, which may improve care and reduce costs.36 However, most clinical decisions—especially in mental health—are still made by physicians with little input from patients.37 Interactive web-based tools (such as PETRUSHKA), which combine clinical evidence with individual preferences, can reduce conflict and better prepare individuals for decision-making.38 It is crucial to develop and validate clinical decision support tools that are simple to implement, transparent, and credible.39
+
+In this trial, we demonstrated that antidepressant treatment can be optimized for individuals by using sociodemographic and clinical predictors. Recent studies have shown that pharmacogenomics can improve antidepressant response and reduce adverse effects in MDD.40,41 Polygenic scores can also contribute useful information about risk.42 Advanced DNA sequencing technologies now exist, which are suitable for use in low-resource environments, and return results in less than 72 hours.43 Hence, pharmacogenomic variants and polygenic scores can provide timely individual-level information (especially about adverse effects) that can be used to further personalize treatments.44,45 Moreover, they could help identify patient subgroups with specific molecular characteristics that can inform animal model studies and ultimately support drug discovery in neuroscience.46
+
+Limitations
+
+This study has some limitations. First, we used an open design for patients and clinicians. A double-blind trial would have been, in theory, the best study design to address our research question.47 However, it was not ethically possible to do so because the PETRUSHKA tool would have produced personalized recommendations, whereas the placebo tool would have produced random recommendations that could have harmed the participants. We extensively engaged with people with lived experiences of depression, ethicists, and international experts in the field and decided that usual care was the best comparator for this study. To reduce the risk of ascertainment bias of an unblinded design, assessors and statisticians were not aware of treatment allocation. However, when evaluating mood and anxiety symptoms, we found that the observer-rated scales did not find any meaningful between-group difference at 24 weeks, whereas the self-rated questionnaires did find meaningful between-group differences. This apparent discrepancy is not unique to mental health.48,49 However, self-rating scales provide important additional information for therapy evaluation that is different from information from observer ratings because they measure the patient’s perception of their own illness and recovery in a more holistic way.50 Another issue related to the lack of blinding is the possibility of disappointment effects.51 Patients volunteering to participate in a trial of personalized treatment selection who were then assigned to usual care may be more likely to discontinue treatment and experience poorer outcomes than they would have experienced outside the trial.
+
+Second, we used individual rather than cluster randomization. However, we did not find any evidence of contamination (eg, different antidepressants recommended in the 2 groups) at the end of the trial.
+
+Third, the PETRUSHKA tool did not include information about all available antidepressants. We contacted pharmaceutical companies for patient-level data but did not receive data for some of the drugs (eg, reboxetine) and only a small amount of data for other drugs (eg, sertraline). We hope that the positive results from the current trial will encourage researchers and industry to share all available evidence about antidepressants so that future versions of the tool will include information on all the drugs used in clinical practice.
+
+Fourth, we focused only on acute treatment with antidepressant monotherapy. This is clinically important because the sooner antidepressant treatment is optimized, the sooner patients can benefit from treatment.52 However, we did not include other effective interventions, such as psychotherapy, and the consequences of antidepressant treatment beyond the acute phase should also be considered, especially when patients are taking drugs with potential metabolic or cardiovascular adverse effects (mirtazapine or amitriptyline).53
+
+Fifth, we recruited participants from 3 countries with different health care systems, increasing the external validity of our findings, but the racial majority was composed of White participants.
+
+Sixth, there was a lot of missing information for the secondary outcomes. We contacted participants, clinicians, and recruiting sites to retrieve missing information; however, due to the real-world design of the trial, we were mainly able to retrieve additional data for the outcomes at 8 weeks. Multiple imputation and sensitivity analyses were performed and the results were in line with the primary findings; however, we cannot exclude the possibility that the benefit of the PETRUSHKA tool reduces over time.
+
+Seventh, we acknowledge the limited interpretability of how specific demographic and clinical characteristics are combined with individual preferences, leading to different antidepressant recommendations, and may be a concern for clinicians and patients. To address this potential barrier to adoption of digital technology,39 we presented real clinical scenarios in which changing participant’s characteristics or preferences changed the ranking of the recommended antidepressants (eTable 12 in Supplement 2).
+
+Conclusions
+
+Compared with usual care, use of the PETRUSHKA tool increased the number of patients still taking their antidepressant at 8 weeks and improved depressive and anxiety symptoms at 24 weeks. However, lack of a double-blind design and the large amount of missing data limit the validity of these results.
+
+Article Information
+
+Accepted for Publication: February 2, 2026.
+
+Published Online: March 4, 2026. doi:10.1001/jama.2026.1327
+
+Corresponding Author: Andrea Cipriani, MD, PhD, Department of Psychiatry, Warneford Hospital, University of Oxford, Oxford OX3 7JX, England (andrea.cipriani@psych.ox.ac.uk).
+
+Author Contributions: Drs A. Cipriani, Williams, and Ostinelli and Mr Mort had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Concept and design: A. Cipriani, Mulsant, Efthimiou, Elgarf, Liu, Haque, Potts, Ede, Fox, Liboni, Simon, Furukawa, Naci, Ostinelli.
+
+Acquisition, analysis, or interpretation of data: A. Cipriani, Fernandes, Mulsant, Efthimiou, Williams, Mort, Liu, Fox, Nesi Cavicchioli, Smith, Zangani, Li, Taylor, Husain, M. Cipriani, Carpaneze Dalaqua, Leite, Aliano Gâmbaro, Nabhan Silveira, Manfredin Vila, Liboni Cavicchioli, Ostinelli.
+
+Drafting of the manuscript: A. Cipriani.
+
+Critical review of the manuscript for important intellectual content: Fernandes, Mulsant, Efthimiou, Williams, Mort, Elgarf, Liu, Haque, Potts, Ede, Fox, Liboni, Nesi Cavicchioli, Simon, Smith, Zangani, Li, Taylor, Husain, M. Cipriani, Carpaneze Dalaqua, Leite, Aliano Gâmbaro, Nabhan Silveira, Manfredin Vila, Liboni Cavicchioli, Furukawa, Naci, Ostinelli.
+
+Statistical analysis: A. Cipriani, Efthimiou, Williams, Mort, Liu, Li, Leite.
+
+Obtained funding: A. Cipriani.
+
+Administrative, technical, or material support: A. Cipriani, Elgarf, Haque, Potts, Ede, Fox, Nesi Cavicchioli, Simon, Smith, Zangani, Li, Taylor, M. Cipriani, Ostinelli.
+
+Supervision: A. Cipriani, Mulsant, Ostinelli.
+
+Conflict of Interest Disclosures: Dr A. Cipriani reported receiving grants from the National Institute for Health and Care Research (NIHR), NIHR Oxford and Thames Valley Applied Research Collaboration, NIHR Oxford Health Biomedical Research, Oxford Cognitive Health, Angelini Pharma, and Wellcome Trust and receiving personal fees from INCiPiT (Italian Network for Paediatric Trials), the CARIPLO Foundation, Lundbeck, Angelini Pharma, and Teva. Dr Mulsant reported receiving funding from the Labatt Family Chair in the Biology of Depression in Late Life (University of Toronto); receiving grants from the CAMH Foundation, Bell Canada, Brain Canada, the Canadian Institutes of Health Research, the Patient-Centered Outcomes Research Institute, the National Institutes of Health, the Medical Psychiatry Alliance (a Canadian collaborative partnership between the Centre for Addiction and Mental Health, the Hospital for Sick Children, Trillium Health Partners, and the University of Toronto), and HAPPYneuron (software used in a study founded by Brain Canada); and receiving personal fees from the University of Toronto. Dr Efthimiou reported receiving support from the Swiss National Science Foundation. Dr Williams reported receiving grants from the NIHR and the CAMH Foundation. Ms Elgarf reported receiving personal fees from Angelini Pharma. Dr Nesi Cavicchioli reported receiving personal fees from Adium and Apsen. Dr Simon reported receiving institutional grant support from the Vienna Science and Technology Fund, the European Commission, the NIHR, and the Austrian Science Fund and receiving personal fees from the European Brain Council. Dr Li reported having a patent pending for the PETRUSHKA tool. Dr Husain reported receiving grants from Compass Pathfinder Ltd and having stock options with Mindset Pharma Inc. Dr Furukawa reported receiving personal fees from Daiichi Sankyo, DT Axis, Micron, Shionogi, SONY, and UpToDate; receiving a grant from DT Axis; and having a patent pending, a patent issued, and having licensed intellectual properties for Kokoro app to DT Axis. Dr Naci reported receiving grants from the NIHR, UK Research and Innovation, the European Commission, the National Institute for Health Care Management Foundation, and the Commonwealth Fund and receiving personal fees from the World Health Organization, Arnold Ventures, and BMJ. Dr Ostinelli reported being supported by the NIHR Oxford and Thames Valley Applied Research Collaboration and receiving personal fees from Angelini Pharma. No other disclosures were reported.
+
+Funding/Support: This study was sponsored by the University of Oxford and was funded by the National Institute for Health and Care Research as part of research professorship grant RP-2017-08-ST2-006 (awarded to Dr A. Cipriani). This trial and the antidepressants included in the PETRUSHKA tool are based on research using anonymized clinical trial data from Angelini Pharma, Eli Lilly, GSK, Lundbeck, and Servier that was made available directly to Dr A. Cipriani or through Vivli Inc.
+
+Role of the Funder/Sponsor: The funder and sponsor had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Group Information: The members of the PETRUSHKA Team appear in Supplement 3.
+
+Disclaimers: The views expressed in this article are those of the authors and not necessarily those of the UK National Health Service, the National Institute for Health and Care Research, or the UK Department of Health and Social Care. The pharmaceutical companies (Angelini Pharma, Eli Lilly, GSK, Lundbeck, and Servier) and Vivli Inc did not contribute or approve any part of the PETRUSHKA project and they are not in any way responsible for the results of the trial and the contents of this publication.
+
+Data Sharing Statement: See Supplement 4.
+
+Additional Contributions: We thank all participants, their relatives and caregivers, the outcome assessors, the trial steering committee (chair: Gemma Lewis, PhD, University College London), the external ethics advisory committee, the scientific advisers, and the data safety and monitoring board (chair: Simon Gilbody, PhD, DSc, University of York). We also thank the following for their specific contributions to the design, development, and conduct of the PETRUSHKA trial: all the members of the PETRUSHKA Patient and Public Involvement, Engagement and Participation team; all the staff at the NIHR Oxford Health Clinical Research Facility; Pritti Aggarwal, MB, MedEd (University of Southampton); Nadeem Ahmed, MD (New Reading Primary Care Network, Melrose Hourse Surgery); Aris Angelis, MSc, PhD (London School of Economics); Rosario Aronica, MD, and Eduarda Batista, MBBS (both with Oxford Health NHS Foundation Trust); Rachel Delahay, BA, Andrea Paggi, MD, and Nicola Rizzopesci, MD (all with NIHR Oxford Clinical Research Facility, Oxford Health NHS Foundation Trust); James Bennett, MB BS (Wareham Surgery); Ruth Carson, SEN, RMN (NIHR Thames Valley and South Midlands Clinical Research Network); Jithen Benjamin, BSc, MSc (NIHR Thames Valley and South Midlands Clinical Research Network, Oxford University Hospitals NHS Foundation Trust); Ian Binnian, MBChB (Eynsham Medical Group); Ian Brockhurst (Pinfold Medical Practice); Michael Browning, DPhil, MBBS, Franco De Crescenzo, MD, DPhil, John R. Geddes, MD, and Ilina Singh, PhD (all with Department of Psychiatry, University of Oxford); Matthew Bundock, MBBS (Langham Place Surgery); Helen Collins, PhD, MBA (Oxford University Hospitals NHS Foundation Trust); Johanna Cook, BA Hons, MSc, Lazarina Engonidou, MSc, BSc, Arradea Triesty Adinda, BA Hons, MSc, and Ly-Mee Yu, MSc, PhD (all with Nuffield Department of Primary Health Care, University of Oxford); Rafia Deader, BM (University Health Service); Hannah Ferrington, MBChB (White Horse Medical Practice); Julia Hippsley-Cox, MD (Queen Mary University of London); Claire Hombersley, MBBS (Swanage Medical Practice); James Hong, MSc (Psychiatric Res), MBA, BSc, Rachel Shaw, BA Hons, Katherine Stevens, MA Hons, and Anneka Tomlinson, BSc Hons, MA (Oxon), PhD (all with Oxford Precision Psychiatry Lab, Department of Psychiatry, University of Oxford); Owen Hughes, BMBS, MChem (Cripps Health Centre); Matt Jaquiery, PhD (Department of Computer Science, University of Oxford); Kyle Knox, MB ChB, BSc Hons (Summertown Group Practice); Rina Miah, MBBS (Haven Surgery); Thomas Morgan (Knutsford Medical Partnership); Cacilda Peixoto Arthur (Camberley Health Centre); Pippa Sealy (Chawton Park Surgery); Neetul Shah, BSc, MBBS (Iver Medical Centre); Rebecca Sinfield, MBChB (St George’s Medical Centre); Jaimini Tanna, MBBS (Belmont Health Centre); Nicola Turner, BSc, BM (Hall Practice); Laurence Wainwright, PhD (School of Geography, University of Oxford); Matthew Wallard, MD (Gosford Hill Medical Centre); Nick Wooding, MA (Oxon) (St Bartholomew and Hollow Way Medical Practice); Stefan Kloiber, MD, Daniel Mueller, MD, PhD, Helena K. Kim, MD, Brett D. M. Jones, MD, MSc, and Abigail Ortiz, MD (all with the Centre for Addiction and Mental Health and Department of Psychiatry, University of Toronto); Andréa N. Colado Simões, PhD, Gabriela G. Tassi, MD, Giulia G. A. Ramos, MD, Rafael S. A. Haber, MD, Stéphanie P. Araújo, MD, Raul H. M. Santos, Caio C. S. Martins, Amanda P. Oliveira, and Isadora L. Gobbi, MD (all with Londrina State University); Paulo R. Bignardi, PhD, Augusto B. Liboni, Bianca B. P. Fernandes, Renato C. Jacovetti, Bruna G. Camargo, João Pedro de Vasconcelos, Carolina B. N. Rodrigues, Letícia F. R. Silva, BSc, and Vitor F. Tomazini, BSc (all with Pontifical Catholic University of Paraná); and Georgia Salanti, PhD (University of Bern). These individuals did not receive any direct compensation for their contributions.
+
+References
+1.
+GBD 2021 Forecasting Collaborators.  Burden of disease scenarios for 204 countries and territories, 2022-2050: a forecasting analysis for the Global Burden of Disease Study 2021. ﻿  Lancet. 2024;403(10440):2204-2256. doi:10.1016/S0140-6736(24)00685-8PubMedGoogle ScholarCrossref
+2.
+National Institute for Health and Care Excellence. Depression in adults: treatment and management. Published June 29, 2022. Accessed July 11, 2025. https://www.nice.org.uk/guidance/ng222
+3.
+de Oliveira Costa  J﻿, Gillies  MB﻿, Schaffer  AL﻿, Peiris  D﻿, Zoega  H﻿, Pearson  SA﻿.  Changes in antidepressant use in Australia: a nationwide analysis (2015-2021). ﻿  Aust N Z J Psychiatry. 2023;57(1):49-57. doi:10.1177/00048674221079740PubMedGoogle ScholarCrossref
+4.
+Tomlinson  A﻿, Furukawa  TA﻿, Efthimiou  O﻿,  et al.  Personalise Antidepressant Treatment for Unipolar Depression Combining Individual Choices, Risks and Big Data (PETRUSHKA): rationale and protocol. ﻿  Evid Based Ment Health. 2020;23(2):52-56. doi:10.1136/ebmental-2019-300118PubMedGoogle ScholarCrossref
+5.
+Kalfas  M﻿, Tsapekos  D﻿, Butler  M﻿,  et al.  Incidence and nature of antidepressant discontinuation symptoms: a systematic review and meta-analysis. ﻿  JAMA Psychiatry. 2025;82(9):896-904. doi:10.1001/jamapsychiatry.2025.1362
+ArticlePubMedGoogle ScholarCrossref
+6.
+Keyhani  S﻿, Madden  E﻿, Cheng  EM﻿,  et al.  Risk prediction tools to improve patient selection for carotid endarterectomy among patients with asymptomatic carotid stenosis. ﻿  JAMA Surg. 2019;154(4):336-344. doi:10.1001/jamasurg.2018.5119
+ArticlePubMedGoogle ScholarCrossref
+7.
+Olofsson Bagge  R﻿, Mikiver  R﻿, Marchetti  MA﻿,  et al.  Population-based validation of the MIA and MSKCC tools for predicting sentinel lymph node status. ﻿  JAMA Surg. 2024;159(3):260-268. doi:10.1001/jamasurg.2023.6904
+ArticlePubMedGoogle ScholarCrossref
+8.
+Efthimiou  O﻿, Seo  M﻿, Chalkou  K﻿, Debray  T﻿, Egger  M﻿, Salanti  G﻿.  Developing clinical prediction models: a step-by-step guide. ﻿  BMJ. 2024;386:e078276. doi:10.1136/bmj-2023-078276PubMedGoogle ScholarCrossref
+9.
+Sheu  YH﻿, Magdamo  C﻿, Miller  M﻿, Das  S﻿, Blacker  D﻿, Smoller  JW﻿.  AI-assisted prediction of differential response to antidepressant classes using electronic health records. ﻿  NPJ Digit Med. 2023;6(1):73. doi:10.1038/s41746-023-00817-8PubMedGoogle ScholarCrossref
+10.
+Ostinelli  EG﻿, Jaquiery  M﻿, Liu  Q﻿,  et al; PETRUSHKA Team.  Personalising Antidepressant Treatment for Unipolar Depression Combining Individual Choices, Risks and Big Data: the PETRUSHKA Tool: personnalisation du traitement antidépresseur de la dépression unipolaire associant choix individuels, risques et mégadonnées: l’outil PETRUSHKA. ﻿  Can J Psychiatry. 2025;70(10):768-781. doi:10.1177/07067437251322399PubMedGoogle ScholarCrossref
+11.
+World Medical Association.  World Medical Association Declaration of Helsinki: ethical principles for medical research involving human participants. ﻿  JAMA. 2025;333(1):71-74. doi:10.1001/jama.2024.21972
+ArticlePubMedGoogle ScholarCrossref
+12.
+Hopewell  S﻿, Chan  AW﻿, Collins  GS﻿,  et al.  CONSORT 2025 statement: updated guideline for reporting randomized trials. ﻿  JAMA. 2025;333(22):1998-2005. doi:10.1001/jama.2025.4347
+ArticlePubMedGoogle ScholarCrossref
+13.
+Lewis  G﻿, Pelosi  AJ﻿, Araya  R﻿, Dunn  G﻿.  Measuring psychiatric disorder in the community: a standardized assessment for use by lay interviewers. ﻿  Psychol Med. 1992;22(2):465-486. doi:10.1017/S0033291700030415PubMedGoogle ScholarCrossref
+14.
+De Crescenzo  F﻿, Garriga  C﻿, Tomlinson  A﻿,  et al.  Real-world effect of antidepressants for depressive disorder in primary care: protocol of a population-based cohort study. ﻿  Evid Based Ment Health. 2020;23(3):122-126. doi:10.1136/ebmental-2020-300149PubMedGoogle ScholarCrossref
+15.
+Liu  Q﻿, Salanti  G﻿, De Crescenzo  F﻿,  et al.  Development and validation of a meta-learner for combining statistical and machine learning prediction models in individuals with depression. ﻿  BMC Psychiatry. 2022;22(1):337. doi:10.1186/s12888-022-03986-0PubMedGoogle ScholarCrossref
+16.
+Chevance  A﻿, Tomlinson  A﻿, Ravaud  P﻿,  et al.  Important adverse events to be evaluated in antidepressant trials and meta-analyses in depression: a large international preference study including patients and healthcare professionals. ﻿  Evid Based Ment Health. 2022;25(e1):e41-e48. doi:10.1136/ebmental-2021-300418PubMedGoogle ScholarCrossref
+17.
+Veal  C﻿, Tomlinson  A﻿, Cipriani  A﻿,  et al.  Heterogeneity of outcome measures in depression trials and the relevance of the content of outcome measures to patients: a systematic review. ﻿  Lancet Psychiatry. 2024;11(4):285-294. doi:10.1016/S2215-0366(23)00438-8PubMedGoogle ScholarCrossref
+18.
+Kroenke  K﻿, Spitzer  RL﻿, Williams  JB﻿.  The PHQ-9: validity of a brief depression severity measure. ﻿  J Gen Intern Med. 2001;16(9):606-613. doi:10.1046/j.1525-1497.2001.016009606.xPubMedGoogle ScholarCrossref
+19.
+Spitzer  RL﻿, Kroenke  K﻿, Williams  JB﻿, Löwe  B﻿.  A brief measure for assessing generalized anxiety disorder: the GAD-7. ﻿  Arch Intern Med. 2006;166(10):1092-1097. doi:10.1001/archinte.166.10.1092
+ArticlePubMedGoogle ScholarCrossref
+20.
+Hamilton  M﻿.  A rating scale for depression. ﻿  J Neurol Neurosurg Psychiatry. 1960;23(1):56-62. doi:10.1136/jnnp.23.1.56PubMedGoogle ScholarCrossref
+21.
+Hamilton  M﻿.  The assessment of anxiety states by rating. ﻿  Br J Med Psychol. 1959;32(1):50-55. doi:10.1111/j.2044-8341.1959.tb00467.xPubMedGoogle ScholarCrossref
+22.
+Posner  K﻿, Brown  GK﻿, Stanley  B﻿,  et al.  The Columbia-Suicide Severity Rating Scale: initial validity and internal consistency findings from three multisite studies with adolescents and adults. ﻿  Am J Psychiatry. 2011;168(12):1266-1277. doi:10.1176/appi.ajp.2011.10111704PubMedGoogle ScholarCrossref
+23.
+Devlin  NJ﻿, Brooks  R﻿.  EQ-5D and the EuroQol group: past, present and future. ﻿  Appl Health Econ Health Policy. 2017;15(2):127-137. doi:10.1007/s40258-017-0310-5PubMedGoogle ScholarCrossref
+24.
+Cipriani  A﻿, Furukawa  TA﻿, Salanti  G﻿,  et al.  Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. ﻿  Lancet. 2018;391(10128):1357-1366. doi:10.1016/S0140-6736(17)32802-7PubMedGoogle ScholarCrossref
+25.
+Localio  AR﻿, Margolis  DJ﻿, Berlin  JA﻿.  Relative risks and confidence intervals were easily computed indirectly from multivariable logistic regression. ﻿  J Clin Epidemiol. 2007;60(9):874-882. doi:10.1016/j.jclinepi.2006.12.001PubMedGoogle ScholarCrossref
+26.
+Norton  EC﻿, Miller  MM﻿, Lawrence  CK﻿.  Computing adjusted risk ratios and risk differences in Stata. ﻿  Stata J. 2013;13(3):492-509. doi:10.1177/1536867X1301300304Google ScholarCrossref
+27.
+Little  RJA﻿, Rubin  DB﻿.  Statistical Analysis With Missing Data. 2nd ed. J Wiley; 2002. doi:10.1002/9781119013563
+28.
+Lieberman  JA﻿, Stroup  TS﻿, McEvoy  JP﻿,  et al; Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE) Investigators.  Effectiveness of antipsychotic drugs in patients with chronic schizophrenia. ﻿  N Engl J Med. 2005;353(12):1209-1223. doi:10.1056/NEJMoa051688PubMedGoogle ScholarCrossref
+29.
+Pradier  MF﻿, McCoy  TH  Jr﻿, Hughes  M﻿, Perlis  RH﻿, Doshi-Velez  F﻿.  Predicting treatment dropout after antidepressant initiation. ﻿  Transl Psychiatry. 2020;10(1):60. doi:10.1038/s41398-020-0716-yPubMedGoogle ScholarCrossref
+30.
+Cleare  AJ﻿, Kerr-Gaffney  J﻿, Goldsmith  K﻿,  et al; LQD Study Group.  Clinical and cost-effectiveness of lithium versus quetiapine augmentation for treatment-resistant depression: a pragmatic, open-label, parallel-group, randomised controlled superiority trial in the UK. ﻿  Lancet Psychiatry. 2025;12(4):276-288. doi:10.1016/S2215-0366(25)00028-8PubMedGoogle ScholarCrossref
+31.
+Davis  SM﻿, Stroup  TS﻿, Koch  GG﻿, Davis  CE﻿, Rosenheck  RA﻿, Lieberman  JA﻿.  Time to all-cause treatment discontinuation as the primary outcome in the Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE) Schizophrenia Study. ﻿  Stat Biopharm Res. 2011;3(2):253-265. doi:10.1198/sbr.2011.10013PubMedGoogle ScholarCrossref
+32.
+De Crescenzo  F﻿, De Giorgi  R﻿, Garriga  C﻿,  et al.  Real-world effects of antidepressants for depressive disorder in primary care: population-based cohort study. ﻿  Br J Psychiatry. 2024;226(5):1-10.PubMedGoogle Scholar
+33.
+Rathnam  S﻿, Hart  KL﻿, Sharma  A﻿,  et al.  Heterogeneity in antidepressant treatment and major depressive disorder outcomes among clinicians. ﻿  JAMA Psychiatry. 2024;81(10):1003-1009. doi:10.1001/jamapsychiatry.2024.1778
+ArticlePubMedGoogle ScholarCrossref
+34.
+Singh  MK﻿, Thase  ME﻿.  Current progress in targeted pharmacotherapy to treat symptoms of major depressive disorder: moving from broad-spectrum treatments to precision psychiatry. ﻿  CNS Spectr. 2025;30(1):e16. doi:10.1017/S1092852925000094PubMedGoogle ScholarCrossref
+35.
+Liu  Q﻿, Ostinelli  EG﻿, De Crescenzo  F﻿,  et al.  Predicting outcomes at the individual patient level: what is the best method? ﻿  BMJ Ment Health. 2023;26(1):e300701. doi:10.1136/bmjment-2023-300701PubMedGoogle ScholarCrossref
+36.
+Jackson  Y﻿, Janssen  E﻿, Fischer  R﻿,  et al.  The evolving role of patient preference studies in health-care decision-making, from clinical drug development to clinical care management. ﻿  Expert Rev Pharmacoecon Outcomes Res. 2019;19(4):383-396. doi:10.1080/14737167.2019.1612242PubMedGoogle ScholarCrossref
+37.
+Gurtner  C﻿, Lohrmann  C﻿, Schols  JMGA﻿, Hahn  S﻿.  Shared decision making in the psychiatric inpatient setting: an ethnographic study about interprofessional psychiatric consultations. ﻿  Int J Environ Res Public Health. 2022;19(6):3644. doi:10.3390/ijerph19063644PubMedGoogle ScholarCrossref
+38.
+Hopkin  G﻿, Au  A﻿, Collier  VJ﻿, Yudkin  JS﻿, Basu  S﻿, Naci  H﻿.  Combining multiple treatment comparisons with personalized patient preferences: a randomized trial of an interactive platform for statin treatment selection. ﻿  Med Decis Making. 2019;39(3):264-277. doi:10.1177/0272989X19835239PubMedGoogle ScholarCrossref
+39.
+O’Dell  B﻿, Stevens  K﻿, Tomlinson  A﻿, Singh  I﻿, Cipriani  A﻿.  Building trust in artificial intelligence and new technologies in mental health. ﻿  Evid Based Ment Health. 2022;25(2):45-46. doi:10.1136/ebmental-2022-300489PubMedGoogle ScholarCrossref
+40.
+Oslin  DW﻿, Lynch  KG﻿, Shih  MC﻿,  et al; PRIME Care Research Group.  Effect of pharmacogenomic testing for drug-gene interactions on medication selection and remission of symptoms in major depressive disorder: the PRIME Care randomized clinical trial. ﻿  JAMA. 2022;328(2):151-161. doi:10.1001/jama.2022.9805
+ArticlePubMedGoogle ScholarCrossref
+41.
+Bousman  CA﻿, Stevenson  JM﻿, Ramsey  LB﻿,  et al.  Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2D6, CYP2C19, CYP2B6, SLC6A4, and HTR2A genotypes and serotonin reuptake inhibitor antidepressants. ﻿  Clin Pharmacol Ther. 2023;114(1):51-68. doi:10.1002/cpt.2903PubMedGoogle ScholarCrossref
+42.
+Wray  NR﻿, Lin  T﻿, Austin  J﻿,  et al.  From basic science to clinical application of polygenic risk scores: a primer. ﻿  JAMA Psychiatry. 2021;78(1):101-109. doi:10.1001/jamapsychiatry.2020.3049
+ArticlePubMedGoogle ScholarCrossref
+43.
+Satam  H﻿, Joshi  K﻿, Mangrolia  U﻿,  et al.  Next-generation sequencing technology: current trends and advancements. ﻿  Biology (Basel). 2023;12(7):997. doi:10.3390/biology12070997PubMedGoogle ScholarCrossref
+44.
+Wang  X﻿, Su  Y﻿, Liu  Q﻿,  et al.  Unveiling diverse clinical symptom patterns and neural activity profiles in major depressive disorder subtypes. ﻿  EBioMedicine. 2025;116:105756. doi:10.1016/j.ebiom.2025.105756PubMedGoogle ScholarCrossref
+45.
+Comai  S﻿, Manchia  M﻿, Bosia  M﻿,  et al.  Moving toward precision and personalized treatment strategies in psychiatry. ﻿  Int J Neuropsychopharmacol. 2025;28(5):pyaf025. doi:10.1093/ijnp/pyaf025PubMedGoogle ScholarCrossref
+46.
+Grant  CW﻿, Delaney  K﻿, Jackson  LE﻿,  et al.  Comprehensive characterization of antidepressant pharmacogenetics: a systematic review of studies in major depressive disorder. ﻿  Clin Transl Sci. 2025;18(6):e70255. doi:10.1111/cts.70255PubMedGoogle ScholarCrossref
+47.
+Baum  ML﻿, Widge  AS﻿, Carpenter  LL﻿, McDonald  WM﻿, Cohen  BM﻿, Nemeroff  CB﻿; American Psychiatric Association (APA) Workgroup on Biomarkers and Novel Treatments.  Pharmacogenomic clinical support tools for the treatment of depression. ﻿  Am J Psychiatry. 2024;181(7):591-607. doi:10.1176/appi.ajp.20230657PubMedGoogle ScholarCrossref
+48.
+Pepe  M﻿, Bartolucci  G﻿, Marcelli  I﻿,  et al.  The patient’s perspective on the effects of intranasal esketamine in treatment-resistant depression. ﻿  Brain Sci. 2023;13(10):1494. doi:10.3390/brainsci13101494PubMedGoogle ScholarCrossref
+49.
+Ostinelli  EG﻿, Schulze  M﻿, Zangani  C﻿,  et al.  Comparative efficacy and acceptability of pharmacological, psychological, and neurostimulatory interventions for ADHD in adults: a systematic review and component network meta-analysis. ﻿  Lancet Psychiatry. 2025;12(1):32-43. doi:10.1016/S2215-0366(24)00360-2PubMedGoogle ScholarCrossref
+50.
+Möller  HJ﻿.  Standardised rating scales in psychiatry: methodological basis, their possibilities and limitations and descriptions of important rating scales. ﻿  World J Biol Psychiatry. 2009;10(1):6-26. doi:10.1080/15622970802264606PubMedGoogle ScholarCrossref
+51.
+Lindström  D﻿, Sundberg-Petersson  I﻿, Adami  J﻿, Tönnesen  H﻿.  Disappointment and drop-out rate after being allocated to control group in a smoking cessation trial. ﻿  Contemp Clin Trials. 2010;31(1):22-26. doi:10.1016/j.cct.2009.09.003PubMedGoogle ScholarCrossref
+52.
+Simon  GE﻿, Moise  N﻿, Mohr  DC﻿.  Management of depression in adults: a review. ﻿  JAMA. 2024;332(2):141-152. doi:10.1001/jama.2024.5756
+ArticlePubMedGoogle ScholarCrossref
+53.
+Pillinger  T﻿, Arumuham  A﻿, McCutcheon  RA﻿,  et al.  The effects of antidepressants on cardiometabolic and other physiological parameters: a systematic review and network meta-analysis. ﻿  Lancet. 2025;406(10515):2063-2077. doi:10.1016/S0140-6736(25)01293-0PubMedGoogle ScholarCrossref
+
+View Full Text Download PDF
+X
+JAMA
+CONTENT
+Home New Online Current Issue
+PODCASTS
+Coronavirus (COVID-19) Q&A Clinical Reviews Editors' Summary Medical News Author Interviews JAMAevidence: JAMA Guide to Statistics and Methods JAMAevidence: The Rational Clinical Examination JAMAevidence: Users' Guides to the Medical Literature
+JOURNAL INFORMATION
+For Authors JAMA Editors Editors & Publishers RSS Contact Us
+JN Learning / CME Store Apps Jobs Institutions Reprints & Permissions
+Subscribe
+Go
+JAMA Network
+PUBLICATIONS
+JAMA Network Home Our Publications
+SITES
+Art and Images in Psychiatry Evidence-Based Medicine: An Oral History Fishbein Fellowship Genomics and Precision Health JAMA Forum Archive Topics and Collections War and Health
+USPSTF RECOMMENDATION STATEMENTS
+Primary Care Behavioral Counseling Interventions to Support Breastfeeding Screening for Food Insecurity Screening for Osteoporosis to Prevent Fractures Screening and Supplementation for Iron Deficiency and Iron Deficiency Anemia During Pregnancy Interventions for High Body Mass Index in Children and Adolescents Interventions to Prevent Falls in Community-Dwelling Older Adults Screening for Breast Cancer Primary Care Interventions to Prevent Child Maltreatment Screening for Speech and Language Delay and Disorders in Children
+INFORMATION
+For Authors For Institutions & Librarians For Advertisers For Subscription Agents For Employers & Job Seekers For the Media Online Commenting Policy Public Access and Open Access Policy Statement on Offensive Content
+JAMA NETWORK PRODUCTS
+AMA Manual of Style AMA Style Insider JAMA Network CME JAMAevidence Peer Review Congress
+Help
+Subscriptions & Renewals Manage Emails Update My Address Support Center My Account
+JAMA CAREER CENTER
+Physician Job Listings
+       
+ 
+
+© 2026 American Medical Association. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+Terms of Use| Privacy Policy| Accessibility Statement| Cookie Settings

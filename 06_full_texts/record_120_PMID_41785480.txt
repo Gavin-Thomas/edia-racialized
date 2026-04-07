@@ -1,0 +1,64 @@
+RECORD: #120
+PMID: 41785480
+PMCID: PMC12962988
+TITLE: The Safety, Efficacy, and Feasibility of Fecal Microbiota Transplantation in a Population With Bipolar Disorder During Depressive Episodes: A Pilot Parallel Arm Randomized Controlled Trial
+AUTHORS AND AFFILIATIONS:
+- Shahrokh Shekarriz (PhD) - McMaster University Dept. of Medicine; Farncombe Family Digestive Health Research Institute
+- Simone N. Vigod (MD, MSc, FRCPC) - Women's College Research Institute, Women's College Hospital, University of Toronto
+- Teresa Bianco (BA) - Princess Margaret Hospital, University Health Network, Toronto
+- Asem Bala (BDS, MSc) - University of Calgary Dept. of Psychiatry; Hotchkiss Brain Institute
+- Chenhui Hao (MSc) - University of Calgary Dept. of Psychiatry
+- Johane P. Allard (MD, FRCPC) - Toronto General Hospital, Division of Gastroenterology, University of Toronto
+- Susy Hota (MD, MSc, FRCPC) - University Health Network and Sinai Health, Toronto
+- Susan Poutanen (MD, MPH, FRCPC) - University Health Network and Sinai Health; University of Toronto
+- Michael G. Surette (PhD) - McMaster University Dept. of Medicine; Farncombe Family Digestive Health Research Institute
+- Valerie H. Taylor (MD, PhD, FRCPC) - University of Calgary Dept. of Psychiatry; Hotchkiss Brain Institute (corresponding author)
+TRIAL REGISTRATION: NCT03279224 (ClinicalTrials.gov)
+FUNDING: The Stanley Medical Research Institute (SMRI) grant (15T-009). The funder played no role in the design of the study and collection, analysis, and interpretation of data.
+
+METHODS:
+This phase 2/3 double-blind randomized controlled trial enrolled adults aged 18-65 years with diagnosed bipolar disorder (type I or II) experiencing depressive episodes. Participants received stable first-line treatment for >=8 weeks and had baseline Montgomery-Asberg Depression Rating Scale (MADRS) scores >=12.
+
+Study sites included three Canadian academic health centres: Women's College Hospital (recruitment), Sinai Health (FMT preparation), and University Health Network Toronto Western Hospital (FMT administration).
+
+Participants (n=35; 28 women, 7 men) were randomized 1:1 to receive either allogenic FMT from healthy donors (n=17) or autologous FMT using their own feces (n=18), administered via colonoscopy following standard bowel preparation with 4L polyethylene glycol solution.
+
+FMT preparation involved homogenizing 50g of feces with sterile saline and glycerol through microfilter separation, then aliquoting and freezing at -80C. Prior to colonoscopy, three thawed tubes (150g feces equivalent) were diluted to 300mL and delivered via six 50mL syringes: one in the terminal ileum and five in the cecum.
+
+Primary outcome measured MADRS score changes from baseline to 24-week endpoint. Secondary outcomes assessed Young Mania Rating Scale (YMRS), State-Trait Anxiety Inventory (STAI), Sheehan Disability Scale (SDS), and World Health Organization Brief Quality of Life Scale (WHOQOL-BREF). The Toronto Side Effects Scale (TSES) evaluated tolerability.
+
+Food intake was recorded for three days (baseline, week 12, week 24) using validated forms. Microbiota analysis utilized whole-genome shotgun metagenomic sequencing with taxonomic profiling via MetaPhlAn4 and functional annotation via HUMAnN3. Shannon and Bray-Curtis diversity indices were calculated.
+
+Statistical analysis employed paired t-tests for within-group changes, independent t-tests for between-group comparisons, and linear mixed models accounting for hierarchical MADRS data structure with random intercepts and slopes. Linear models assessed differential microbial abundance with false discovery rate adjustment (p<0.05).
+
+RESULTS:
+Of 75 screened participants, 35 were randomized (17 allogenic, 18 autologous). Thirty-two completed treatment and minimum one follow-up visit; 27 completed all assessments.
+
+Primary Outcome: Both groups showed significant MADRS improvement (allogenic: 16.7-point reduction, 95% CI 11.9-21.5; autologous: 15.4-point reduction, 95% CI 11.2-19.5; overall: 15.9-point reduction, p<0.001). No significant between-group difference existed (t=-0.47, p=0.64).
+
+Remission rates (MADRS <=7) among completers: 81.8% allogenic (9/11), 68.8% autologous (11/16); 74.1% overall (20/27). With Last Observation Carried Forward: 80% allogenic, 64.7% autologous, 71.9% overall.
+
+Linear mixed models confirmed significant MADRS decrease over time (beta=-2.3, p<0.001) with diminishing rate (quadratic term: beta=0.09, p=0.001), with no significant group differences.
+
+Secondary Outcomes: Significant within-group improvements across YMRS, STAI state/trait anxiety, SDS functional domains, and all WHOQOL domains; no significant between-group differences.
+
+Safety/Tolerability: No serious adverse events. TSES symptom severity decreased for nervousness, agitation, drowsiness, and fatigue (all p<0.01). Allogenic group showed significantly greater dyspepsia reduction versus autologous (frequency p=0.025, severity p=0.042).
+
+Microbiome Analysis (25 participants with complete data): Allogenic FMT recipients showed increased Phascolarctobacterium succinatutens at week 24 and enriched pathways for amino acid biosynthesis (histidine, lysine, valine, rhamnose). Autologous recipients showed transient increases in Oscillibacter sp., Ruminococcaceae sp., Lachnospira eligens, and Alistipes communis at week 12.
+
+Feasibility: Successful recruitment (only 10 eligible screened subjects not randomized); 84% completion rate (27/32 analyzed participants); low exclusion rate under modified intention-to-treat analysis.
+
+EDIA/EQUITY REPORTING:
+- Sex/Gender: 28 women and 7 men (approximately 78% female)
+- Age: Mean age 39 years (95% CI 34.4-43.6); range 18-65 years recruited
+- Bipolar Disorder Diagnosis: 28 participants with bipolar disorder I, 7 with bipolar disorder II
+- Race/Ethnicity: NOT REPORTED in participant descriptions
+- Socioeconomic status, education, Indigenous status, sexual orientation, gender identity, disability, and other equity variables: NOT REPORTED
+
+CANADIAN INVOLVEMENT:
+- Three Canadian academic health centres led the study: Women's College Hospital (Toronto), Sinai Health (Toronto), University Health Network Toronto Western Hospital
+- Canadian institutions: McMaster University (Hamilton, Ontario), Women's College Hospital (Toronto), University of Toronto, University of Calgary (Alberta)
+- Valerie H. Taylor (corresponding author) at University of Calgary
+- All authors affiliated with Canadian institutions
+- Health Canada regulatory approval: No Objection Letter (HC6-0240C201262)
+- Funding from Stanley Medical Research Institute (US-based); no specific Canadian funding agency mentioned

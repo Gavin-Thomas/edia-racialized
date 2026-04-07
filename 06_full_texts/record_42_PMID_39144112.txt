@@ -1,0 +1,65 @@
+RECORD: #42
+PMID: 39144112
+PMCID: PMC11207662
+TITLE: Add-on Sodium Benzoate and N-Acetylcysteine in Patients With Early Schizophrenia Spectrum Disorder: A Multicenter, Double-Blind, Randomized Placebo-Controlled Feasibility Trial
+AUTHORS AND AFFILIATIONS:
+- Muhammad Omair Husain (corresponding author) - Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada; Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada
+- Imran Bashir Chaudhry - Division of Psychology and Mental Health, University of Manchester, Manchester, UK; Department of Psychiatry, Ziauddin University, Karachi, Pakistan; Pakistan Institute of Living and Learning, Karachi, Pakistan
+- Ameer B Khoso - Pakistan Institute of Living and Learning, Karachi, Pakistan; Division of Population Health, Health Services Research and Primary Care, School of Health Sciences, Faculty of Biology, Medicine and Health, University of Manchester, UK
+- Muhammad Ishrat Husain - Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada; Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada
+- Moin Ahmed Ansari - Department of Psychiatry, Liaquat University of Medical and Health Sciences, Hyderabad, Pakistan
+- Nasir Mehmood - Karwan e Hayat, Institute for Mental Health Care, Karachi, Pakistan
+- Haider A Naqvi - Department of Psychiatry, Dow University Health Sciences, Karachi, Pakistan
+- Asad Tamizuddin Nizami - Institute of Psychiatry, WHO Collaborating Centre for Mental Health Research and Training, Rawalpindi Medical University, Rawalpindi, Pakistan
+- Uroosa Talib - Karwan e Hayat, Institute for Mental Health Care, Karachi, Pakistan
+- Aatir H Rajput - Department of Psychiatry, Liaquat University of Medical and Health Sciences, Hyderabad, Pakistan
+- Paul Bassett - StatsConsultancy, Amersham, UK
+- George Foussias - Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, ON, Canada; Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada
+- Bill Deakin - Division of Psychology and Mental Health, University of Manchester, Manchester, UK
+- Nusrat Husain - Division of Psychology and Mental Health, University of Manchester, Manchester, UK; Mersey Care NHS Foundation Trust, Prescott, UK; Institute of Population and Mental Health, University of Liverpool, Liverpool, UK
+TRIAL REGISTRATION: ClinicalTrials.gov: NCT03510741
+FUNDING: Pakistan Institute of Living and Learning
+
+METHODS:
+This is a 12-week double-blind clinical trial in which 68 adults with early schizophrenia spectrum disorder were randomized to: NaB plus placebo, NAC plus placebo, NaB plus NAC, or placebo plus placebo, added to standard treatment according to a 2 x 2 factorial design. A factorial design maximizes the number exposed to each drug, alone or in combination, vs those not exposed (main effects) while detecting benefits of combined treatment (interaction). The trial was registered on ClinicalTrials.gov (NCT03510741). Ethical approval was obtained from the National Bioethics Committee Pakistan (Approval Number: 4-87/NBC-282-Y2-Extension/19/1574). Local institutional approvals were obtained from all recruitment sites. Participants were recruited from major psychiatric units across major cities in Pakistan. Clinical staff from the participants' own mental health teams continued to provide care during the course of the study.
+
+Participants: Main inclusion criteria were male and female adults aged 18-35 years, with a diagnosis of schizophrenia confirmed by the Structured Clinical Interview for DSM-5 (SCID-5) criteria for schizophreniform disorder, schizophrenia, or schizoaffective disorder and within 5 years of onset of psychotic symptoms. Participants were required to be receiving mental health care at one of the participating sites, and have been on a stable dose of antipsychotic medication for the preceding 4 weeks. We did not stipulate a minimum PANSS score to establish eligibility. Participants of child-bearing age were required to use effective contraceptive precautions and a negative pregnancy test was required. Main exclusion criteria were a prior history of intolerance or serious side effects to NaB or NAC, concomitant use of ascorbic acid, DSM-5 substance use disorder (except nicotine or caffeine) within the last 3 months, DSM-5 moderate to severe intellectual disability, comorbid unstable physical health, pregnancy, or breast feeding.
+
+Interventions: A pharmaceutical manufacturer in Pakistan manufactured the placebo and created matching NaB and NAC by over-encapsulation. All participants took 2 capsules twice a day. NaB was administered at 1000 mg daily and NAC 1000 mg twice daily. Standard care of schizophrenia in Pakistan usually involves psychiatric follow-up and antipsychotic medication. Psychosocial interventions for schizophrenia are not routinely available in this setting. Changes in medication were permissible under the discretion of the participants' responsible clinician.
+
+Outcomes - Feasibility: (1) Recruitment rates, adherence (>80% medication as determined by pill counts), retention, and randomization. (2) Acceptability of the intervention (tolerance, reported side effects, and attrition rates). (3) Completeness of assessment tools and the assessment schedule.
+
+Clinical and Functional Assessments: SCID (baseline only), PANSS, CGI Scale-Severity, Social and Occupational Functioning Assessment Scale (SOFAS). Cognitive Assessments: The Stroop Test, Oral Fluency test (Categories), Coughlan Learning Task (verbal and visual).
+
+Randomization and Masking: All participants were allocated to 1 of the 4 study arms based on a list prepared by an independent trial statistician. Only the trial pharmacist had access to treatment allocation for emergency unblinding. The central trial pharmacist prepared bi-weekly packages bearing the participant name and ID number and sent it to the site pharmacy. Site pharmacy were blinded to treatment allocation.
+
+Statistical Analysis: Given the feasibility nature, the study was not powered for statistical significance. We planned a descriptive analysis for demographic and clinical variables. Outcome variables were analyzed using mixed (multilevel) regression models. The baseline values of each corresponding outcome were included as a covariate. The 4 groups were compared in a 1-way comparison at each time point. Main effects of NaB and NAC factors were also analyzed. No interaction analysis was planned due to lack of power. Analyses performed using Stata (version 15.1). We aimed to recruit at least 16 participants per group.
+
+RESULTS:
+A total of 355 patients were approached and assessed for eligibility between January 2019 and December 2020 (the Covid-19 pandemic significantly affected recruitment), of whom 119 met eligibility criteria and were invited for participation, 77 consented to participate and 68 (88%) were randomly assigned to the 4 treatment groups. At the 12-week visit, 15 (22%) had dropped out. Just over three-quarters (78%) remained in the study throughout. Of the 15 who dropped out, 7 (46%) were no longer contactable, 4 (27%) relocated to another city, and 4 (27%) withdrew consent.
+
+Demographics: Mean age between groups was comparable. There was a preponderance of females in 1 group. Majority of participants were married. Participants had between 5 and 7 years of education. Majority were prescribed atypical antipsychotic medication (n = 41; 60.3%) and none were receiving psychological interventions. There were 8 participants not taking any antipsychotic medication. Majority diagnosed with schizophrenia (n = 48; 70.6%).
+
+Medication adherence: All 53 participants who completed the trial took more than 80% of dispensed medication based on pill counts.
+
+Treatment efficacy: There largely were no statistically significant differences between the NaB and no NaB groups, with the exception of PANSS positive, where scores at 4 weeks were significantly higher in the NaB group (mean difference of 2.5 units). For NAC, significant differences were observed for CGI score at 2 weeks (lower in NAC group) and oral fluency at 12 weeks (lower in NAC group, mean difference 1.3 units). Side effects were similar across groups; most common were headaches, irritability, and agitation.
+
+EDIA/EQUITY REPORTING:
+Sex/Gender: Male 31 (45.6%), Female 37 (54.4%) - inclusion criteria specified "male and female adults aged 18-35 years"
+Age: Aged 18-35 years (inclusion criterion); median age 28 [IQR 24-33]
+Education: Participants had between 5 and 7 years of education; median 6.5 [0-10] years reported in demographic table
+Socioeconomic Status: Household income US dollars/month reported with median 53 [53-105]
+Marital Status: Single 31 (45.6%), Married 36 (52.9%), Separation/Divorced 1 (1.5%)
+Family Structure: Single family 40 (58.8%), Joint family 28 (41.2%)
+Race/Ethnicity: NOT EXPLICITLY REPORTED (study conducted entirely in Pakistan - homogeneous population implied)
+Other PROGRESS-Plus: NOT REPORTED (no reporting on Indigenous status, sexual orientation, gender identity, disability, rural/urban, immigration, language, religion)
+Note: This study was conducted in a low- and middle-income country (Pakistan) setting where psychosocial interventions are not routinely available, which itself represents an equity consideration.
+
+CANADIAN INVOLVEMENT:
+Canadian Authors:
+- Muhammad Omair Husain (corresponding author) - Centre for Addiction and Mental Health (CAMH), Toronto; University of Toronto
+- Muhammad Ishrat Husain - CAMH, Toronto; University of Toronto
+- George Foussias - CAMH, Toronto; University of Toronto
+Canadian Institution: Centre for Addiction and Mental Health (CAMH), Toronto appears to be the lead research institution
+Canadian Funding: No explicit Canadian funding agencies identified. Primary funding from Pakistan Institute of Living and Learning.
+Note: Study sites were all in Pakistan; Canadian involvement was through leadership/authorship from CAMH/University of Toronto researchers.

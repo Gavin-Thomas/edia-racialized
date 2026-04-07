@@ -1,0 +1,1440 @@
+Ther Adv Psychopharmacol 
+. 2016 May 1;6(4):237–251. doi: 10.1177/2045125316643674 
+
+ Search in PMC 
+
+ Search in PubMed 
+
+ View in NLM Catalog 
+
+ Add to search 
+
+A randomized, double-blind, cross-over, phase IV trial of oros-methylphenidate (CONCERTA ® ) and generic novo-methylphenidate ER-C (NOVO-generic)
+
+ Angelo Fallu 
+
+ Angelo Fallu 
+
+ 1 Clinique Woodward, 717, rue Woodward, DIEX Research Inc., Sherbrooke, QC, J1G 1W4, Canada
+
+Find articles by Angelo Fallu 
+
+ 1, ✉ , Farida Dabouz 
+
+ Farida Dabouz 
+
+ 2 FB2D Clinical Research Consulting, Montréal, Québec, Canada
+
+Find articles by Farida Dabouz 
+
+ 2 , Melissa Furtado 
+
+ Melissa Furtado 
+
+ 3 START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada
+
+Find articles by Melissa Furtado 
+
+ 3 , Leena Anand 
+
+ Leena Anand 
+
+ 4 START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada
+
+Find articles by Leena Anand 
+
+ 4 , Martin A Katzman 
+
+ Martin A Katzman 
+
+ 5 START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada
+
+ 6 The Northern Ontario School of Medicine, Thunder Bay, ON, Canada
+
+ 7 Department of Psychology, Lakehead University, Thunder Bay, ON, Canada
+
+ 8 University of Toronto, Toronto, ON, Canada
+
+ 9 Adler Graduate Professional School, Toronto ON, Canada
+
+Find articles by Martin A Katzman 
+
+ 5, 6, 7, 8, 9 
+
+ Author information 
+
+ Article notes 
+
+ Copyright and License information 
+
+ 1 Clinique Woodward, 717, rue Woodward, DIEX Research Inc., Sherbrooke, QC, J1G 1W4, Canada
+
+ 2 FB2D Clinical Research Consulting, Montréal, Québec, Canada
+
+ 3 START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada
+
+ 4 START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada
+
+ 5 START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada
+
+ 6 The Northern Ontario School of Medicine, Thunder Bay, ON, Canada
+
+ 7 Department of Psychology, Lakehead University, Thunder Bay, ON, Canada
+
+ 8 University of Toronto, Toronto, ON, Canada
+
+ 9 Adler Graduate Professional School, Toronto ON, Canada
+
+ ✉ 
+Email: cliniquewoodward@videotron.ca 
+
+Issue date 2016 Aug.
+
+© The Author(s), 2016
+
+ PMC Copyright notice 
+
+PMCID: PMC4971598  PMID: 27536342 
+
+Abstract
+
+Objective:
+
+Attention-deficit/hyperactivity disorder (ADHD) is a common neurobehavioral disorder with onset during childhood. Multiple aspects of a child’s development are hindered, in both home and school settings, with negative impacts on social, emotional, and cognitive functioning. If left untreated, ADHD is commonly associated with poor academic achievement and low occupational status, as well as increased risk of substance abuse and delinquency. The objective of this study was to evaluate adult ADHD subject reported outcomes when switched from a stable dose of CONCERTA ® to the same dose of generic Novo-methylphenidate ER-C ® .
+
+Methods:
+
+Randomized, double-blind, cross-over, phase IV trial consisted of two phases in which participants with a primary diagnosis of ADHD were randomized in a 1:1 ratio to 3 weeks of treatment with CONCERTA or generic Novo-Methylphenidate ER-C. Following 3 weeks of treatment, participants were crossed-over to receive the other treatment for an additional 3 weeks. Primary efficacy was assessed through the use of the Treatment Satisfaction Questionnaire for Medication, Version II (TSQM-II).
+
+Results:
+
+Participants with ADHD treated with CONCERTA were more satisfied in terms of efficacy and side effects compared to those receiving an equivalent dose of generic Novo-Methylphenidate ER-C. All participants chose to continue with CONCERTA treatment at the conclusion of the study.
+
+Conclusion:
+
+Although CONCERTA and generic Novo-Methylphenidate ER-C have been deemed bioequivalent, however the present findings demonstrate clinically and statistically significant differences between generic and branded CONCERTA. Further investigation of these differences is warranted.
+
+ Keywords: attention-deficit/hyperactivity disorder, bioequivalence, CONCERTA ® , generic, novo-methylphenidate
+
+Introduction
+
+Attention-deficit/hyperactivity disorder (ADHD) is a chronic neurobiological disorder, characterized by behavioral and cognitive deficits [ Biederman et al. 2009 ; Westerberg et al. 2010 ; Pazvantoglu et al. 2012 ] associated with significant impairment in psychological, occupational and social functioning in adults [ Biederman et al. 2005 , 2006 ; Kessler et al. 2006 ]. The literature has estimated prevalence rates of 5.3% in children and adolescents [ Polanczyk et al. 2007 ], and 3.4–4.4% in adults [ Kessler et al. 2006 ; Fayyad et al. 2007 ]. ADHD represents a significant economic burden to our society, such that in 2005 in the United States, the cost of the disorder was approximately US$36–52 billion [ Pelham et al. 2007 ]. Furthermore, ADHD results in an estimated loss of 143.8 million days of work productivity annually [ de Graaf et al. 2008 ].
+
+Despite the high prevalence, ADHD is largely under diagnosed among adults [ Faraone, 2004 ]. In part, the diagnosis of adult ADHD remains challenging for some clinicians as symptoms occurring in adulthood may differ from those observed in childhood. Moreover, for an accurate diagnosis to be made, clinicians are required to retrospectively review childhood histories for symptoms that would be diagnostic of childhood onset ADHD. The good clinician must account for the retrospective process, which is complicated by the vagaries of memory and recall of remote events. It is also essential to consider the possibility that adults with ADHD may have been able to compensate for their symptoms and thus may not have been diagnosed in childhood. Furthermore, in adults with ADHD, diagnosis can be made even more complicated by comorbid psychiatric and substance use disorders, which are often comorbid with ADHD [ Goodman and Thase, 2009 ].
+
+Despite the fact that ADHD is one of the most extensively studied psychological dysfunctions, it remains one of the most controversial, with concerns having been raised about the accelerating diagnosis [ Visser et al. 2014 ] the prescription of long- versus short-acting treatments [ Cascade et al. 2008 ], and the treatment goals and outcomes of ADHD [ Teeter, 2000 ].
+
+Although nonpharmacological treatments, including behavioral strategies, are recommended for assisting adults in managing their ADHD symptoms, stimulant therapy remains the mainstay of the pharmacologic treatment of ADHD [ Greenhill et al. 2001 ].
+
+Practice guidelines including the recently published Canadian ADHD Resource Alliance (CADDRA) guidelines [ CADDRA, 2011 ] are designed to facilitate diagnosis and treatment, but given the complicated presentation of most adults with ADHD, including multiple comorbidities, many recommendations for the management of adult ADHD are derived from clinical experience in the management of childhood ADHD [ Kolar et al. 2008 ; Weiss and Weiss, 2004 ].
+
+Current practice guidelines recommend a multimodal approach in the treatment of ADHD that includes educational, behavioral, mental health interventions, and pharmacological management. Stimulant medications, including methylphenidate (MPH) and amphetamine products are recommended as first-line pharmacotherapy in the treatment of ADHD, as well as atomoxetine [ CADDRA, 2011 ; NICE, 2008 ]. The choice of stimulant is influenced by several factors, with the most influential factor being duration of action, with long-acting medication increasing the likelihood of once-daily dosing [ Cascade et al. 2008 ], thereby eliminating mid-day dosing, which makes the treatment more private, avoids stigma, and improves adherence to medication.
+
+MPH is the most commonly prescribed and most frequently studied stimulant medication for this disorder [ Cox et al. 2004 ]. It has been widely shown to reduce overactivity [ Faraone et al. 2004 ], impulsivity [ Aron et al. 2003 ], inattentiveness [ Cox et al. 2004 ; Keulers et al. 2007 ], and to improve task behavior [ Bedard et al. 2004 ; Mehta et al. 2004 ; Murray et al. 2011 ], academic performance [ Dommet et al. 2008 ; Murray et al. 2011 ; Wigal et al. 2011 ], and social functioning [ Maoz et al. 2014 ; Yoo et al. 2009 ].
+
+OROS-MPH (brand name CONCERTA ® ) is the longest acting MPH currently available and has been approved for use in adults [ Janssen Inc., 2011 ]. With the loss of CONCERTA’s ® patent, novo-methylphenidate ER-C (ER-C), a generic methylphenidate-based product with a progressive delivery system, was approved in Canada as a generic alternative to CONCERTA ® [ van Stralen, 2013 ]. Bioequivalence studies have demonstrated that novo-methylphenidate ER-C can be prescribed for adult patients with ADHD, according to Health Canada criteria.
+
+Once a medication loses its patent it will be joined in the marketplace by multiple generic copies of the original branded medication, resulting in patients being switched from brand-name drugs to generics in an effort to keep healthcare costs down. Furthermore, in relation to variations in availability of specific generics, patients are often switched from one generic to another [ Rosenthal et al. 2008 ]. In 2004, antidepressants were purchased by 24.8 million people [ Stagnitti, 2007 ], and when considering these numbers alone, it is easy to understand why patients and their healthcare plan providers can certainly benefit from these approvals.
+
+Nonetheless, this process is not without consequences. Rosenthal and colleagues [ Rosenthal et al. 2008 ] and Van Ameringen and colleagues [ Van Ameringen et al. 2007 ] reported on mood and anxiety patients who were unknowingly switched to generic antidepressants and experienced new adverse events (AEs) or a re-emergence of their previously remitted symptoms. Gallelli and colleagues [ Gallelli et al. 2013 ] reported the use of generic medication as related to an increased time to relapse and therapeutic failure, demonstrating the decrease in efficacy, as well as increased risk of dose-dependent adverse effects.
+
+In addition, one generic form of Wellbutrin XL prompted a study by an independent laboratory and an investigation by the FDA and a removal of the medication from the marketplace [ FDA, 2013 ]. Symptom relapse with other generics, including generic fluoxetine [ Yu et al. 2004 ] and generic paroxetine ( Rosenthal et al. 2008 ), have also been reported.
+
+Perhaps this is related in part to the fact that evidence of efficacy is not required to release a generic form of brand-name medication to the market, but rather only bioequivalence (80–125% blood concentrations of the brand medication’s active compound) [ Borgheini, 2003 ; Meyer, 2001 ; Vergouwen and Bakker, 2002 ].
+
+Although the active ingredients of brand and generic medications are identical, generics may vary greatly in terms of the drugs incipients (or nonactive ingredients) which may affect a drug’s pharmacokinetics and ultimately, its effectiveness and tolerability [ Borgheini, 2003 ; Meyer, 2001 ; Vergouwen and Bakker, 2002 ]. This is further complicated by the fact that healthy volunteer subjects (often university age men) are used in studies that test bioequivalence, which may not be comparable with other populations, such as in postmenopausal women. Moreover, the sample size required for bioequivalence studies is typically small, in comparison to those required for medication approval studies, such that less than 60 individuals are often required [ Shen et al. 2015 ].
+
+As such, one can imagine that a switch to a generic form of a psychiatric medication (e.g. antidepressant, benzodiazepine, antipsychotic, mood stabilizer) maintaining a concentration of only 80% of the original brand, might lead to sudden changes in efficacy, resulting in increased risk of symptom relapse or withdrawal symptoms [ Borgheini, 2003 ; Meyer, 2001 ]. On the other hand, if a patient is switched to a generic medication maintaining 120% bioequivalence, this may result in a drastic increase of AEs [ Cassano and Fava, 2005 ; Vergouwen and Bakker, 2002 ], potentially leading to decreased compliance, likely resulting in the clinician misinterpreting the patients symptomatic presentation as worsening of symptoms [ Cassano and Fava, 2005 ; Vergouwen and Bakker, 2002 ].
+
+The objective of this study was to evaluate adult patient satisfaction when switched from a stable dose of CONCERTA ® to the same dose of the generic novo-methylphenidate ER-C.
+
+Methods
+
+Study design
+
+This randomized, double-blind, cross-over, single-center, phase IV trial consisted of two phases. The study was performed at DIEX Research Inc., in Sherbrooke, Québec from July to November 2010. After screening, eligible adults were randomized in a 1:1 ratio to 3 weeks of treatment with CONCERTA ® at their current daily dose (36–90 mg), or to generic novo-methylphenidate ER-C (NOVO-generic). After the first 3-week treatment period, patients were crossed over to receive the other treatment for an additional 3 weeks ( Figure 1 ). There was no washout between the two treatment periods. Patients were assessed at baseline at the end of each 3-week period of the study. The total study duration was 6–7 weeks from screening visit.
+
+Figure 1.
+
+ Open in a new tab 
+
+Study design.
+ 
+The randomization list was generated using SAS and was provided to the unblinded pharmacist, located outside of the investigator site, who prepared the study medication. In order to maintain the blind, the study drug CONCERTA® and the novo-methylphenidate ER-C was put into a white opaque capsule. Neither the investigator, research team, nor the subject knew the allocated treatment. Subjects were provided with the assigned medication based on the randomization number indicated on the prescription. Subjects were also instructed not to open the pill and to return nonused tablets in a sealed bag to the pharmacist for drug accountability.
+
+No formal sample size calculation was performed. Based on the ADHD available population 20 subjects were to be randomized. The study was designed as a crossover to gain the benefit of ‘subject as his own control’, considering 40 subjects instead of 20. The study was based on scientific initiative, not funded and the budget was accordingly limited. The study was conducted according to the Declaration of Helsinki and to the International Conference on Harmonization (ICH) guidelines on Good Clinical Practice. An independent Institutional Review Board (IRB) approved the study protocol. The study was conducted from July to November 2010 at Diex research center in Sherbrooke, Québec, Canada.
+
+Patients
+
+Inclusion criteria
+
+A total of 20 eligible adult patients (aged 18–55 years) with a primary diagnosis of adult ADHD, based on criteria outlined in the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) and confirmed via clinical interview and questionnaires, were included in the study. Patients must have been taking CONCERTA ® for more than 3 months, with a stable dose ranging from 36 to 90 mg, for at least 4 weeks, and have had a significant clinical benefit at the screening visit (CGI-Severity ⩽3).
+
+Exclusion criteria
+
+Any clinically unstable comorbid psychiatric condition including but not limited to the following: acute mood disorder, schizophrenia, bipolar disorder, obsessive–compulsive disorder (OCD) and personality disorder; a diagnosis of substance use disorder (abuse/dependence, excluding nicotine and caffeine) according to DSM-IV criteria within 6 months prior to screening evaluation; marked anxiety, tension, aggression or agitation; autism or Asperger’s syndrome; history of Tourette’s syndrome and/or presence of motor tics; hyperthyroidism, myocardial infarction or stroke in the 6 months prior to the screening visit; history or current seizure disorder, glaucoma or uncontrolled hypertension; angina pectoris or cardiac arrhythmias; current clinically significant gastrointestinal problems including severe narrowing of the gastrointestinal tract; current intake of other medication for ADHD, including but not limited to other psychostimulants, atomoxetine, modafinil or bupropion; current intake of benzodiazepines, antihistamines, dextromethorphan; or initiation of an ADHD-specific behavioral therapy within 8 weeks before the screening visit.
+
+Outcome measures
+
+Primary efficacy measure
+
+The primary efficacy endpoint was the change-over time of the Treatment Satisfaction Questionnaire for Medication, version II (TSQM-II) [ Atkinson et al. 2005 ] scores, which monitored patient satisfaction with treatment, in relation to ADHD symptomatic impairment in the patient’s life. The time frame was defined as Change from Screening to Visit 2, and to Visit 3 (End of Study or Early Discontinuation visit). TSQM-II is an 11-item self-administered scale, designed to measure the extent to which the patient is satisfied or dissatisfied with his/her medication on a 7-point visual analog scale, where 1 = extremely dissatisfied, 2 = very dissatisfied, 3 = dissatisfied, 4 = somewhat satisfied, 5 = satisfied, 6 = very satisfied, and 7 = extremely satisfied. It includes questions in four areas, including effectiveness, convenience, side effects and global satisfaction.
+
+Secondary efficacy measures
+
+Secondary efficacy endpoints included the change from screening to Visit 2, and to Visit 3 (End of Study or Early Discontinuation visit) for a number of measurements. All questionnaires were administered at Screening, Visit 2 and Visit 3 (end of study or early discontinuation visit). The CGI-I was administered only at Visit 2 and Visit 3 (end of study or early discontinuation visit).
+
+The Adult ADHD Quality of Life Questionnaire (AAQoL) [ Brod et al. 2005 ] is a self-administered scale, designed to measure the extent to which patient’s life is impaired by his/her symptoms on a 5-point visual analog scale, where 1 = not at all, 2 = a little, 3 = somewhat, 4 = a lot and 5 = extremely.
+
+The Adult ADHD Self-Report Scale (ASRS-1.1) [ Kessler et al. 2005 ] is a self-reported questionnaire, with 18 questions evaluating symptoms to be rated as: never, rarely, sometimes, often and very often. For the purpose of this study, two items were derived by calculating the mean of the following questions: attention (mean of questions 1, 2, 3, 4, 7, 8, 9, 10, 11) and hyperactivity/impulsivity (mean of questions 5, 6, 12, 13, 14, 15, 16, 17, 18).
+
+The Sheehan Disability Scale (SDS) [ Sheehan, 1983 ] is a self-administered scale designed to measure the extent to which patient’s work, social life or leisure activities and home life or family responsibilities are impaired by his/her symptoms on a 10-point visual analog scale, where 0 = not at all, (1, 2,3) = mildly, (4, 5, 6) = moderately, (7, 8, 9) = markedly, 10 = extremely.
+
+The Quality of Life Enjoyment and Satisfaction Questionnaire- Short Form (Q-LES-Q-SF) [ Endicott et al. 1993 ] is a 16-item self-report questionnaire assessing quality of life enjoyment and satisfaction questionnaire rated from 1 to 5, where 1 = very poor, 2 = poor, 3 = fair, 4 = good and 5 = very good. Total scores are calculated through the first 14 summate items; the last two items about medication and overall life satisfaction are considered independently.
+
+The 36 Item Short Form Survey (SF-36) [ Ware and Sherbourne, 1992 ] is a multipurpose survey with 36 questions; it yields an 8-scale profile of functional health and well-being scores, psychometrically based physical and mental health summary measures and a preference-based health index.
+
+Clinical Global Impression-Improvement (CGI-I) [ Guy, 1976 ] is a subscale of CGI, rated on a 7-point scale in which 1 = very much improved, 2 = much improved, 3 = minimally improved, 4 = no change, 5 = minimally worse, 6 = much worse and 7 = very much worse.
+
+Clinical Global Impression-Severity (CGI-S) [ Guy, 1976 ] is also a subscale of CGI, rated on a 7-point scale in which the investigator was required to rate the severity of the patient’s illness where: 1 = normal, not at all ill; 2 = borderline mentally ill; 3 = mildly ill; 4 = moderately ill; 5 = markedly ill; 6 = severely ill; 7 = extremely ill.
+
+Safety measures
+
+Safety assessments included monitoring AEs and concomitant medications. Subjects were excluded from the study if they presented with comorbid condition or risk of suicide. Although no specific suicidality instruments were utilized in this study, a thorough screening for suicidality was undertaken as part of the routine mood and anxiety assessment at each study visit. No suicidality was reported or detected in study subjects throughout the duration of the study and follow up.
+
+Statistical analysis
+
+Data was collected and entered into an Excel database. A quality control was performed to ensure data accuracy and integrity. Further to database ‘lock’, the randomization code was opened for statistical analysis. Data analysis was performed using SAS version 9.2.
+
+Continuous data was summarized using descriptive statistics [ n , mean, standard deviation (SD), median, min and max]. Categorical variables were summarized using frequency and per cent. Summary tables were used to present patient population, demographic data as well as baseline characteristics.
+
+The intent-to-treat population included all randomized patients with at least one evaluation post screening, during the double-blind phase or at time of discontinuation. A linear mixed effects analysis of variance model, including treatment, period and sequence as fixed effect and patient as random effect, was used for the primary efficacy analysis. All efficacy tests were conducted as two-sided and at the significance level of 0.05. No imputation of missing data was performed for the primary endpoint. The same analysis model was used for secondary endpoints. As per protocol, no adjustment for multiple comparisons was made. The safety population included all patients who were randomized and treated with at least one dose of study treatment.
+
+Results
+
+Demographics and baseline characteristics
+
+The study enrolled 20 patients, which included 11 female patients and 9 male patients with a median age of 45.5 years (range 25–53 years). A total of six male and four female patients were randomized to group CONCERTA ® /novo-MPH while three male and seven female patients were randomized to group novo-MPH/CONCERTA ® . All 20 patients were randomized to treatment, but 6 (30%) withdrew prematurely during the treatment period; 4 in the CONCERTA ® /novo-MPH group and 2 in the novo-MPH/CONCERTA ® group. All of these patients had their evaluations performed at screening as well as at the time of discontinuation; except for one patient who had his/her end-of-study evaluations performed 2 weeks after the end of treatment. Therefore, the population considered in the efficacy analysis included 19 patients. Five discontinuations occurred while subjects were receiving novo-MPH and one subject withdrew consent.
+
+A total of 16 patients were diagnosed with combined ADHD and four were diagnosed with inattentive ADHD. ADHD subtypes were balanced between the two groups. Eleven patients had no past conditions. Depression was reported as a past condition in three patients, adjustment disorder associated with depression in one patient, anxiety in two patients and burnout in one patient. Current conditions reported included anxiety and affective mood disorder.
+
+Patients had been previously treated with ADHD medication for a median duration of 24 months. When treated with CONCERTA ® the median duration was 18.5 months, and when treated with CONCERTA ® at a fixed dose (median dose of 63 mg), the duration was 11.5 months. During the study, patients were exposed to CONCERTA ® for a mean of 20 days and to novo-MPH for a mean of 17 days. A total of 5 out of 20 patients were treated with CONCERTA ® 36 mg, in accordance with their usual dose before study.
+
+In terms of baseline characteristics in relation to disease treatment duration under CONCERTA ® , and disease severity, no difference was seen between the two groups. ADHD subtypes were balanced between the two groups at baseline.
+
+Efficacy analysis
+
+The aim of the study was to determine subject satisfaction when treated with CONCERTA ® or novo-MPH, toward those subjects already treated with CONCERTA ® , and was not aimed to compare the efficacy of the two treatments. The main analyses were to determine a difference between the baseline (Screening) and the post-treatment scores in subjects receiving CONCERTA ® when a switch to novo-MPH was made. For each treatment group and for efficacy parameters, the analyses were conducted on the change from Baseline after 3 weeks of treatment. As exploratory analyses, the two treatment groups were also compared.
+
+Primary efficacy analysis
+
+Questions 1 and 2 of the TSQM-II describe the effectiveness of treatment. At screening, the median score of effectiveness was 66.6%, ranging from 50% to 83.3%. As shown in Table 1 , in CONCERTA ® the change from baseline is not statistically significant ( p = 0.5852), meaning that patients that were already treated with CONCERTA ® continue to be satisfied with their treatment effectiveness, even though patients were ‘blinded’ to treatment. For the novo-MPH group, the difference from baseline was statistically significant ( p < 0.0037), a decrease in satisfaction with treatment effectiveness. This was also confirmed by the statistically significant difference ( p = 0.0433) in favor of CONCERTA ® over novo-MPH.
+
+Table 1.
+
+Treatment Satisfaction Questionnaire for Medication, version II (TSQM-II): effectiveness.
+
+ Randomization group
+
+ CONCERTA ® 
+ N = 17
+
+ Novo-MPH N = 19
+
+ Effectiveness
+
+  Mean ± SD
+
+ 59.3 ±19.72
+
+ 39 ± 22.6
+
+   Median
+
+ 66.6
+
+ 41.6
+
+  Min-Max
+
+ 8.3–91.6
+
+ 0–83.3
+
+ Effectiveness –change from screening
+
+  Mean ± SD
+
+ −3.9±18.6
+
+ −23.6 ± 36.8
+
+  Median
+
+ −8.3
+
+ −33.3
+
+  Min-Max
+
+ −33.3–50
+
+ −83.3–66.7
+
+ p value versus screening
+
+ 0.5852 (NS)
+
+ 0.0037
+
+ p value between treatment
+
+ 0.0433
+
+ Open in a new tab 
+
+NS, nonsignificant; SD, standard deviation.
+
+Satisfaction with respect to treatment side effects was scored using questions 4-6 of the TSQM-II. Questions 4–6 describe the discontentment that patients had with the treatment due to its side effects (i.e. the extent to which side effects interfere with patient’s physical health, mental function and mood/emotions) and were rated from 1 (extremely dissatisfied) to 5 (not at all dissatisfied). When patients received CONCERTA ® , they were slightly dissatisfied with side effects; however, this decrease in score was not statistically significant ( p = 0.1252). In contrast, when the same patients were treated with novo-MPH, they were very dissatisfied with the treatment’s side effects, as evidenced by a significant decrease in score ( p = 0.0001).
+
+As a result of exploratory analysis, the treatment comparison showed that patients were significantly more dissatisfied by side effects with novo-MPH than with CONCERTA ® ( p = 0.0321 between treatment groups, Table 2 ).
+
+Table 2.
+
+Treatment Satisfaction Questionnaire for Medication, version II (TSQM-II): side effects.
+
+ Randomization group
+
+ CONCERTA ® 
+ N = 17
+
+ Novo-MPH N = 19
+
+ Side effects (Q4–Q6)
+
+  Mean ± SD
+
+ 83.8 ± 23.4
+
+ 60.9 ± 31.9
+
+  Median
+
+ 91.6
+
+ 66.6
+
+  Min-Max
+
+ 8.3–100
+
+ 0–100
+
+ Side effects: change from screening
+
+  Mean ± SD
+
+ −11.3 ± 25.3
+
+ −33.7 ± 30.6
+
+  Median
+
+ 0
+
+ −25
+
+  Min-Max
+
+ −91.7–16.7
+
+ −100–0
+
+ p value versus screening
+
+ 0.1252 (NS)
+
+ 0.0001
+
+ p value between treatments
+
+ 0.0321
+
+ Open in a new tab 
+
+NS, nonsignificant; SD, standard deviation.
+
+Questions 7–9 of the TSQM-II describe the convenience of using medications and are rated from 1 (extremely dissatisfied) to 7 (extremely satisfied). No statistically significant difference was found for the change from baseline within each group, neither between the two treatments, confirming that both treatments were presented identically to maintain the blind ( Table 3 ).
+
+Table 3.
+
+Treatment Satisfaction Questionnaire for Medication, version II (TSQM-II): convenience.
+
+ Randomization group
+
+ CONCERTA ® 
+ N = 17
+
+ Novo-MPH N = 19
+
+ Convenience (Q7–Q9)
+
+  Mean ± SD
+
+ 74.4 ±18.5
+
+ 77.1 ± 13.8
+
+  Median
+
+ 77.7
+
+ 77.7
+
+  Min-Max
+
+ 16.6–100
+
+ 55.5–100
+
+ Convenience: change from screening
+
+  Mean ± SD
+
+ −1.3 ± 22.7
+
+ 2.1 ± 19.3
+
+  Median
+
+ 0
+
+ 0
+
+  Min-Max
+
+ −66.7 – 50
+
+ −27.8 – 44.4
+
+ p value versus screening
+
+ 0.9114 (NS)
+
+ 0.6258 (NS)
+
+ p value between treatments
+
+ 0.4361 (NS)
+
+ Open in a new tab 
+
+NS, nonsignificant; SD, standard deviation.
+
+Questions 10 and 11 of the TSQM-II describe global satisfaction with medication and are rated from 1 (extremely dissatisfied) to 7 (extremely satisfied). Patients reported a statistically significant decrease ( p = 0.0004) in global satisfaction after 3 weeks treatment with novo-MPH and no statistically significant difference when treated with CONCERTA ® ( Table 4 ).
+
+Table 4.
+
+Treatment Satisfaction Questionnaire for Medication, version II (TSQM-II): global satisfaction.
+
+ Randomization group
+
+ CONCERTA ® 
+ N = 17
+
+ Novo-MPH N = 19
+
+ Global satisfaction (Q10 and Q11)
+
+  Mean ± SD
+
+ 60.2 ±26.3
+
+ 41.2 ± 27.2
+
+  Median
+
+ 66.6
+
+ 33.3
+
+  Min-Max
+
+ 0–100
+
+ 0–91.6
+
+ Global satisfaction: change from screening
+
+  Mean ± SD
+
+ −13.2 ± 31.2
+
+ −32.5 ± 29.9
+
+  Median
+
+ 0
+
+ −33.3
+
+  Min-Max
+
+ −83.3–50
+
+ −83.3–8.4
+
+ p value versus screening
+
+ 0.1015 (NS)
+
+ 0.0004
+
+ p value between treatments
+
+ 0.0791 (NS)
+
+ Open in a new tab 
+
+NS, nonsignificant; SD, standard deviation.
+
+The overall satisfaction with study medication was in favor of CONCERTA ® ; however, the difference with novo-MPH was not statistically significant ( p = 0.0791). This result confirmed the trends seen in measures of effectiveness of the medication and in the degree of side effect interference on physical health, ability of functioning, mental functions, mood and emotions. See Table 4 .
+
+Secondary efficacy analysis
+
+CGI
+
+CGI-S was rated by the patient and by the investigator at Screening and after 3 weeks of each treatment period. CGI-I was only rated by the investigator and after 3 weeks of each treatment period. During treatment with CONCERTA ® , the disease severity was rated by the patient between 1 and 6 (median 3 = mildly ill) whereas when taking novo-MPH treatment, disease severity was rated between 1 and 6 (median 4 = moderately ill). When treated with CONCERTA ® the median score of change from baseline was 0; subjects did not see any change from screening in the severity of their disease ( p = 0.16). However, when treated with novo-MPH, the median change is 1, such that the severity increased by 1 unit when compared with screening ( p = 0.0007; i.e. when they were treated with their usual treatment CONCERTA ® ). No statistical significance between CONCERTA ® and novo-MPH was demonstrated in disease severity when rated by subjects ( p = 0.0789). This trend in change from baseline was also seen when the investigator rated severity. When treated with CONCERTA ® , the disease severity was rated by the investigator between 2 and 6 (median 2 = borderline mentally ill), while when taking novo-MPH treatment disease severity was rated between 2 and 6 (median 4 = moderately ill).
+
+When rated by the investigator, the change of disease severity was statistically different ( p = 0.0100, Table 5 ).
+
+Table 5.
+
+Clinical Global Impression-Severity (CGI-S): disease severity rated by patients and investigators.
+
+ Randomization group
+
+ CONCERTA ® 
+ N = 17
+
+ Novo-MPH N = 19
+
+ Patient-rated 
+
+ CGI-S
+
+  Mean ± SD
+
+ 3.0 ± 1.2
+
+ 3.8 ± 1.4
+
+  Median
+
+ 3
+
+ 4
+
+  Min-Max
+
+ 1–6
+
+ 1–6
+
+ CGI-S: change from screening
+
+  Mean ± SD
+
+ 0.5 ±1.1
+
+ 1.3± 1.4
+
+  Median
+
+ 0
+
+ 1
+
+  Min-Max
+
+ −1–4
+
+ −1–4
+
+ p value versus screening
+
+ 0.16 (NS)
+
+ 0.0007
+
+ p value between treatments
+
+ 0.0789
+
+ Investigator-rated 
+
+ CGI-I
+
+  Mean ± SD
+
+ 2.8 ± 1.1
+
+ 4.1 ± 1.4
+
+  Median
+
+ 2
+
+ 4
+
+  Min-Max
+
+ 2–6
+
+ 2–6
+
+ CGI-I: change from screening
+
+  Mean ± SD
+
+ 0.5 ± 1.1
+
+ 1.8 ± 1.5
+
+  Median
+
+ 0
+
+ 1
+
+  Min-Max
+
+ 0–4
+
+ 0–4
+
+ p value versus screening
+
+ 0.1710 (NS)
+
+ <0.0001
+
+ p value between treatments
+
+ 0.0100
+
+ Open in a new tab 
+
+NS, nonsignificant; SD, standard deviation.
+
+The investigator rated the global improvement (CGI-I) at the end of each treatment period. No comparison versus screening was done as CGI-I was collected only during the treatment. The mean scores were significantly more favorable for CONCERTA ® 
+ versus novo-MPH (mean ± SD 4.3 ± 1.1 versus 5.3 ± 1.0, respectively, p = 0.0412 using χ 2 ). See Table 5 .
+
+SDS
+
+The SDS was used to assess functional impairment in four inter-related domains: work/school, social and family life, and global functioning. For each domain, subjects treated with novo-MPH showed a statistically significant increased in functional impairment comparing with baseline. In particular, more subjects had their social life disrupted by the ADHD symptoms when treated with novo-MPH compared to CONCERTA ® ( p = 0.0428). Subjects also reported higher impairment in work/school, social and family life, and global functioning, when treated with novo-MPH. See Table 6 .
+
+Table 6.
+
+Sheehan Disability Scale (SDS) domains.
+
+ Randomization group
+
+ CONCERTA ® N = 17
+
+ Novo-MPH N = 19
+
+ p -value between treatments
+
+ Work/school 
+
+ 0.1189 (NS)
+
+ Mean baseline value (± SD)
+
+ 2.8 (± 2.8)
+
+ 5.1 (± 3.2)
+
+ Change from screening (± SD)
+
+ 0.25 (± 3.1)
+
+ 2.2 (± 3.8)
+
+  Median
+
+ 0
+
+ 2
+
+  Min-Max
+
+ −6–7
+
+ −8–8
+
+   p value versus screening
+
+ 0.7754 (NS)
+
+ 0.0191
+
+ Social life 
+
+ 0.0428
+
+ Mean baseline value (± SD)
+
+ 1.7 (± 2.5)
+
+ 4.0 (± 2.9)
+
+ Change from screening (± SD)
+
+ 0.0 (± 2.6)
+
+ 2.3 (± 3.4)
+
+  Median
+
+ 0
+
+ 2
+
+  Min-Max
+
+ −6–6
+
+ −3–10
+
+   p value versus screening
+
+ 0.9978 (NS)
+
+ 0.0057
+
+ Family life/home responsibilities 
+
+ 0.1334 (NS)
+
+ Mean baseline value (± SD)
+
+ 2.5 (± 2.9)
+
+ 4.4 (± 3.1)
+
+ Change from screening (± SD)
+
+ 0.5 (± 3.1)
+
+ 2.2 (± 3.2)
+
+  Median
+
+ 0
+
+ 2
+
+  Min-Max
+
+ −6–6
+
+ −3–9
+
+   p value versus screening
+
+ 0.5002 (NS)
+
+ 0.0089
+
+ Global functioning impairment 
+
+ 0.0644 (NS)
+
+ Mean baseline value (± SD)
+
+ 7.1 (± 7.8)
+
+ 13.7 (± 8.3)
+
+ Change from screening (± SD)
+
+ 0.9 (± 8.5)
+
+ 6.8 (± 10.0)
+
+  Median
+
+ 0
+
+ 5.5
+
+  Min-Max
+
+ −18–19
+
+ −14–23
+
+   p value versus screening
+
+ 0.3053 (NS)
+
+ 0.0011
+
+ Open in a new tab 
+
+NS, nonsignificant; SD, standard deviation.
+
+Q-LES-Q-SF
+
+When treated with CONCERTA ® , subject satisfaction and overall satisfaction were maintained at baseline levels. After 3 weeks of novo-MPH treatment, subject satisfaction and overall satisfaction decreased to scores of 3.4 and 3, respectively, showing that subjects were neither unsatisfied nor satisfied. These decreases were statistically significant ( p = 0.0004 and p = 0.0005, respectively) with novo-MPH and the differences between the two treatments were also significant in favor of CONCERTA ® ( p = 0.0443 and p = 0.0400, respectively).
+
+ASRS-1.1
+
+When treated with CONCERTA ® , subjects reported a slight increase in their level of inattentive symptoms and a decrease in their level of hyperactivity/impulsiveness compared with baseline; however, these differences were not statistically significant ( p = 0.7573 and p = 0.3532, respectively). When treated with novo-MPH, subjects experienced a significant increase in their level of inattentive symptoms ( p = 0.0039), while there was a slight decreased of hyperactivity/impulsiveness that was not statistically significant ( p = 0.3245). The results of exploratory analysis showed that subjects were more attentive when treated with CONCERTA ® , as the difference between groups was statistically significant ( p = 0.0267). There was no statistically significant difference between groups for hyperactivity/impulsivity.
+
+AAQoL
+
+This questionnaire includes 4 subscales (29 questions) on Life Productivity, Psychological Health, Life Outlook and Relationship and is rated using a 5-point Likert scale. For each subscale, the analysis showed a statistically significant decrease (worsening) of symptoms under novo-MPH. Life Outlook showed a statistically significant difference between the two treatments ( p = 0.0446). The total AAQoL median score decreased significantly with novo-MPH ( p = 0.0015) compared with baseline. The difference between the groups was not significant ( p = 0.1237). See Table 7 .
+
+Table 7.
+
+The Adult ADHD Quality of Life Questionnaire (AAQoL).
+
+ CONCERTA ® 
+ N = 17
+
+ Novo-MPH N = 19
+
+ p value between treatments
+
+ Life productivity 
+
+ 0.0958 (NS)
+
+ Mean baseline value (± SD)
+
+ 73.2 (± 24.8)
+
+ 58.8 (± 20.6)
+
+ Change from screening (± SD)
+
+ −3.9 (± 22.2)
+
+ −17.1 (± 21.4)
+
+  Median
+
+ 0
+
+ −13.6
+
+  Min-Max
+
+ −70.5–27.3
+
+ −63.6–18.2
+
+   p value versus screening
+
+ 0.4853 (NS)
+
+ 0.0045
+
+ Psychological health 
+
+ 0.4187 (NS)
+
+ Mean baseline value (± SD)
+
+ 69.2 (± 20.9)
+
+ 61.6 (± 20.6)
+
+ Change from screening (± SD)
+
+ −3.9 (± 22.2)
+
+ −16.9 (± 20.9)
+
+  Median
+
+ 0
+
+ −16.6
+
+  Min-Max
+
+ −70.5–27.3
+
+ −66.6–20.8
+
+   p value versus screening
+
+ 0.0551 (NS)
+
+ 0.0043
+
+ Life outlook 
+
+ 0.0446
+
+ Mean baseline value (± SD)
+
+ 72.8 (± 20.9)
+
+ 59.9 (± 18.7)
+
+ Change from screening (± SD)
+
+ −5.6 (± 13.4)
+
+ −18.9 (± 21.4)
+
+ Median
+
+ −3.6
+
+ −7.1
+
+ Min-Max
+
+ −50–14.3
+
+ −54.2–10.7
+
+ p value versus screening
+
+ 0.5002 (NS)
+
+ 0.0004
+
+ Relationship 
+
+ 0.4556 (NS)
+
+ Mean baseline value (± SD)
+
+ 75.7 (± 22.7)
+
+ 71.1 (± 20.3)
+
+ Change from screening (± SD)
+
+ −3.1 (± 20.3)
+
+ −7.8 (± 16.5)
+
+  Median
+
+ −0
+
+ −5
+
+  Min-Max
+
+ −60–21
+
+ −40–20
+
+   p value versus screening
+
+ 0.5057 (NS)
+
+ 0.0865 (NS)
+
+ Total score 
+
+ 0.1237 (NS)
+
+ Mean baseline value (± SD)
+
+ 72.7 (± 20.9)
+
+ 62.8 (± 16.0)
+
+ Change from screening (± SD)
+
+ −5.9 (± 17.7)
+
+ −15.2 (± 16.1)
+
+  Median
+
+ −2.6
+
+ −10.7
+
+  Min-Max
+
+ −62.8–10.3
+
+ −48.2–9.1
+
+   p value versus screening
+
+ 0.1802 (NS)
+
+ 0.0015
+
+ Open in a new tab 
+
+NS, nonsignificant; SD, standard deviation.
+
+SF-36
+
+A statistically significant difference was seen between CONCERTA ® and novo-MPH for question 2 ( p = 0.0400), question 3 ( p = 0.0420) and question 5 ( p = 0.0189).
+
+Safety analysis
+
+AEs reported by the subjects were collected during the course of the trial. Information on AE duration, seriousness, severity, relationship with study medication and outcome were also collected and analyzed.
+
+Five subjects reported 10 AEs not related to study drug. Details are presented in Table 8 . Five subjects withdrew upon switching to novo-MPH during period 1 or 2. One subject withdrew consent. A total of 17 subjects reported 77 AEs, 10 of which were deemed unrelated to study treatment. The most commonly reported AEs with novo-MPH were: ADHD exacerbation (59%, 10/17), fatigue (29%, 5/17), nausea (18%, 3/17) and dizziness (18%, 4/17). Further details on AEs experienced with novo-MPH are provided in Table 8 . When treated with CONCERTA ® , the most common AEs were fatigue, ADHD exacerbation, and irritability (13%, 2/16 for each).
+
+Table 8.
+
+Related adverse events by treatment.
+
+ Description
+
+ CONCERTA ® ( N = 16)
+
+ MPH ( N  = 17)
+
+ ADHD exacerbation 
+
+ 2
+
+ 10
+
+ Anxiety increase 
+
+ 1
+
+ 1
+
+ Appetite loss 
+
+ 0
+
+ 3
+
+ Bowel movement increase 
+
+ 0
+
+ 1
+
+ Cephalalgia 
+
+ 0
+
+ 2
+
+ Cephalalgia increase 
+
+ 1
+
+ 1
+
+ Concentration lack 
+
+ 0
+
+ 1
+
+ Depression symptoms 
+
+ 0
+
+ 1
+
+ Depressive mood 
+
+ 0
+
+ 1
+
+ Diaphoresis 
+
+ 0
+
+ 1
+
+ Diarrhea 
+
+ 0
+
+ 1
+
+ Dizziness 
+
+ 0
+
+ 4
+
+ Drop in blood pressure 
+
+ 0
+
+ 1
+
+ Dry mouth 
+
+ 0
+
+ 2
+
+ Eye dryness (both eyes) 
+
+ 0
+
+ 1
+
+ Fatigue 
+
+ 2
+
+ 5
+
+ Fogginess 
+
+ 0
+
+ 2
+
+ Hot flashes 
+
+ 0
+
+ 1
+
+ Hypertension increase 
+
+ 0
+
+ 1
+
+ Impatient 
+
+ 0
+
+ 1
+
+ Irritability 
+
+ 2
+
+ 0
+
+ Insomnia 
+
+ 1
+
+ 1
+
+ Migraine intensity and frequency increased 
+
+ 1
+
+ 0
+
+ Menstrual flow increase 
+
+ 0
+
+ 1
+
+ Muscular pain(legs) 
+
+ 0
+
+ 1
+
+ Nausea 
+
+ 0
+
+ 3
+
+ Neck stiffness 
+
+ 1
+
+ 0
+
+ Palpitation 
+
+ 0
+
+ 1
+
+ Palpitation (morning) 
+
+ 0
+
+ 1
+
+ Tinnitus 
+
+ 0
+
+ 1
+
+ Thorax discomfort 
+
+ 1
+
+ 0
+
+ Tremor 
+
+ 0
+
+ 1
+
+ Tremor (hand on morning) 
+
+ 0
+
+ 1
+
+ Thumbs tingling 
+
+ 0
+
+ 1
+
+ Vertigo 
+
+ 0
+
+ 1
+
+ Open in a new tab 
+
+ * 
+Patients 9 and 20 did not experience any adverse events.
+
+ADHD, attention-deficit/hyperactivity disorder; MPH, methylphenidate.
+
+Discussion
+
+The aim of this study was to determine the exchangeability between the branded CONCERTA ® medication and a generic version of its active ingredient. According to federal authorities, these products have been deemed bioequivalent. Bioequivalent drug formulations have the same bioavailability, meaning the same rate and extent of absorption. If the generic drug is considered bioequivalent, it is assumed that it will produce the same therapeutic effect and have the same tolerability profile as the branded drug. However, in the case of the two medications examined in this study, the shape of the curve [area under the curve (AUC)] and the T max values for both of the products appeared quite different [ van Stralen, 2013 ]. Thus, it could be postulated that this alone could have a significant clinical impact. This assumption was further supported by some case reports and clinical experience that suggested that novo-MPH does not provide the same therapeutic benefit and tolerability as the original medication. Based on this information, the investigators determined that there was a legitimate basis to conduct the study.
+
+Generic substitution, the substitution of a branded drug with a generic equivalent, is a common practice in today’s pharmaceutical environment, as it represents an important cost-saving strategy over the long term for public and private drug plans [ Ramasubbu, 2011 ]. This is very true in the area of ADHD, as many of the medications used to treat the disorder are available as generic formulations. According to provincial laws, the pharmacist can replace the original product with the generic version after having advised the subject that both products are clinically equivalent and that one is less expensive. There is a lot of controversy surrounding such generic drug substitution at the pharmacy level, as there is evidence to suggest that some generic products are not equivalent to branded drugs in bioavailability and therapeutic efficacy or safety. In addition, variations in pharmacokinetics (bioavailability) between a branded drug and its generic version may result in increased AEs, or even serious side effects, due to impurities in the manufacturing process. More rigorous requirements for generic drugs need to be implemented to ensure that generic drugs are identical to brand-name drugs in terms of bioequivalence as well as therapeutic efficacy and safety [ Ramasubbu, 2011 ].
+
+The results of this study support the need for more rigorous generic controls. The investigator had anticipated an overall reduction in efficacy and more side effects with the generic formulation in comparison with the original compound. In order to maintain some subjective differences, the TSQM-II was chosen to have an appreciation of subject’s feeling toward the overall benefit/inconvenience ratio. However, the magnitude of the difference between the two groups was astounding and far beyond what was expected by the investigators. Six subjects discontinued the generic medication within a few days of starting it, a result that is quite telling. In addition, the results for all of the study endpoints clearly demonstrate that the generic formulation did not provide the efficacy and the tolerability established by the original branded medication.
+
+Conclusion
+
+Adult ADHD subjects treated with a stable dose of CONCERTA ® were more satisfied in terms of efficacy and side effects than those receiving an equivalent dose of the generic version novo-MPH. These results were also supported by the physician-reported CGI outcomes. All subjects elected to return to treatment with CONCERTA ® at the conclusion of the trial. These results strongly suggest that subjects were satisfied and feeling better with CONCERTA ® treatment than with the generic form of the medication.
+
+The number of subjects is also too small to draw definite conclusions and a larger head-to-head trial is needed to confirm this trend. Yet, the fact that the results are so powerful despite a small number of subjects gives strong evidence that those products are quite different. The results of this trial suggest that subjects that are stable on CONCERTA ® should not be switched to a generic medication. However, this conclusion cannot be generalized to a drug naïve population or to subjects not already stabilized on CONCERTA ® .
+
+The bioequivalence guidance document is considered a valuable socioeconomic strategy to improve the balance between cost and benefit of treatments and this is applicable to the vast majority of generic products. The guidance has been reviewed in 2012 [ Health Canada, 2012a , 2012b ], however the generic novo-MPH was evaluated as bioequivalent to CONCERTA ® using the traditional C max /AUC formula meaning that the concept of delivery system (matrix) was not a part of the equation.
+
+These outcomes suggest the process by which health authorities decide on bioequivalence might need to be reassessed. Given that we found very clear differences between the generic and the branded CONCERTA ® one might want to consider the risk of substitution, in relation to potential morbidity and mortality risk versus simply lowered cost of the generic product versus the branded drug. In part, the difference found between the two drugs in terms of cost of the pills must be compared with the indirect costs in relation to nonadherence to the treatment regimen, number of doctor visits, emergency visits, etc., that may result in increased overall expenditures that overtake the savings made when prescribing the cheaper generic agent. In this specific case, the differences are quite pronounced between the generic and the branded CONCERTA ® , likely related to the specific differences in the delivery system between the two drugs.
+
+Overall, while the legalities in relation to the switching of patients’ medications from branded drugs to generics by the pharmacy without the doctor knowing varies between locales, it is clear that that pharmacists must inform patients about what they are receiving. Furthermore, in order to prevent the switch to generics, physicians in these cases must utilize the option to write ‘no substitution’ on prescriptions in order to direct the pharmacy to dispense the brand-name medication only.
+
+Even with all of these conditions, there remain further challenges in keeping a patient on brand-name medication at the pharmacy, as insurance providers only potentially provide for the cost of the generic drug, creating practical challenges in paying for the expense of medications.
+
+A final point with regards to generics suggests that further research is required for the evaluation of the effectiveness and safety of the switch from other branded well-studied drugs to newer generic drugs. With more ADHD drugs being genericized, studies of this sort must be undertaken.
+
+In summary, although these treatments have been deemed bioequivalent, this study showed clinically and statistically significant differences between the generic and the branded CONCERTA ® treatments in both subject- and physician-reported treatment outcomes as well as in subject discontinuation rates. Thus, further investigation of these differences both in terms of generic and the branded CONCERTA ® , as well as other branded versus generic agents, is clearly warranted.
+
+Footnotes
+
+ Funding: This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+ Conflict of interest statement: Dr. Fallu has participated as an investigator in clinical trials for Pfizer and Purdue; sat on the advisory board for Janssen, Lundbeck, Pfizer, Shire, Sunovion, and Ironshore; and participated in Continuing Medical Education activities for Janssen, Lundbeck, Sunovion, Pfizer, Shire, Purdue, BMS, Eli Lilly, and Valeant.
+
+Dr. Katzman has participated on advisory boards or similar committees for Lundbeck, Eli Lilly, AstraZeneca, Janssen-Ortho, Solvay, Bristol-Myers Squibb, Shire, Sunovion, Pfizer, Purdue, Merck, Allergan, Bedrocan; clinical trials for Lundbeck, Eli Lilly, AstraZeneca, Janssen-Ortho, Solvay, Genuine Health, Bristol-Myers Squibb, Shire, Takeda, Pfizer, Hoffman La Roche, Biotics, Purdue, Allergan, Janssen Inc., and Forest; received honoraria or other fees from Lundbeck, Eli Lilly, AstraZeneca, Janssen-Ortho, Bristol-Myers Squibb, Shire, Sunovion, Pfizer, Purdue, Merck, Allergan, Bedrocan; received research grants/funding from CIHR, Centre for Addiction and Mental Health Foundation, Canadian Foundation for Innovation, Canadian Psychiatric Research Foundation, and Lotte & John Hecht Memorial Foundation.
+
+Dr. Dabouz, Ms. Furtado, and Ms. Anand have no conflicts of interest to report.
+
+Contributor Information
+
+Angelo Fallu, Clinique Woodward, 717, rue Woodward, DIEX Research Inc., Sherbrooke, QC, J1G 1W4, Canada.
+
+Farida Dabouz, FB2D Clinical Research Consulting, Montréal, Québec, Canada.
+
+Melissa Furtado, START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada.
+
+Leena Anand, START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada.
+
+Martin A. Katzman, START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada The Northern Ontario School of Medicine, Thunder Bay, ON, Canada; Department of Psychology, Lakehead University, Thunder Bay, ON, Canada; University of Toronto, Toronto, ON, Canada; Adler Graduate Professional School, Toronto ON, Canada.
+
+References
+
+Aron A., Dowson J., Sahakian B., Robbins T. (2003) Methylphenidate improves response inhibition in adults with attention-deficit/hyperactivity disorder. Biol Psychiatry
+54: 1465–1468. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Atkinson M., Kumar R., Cappelleri J., Hass S. (2005) Hierarchical construct validity of the treatment satisfaction questionnaire for medication (TSQM version II) among outpatient pharmacy consumers. Value Health
+8(Suppl. 1):S9–S24. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Bedard A., Martinussen R., Ickowicz A., Tannock R. (2004) Methylphenidate improves visual-spatial memory in children with attention-deficit/hyperactivity disorder. J Am Acad Child Adolesc Psychiatry
+43: 260–268. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Biederman J., Petty C., Ball S., Fried R., Doyle A., Cohen D., et al. (2009) Are cognitive deficits in attention deficit/hyperactivity disorder related to the course of the disorder? A prospective controlled follow-up study of grown up boys with persistent and remitting course. Psychiatry Res
+170: 177–182. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Biederman J., Faraone S., Spencer T., Mick E., Monuteaux M., Aleardi M. (2006) Functional impairments in adults with self-reports of diagnosed ADHD: a controlled study of 1001 adults in the community. J Clin Psychiatry
+67: 524–540. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Biederman J., Mick E., Fried R., Aleardi M., Potter A., Herzig K. (2005) A simulated workplace experience for nonmedicated adults with and without ADHD. Psychiatr Serv
+56: 1617–1620. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Borgheini G. (2003) The bioequivalence and therapeutic efficacy of generic versus brand-name psychoactive drugs. Clin Ther
+25: 1578–1592. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Brod M., Perwien A., Adler L., Spencer T., Johnston J. (2005) Conceptualization and assessment of quality of life for adults with attention-deficit/hyperactivity disorder. Primary Psychiatry
+12: 58–64. [ Google Scholar ]
+
+Canadian ADHD Resource Alliance (CADDRA) (2011) Canadian ADHD Practice Guidelines, 3rd edn
+Toronto, ON: CADDRA, 2011. [ Google Scholar ]
+
+Cascade E., Kalali A., Weisler R. (2008) Short-acting versus long-acting medications for the treatment of ADHD. Psychiatry (Edgmont)
+5: 24–27. [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Cassano P., Fava M. (2005) Tolerability issues during long-term treatment with antidepressants. Ann Clin Psychiatry
+16: 15–25. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Cox D., Humphrey J., Merkel R., Penberthy J., Kovatchev B. (2004) Controlled-release methylphenidate improves attention during on-road driving by adolescents with attention-deficit/hyperactivity disorder. J Am Board Fam Pract
+17: 235–239. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+de Graaf R., Kessler R., Fayyad J., ten Have M., Alonso J., Angermeyer M., et al. (2008) The prevalence and effects of adult attention-deficit/hyperactivity disorder (ADHD) on the performance of workers: results from the WHO World Mental Health Survey Initiative. Occup Environ Med
+65: 835–842. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Desmarais J., Beauclair L., Margolese H. (2011) Switching from brand-name to generic psychotropic medications: a literature review. CNS Neurosci Ther
+17: 750–760. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Dommett E., Henderson E., Westwell M., Greenfield S. (2008) Methylphenidate amplifies long-term plasticity in the hippocampus via noradrenergic mechanisms. Learn Mem
+15: 580–586. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Endicott J., Nee J., Harrison W., Blumenthal R. (1993) Quality of life enjoyment and satisfaction questionnaire: a new measure. Psychopharmacol Bull
+29: 321–326. [ PubMed ] [ Google Scholar ]
+
+Faraone S. (2004) Etiology and pathophysiology of adult attention-deficit/hyperactivity disorder. Primary Psychiatry
+11: 28–34. [ Google Scholar ]
+
+Faraone S., Spencer T., Aleardi M., Pagano C., Biederman J. (2004) Meta-analysis of the efficacy of methylphenidate for treatment of adult attention-deficit/hyperactivity disorder. J Clin Psychopharmacol
+24: 24–29. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Fayyad J., De Graaf R., Kessler R., Alonso J., Angermeyer M., Demyttenaere K., et al. (2007) Cross-national prevalence and correlates of adult attention-deficit hyperactivity disorder. Br J Psychiatry
+190: 402–409. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Gallelli L., Palleria C., De Vuono A., Mumoli L., Vasapollo P., et al. (2013) Safety and efficacy of generic drugs with respect to brand formulation. J Pharmacol Pharmacother
+4(Suppl. 1): S110–S114. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Goodman D., Thase M. (2009) Recognizing ADHD in adults with comorbid mood disorders: implications for identification and management. Postgrad Med
+121: 20–30. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Greenhill L., Pliska S., Dulcan M., Bernet W., Arnold V., Beitchman J., et al. (2001) Summary of the practice parameter for the use of stimulant medication in the treatment of children, adolescents, and adults. J Am Acad Child Adolesc Psychiatry
+40: 1352–1355. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Guy W. (1976) ECDEU Assessment Manual for Psychopharmacology. Rockville, MD: US Department of Health, Education, and Welfare. [ Google Scholar ]
+
+Health Canada (2012a) Guidance document - Comparative bioavailability standards: Formulations used for systemic effects. 22
+May
+2012. Available at: http://www.hc-sc.gc.ca/dhp-mps/prodpharma/applic-demande/guide-ld/bio/gd_standards_ld_normes-eng.php (accessed 14 April 2015). 
+
+Health Canada (2012b) Guidance document - Conduct and analysis of comparative bioavailability studies. 22
+May
+2012. Available at: http://www.hc-sc.gc.ca/dhp-mps/prodpharma/applic-demande/guide-ld/bio/gd_cbs_ebc_ld-eng.php (accessed 14 April 2015). 
+
+Janssen Inc. (2011) Concerta (methylphenidate hydrochloride) Product Monograph. 5
+December
+2011. Available at: http://www.mun.ca/pharmacy/aboutpharmacy/CONCERTA_PM_E.pdf (accessed 14 April 2015). 
+
+Kessler R., Adler L., Barkley R., Biederman J., Conners C., Demler O., et al. (2006) The prevalence and correlates of adult ADHD in the United States: results from the National Comorbidity Survey Replication. Am J Psychiatry
+163: 716–723. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Kessler R., Adler L., Ames M., Demler O., Faraone S., Hiripi E., et al. (2005) The World Health Organization adult ADHD self-report scale (ASRS): A short screening scale for use in the general population. Psychol Med
+35: 245–256. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Keulers E., Hendriksen J., Feron F., Wassenberg R., Wuisman-Frerker M., Jolles J., et al. (2007) Methylphenidate improves reading performance in children with attention deficit hyperactivity disorder and comorbid dyslexia: An unblinded clinical trial. Eur J Paediatr Neurol
+11: 21–28. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Kolar D., Keller A., Golfinopoulos M., Cumyn L., Syer C., Hechtman L. (2008) Treatment of adults with attention-deficit/hyperactivity disorder. Neuropsychiatr Dis Treat
+4: 389–403. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Maoz H., Tavian L., Gvirts H., Shamay-Tsoory S., Levkovitz Y., Watemberg N., et al. (2014) Stimulants improve theory of mind in children with attention deficit/hyperactivity disorder. J Psychopharmacol
+28: 212–219. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Mehta M., Goodyer I., Sahakian B. (2004) Methylphenidate improves working memory and set-shifting in ADHD: relationships to baseline memory capacity. J Child Psychol Psychiatry
+45: 293–305. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Meyer M. (2001) United States Food and Drug Administration requirements for approval of generic drug product. J Clin Psychiatry
+62(Suppl. 5):4–9. [ PubMed ] [ Google Scholar ]
+
+Murray D., Childress A., Giblin J., Williamson D., Armstrong R., Starr H. (2011) Effects of OROS methylphenidate on academic, behavioral, and cognitive tasks in children 9 to 12 years of age with attention-deficit/hyperactivity disorder. Clin Pediatr (Phila)
+50: 308–320. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+National Institute for Health and Care Excellence (NICE) (2008) NICE Clinical Guidelines: Attention deficit hyperactivity disorder: Diagnosis and Management of ADHD in children, young people and adults. London: NICE, p. 72. [ Google Scholar ]
+
+Pazvantoglu O., Aker A., Karabekiroglu K., Akbas S., Sarisoy G., Baykal S., et al. (2012) Neuropsychological weaknesses in adult ADHD: cognitive functions as core deficit and roles of them in persistence to adulthood. J Int Neuropsychol Soc
+18: 819–826. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Pelham W., Foster E., Robb J. (2007) The economic impact of attention-deficit/hyperactivity disorder in children and adolescents. J Pediatr Psychol
+32: 711–727. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Polanczyk G., de Lima M., Horta B., Biederman J., Rohde L. (2007) The worldwide prevalence of ADHD: a systematic review and metaregression analysis. Am J Psychiatry
+164: 942–948. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Ramasubbu R. (2011) Access to newer medications. Can J Psychiatry
+56: 1–8. [ PubMed ] [ Google Scholar ]
+
+Rosenthal J., Kong B., Jacobs L., Katzman M. (2008) Did a switch to a generic antidepressant cause relapse?
+J Fam Pract
+57: 109–114. [ PubMed ] [ Google Scholar ]
+
+Sheehan D. (1983) The Anxiety Disease. New York: Charles Scribner and Sons. [ Google Scholar ]
+
+Shen M., Russek-Cohen E., Slud E. (2014) Exact calculation of power and sample size in bioequivalence studies using two one-sided tests. Pharm Stat
+14: 95–101. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Stagnitti M. (2007) Trends in the use and expenditures for the Therapeutic Class Prescribed Psychotherapeutic agents and all Subclasses, 1997 and 2004. February
+2007. Available at: http://www.meps.ahrq.gov/mepsweb/data_files/publications/st163/stat163.pdf (accessed 14 April 2015). 
+
+Teeter P. (2000) Interventions for ADHD: Treatment in developmental context. New York: Guilford Press. [ Google Scholar ]
+
+US Food and Drug Administration (FDA) (2013) Update: Bupropion hydrochloride extended-release 300 mg bioequivalence studies. 10
+October
+2013. Available at: http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm322161.htm (accessed 14 April 2015). 
+
+Van Ameringen M., Mancini C., Patterson B., Bennett M. (2007) Symptom relapse following switch from Celexa to generic citalopram: an anxiety disorders case series. J Psychopharmacol
+21: 472–476. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+van Stralen J. (2013) The clinical impact of switching attention deficit hyperactivity disorder patients from OROS ® -MPH to Novo-MPH ER-C ® : A pediatric practice review. Paediatr Child Health
+18: 70–73. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Vergouwen A., Bakker A. (2002) Adverse effects after switching to a different generic form of paroxetine: Paroxetine mesylate instead of paroxetine HCI hemihydrate [in Dutch]. Ned Tijdschr Geneeskd
+146: 811–812. [ PubMed ] [ Google Scholar ]
+
+Visser S., Danielson M., Bitsko R., Holbrook J., Kogan M., Ghandour R., et al. (2014) Trends in the parent-report of health care provide-diagnosed and medicated attention deficit/hyperactivity disorder. J Am Acad Child Adolesc Psychiatry
+53: 34–46. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Ware J., Jr, Sherbourne C. (1992) The MOS 36-Item Short-Form Health Survey (SF-36): I. Conceptual Framework and Item Selection. Med Care
+30: 473–483. [ PubMed ] [ Google Scholar ]
+
+Weiss M., Weiss J. (2004) A guide to the treatment of adults with ADHD. J Clin Psychiatry
+65(Suppl. 3): 27–37. [ PubMed ] [ Google Scholar ]
+
+Westerberg H., Hirvikoski T., Forssberg H., Klingberg T. (2010) Visuo-spatial working memory span: A sensitive measure of cognitive deficits in children with ADHD. Child Neuropsychol
+10: 155–161. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Wigal S., Wigal T., Schuck S., Brams M., Williamson D., Armstrong R., et al. (2011) Academic, behavioral, and cognitive effects of OROS methylphenidate on older children with attention-deficit/hyperactivity disorder. J Child Adolesc Psychopharmacol
+21: 121–131. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Yoo H., Park S., Wang H., Lee J., Kim K., Paik K., et al. (2009) Effect of methylphenidate on the quality of life in children with epilepsy and attention deficit hyperactivity disorder. Epileptic Disord
+11: 301–308. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Yu B., Chong Y., Maguire G. (2004) Is generic fluoxetine effective?
+J Affect Disord
+81:185–186 [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Articles from Therapeutic Advances in Psychopharmacology are provided here courtesy of SAGE Publications

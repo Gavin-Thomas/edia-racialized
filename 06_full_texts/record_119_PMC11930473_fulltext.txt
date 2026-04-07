@@ -1,0 +1,640 @@
+Can J Psychiatry 
+. 2025 Mar 21;70(11):816–823. doi: 10.1177/07067437251328270 
+
+ Search in PMC 
+
+ Search in PubMed 
+
+ View in NLM Catalog 
+
+ Add to search 
+
+ Show available content in 
+
+ en 
+
+ fr 
+
+The Safety and Efficacy of Microbial Ecosystem Therapeutic-2 in People With Major Depression – A Phase 2, Double-Blind, Placebo-Controlled Study: Clinical Results: Innocuité et efficacité du traitement de l'écosystème microbien (met–2) dans la dépression majeure – une étude de phase 2 à double insu contrölée par placebo : résultats cliniques
+
+ Arthi Chinna Meyyappan 
+
+ Arthi Chinna Meyyappan , MSc, PhD 
+
+ 1 Centre for Neuroscience Studies, Queen's University, Kingston, ON, Canada
+
+ 2 Providence Care Hospital, Kingston, ON, Canada
+
+ 3 Centre for Addiction and Mental Health, Toronto, ON, Canada
+
+Find articles by Arthi Chinna Meyyappan 
+
+ 1, 2, 3, ✉ , Cassandra Sgarbossa 
+
+ Cassandra Sgarbossa , BAH 
+
+ 1 Centre for Neuroscience Studies, Queen's University, Kingston, ON, Canada
+
+ 2 Providence Care Hospital, Kingston, ON, Canada
+
+Find articles by Cassandra Sgarbossa 
+
+ 1, 2 , Hayley Bromley 
+
+ Hayley Bromley , BScH, MSc 
+
+ 1 Centre for Neuroscience Studies, Queen's University, Kingston, ON, Canada
+
+ 2 Providence Care Hospital, Kingston, ON, Canada
+
+Find articles by Hayley Bromley 
+
+ 1, 2 , Evan Forth 
+
+ Evan Forth , BScH 
+
+ 1 Centre for Neuroscience Studies, Queen's University, Kingston, ON, Canada
+
+ 2 Providence Care Hospital, Kingston, ON, Canada
+
+Find articles by Evan Forth 
+
+ 1, 2 , Daniel J Müller 
+
+ Daniel J Müller , MD, PhD 
+
+ 3 Centre for Addiction and Mental Health, Toronto, ON, Canada
+
+Find articles by Daniel J Müller 
+
+ 3 , Gusatvo Vazquez 
+
+ Gusatvo Vazquez , MD, PhD, FRCPC 
+
+ 1 Centre for Neuroscience Studies, Queen's University, Kingston, ON, Canada
+
+ 2 Providence Care Hospital, Kingston, ON, Canada
+
+Find articles by Gusatvo Vazquez 
+
+ 1, 2 , Casimiro Cabrera 
+
+ Casimiro Cabrera , MD 
+
+ 2 Providence Care Hospital, Kingston, ON, Canada
+
+Find articles by Casimiro Cabrera 
+
+ 2 , Roumen Milev 
+
+ Roumen Milev , MD, PhD, FRCPC, FRCPysch, DFCPA, DFAPA 
+
+ 1 Centre for Neuroscience Studies, Queen's University, Kingston, ON, Canada
+
+ 2 Providence Care Hospital, Kingston, ON, Canada
+
+Find articles by Roumen Milev 
+
+ 1, 2 
+
+Editors: Muhammad Ishrat Husain , Peter Giacobbe 
+
+ Author information 
+
+ Article notes 
+
+ Copyright and License information 
+
+ 1 Centre for Neuroscience Studies, Queen's University, Kingston, ON, Canada
+
+ 2 Providence Care Hospital, Kingston, ON, Canada
+
+ 3 Centre for Addiction and Mental Health, Toronto, ON, Canada
+
+ ✉ 
+Arthi Chinna Meyyappan, MSc, PhD, Providence Care Hospital, 752 King St W., Kingston, ON K7L 4X3, Canada. 
+Email: 14acm@queensu.ca 
+
+Collection date 2025 Nov.
+
+© The Author(s) 2025
+
+ PMC Copyright notice 
+
+PMCID: PMC11930473  PMID: 40116713 
+
+Abstract
+
+Objectives:
+
+This study examines the safety and efficacy of a fecal transplant alternative, Microbial Ecosystem Therapeutic-2 (MET-2), in improving symptoms of depression. The primary objective of this study is to assess changes in depressive symptoms before, during, and after administration of MET-2 in comparison to placebo. Mood-related symptoms such as anxiety and anhedonia, gastrointestinal symptoms, and safety of the therapeutic were also assessed using both self-report and clinician-rated measures.
+
+Methods:
+
+Twenty-nine participants ( n  = 29) experiencing a major depressive episode were recruited from the Kingston and Toronto areas. Participants orally consumed MET-2, an encapsulated microbial therapeutic containing 40 different strains of bacteria, or placebo alternative, once daily for 6 weeks with a 2-week follow-up. Participants underwent a series of clinical assessments used to measure mood, anxiety, and gastrointestinal symptoms.
+
+Results:
+
+There was a significant improvement in depressive symptomology over time as determined by Montgomery–Åsberg Depression Rating Scale scores ( p  < 0.0001); however there was no significant difference between placebo and MET-2 groups ( p  = 0.338). No serious adverse events were reported. The findings of this study are the first to provide evidence for the role of oral microbial therapeutics, such as MET-2, as treatment for symptoms of depression.
+
+Conclusions:
+
+Though there are positive trends suggesting a greater improvement in depressive symptomology among the MET-2 group compared to the placebo group, a larger sample size is needed for more conclusive results. Clinicaltrials.gov NCT04602715 .
+
+ Keywords: gut–brain axis, depression, microbe therapy
+
+Résumé
+
+Objectifs:
+
+Cette étude examine l’innocuité et l’efficacité d’une thérapeutique de rechange à la transplantation de microbiote fécal, le Microbial Ecosystem Therapeutic-2 (MET-2), pour atténuer les symptômes de dépression. Le principal objectif de cette étude est d’évaluer les changements dans les symptômes dépressifs avant, durant et après l’administration de MET-2 en comparaison avec un placebo. Les symptômes liés à l’humeur, comme l’anxiété et l’anhédonie, les symptômes gastro-intestinaux et l’innocuité de la thérapeutique ont également été mesurés à partir des auto-évaluations et des observations du clinicien.
+
+Méthodologie:
+
+Vingt-neuf participants (n = 29) présentant un épisode de dépression majeure ont été recrutés dans les régions de Kingston et de Toronto. Les sujets ont pris oralement le MET-2, une thérapeutique microbienne encapsulée contenant 40 souches de bactéries, ou un placebo, une fois par jour pendant six semaines, avec une période de suivi de deux semaines. Ils ont subi une batterie de tests cliniques servant à évaluer l’humeur, l’anxiété et les symptômes gastro-intestinaux.
+
+Résultats:
+
+La symptomatologie dépressive, déterminée par les scores MADRS, s’est améliorée de façon significative ( p  < 0,0001) avec le temps, sans différence significative entre les deux groupes ( p  = 0,338). Aucun événement indésirable n’a été signalé. Cette étude est la première à fournir des données étayant le rôle des thérapeutiques microbiennes orales comme le MET-2 pour soulager les symptômes de dépression.
+
+Conclusions:
+
+Malgré les tendances positives suggérant une amélioration plus marquée des symptômes dépressifs dans le groupe MET-2 que dans le groupe contrôle, un échantillon plus large est nécessaire pour que les résultats soient plus concluants. Clinicaltrials.gov NCT04602715 .
+
+Introduction
+
+Major depressive disorder (MDD) stands as one of the most prevalent and debilitating psychiatric disorders worldwide. 
+ 1 
+ Characterized by persistent feelings of sadness, loss of interest, and cognitive disturbances, MDD has profound consequences on individual health, societal productivity, and quality of life. Depression is often comorbid with many other conditions, such as generalized anxiety disorder (GAD), sleep disorders, and even metabolic disorders such as diabetes and cardiovascular disease. 
+ 2 
+ Traditional treatments for MDD primarily focus on modulating neurotransmitter activity; however, these interventions often yield inconsistent therapeutic outcomes and are associated with a plethora of undesirable side effects highlighting the need for more alternative and effective therapeutic strategies. 
+ 3 
+
+The pathway between the gut microbiome and the central nervous system, commonly referred to as the “gut–brain axis” (GBA), has emerged as a novel avenue in neuropsychiatric research. While microbial therapies have existed for centuries as treatments for gastrointestinal (GI)-related disorders, several more recent studies have identified a bidirectional relationship between the gut microbiome and mood disorders, suggesting that modulating the gut microbiota could be a potential therapeutic strategy for MDD. 
+ 4 
+ Fecal microbiota transplant (FMT) specifically, whereby fecal bacteria from a healthy donor are transplanted into a recipient, has provided significant insights into the GBA. Though traditional antidepressants can be very effective for many people, a large portion of individuals with psychiatric illnesses do not respond to or are unable to withstand the side effects of first-line antidepressant treatments. This emphasizes the need for alternative treatments. There is significant evidence suggesting the efficacy of FMT for managing psychiatric symptoms preclinically, and though the clinical evidence is limited, the studies conducted so far suggest FMT to be tolerable and effective in psychiatric populations. 5 , 6 However, when considering the feasibility of FMT as a treatment, there are some drawbacks that can make it less appealing to a patient and clinic. FMT is fairly invasive, with transplants often occurring via colonoscopies. This can be arduous for the patient and potentially expensive due to the need for a specialist. In addition to this, though symptom improvements may occur relatively quickly when compared to alternative treatments, they tend to be transient, lasting only 3–6 months. While FMT may offer therapeutic promise, its invasive nature, cost, and safety concerns, in combination with lack of data on longitudinal efficacy, have raised questions regarding its feasibility as a routine clinical procedure. 
+ 5 
+ Leveraging insights from FMT studies in both preclinical and clinical models, Microbial Ecosystem Therapeutic-2 (MET-2) was developed as an alternative to FMT, aiming specifically to restore a balanced gut microbial ecosystem and potentially ameliorate symptoms of depression. The oral administration and potentially longer lasting efficacy of MET-2 makes it an appealing alternative to FMT. The exact mechanisms underlying the therapeutic effects of FMT remain uncertain; however it is speculated to involve the neural, immune, metabolic, and endocrine pathways within the GBA. 
+ 7 
+ Though both a healthy and disrupted microbiome have yet to be conclusively defined and characterized, introducing multiple bacterial species from a healthy donor to an ill recipient is expected to shift the recipient's microbiome towards a more balanced and healthier state. 
+ 8 
+ Such a shift in the microbiome may alter communication pathways between the gut microbiome and the rest of the body, specifically the brain, and aid in alleviating symptoms of depression.
+
+Given the potential of FMT and its influence on mood through interactions with the GBA, this study aims to investigate the safety and efficacy of MET-2 in treating symptoms of depression. Through this study, we seek to shed light on the therapeutic potential of microbial therapies in addressing the heterogeneous symptomology of MDD.
+
+Methods
+
+Treatment
+
+MET is a novel treatment approach that was designed as a safer alternative to FMT while still maintaining microbial-repopulation from a healthy donor. Given the dense microbial community in stool, comprising of various bacteria, fungi, and viruses, many of which remain uncharacterized, MET emphasizes the use of defined intestinal bacteria strains for treatment. 
+ 9 
+ The more recent version of MET, MET-2, is comprised of 40 lyophilized pure bacterial cultures, derived from the stool of a 25-year-old donor, mixed in predefined ratios. Dosage range varied between 3.2 × 10 5  − 10 11  CFU/0.5 g. The efficacy of MET-2 in improving symptoms of major depression and generalized anxiety was previously examined in a pilot study, and clinical results from that study have been published. 
+ 10 
+
+Study Design
+
+This was a phase 2, multi-site, randomized, double-blind, placebo-controlled trial that investigated the therapeutic potential of MET-2, in comparison to a placebo alternative, in adults currently experiencing a major depressive episode (MDE). The study duration was 8 weeks, with 6 weeks of treatment and 2 weeks of non-treatment follow-up. This study was designed based on the results from the pilot study, and full details on the study design, dosages, and schedules of administration have been previously published. 10 , 11 
+
+Participants
+
+A total of 29 participants were recruited from the Kingston and Toronto areas in Ontario, Canada. Participants were randomized into either the MET-2 ( n  = 15) or placebo ( n  = 14) arms. The study targeted individuals aged 18–45 years who were currently experiencing an MDE, as confirmed by the Mini International Neuropsychiatric Interview, and who had a Montgomery–Åsberg Depression Rating Scale (MADRS) total score of 15 or higher. These individuals were not taking any other psychotropic medications such as antidepressants, stimulants, or antianxiety medications as of 4 weeks before the start of the treatment. Full details on the inclusion and exclusion criteria of this study have been previously published. 
+ 11 
+
+Measures
+
+Clinical Parameters
+
+Our primary objective was to assess changes in global depressive symptoms from baseline to end of treatment (week 6) using the MADRS, a 10-item clinician-rated questionnaire. 
+ 12 
+ Our secondary objectives included assessing changes in self-reported depressive symptoms and specific depression-related symptoms, such as anxiety, anhedonia, mania, and GI symptoms, throughout the study, as well as monitoring all symptom changes during the 2-week follow-up period from week 6 to week 8. The Quick Inventory of Depressive Symptomatology–Self-Report (QIDS-SR16) was used to assess self-rated mood symptoms. 
+ 13 
+ The clinical global impressions (CGI) scale is a two-item clinician-rated scale that was used to assess the severity of illness and improvement of symptomology over time. 
+ 14 
+ Anxiety was primarily assessed using the Hamilton Anxiety Rating Scale (HAM-A), a clinician-rated questionnaire that measures the severity of anxiety symptoms. 
+ 15 
+ The GAD-7, a 7-item questionnaire, was used to measure self-reported anxiety symptoms and severity. 
+ 16 
+ The Snaith–Hamilton Pleasure Scale (SHAPS) is a 14-item self-rated instrument used to assess the presence of anhedonia. 
+ 17 
+ The Young Mania Rating Scale (YMRS), is an 11-item clinician-administered scale used to assess the presence and severity of mania in patients with bipolar disorder that were currently experiencing an MDE. 
+ 18 
+ If, at any point in the study, participants with bipolar disorder scored a value greater than or equal to 12 on the YMRS, they were withdrawn. GI symptoms were assessed using the Gastrointestinal Symptom Rating Scale (GSRS). 
+ 19 
+
+Safety Parameters
+
+Adverse events (AEs) were measured throughout the study and recorded based on intensity (mild, moderate, severe, life-threatening, death related to AE), causality (unrelated, unlikely related, possibly related, probably related), and outcome (ongoing, resolved, resolved with sequalae, death) via daily side effect logs, tolerability questionnaires, and probing during biweekly clinical visits. Participants also gave blood samples for safety analysis at the baseline, week 4, and week 8 visit and these were reviewed by the study physician. Further details on specific parameters are available in the protocol.
+
+Statistical Analyses
+
+An intent-to-treat model was employed, and any missing values were inputted using the last observation carried forward. For inclusion in analysis, data from at least two time points (e.g., baseline and week 2) were required. All data were analyzed using IBM's statistical program Statistical Package for the Social Sciences version 29. Two-tailed techniques with a significance level of α  = 0.05 were used. All clinical parameters were analyzed using a one-way repeated-measure analysis of variance (ANOVA) and where sphericity could not be assumed, Greenhouse–Geiser corrections were used. Independent samples t -tests were also performed to assess the difference in some clinical parameters from baseline/screening to week 8. Mann–Whitney U tests were performed to check for significant differences between the MET-2 and placebo groups on baseline MADRS scores and age. No post hoc tests were completed as there were only two groups.
+
+Results
+
+Sample Characteristics
+
+Although the initial target sample size was 60 participants, the study was terminated prematurely with 29 participants due to the development of a newer version of MET-2 with a tighter dosage range. The study participants were recruited from Providence Care Hospital (Kingston, ON) and The Centre for Addiction and Mental Health (Toronto, ON) between May 2021 and December 2023. Of the 29 participants, 1 participant was excluded from all analyses due to non-compliance, determined through the return of unused product and questionnaire responses. Hence, the final study population consisted of 28 participants. Of the 28 participants, 25 had MDD and 3 participants had bipolar disorder. All participants were experiencing a current MDE, and the average baseline MADRS score was 24.4 (±4.2) for the entire cohort, 24.6 (±3.6) for the placebo arm, and 24.2 (±4.9) for the treatment arm. See Table 1 for full demographics details.
+
+Table 1.
+
+Demographics.
+
+ Characteristic
+
+ Overall
+( n  = 28)
+
+ MET-2
+( n  = 14)
+
+ Placebo
+( n  = 14)
+
+ n 
+
+ %
+
+ n 
+
+ %
+
+ n 
+
+ %
+
+ Gender
+
+ Female
+
+ 23
+
+ 82
+
+ 12
+
+ 86
+
+ 11
+
+ 79
+
+ Male
+
+ 5
+
+ 18
+
+ 2
+
+ 14
+
+ 3
+
+ 21
+
+ Ethnicity
+
+ Black
+
+ 3
+
+ 11
+
+ 1
+
+ 7
+
+ 2
+
+ 14
+
+ Caucasian
+
+ 15
+
+ 54
+
+ 7
+
+ 50
+
+ 8
+
+ 57
+
+ East Asian
+
+ 4
+
+ 14
+
+ 3
+
+ 21
+
+ 1
+
+ 7
+
+ Latin American
+
+ 1
+
+ 4
+
+ 1
+
+ 7
+
+ 0
+
+ 0
+
+ South Asian
+
+ 2
+
+ 7
+
+ 0
+
+ 0
+
+ 2
+
+ 14
+
+ West Asian
+
+ 3
+
+ 11
+
+ 2
+
+ 14
+
+ 1
+
+ 7
+
+ Education level
+
+ High school graduate
+
+ 7
+
+ 25
+
+ 3
+
+ 21
+
+ 4
+
+ 29
+
+ Post-secondary degree
+
+ 17
+
+ 61
+
+ 9
+
+ 64
+
+ 8
+
+ 57
+
+ Open in a new tab 
+
+The groups did not differ significantly in baseline MADRS scores ( U  = 96.5; p  = 0.946) or in mean age ( U  = 88; p  = 0.667) as indicated by the Mann–Whitney U test. A chi-square test was performed to check for significant sex differences between the MET-2 and placebo groups and the groups did not differ significantly ( p  = 1.00). All data were normally distributed except for GSRS scores and non-parametric tests, and ANOVAs were used to rectify this.
+
+Treatment Response
+
+Responders to treatment were defined as individuals showing ≥50% improvement in MADRS scores from the baseline to week 6 (end of treatment) and week 8 (2-week post-intervention follow-up). By week 6, 5 out of 14 (36%) participants in the placebo group were responders, and 7 out of 14 (50%) participants in the MET-2 group were responders. At week 8, 4 of 14 (36%) participants in the placebo group were responders, and 10 of 14 (71%) participants in the MET-2 group were responders.
+
+Clinical Parameters
+
+Clinical scores were recorded at every visit. The two groups did not differ significantly in any baseline clinical scores. For inclusion in analysis, participants required data from at least two time points. One patient was excluded from all analyses, except for the clinician-rated mood scores measured by the MADRS. This exclusion was due to early withdrawal resulting from investigational product complications with the pharmacy. The participant was able to provide MADRS scores but not HAM-A or GAD-7 scores at their withdrawal visit. As such, 28 participants were included in the analysis of MADRS scores, while 27 participants were included in all other clinical analyses.
+
+Mood
+
+Significant reductions in overall mean MADRS scores ( p  < 0.0001) from the baseline (24.4 ± 4.2) to week 8 (13.6 ± 8.4) were seen. These changes were present as early as week 2 ( p  < 0.001) in both groups. However, analyses showed no significant group differences including with adjustments for sex. The between-subject effects ( p =  0.087), an independent samples t -test using the change in MADRS scores from baseline to week 8 ( p =  0.070), and the plot ( Figure 1(a) ) suggest a potential clinical significance between treatment groups.
+
+Figure 1.
+
+ Open in a new tab 
+
+Observed changes over time between MET-2 and placebo groups on the clinician-rated primary outcome measure of global depressive symptoms (a), self-reported global depressive symptoms (b), clinician-rated measure of anxiety symptoms measured by the HAM-A (c), self-reported GAD-7 (d), severity of illness (e), improvement of illness (f), anhedonia (g), and gastrointestinal symptomology (h). CGI = clinical global impressions; CR = clinicial-rated; GAD-7 = Generalized Anxiety Disorder-7; GSRS = Gastrointestinal Symptom Rating Scale; HAM-A = Hamilton Anxiety Rating Scale; MADRS = Montgomery–Åsberg Depression Rating Scale; QIDS-SR16 = Quick Inventory of Depressive Symptomatology–Self-Report; SHAPS = Snaith–Hamilton Pleasure Scale; SR = self-rated.
+ 
+Significant reductions in mean QIDS-SR scores ( p <  0.001) were seen from the baseline (15.19 ± 3.73) to week 6 (9.74 ± 5.43). These changes were seen as early as week 2 ( p <  0.001) in both groups. However, analyses showed no significant group differences. The plot suggests a potential clinical significance between treatment groups ( Figure 1(b) ).
+
+Anxiety
+
+There was a significant reduction in mean HAM-A scores ( p  < 0.001) from the baseline (16.56 ± 6.03) to week 8 (10.70 ± 7.06). These changes were present as early as week 2 in the MET-2 group ( p  = 0.007) and only between the baseline and week 6 in the placebo group ( p  = 0.007). However, analyses showed no significant group differences. An independent sample t -test using the change in HAM-A scores from the baseline to week 8 ( p =  0.053) and the plot ( Figure 1(c) ) suggest a potential clinical significance between treatment groups.
+
+There was a significant reduction in mean GAD-7 scores ( p  < 0.001) from the baseline (11.07 ± 4.31) to week 8 (7.56 ± 5.64). These changes were present as early as week 2 in the MET-2 group ( p  < 0.001) but not until week 8 in the placebo group ( p  = 0.042). However, analyses showed no significant group differences. Between-subject effects ( p =  0.066) and plots ( Figure 1(d) ) suggest a clinical significance between treatment groups.
+
+Severity and Improvement of Illness
+
+There was a significant reduction in mean CGI-S scores ( p  < 0.001) from the baseline (4.11 ± 0.58) to week 6 (3.00 ± 1.18), with these changes seen as early as week 2 in both the MET-2 ( p  < 0.001) and placebo groups ( p  = 0.020). Analyses showed no significant group differences; however, there is a larger downward trend in severity of illness in participants in the MET-2 group versus the placebo group ( Figure 1(e) 
+ and (f)). 
+
+Anhedonia
+
+There was a significant reduction in mean SHAPS ( p =  0.003) scores from the baseline (5.49 ± 2.59) to week 6 (3.52 ± 3.53). These changes were significant between the baseline and week 2 ( p =  0.047) and week 4 ( p =  0.021) in the MET-2 group but only between the baseline and week 4 in the placebo group ( p =  0.021). However, analyses showed no significant group differences. The plot is shown in Figure 1(g) .
+
+GI Symptoms
+
+A significant reduction in mean GSRS ( p =  0.014) scores from the baseline (2.39 ± 1.71) to week 6 (1.53 ± 0.54) was present. Changes between the baseline and week 4 ( p =  0.011) and week 6 ( p =  0.013) in the MET-2 group were also significant but not at all significant between visits in the placebo group. However, analyses showed no statistically significant group differences. The plot shows a downward trend ( Figure 1(h) ).
+
+Safety
+
+No severe, life-threatening, or death related to AEs or SAEs were reported in either placebo or MET-2 groups. A total of seven distinct AEs (with 28 incidences of varying severity) that were declared probably related or possibly related to the investigational product were reported by participants during the study. After unblinding, six AEs (with 18 incidences of varying severity) were experienced by the participants in the MET- 2 group. All AEs were resolved by the end of treatment. See Table 2 for full details on AEs in both groups.
+
+Table 2.
+
+Incidences of Adverse Events.
+
+ Placebo group
+
+ MET-2 group
+
+ Adverse event
+
+ Mild ( n )
+
+ Moderate ( n )
+
+ Mild ( n )
+
+ Moderate ( n )
+
+ Bloating
+
+ 4
+
+ 5
+
+ 2
+
+ Flatulence
+
+ 1
+
+ 3
+
+ 1
+
+ Acid reflux
+
+ 2
+
+ Upset stomach
+
+ 1
+
+ 1
+
+ 1
+
+ Constipation
+
+ 1
+
+ 1
+
+ 1
+
+ Diarrhea
+
+ 1
+
+ 2
+
+ Frequent bowel movements
+
+ 1
+
+ Open in a new tab 
+
+Discussion
+
+In this study, we assessed clinical and safety parameters from an 8-week multi-site, double-blind, randomized, placebo-controlled trial examining the effects of MET-2 on symptoms of depression.
+
+Clinical Findings
+
+Our primary objective was to investigate the potential of MET-2 on alleviating symptoms of depression, as measured by the MADRS, in comparison to a placebo alternative. Current preclinical research suggests that FMT, the closest alternative to MET-2, from a healthy donor to an ill recipient, can illicit an improvement in mood and related symptoms in the recipient. 
+ 5 
+ Since MET-2 is comprised of bacteria cultured from the stool of a healthy human donor, we hypothesized that treatment with MET-2 would produce similar improvements to the outcomes observed in clinical studies involving FMT.
+
+Though there was a significant overall improvement in depressive symptoms as seen in our pilot study, there was no statistically significant difference observed between the MET-2 and placebo groups. 
+ 10 
+ However, when we evaluated the response rate of participants, the majority of those in the MET-2 group exhibited substantial improvement, with their MADRS scores decreasing by at least 50% from the baseline to the end of the study (week 8). In contrast, the placebo group had a considerably lower response rate. Interestingly, it's worth noting that among the MET-2 group participants, the response rate increased during the 2-week follow-up period between week 6 (end of treatment) and week 8 (end of study). We also notice this continued improvement in scores for HAM-A (anxiety), SHAPS (anhedonia), and GSRS (GI symptoms). It is possible this finding may be potentially attributed to lasting changes post-engraftment. Longitudinal clinical and microbial engraftment data are required to make conclusions on the length of these lasting changes.
+
+We also did not observe any statistically significant group differences in other mood-related symptoms: anxiety, and anhedonia, or severity of illness, and GI symptomology. While these results may be non-significant, they still reflect a high response rate and larger trends among those in the MET-2 group in comparison to placebo. This is again hypothesized to be due to the early termination of the study and resultant smaller sample size than originally anticipated. 
+ 11 
+
+Safety
+
+In comparing various studies, it was observed that MET-2 exhibited a favourable safety profile. FMT studies, our pilot study, and this present study reported relatively few AEs that were attributed to the treatment. 5 , 10 When assessing patient tolerability and the overall treatment burden, it was anticipated that MET-2 may impose a lower burden on participants than FMT, given that FMT can be a relatively costly and labor-intensive process. However, further research would be necessary to definitively establish which treatment option is more feasible as we have limited longitudinal data for both treatments.
+
+Limitations
+
+While the trends identified in this study give potential for the future use of FMT alternatives as treatment options for symptoms of psychiatric disorders, there are still key limitations that need to be addressed. Firstly, there is existing stigma surrounding not only psychiatric disorders but the use of fecal material as treatment. While MET-2 may provide as a safer alternative to traditional FMT given the product is delivered via oral capsules, rather than a transfer of fecal material via colonoscopy, this may still influence the acceptance and compliance of treatment by the general public. Secondly, the study faced multiple recruitment challenges due to the COVID-19 pandemic. Recruitment was initiated when many individuals were still maintaining social distancing, working from home, or limiting non-essential activities. Unforeseen recruitment challenges, in combination with the early termination of the study, played a direct role in affecting the sample size and thereby reducing the overall significance of findings. While most measures within our study demonstrated significant changes over time among all participants, they did not exhibit the same level of statistical significance between the two groups. This may be due to the small sample size limiting the statistical power of the data, making it hard to differentiate significance between the two groups.
+
+Conclusion
+
+Despite the above limitations, this study still provides valuable information regarding the overall safety and efficacy of MET-2. MET-2 was shown to be generally safe and well tolerated throughout its use in this study and the pilot study with few side effects. 
+ 10 
+ The lack of statistically significant findings between the two groups is to be expected considering the early termination of the study resulting in decreased statistical power. However, the increased response rate observed in the MET-2 group, especially after 8 weeks, as well as the trends showing greater improvements in depressive symptoms, anxiety, and illness severity, certainly suggests that MET-2 has the potential to be an effective treatment for the symptoms of depression. Further trials will need to be done with larger sample sizes to determine the significance and size of the effect, but it is clear that this research is warranted. Targeting the gut microbiome and the GBA for the treatment of psychiatric illnesses, such as depression, is a very exciting and rapidly growing field of research. The findings of this study provide further evidence supporting the continued application of microbial-based therapies in a psychiatric context.
+
+Acknowledgments
+
+The Centre for Addiction and Mental Health and Providence Care research team and administrative staff aided in patient scheduling, running some study visits with patients, completing regulatory documents, and obtaining regulatory approvals. Pharmacy and blood collections teams at both hospitals aided in dispensing of treatment, managing randomization schedules, and completing blood draws.
+
+Footnotes
+
+ Author Contributions: Arthi Chinna Meyyappan and Roumen Milev developed the original protocol for this study with contributions from Gustavo Vazquez, Daniel Mueller, and Cassandra Sgarbossa. Casimiro Cabrera was a clinician-collaborator on the study. Arthi, Cassandra, and Hayley Bromley collected the data presented in this study. Arthi analyzed and interpreted the results of this study. Arthi, Hayley, Cassandra, and Evan Forth wrote and revised all drafts of this manuscript. All authors have helped to finalize, read, and approved this manuscript.
+
+ Data Access: Data is available upon request as analysis has not been completed and some are still yet to be published.
+
+The authors declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: CS and EF have received financial support from Lallemand Health Solutions. RM has received consulting and speaking honoraria from AbbVie, Biogen, Lallemand, Lundbeck, and Otsuka, and research grants from Brain Canada, CAN-BIND, CIHR and OBI. GV consults for AbbVie, Allergan, Janssen, Otsuka/Lundbeck, and NeonMind Biosciences Inc. and receives honoraria from Raffo, Gador, Eurofarma, Elea-Phoenix, Sunovion, Psicofarma, Janssen, Tecnoquimica, and Tecnofarma. ACM, HB, CC, and DM have no conflicts.
+
+ Funding: The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This study was funded by NuBiyota LLC, CIHR, and MITACS. The study was terminated early due to development of a newer version of MET-2, and the company was no longer financially able to fund older studies.
+
+ ORCID iDs: Arthi Chinna Meyyappan https://orcid.org/0000-0003-3424-4196 
+
+Cassandra Sgarbossa https://orcid.org/0000-0001-5779-1067 
+
+Evan Forth https://orcid.org/0000-0002-4284-0249 
+
+Daniel J. Müller https://orcid.org/0000-0003-4978-4400 
+
+Gusatvo Vazquez https://orcid.org/0000-0002-2918-3336 
+
+Roumen Milev https://orcid.org/0000-0001-6884-171X 
+
+References
+
+ 1. James SL, Abate D, Abate KH, et al. 
+Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017. Lancet. 2018;392(10159):1789–1858. doi: 10.1016/s0140-6736(18)32279-7.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 2. Steffen A, Nübel J, Jacobi F, Bätzing J, Holstiege J. Mental and somatic comorbidity of depression: a comprehensive cross-sectional analysis of 202 diagnosis groups using German nationwide ambulatory claims data. BMC Psychiatry. 2020;20(1). doi: 10.1186/s12888-020-02546-8. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 3. Petersen T, Dording C, Neault NB, et al. 
+A survey of prescribing practices in the treatment of depression. Prog Neuropsychopharmacol Biol Psychiatry. 2002;26(1):177–187. doi: 10.1016/S0278-5846(01)00250-0.
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 4. Simpson CA, Diaz-Arteche C, Eliby D, Schwartz OS, Simmons JG, Cowan CSM. The gut microbiota in anxiety and depression – a systematic review. Clin Psychol Rev. 2021;83:101943. doi: 10.1016/j.cpr.2020.101943.
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 5. Chinna Meyyappan A, Forth E, Wallace CJK, Milev R. Effect of fecal microbiota transplant on symptoms of psychiatric disorders: a systematic review. BMC Psychiatry. 2020;20(1). doi: 10.1186/s12888-020-02654-5. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 6. Green JE, Berk M, Mohebbi M, et al. 
+Feasibility, acceptability, and safety of faecal microbiota transplantation in the treatment of major depressive disorder: a pilot randomized controlled trial. Can J Psychiatry. 2023;68(5):315–326. doi: 10.1177/07067437221150508.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 7. Appleton J. The gut-brain axis: influence of microbiota on mood and mental health. Integr Med (Encinitas). 2018;17(4):28–32.
+ [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 8. Garza-González E, Mendoza-Olazarán S, Morfin-Otero R, et al. 
+Intestinal microbiome changes in fecal microbiota transplant (FMT) vs. FMT enriched with lactobacillus in the treatment of recurrent Clostridioides difficile infection. Can J Gastroenterol Hepatol. 2019;2019:1–7. doi: 10.1155/2019/4549298. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 9. Petrof EO, Gloor GB, Vanner SJ, et al. 
+Stool substitute transplant therapy for the eradication of Clostridium difficile infection: ‘RePOOPulating’ the gut. Microbiome. 2013;1(1):3. doi: 10.1186/2049-2618-1-3.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 10. Chinna Meyyappan A, Forth E, Milev R. Microbial Ecosystem Therapeutic-2 intervention in people with major depressive disorder and generalized anxiety disorder: phase 1, open-label study. Interact J Med Res. 2022;11(1):e32234. doi: 10.2196/32234. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 11. Chinna Meyyappan A, Sgarbossa C, Vazquez G, Bond DJ, Müller DJ, Milev R. The safety and efficacy of Microbial Ecosystem Therapeutic-2 in people with major depression: protocol for a phase 2, double-blind, placebo-controlled study. JMIR Res Protoc. 2021;10(9):e31439. doi: 10.2196/31439. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 12. Montgomery SA, Åsberg M. A new depression scale designed to be sensitive to change. Br J Psychiatry. 1979;134(4):382–389. doi: 10.1192/bjp.134.4.382.
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 13. Rush A, Trivedi MH, Ibrahim HM, et al. 
+The 16-item quick inventory of depressive symptomatology (QIDS), clinician rating (QIDS-C), and self-report (QIDS-SR): a psychometric evaluation in patients with chronic major depression. Biol Psychiatry. 2003;54(5):573–583. doi: 10.1016/s0006-3223(02)01866-8.
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 14. Busner J, Targum SD. The clinical global impressions scale: applying a research tool in clinical practice. Psychiatry (Edgmont). 2007;4(7):28–37. [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 15. Thompson E. Hamilton Rating Scale for Anxiety (HAM-A). Occup Med. 2015;65(7):601–601. doi: 10.1093/occmed/kqv054. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 16. Spitzer RL, Kroenke K, Williams JB, Löwe B. A brief measure for assessing generalized anxiety disorder. Arch Intern Med. 2006;166(10):1092. doi: 10.1001/archinte.166.10.1092.
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 17. Snaith RP, Hamilton M, Morley S, Humayan A, Hargreaves D, Trigwell P. A scale for the assessment of hedonic tone the Snaith–Hamilton Pleasure Scale. Br J Psychiatry. 1995;167(1):99–103. doi: 10.1192/bjp.167.1.99.
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 18. Lukasiewicz M, Gerard S, Besnard A, et al. 
+Young Mania Rating Scale: how to interpret the numbers? Determination of a severity threshold and of the minimal clinically significant difference in the EMBLEM cohort. Int J Methods Psychiatr Res. 2013;22(1):46–58. doi: 10.1002/mpr.1379.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 19. Svedlund J, Sjödin I, Dotevall G. GSRS – a clinical rating scale for gastrointestinal symptoms in patients with irritable bowel syndrome and peptic ulcer disease. Dig Dis Sci. 1988;33(2):129–134. doi: 10.1007/BF01535722.
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+Articles from Canadian Journal of Psychiatry. Revue Canadienne de Psychiatrie are provided here courtesy of SAGE Publications

@@ -1,0 +1,30 @@
+RECORD: #80
+PMID: 27233840
+PMCID: PMC4884360
+TITLE: Flexible, dual-form nicotine replacement therapy or varenicline in comparison with nicotine patch for smoking cessation: a randomized controlled trial
+AUTHORS AND AFFILIATIONS:
+- Heather E. Tulloch - Division of Prevention and Rehabilitation, University of Ottawa Heart Institute; Faculty of Medicine, University of Ottawa; School of Psychology, University of Ottawa
+- Andrew L. Pipe - Division of Prevention and Rehabilitation, University of Ottawa Heart Institute; Faculty of Medicine, University of Ottawa
+- Charl Els - Department of Psychiatry, University of Alberta
+- Matthew J. Clyde - Division of Prevention and Rehabilitation, University of Ottawa Heart Institute; School of Psychology, University of Ottawa
+- Robert D. Reid - Division of Prevention and Rehabilitation, University of Ottawa Heart Institute; Faculty of Medicine, University of Ottawa
+TRIAL REGISTRATION: NCT01623505 (ClinicalTrials.gov; retrospectively registered July 13, 2011)
+FUNDING: Heart and Stroke Foundation of Canada (Grant #6614)
+
+METHODS:
+A parallel three-group randomized controlled trial conducted at the University of Ottawa Heart Institute (June 2010-July 2014). Study enrolled 737 smokers (>=10 cigarettes/day, willing to quit within 2-4 weeks) with medical and psychiatric comorbidities. Participants randomized to: NRT (10-week nicotine patch, max 21 mg/day); NRT+ (flexible combination patches up to 35 mg/day plus gum/inhalers, up to 22 weeks); or varenicline (1 mg twice-daily, up to 24 weeks post-target quit date). All groups received six standardized 15-minute nurse-led counseling sessions. Primary outcome: carbon monoxide-confirmed continuous abstinence (weeks 5-52). Secondary outcomes: abstinence at weeks 5-10, 5-22; 7-day point prevalence at weeks 10, 22, 52. Intention-to-treat analysis using logistic regression; adjusted analyses controlled for baseline predictors.
+
+RESULTS:
+Continuous abstinence rates (weeks 5-52): NRT 10.0%, NRT+ 12.4%, varenicline 15.3% (no significant differences). Using 7-day point prevalence at week 52, varenicline was superior to NRT (adjusted OR 1.84; 97.5% CI 1.04-3.26). Varenicline showed higher abstinence at weeks 5-22 versus NRT (OR 2.01; CI 1.20-3.36). Both NRT+ and varenicline increased early success (weeks 5-10) compared to NRT. Extended treatment (beyond 10 weeks) showed benefit in medium-term outcomes. Varenicline users reported more fatigue, digestive symptoms, and sleep disturbances; fewer dermatologic symptoms. Serious adverse events did not differ between groups.
+
+EDIA/EQUITY REPORTING:
+- Sex: 53.6% male, 46.4% female
+- Race/Ethnicity: 91.8% (n=669) were white
+- Socioeconomic Status: 22.7% with annual household income <$20,000 CAD; 52.0% employed full-time; 21.6% homemaker/retired/unemployed; 17.1% on disability leave
+- Education: Mean 14 years (SD 3.0)
+- Psychiatric Status: 59.0% met criteria for lifetime psychiatric diagnosis
+- Medical Comorbidities: 82.9% reported >=1 medical condition
+- Age: Mean 48.6 years (SD 10.8)
+
+CANADIAN INVOLVEMENT:
+Extensive Canadian involvement: study conducted at University of Ottawa Heart Institute; all five principal investigators affiliated with Canadian institutions (University of Ottawa, University of Alberta); funded by Heart and Stroke Foundation of Canada; participants recruited from Canadian sites.

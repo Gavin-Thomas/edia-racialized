@@ -1,0 +1,3779 @@
+Nat Med 
+. Author manuscript; available in PMC: 2026 Mar 3.
+
+ Published in final edited form as: Nat Med. 2025 Mar 25;31(5):1586–1591. doi: 10.1038/s41591-025-03569-y 
+
+ Search in PMC 
+
+ Search in PubMed 
+
+ View in NLM Catalog 
+
+ Add to search 
+
+Escitalopram for agitation in Alzheimer’s dementia: a randomized controlled phase 3 trial
+
+ Tarek K Rajji 
+
+ Tarek K Rajji 
+
+ 1 Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada.
+
+ 2 Department of Psychiatry and Toronto Dementia Research Alliance, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.
+
+ 3 Department of Psychiatry, University of Texas Southwestern Medical Center, Dallas, TX, USA.
+
+Find articles by Tarek K Rajji 
+
+ 1, 2, 3, ✉ , Sheriza N Baksh 
+
+ Sheriza N Baksh 
+
+ 4 Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
+
+Find articles by Sheriza N Baksh 
+
+ 4 , David M Shade 
+
+ David M Shade 
+
+ 4 Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
+
+Find articles by David M Shade 
+
+ 4 , Zahinoor Ismail 
+
+ Zahinoor Ismail 
+
+ 5 Departments of Psychiatry, Clinical Neurosciences and Community Health Sciences, Hotchkiss Brain Institute and O’Brien Institute for Public Health, University of Calgary, Calgary, Alberta, Canada.
+
+Find articles by Zahinoor Ismail 
+
+ 5 , Amer M Burhan 
+
+ Amer M Burhan 
+
+ 2 Department of Psychiatry and Toronto Dementia Research Alliance, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.
+
+ 6 Ontario Shores Centre for Mental Health Sciences, Whitby, Ontario, Canada.
+
+Find articles by Amer M Burhan 
+
+ 2, 6 , Hamid R Okhravi 
+
+ Hamid R Okhravi 
+
+ 7 Department of Medicine, Lawrence J. Goldrich Institute for Integrated Neuro-Health, Macon & Joan Brock Virginia Health Sciences at Old Dominion University, Norfolk, VA, USA.
+
+Find articles by Hamid R Okhravi 
+
+ 7 , Prasad R Padala 
+
+ Prasad R Padala 
+
+ 8 Central Arkansas Veterans Healthcare System and College of Medicine, University of Arkansas for Medical Sciences, Little Rock, AR, USA.
+
+Find articles by Prasad R Padala 
+
+ 8 , Paul B Rosenberg 
+
+ Paul B Rosenberg 
+
+ 9 Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine and Johns Hopkins Bayview Medical Center, Baltimore, MD, USA.
+
+Find articles by Paul B Rosenberg 
+
+ 9 , Lon S Schneider 
+
+ Lon S Schneider 
+
+ 10 Department of Psychiatry and the Behavioral Sciences and Department of Neurology, University of Southern California Keck School of Medicine and the University of Southern California Leonard Davis School of Gerontology, Los Angeles, CA, USA.
+
+Find articles by Lon S Schneider 
+
+ 10 , Anton P Porsteinsson 
+
+ Anton P Porsteinsson 
+
+ 11 Department of Psychiatry, University of Rochester School of Medicine and Dentistry, Rochester, NY, USA.
+
+ 12 These authors contributed equally: Anton P. Porsteinsson, Constantine G. Lyketsos.
+
+Find articles by Anton P Porsteinsson 
+
+ 11, 12 , Constantine G Lyketsos 
+
+ Constantine G Lyketsos 
+
+ 9 Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine and Johns Hopkins Bayview Medical Center, Baltimore, MD, USA.
+
+ 12 These authors contributed equally: Anton P. Porsteinsson, Constantine G. Lyketsos.
+
+Find articles by Constantine G Lyketsos 
+
+ 9, 12 , on behalf of the S-CitAD Research Group 
+
+ Author information 
+
+ Article notes 
+
+ Copyright and License information 
+
+ 1 Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada.
+
+ 2 Department of Psychiatry and Toronto Dementia Research Alliance, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada.
+
+ 3 Department of Psychiatry, University of Texas Southwestern Medical Center, Dallas, TX, USA.
+
+ 4 Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
+
+ 5 Departments of Psychiatry, Clinical Neurosciences and Community Health Sciences, Hotchkiss Brain Institute and O’Brien Institute for Public Health, University of Calgary, Calgary, Alberta, Canada.
+
+ 6 Ontario Shores Centre for Mental Health Sciences, Whitby, Ontario, Canada.
+
+ 7 Department of Medicine, Lawrence J. Goldrich Institute for Integrated Neuro-Health, Macon & Joan Brock Virginia Health Sciences at Old Dominion University, Norfolk, VA, USA.
+
+ 8 Central Arkansas Veterans Healthcare System and College of Medicine, University of Arkansas for Medical Sciences, Little Rock, AR, USA.
+
+ 9 Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine and Johns Hopkins Bayview Medical Center, Baltimore, MD, USA.
+
+ 10 Department of Psychiatry and the Behavioral Sciences and Department of Neurology, University of Southern California Keck School of Medicine and the University of Southern California Leonard Davis School of Gerontology, Los Angeles, CA, USA.
+
+ 11 Department of Psychiatry, University of Rochester School of Medicine and Dentistry, Rochester, NY, USA.
+
+ 12 These authors contributed equally: Anton P. Porsteinsson, Constantine G. Lyketsos.
+
+ * 
+A list of authors and their affiliations appears at the end of the paper.
+
+Author contributions
+
+A.P.P. and C.G.L. are co-senior authors. A.P.P., C.G.L., D.M.S., L.S.S. and P.B.R. contributed to the design of the study. A.M.B., A.P.P., C.G.L., D.M.S., H.R.O., L.S.S., P.B.R., P.R.P., T.K.R. and Z.I. contributed to the recruitment, assessment and retention of participants. D.M.S. and S.N.B. contributed to the data analyses. T.K.R. wrote the first draft of the paper. A.P.P., C.G.L., D.M.S. and S.N.B. provided initial critical reviews of the first draft of the paper. All authors reviewed the final draft and provided critical feedback and approval.
+
+ ✉ 
+ Correspondence and requests for materials should be addressed to Tarek K. Rajji. tarek.rajji@utsouthwestern.edu 
+
+Issue date 2025 May.
+
+ Reprints and permissions information is available at www.nature.com/reprints .
+
+ PMC Copyright notice 
+
+PMCID: PMC12951298  NIHMSID: NIHMS2130350  PMID: 40133524 
+
+The publisher's version of this article is available at Nat Med 
+
+Abstract
+
+Citalopram is effective in treating agitation in Alzheimer’s dementia (AD), but it is associated with cognitive and cardiac risks, likely due to its R -enantiomer. Escitalopram, the S -enantiomer, may be an alternative. In this double-masked randomized (1:1) placebo-controlled trial, we assessed the efficacy and safety of escitalopram in treating agitation in AD after failure of a psychosocial intervention (PSI). Assessments occurred at enrollment, post-PSI (baseline) and at 3, 6, 9 and 12 weeks post-baseline. Settings were 27 community-based centers. The target randomization sample was 392 participants. Participants were adults with AD, a Mini-Mental State Examination Telephone score of 3–20 and significant agitation. PSI non-responders received escitalopram (up to 15 mg per day) or placebo for 12 weeks while continuing PSI. The outcome was the proportion of participants with clinically significant improvement in agitation from baseline at 12 weeks. In total, 173 participants were randomized (84 escitalopram versus 89 placebo; mean ± s.d. age = 78.4 ± 8.7 years; 90 men (52.0%); 127 White (73.4%)). The unadjusted risk difference at 12 weeks was 0.08 (95% confidence interval: −0.21, 0.06). Drug-related QT interval prolongation was observed. Although the randomized sample was smaller than planned, escitalopram was not effective in treating agitation in AD and was associated with cardiac conduction delays. Clinicians need to be cautious in recommending escitalopram as an alternative to citalopram for this condition. ClincialTrials.gov identifier: NCT03108846 .
+
+Agitation in Alzheimer’s dementia (AD) is a common burden for patients, caregivers and the public at large 1 – 3 . It affects up to 60% of patients with AD, particularly in middle and later stages 4 – 9 . Current evidence-based treatments for agitation in AD demonstrate limited efficacy. Non-pharmacological treatments are recommended as first-line interventions 10 – 12 . Pharmacological treatments are indicated when agitation is not responsive to non-pharmacological interventions alone or to optimize their efficacy 10 – 13 .
+
+Antipsychotic medications are widely used, especially in severe agitation 10 . They include risperidone, quetiapine and brexpiprazole, which is the only medication with US Food & Drug Administration (FDA) marketing approval for agitation in AD. However, antipsychotics have modest efficacy and are associated with sedation, falls, extrapyramidal symptoms, cerebrovascular accidents and death 14 , 15 . Notwithstanding concerns regarding their safety or efficacy, other medications used in the management of agitation include anticonvulsants, antidepressants, benzodiazepines, dextromethorphan (in a proprietary combination with a metabolism inhibitor) and cognitive enhancers 16 .
+
+Citalopram, a selective serotonin reuptake inhibitor (SSRI), at a dose of 30 mg per day, was efficacious and safe in treating agitation in AD 17 – 19 in a multicenter randomized controlled trial (RCT) conducted by our group (Citalopram for Agitation in Alzheimer’s Disease Study (CitAD)), with 40% of the 94 participants randomized to citalopram experiencing clinically meaningful improvement compared to 26% of the 92 placebo-treated participants, with clinical meaningfulness defined as marked or moderate improvement on the modified Alzheimer Disease Cooperative Study-Clinical Global Impression of Change (mADCS-CGIC) 20 . This dose is higher than the upper limit of 20 mg, as recommended by the FDA in older adults 21 . CitAD also showed that citalopram efficacy was higher among community-dwelling patients than those living in care homes 22 ; that risks for QTc prolongation and cognitive decline were associated with the R -enantiomer of citalopram 23 ; and that efficacy was associated with the S -enantiomer 23 . These findings should limit the widespread use of citalopram as a treatment for agitation in AD and show promise for examining the efficacy of escitalopram, an FDA-approved generic SSRI containing only the S -enantiomer of citalopram. CitAD also demonstrated that 26% (ref. 24 ) of participants randomized to placebo combined with a brief, standardized and scalable psychosocial intervention (PSI) experienced clinically meaningful improvement in agitation, with most of the improvement being observed by 3 weeks of treatment 25 .
+
+With the above background, we designed 26 and completed a double-masked, multicenter RCT to test the efficacy and safety of a 12-week course of escitalopram versus placebo—both combined with PSI—for agitation in community-dwelling adults with AD after a 3-week course of PSI alone ( Fig. 1 ). The primary hypothesis was that the proportion of participants in the escitalopram + PSI group demonstrating clinically significant improvement of agitation would be larger than the corresponding proportion in the placebo + PSI group 26 .
+
+Fig. 1 |. Overall study design.
+
+ Open in a new tab 
+
+BL, baseline and randomization visit; EN, enrolment visit; T, telephone contact; V, in-person visit; F, scheduled follow-up visit; RZ, randomization. Note that all contacts for the ‘PSI only’ group are telephone contacts.
+
+Results
+
+Patient disposition
+
+Of 243 participants consented and assessed for eligibility between 14 March 2018 and 30 November 2023, 205 were eligible and enrolled in the study. This included 32 participants who exited the study before completing the PSI-alone run-in phase, who either responded to standardized PSI alone or were ineligible to be randomized ( Fig. 2 ; CONSORT diagram). Thus, 173 participants were randomized between 10 April 2018 and 31 December 2023 to escitalopram for 12 weeks + standardized PSI ( n = 84) or placebo for 12 weeks + standardized PSI ( n = 89), with a mean ± s.d. age of 78.4 ± 8.7 years, 90 men (52.0%) and 127 White (73.4%) ( Extended Data Tables 1 and 2 ). The total randomized sample was lower than our target sample of 392 participants.
+
+Fig. 2 |. This CONSORT diagram illustrates the flow of participants throughout the trial.
+
+ Open in a new tab 
+
+CONSORT diagram: a Mutually exclusive; b Not mutually exclusive.
+
+Primary outcome
+
+ Table 1 reports on the participants who experienced ‘moderate’ or ‘marked’ improvement on the mADCS-CGIC referencing the baseline (BL) assessment in the two treatment groups and at 3 weeks, 6 weeks and 12 weeks, with the latter being the primary outcome timepoint. The risk difference (RD) at 12 weeks was not statistically significant (unadjusted RD = −0.08; 95% confidence interval (CI): −0.21, 0.06; adjusted RD = −0.07; 95% CI: −0.22, 0.07).
+
+Table 1 |.
+
+Marked or moderate improvement on the mADCS-CGIC: ITT analysis
+
+ Follow-up timepoint
+
+ Placebo
+( n = 89)
+ n (%)
+
+ Escitalopram
+( n = 84)
+ n (%)
+
+ RD (CI) a 
+
+ P value
+
+  3weeks
+
+ 14 (15.7)
+
+ 22 (26.1)
+
+ −0.10 (−0.23, 0.02)
+
+ 0.09
+
+  6 weeks
+
+ 21 (23.6)
+
+ 27 (32.1)
+
+ −0.09 (−0.22, 0.05)
+
+ 0.21
+
+  12 weeks
+
+ 24 (27.0)
+
+ 29 (34.5)
+
+ −0.08 (−0.21, 0.06)
+
+ 0.28
+
+ Adjusted analysis—12weeks b 
+
+ 24 (27.0)
+
+ 29 (34.5)
+
+ −0.07 (−0.22, 0.07)
+
+ 0.31
+
+ Open in a new tab 
+
+ n indicates the number of participants who experienced marked or moderate improvement on mADCS-CGIC at each follow-up timepoint.
+
+ a 
+Negative point estimate favors escitalopram.
+
+ b 
+Adjusted for clinic.
+
+Secondary outcomes
+
+The analysis using proportional odds for the mADCS-CGIC categorical outcome did not reveal any significant difference between the two treatment groups ( Extended Data Table 3 ). Table 2 shows no significant differences between the two treatment groups in Activities of Daily Living (ADL) 27 , Mini-Mental State Examination Telephone (MMSET), Neuropsychiatric Inventory-Clinician Rating (NPI-C) (agitation and aggression domains) 28 or Zarit Burden Interview (ZBI) 29 across 3 weeks, 6 weeks and 12 weeks, except for NPI-C (agitation and aggression domains) at 3 weeks favoring the active group. Figure 3 shows change in NPI-C (agitation + aggression domains) with no significant differences between the two treatment groups.
+
+Table 2 |.
+
+Secondary outcomes over follow-up by treatment group
+
+ Placebo
+
+ Escitalopram
+
+ P value
+
+ Number of participants
+
+ 89
+
+ 84
+
+ MMSET a , mean (s.d.)
+
+  3 weeks
+
+ 11.1 (5.74)
+
+ 11.1 (5.63)
+
+ 1.00
+
+  6 weeks
+
+ 11.9 (5.99)
+
+ 11.2 (5.77)
+
+ 0.40
+
+  12 weeks
+
+ 11.7 (5.99)
+
+ 11.1 (5.44)
+
+ 0.60
+
+ NPI-C (agitation + aggression), mean (s.d.)
+
+  3 weeks
+
+ 15.8 (7.95)
+
+ 12.4 (9.20)
+
+ 0.01
+
+  6 weeks
+
+ 14.3 (8.51)
+
+ 12.8 (8.86)
+
+ 0.30
+
+  12 weeks
+
+ 14.5 (9.83)
+
+ 12.2 (9.16)
+
+ 0.10
+
+ ADL, mean (s.d.)
+
+  3 weeks
+
+ 3.94 (1.55)
+
+ 4.03 (1.86)
+
+ 0.70
+
+  6 weeks
+
+ 3.91 (1.69)
+
+ 4.04 (1.88)
+
+ 0.70
+
+  12 weeks
+
+ 3.99 (1.77)
+
+ 3.82 (1.90)
+
+ 0.60
+
+ ZBI, mean (s.d.)
+
+  3 weeks
+
+ 17.2 (10.4)
+
+ 14.8 (8.92)
+
+ 0.10
+
+  6 weeks
+
+ 18.1 (10.6)
+
+ 16.8 (8.74)
+
+ 0.40
+
+  12 weeks
+
+ 14.8 (10.7)
+
+ 14.7 (10.0)
+
+ 1.00
+
+ Open in a new tab 
+
+ a 
+MMSET scores were translated for participants completing the MMSE at each visit (maximum score = 22).
+
+Fig. 3 |. Change in NPI-C (agitation + aggression) from BL over time by treatment group.
+
+ Open in a new tab 
+
+This figure shows the change in NPI-C from EN to BL (1 EN) and then from BL to 3 weeks (2 F3), BL to 6 weeks (3 F6) and BL to 12 weeks (5 F12). Change from BL at EN equals to BL minus EN; all other timepoints are follow-up minus BL. Data are presented as median values (center line of box), first and third quartiles (bottom and top edge of box) and range of data represented by 1.5 times the interquartile range (whiskers). Outliers are represented as dots beyond the box and whiskers. P values were derived from two-sided analysis of variance. CIs are as follows: EN: (−1.03, 3.74), F3: (−0.51, 4.99), F6: (−2.93, 2.39), F12: (−2.27, 3.54). Pla, placebo; S-Cit, escitalopram.
+
+Safety
+
+ Table 3 shows that, compared to the placebo group, the active group had more men and women experiencing prolongation in corrected QT interval using Bazett’s formula (QTcB) above the respective 450-ms and 470-ms cutoffs, more falls and more diarrhea, and no difference was observed in ‘get-up and go’.
+
+Table 3 |.
+
+Safety outcomes and adverse events over follow-up by treatment group
+
+ Placebo
+
+ Escitalopram
+
+ P value
+
+ Number of participants
+
+ 89
+
+ 84
+
+ Adverse events a , n (%)
+
+ 410
+
+ 391
+
+  Falls
+
+ 19 (4.6)
+
+ 36 (9.2)
+
+ 0.01
+
+  Anorexia
+
+ 54 (13.2)
+
+ 62 (15.9)
+
+ 0.30
+
+  Anxiety
+
+ 222 (54.1)
+
+ 151 (38.6)
+
+ <0.001
+
+  Asthenia
+
+ 80 (19.5)
+
+ 91 (23.3)
+
+ 0.20
+
+  Confusion
+
+ 273 (66.6)
+
+ 237 (60.6)
+
+ 0.09
+
+  Constipation
+
+ 33 (8.0)
+
+ 52 (13.3)
+
+ 0.02
+
+  Cough
+
+ 62 (15.1)
+
+ 73 (18.7)
+
+ 0.20
+
+  Diarrhea
+
+ 27 (6.6)
+
+ 54 (13.8)
+
+ <0.001
+
+  Dizziness
+
+ 73 (17.8)
+
+ 67 (17.1)
+
+ 0.90
+
+  Dry mouth
+
+ 63 (15.4)
+
+ 52 (13.3)
+
+ 0.40
+
+  Fatigue
+
+ 157 (38.3)
+
+ 142 (36.3)
+
+ 0.60
+
+  Gait instability
+
+ 138 (33.7)
+
+ 131 (33.5)
+
+ 1.00
+
+  Headache
+
+ 54 (13.2)
+
+ 54 (13.8)
+
+ 0.80
+
+  Insomnia
+
+ 97 (23.7)
+
+ 75 (19.2)
+
+ 0.10
+
+  Joint pain
+
+ 135 (32.9)
+
+ 115 (29.4)
+
+ 0.30
+
+  Muscle pain
+
+ 92 (22.4)
+
+ 85 (21.7)
+
+ 0.90
+
+  Nasal congestion
+
+ 71 (17.3)
+
+ 55 (14.1)
+
+ 0.20
+
+  Nervousness
+
+ 107 (26.1)
+
+ 99 (25.3)
+
+ 0.80
+
+  Rhinitis
+
+ 123 (30.0)
+
+ 101 (25.8)
+
+ 0.20
+
+  Somnolence
+
+ 94 (22.9)
+
+ 94 (24.0)
+
+ 0.70
+
+  Tremor
+
+ 57 (13.9)
+
+ 51 (13.0)
+
+ 0.80
+
+  Yawn
+
+ 36 (8.8)
+
+ 50 (12.8)
+
+ 0.09
+
+ Serious adverse events
+
+ 22
+
+ 16
+
+ 0.40
+
+  Death
+
+ 4 (18.2)
+
+ 1 (6.3)
+
+  Non-fatal serious adverse events
+
+ 18 (81.8)
+
+ 15 (93.8)
+
+ QTcB b , n (%)
+
+ 367
+
+ 321
+
+  Men (>450 ms)
+
+ 9 (2.5)
+
+ 23 (7.2)
+
+ 0.02
+
+  Women (>470 ms)
+
+ 3 (0.8)
+
+ 10 (3.1)
+
+ 0.04
+
+ ‘Get-up and go’
+
+ 89
+
+ 84
+
+ Time to stand and walk, mean (s.d.)
+
+  3 weeks
+
+ 18.7 (29.5)
+
+ 16.8 (7.13)
+
+ 0.60
+
+  6 weeks
+
+ 19.2 (13.6)
+
+ 16.3 (6.6)
+
+ 0.10
+
+  12 weeks
+
+ 16.6 (8.2)
+
+ 16.4 (6.9)
+
+ 0.90
+
+ Open in a new tab 
+
+ a 
+Adverse events with 10% frequency or more are reported.
+
+ b 
+Cumulative over follow-up; n values can reflect multiple counts in one participant.
+
+Sensitivity analyses
+
+The per-protocol analysis and all sensitivity analyses did not yield any significant RDs between the two treatment groups ( Extended Data Tables 4 and 5 and Extended Data Fig. 1 ).
+
+Post hoc analyses
+
+Given the smaller-than-planned sample size and to lend further support to our findings, we conducted analyses to assess the results had the full planned sample size been achieved. At a sample size of n = 390 (rounded down from n = 392 to account for the fact that exact calculations require whole numbers of participants), the CI for our observed RD would have been (−0.1670, 0.0175) with a non-significant P value. The estimated power at this sample size is 0.36. The sample size needed to have 80% power for the Escitalopram for Agitation in Alzheimer’s Disease (S-CitAD) observed response of 8% RD is n = 1,048.
+
+Discussion
+
+The primary results of this phase 3, double-masked, multicenter RCT do not support the efficacy of escitalopram + PSI in treating agitation in AD after a 3-week course of PSI alone. No difference was observed between the two treatment arms in the proportion of participants who experienced marked or moderate improvement in agitation at 12 weeks compared to BL. The lack of evidence for a treatment effect persisted after adjusting for clinical site, in the per-protocol analysis including only participants who completed all 12 weeks of follow-up and in sensitivity analyses including one adjusting for enrollment before versus after coronavirus disease 2019 (COVID-19).
+
+The percentage of participants who were randomized to placebo and experienced marked or moderate improvement in agitation at 12 weeks was 27%. This is congruent with what we predicted in our power analysis and consistent with the results of CitAD, in which 26% improved in this arm 24 . In contrast, the percentage of participants who were randomized to escitalopram and experienced marked or moderate improvement in agitation at 12 weeks was 34.5%, which is lower than the 40% observed in the citalopram + PSI group in CitAD 19 .
+
+One key difference in study design between CitAD and S-CitAD is the 3-week PSI run-in in advance of administering the study drug. We consider it unlikely that the introduction of this design feature played a role in the unexpectedly low efficacy on escitalopram, and, in fact, by eliminating PSI-only responders, this should serve to diminish placebo response. Rather, this might suggest that the efficacy of escitalopram is lower than that of citalopram at similar doses. However, the studies occurred in very different time periods, with widespread use of citalopram providing challenges to recruitment into S-CitAD. We speculate that a subset of responders to serotonergic medications may have been systematically excluded from the S-CitAD recruitment pool due to treatment with citalopram. Hence, although this is a speculation, this study likely enrolled a different population than CitAD, possibly with more individuals whom their clinicians did not think that citalopram or escitalopram was the right choice for them, otherwise they would have tried them. We also note that, due to serious challenges with recruitment, this study was underpowered to detect the effect size seen in CitAD and even more so to detect a 34% to 27% difference in responder rates. Smaller than expected cell sizes likely resulted in lower estimate precision, wider CIs and greater difficulty discriminating between drug and placebo effects. For more comparisons between CitAD and S-CitAD, see Extended Data Table 9 .
+
+Our finding of a slightly higher proportion of participants with marked or moderate response to escitalopram over placebo at 3 weeks after randomization (that is, after failing to respond to PSI alone) is consistent with an augmenting effect of escitalopram when PSI is not sufficient. After the 3-week post-randomization, response rates in the two treatment groups converged, suggesting that the placebo + PSI group ‘catches up’ 3 weeks later. The pattern of change in agitation + aggression scores on NPI is also consistent with this accelerated response in the escitalopram + PSI group versus the placebo + PSI group. This pattern of change contrasts with CitAD where the separation between drug and placebo increased over time, in particular late in the study.
+
+The difference in efficacy between CitAD and S-CitAD could also be due to the possible benefit from racemic citalopram for the treatment of agitation in AD. The R -enantiomer is 30-fold less potent than the S -enantiomer at inhibiting serotonin reuptake 30 . Furthermore, evidence suggests that the R -enantiomer inhibits 31 , 32 the response to the S -enantiomer, resulting in escitalopram having better antidepressant response and fewer side effects versus citalopram 33 . However, in treating agitation in AD, this suppressive effect of the R -enantiomer may be beneficial in treating agitation in AD, as the S -enantiomer on its own may cause more activation than the racemic mixture in patients with AD.
+
+The treatment effects on MMSET are somewhat different than those of CitAD. Here, we did not observe a significant negative treatment effect at 12 weeks on MMSET: MMSET scores were relatively stable on escitalopram in this study, in contrast to a decline in MMSE scores on citalopram in CitAD. In both studies, the placebo groups had improved cognitive scores, possibly due to practice effects. Thus, although escitalopram may have fewer adverse cognitive effects than citalopram, it could still be suppressing practice effects. More detailed analyses using blood levels and detailed cognitive assessments will follow in future publications.
+
+A key limitation of this study is the fact that only 44.1% of the target sample was recruited. However, post hoc analyses showed that the required sample to detect our observed effect would have needed to be 2–3 times larger than our target sample, raising considerable doubt about any clinical meaningfulness of such an effect. This is in contrast to the statistically and clinically significant effect observed in the citalopram study. Another limitation is the use of Bazett’s formula to correct QTc given that it is not accurate in patients with tachycardia or bradycardia. However, its use in our study was not problematic because, at enrollment, all participants had normal sinus rhythm and a heart rate within the normal range, and the vast majority of them continued to be so at follow-ups ( Extended Data Table 6 ). A third limitation is that we did not use biomarker-based diagnosis because we aimed to mirror, as much as possible, routine clinical practice given the potential immediate clinical implications of our results. Also, biomarker testing in this population as a whole would have been challenging or even impossible, but this should not discourage clinicians from using such testing when possible in individual patients in their practice. A strength of this study is the thorough and systematic assessment of behavioral outcomes and very good retention ( Fig. 2 ).
+
+In conclusion, our results provide no reason to think that escitalopram is superior to citalopram, and, in fact, it might be inferior. Taken together with the increased rate of falls, the prolongation of QTcB and the increased incidence of diarrhea, although escitalopram might have less of a negative impact on cognition, our results suggest that citalopram should be the preferred choice over escitalopram for the treatment of agitation in AD when an SSRI is indicated.
+
+Online content
+
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information , acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at https://doi.org/10.1038/s41591-025-03569-y .
+
+Methods
+
+Overall design
+
+ Figure 1 shows the overall study design. In brief, after eligibility and enrollment (EN) assessments, participants received 3 weeks of PSI alone. At the end of the 3 weeks, agitation was reassessed (BL visit), and only those participants who did not experience response relative to EN, and who remained eligible for drug treatment, were randomized (1:1) to receive escitalopram or placebo for 12 weeks concomitant with PSI. Participants who responded to PSI alone, or who were not suitable for escitalopram treatment (primarily due to cardiac concerns), continued to be monitored on usual care for up to 12 weeks while receiving PSI. In addition to EN and BL assessments, all participants were assessed at weeks 3, 6, 9 and 12.
+
+Participants
+
+Participants were men and women aged 18 years and older who met the following key inclusion criteria (for more details, see our methods publication 26 ): (1) AD diagnosed according to the National Institute on Aging (NIA) and the Alzheimer’s Association (AA) (2011 NIA/AA criteria) 34 —thus, we assumed that the participants had probable AD without evidence of AD pathology; (2) MMSET score of 3–20 inclusive 35 , corresponding to a score of 5–28 inclusive on the Mini Mental State Examination (MMSE) 36 . We chose the MMSE to be consistent with the CitAD study, which was the basis for this trial. We then decided to switch to MMSET due to COVID-19. Moreover, at the dementia severity range that our participants were enrolled at, the MMSE is more appropriate than the Montreal Cognitive Assessment (MoCA), which is difficult for anyone with moderate dementia to complete, let alone a population of agitated patients; (3) meeting International Psychogeriatric Association (IPA) provisional criteria for agitation in cognitive disorders 37 ; (4) experiencing clinically significant agitation/aggression as assessed by the NPI, for which the frequency is either ‘Very frequently’ or ‘Frequently’ and the severity is ‘moderate’ or ‘marked’ 38 ; (5) informed consent for participation in the study provided by both caregiver and participant (or surrogate consent and participant assent); (6) having an available caregiver who spends at least several hours per week with the participant; and (7) on a stable (≥7 days) dosing of antipsychotics for agitation or psychosis, if being used at all.
+
+Exclusion criteria were as follows: (1) meeting the Diagnostic and Statistical Manual of Mental Disorders 5th Edition (DSM-5) 39 criteria for a major depressive episode (MDE) in the past 90 days; (2) residing in a skilled nursing or long-term acute care facility; (3) having a failed treatment attempt with citalopram or escitalopram for agitation after adequate trial, at minimally accepted dose; (4) QTcB as determined on EN electrocardiogram (defined as >450 ms for men and >470 ms for women); (5) treatment within 7 days of EN with any of the following: antidepressants (other than trazodone, ≤100 mg per day at bedtime), benzodiazepines (other than lorazepam) or psychostimulants; (6) recent (<14 days of EN) changes in dextromethorphan/quinidine, prazosin and pimavanserin; and (7) recent (<14 days) use of medical marijuana.
+
+Of note, we did not use biomarker-based diagnosis. The challenges of biomarker-based diagnosis at the time would have made the study almost impossible. In this population with acute agitation, getting an amyloid positron emission tomography scan or a cerebrospinal fluid analysis would have been extremely difficult, and reliable blood biomarkers with short turnaround times were not available.
+
+All enrolled participants signed written informed consents that were approved by a single institutional review board (Johns Hopkins Bloomberg School of Public Health as the board of record), by Clinical Trials Ontario (Centre for Addiction and Mental Health as the board of record) or by local institutional review boards at the Biomedical Research Foundation, the University of Calgary and Foothills Medical Centre, the Centre for Memory and Aging, Columbia University, Roper St. Francis Healthcare and the University of California Los Angeles/VA Greater Los Angeles Healthcare System.
+
+Randomization and masking
+
+Using a documented program built in-house for data collection (‘Data-PRISM’) and SAS software (version 9.4) 40 , the randomization schedule was designed to yield an expected allocation ratio of 1:1 for escitalopram and placebo. Assignments were stratified by clinical site ( n = 27), and schedules employed permuted block designs, with block sizes of 2 and 4. Treatment assignments were masked to the participants and clinical site personnel through the 12 weeks after randomization. Treatments were assigned at BL. Routine unmasking occurred for all participants at 12 weeks, after the data collection was completed. Placebo tablets were manufactured to match the tablets of active drug by a pharmaceutical manufacturing service (Temple University School of Pharmacy cGMP Services).
+
+Interventions
+
+For those randomized to the study drug, each tablet contained 5 mg of escitalopram. The target study dose was 15 mg per day provided as a single dose (preferably in the morning). Upon randomization, participants started on 5 mg (one tablet) of escitalopram daily for 7 days. The dose was increased to 10 mg per day (two tablets) for another 7 days, after which the dose increased to 15 mg (three tablets). For those randomized to placebo, the treatment schedule and number of tablets were the same. If necessary, at any time, local study physicians had the option of decreasing the daily dose by 5 mg at a time depending on tolerability, to a minimum of 5 mg.
+
+PSI.
+
+All caregivers and participants were provided with a standardized PSI 41 . PSI consisted of three components: a counseling session, the provision of education materials and 24-hour availability for crises, with counseling over the telephone or video as appropriate. The education materials consisted of the same materials across clinics. However, local resource materials (such as on finding a local home health aide) were also used as needed. The counseling session, in which a trained study clinician counseled the participant and caregiver, took place at EN, at BL and at each study visit after BL. PSI took approximately 20–30 minutes. Each counseling session consisted of the following: (1) review and adjustment of the participant and caregiver supportive care plans; (2) emotional support and opportunity to express feelings; (3) counseling regarding specific caregiving skills; (4) assistance with problem solving of specific issues that the caregiver brought to the sessions; and (5) answers for questions regarding the educational materials. These PSI procedures were used in previous controlled trials for neuropsychiatric symptoms in AD 19 , 42 .
+
+Assessments and outcomes
+
+ Extended Data Tables 7 and 8 summarize all assessments and their schedule. The study included secondary outcome measures that will be reported in future publications and that are described in our methods publication 26 . In brief, EN activities and assessments were first completed, including signing the informed consent form and assessments of eligibility, agitation and safety. After completing the assessments and confirming eligibility, PSI was provided to the participant and caregiver and continued for 3 weeks. BL assessments occurred 3 weeks after EN assessments. At BL, ongoing consent and eligibility were verified, and assessments of symptoms and safety were completed. Eligibility for randomization was based on the BL mADCS-CGIC and the QTcB. Randomized participants were then assessed for 12 weeks. Efficacy outcomes were reported based on week 3, 6, 9 and 12 assessments, with the primary outcome timepoint being 12 weeks 26 .
+
+COVID-19 effects and adaptations.
+
+To minimize the risk of contracting COVID-19 from participating in the study during the pandemic, and to make the study procedures less burdensome, we implemented changes to our original protocols, with the key ones being the following: (1) converted in-person visit at 9 weeks to a telephone visit, and, consequently, given this major change in the method of data collection at this timepoint compared to 3 weeks, 6 weeks and 12 weeks, we chose to report the 9-week results in the Supplementary Information ; (2) adapt to telephone assessment of cognition by modifying an eligibility criterion from a score range (5–28) on the MMSE 36 to a score range (3–20) on the MMSET; (3) administered the mADCS-CGIC, MMSET and NPI/NPI-C solely virtually; (4) allowed for PSI to be administered by phone/video based on local preference/permission; and (5) added ‘Time-dependent covariate for study enrollment before and after the onset of the COVID-19 pandemic’ to the primary analysis.
+
+Before the pandemic, recruitment was in-line with study targets. Despite the above-mentioned modifications intended to make the study less burdensome during the pandemic, and a series of other measures (addition of over 15 new sites in the United States and Canada and professional marketing assistance), we were ultimately not able to meet the originally planned recruitment targets.
+
+Primary outcome.
+
+The primary outcome was the proportion of participants who experienced clinically significant improvement in agitation, indicated as ‘moderate’ or ‘marked’ improvement on the mADCS-CGIC referencing the BL assessment at 12 weeks 26 .
+
+Secondary outcomes.
+
+In addition to the primary outcome measure, we assessed efficacy using the mADCS-CGIC categorical outcome, NPI-C (agitation and aggression domains), ADL and ZBI. To assess safety, we compared the two groups on the following outcome measures: ‘get-up and go’ test 43 , MMSET, QTcB and rates of adverse and serious adverse events.
+
+Statistical analyses
+
+All randomized participants were included in the primary analysis following the intention-to-treat (ITT) principle, treating participants who drop out or die as not having improved on the primary outcome. All events after randomization were counted. All measures were evaluated for outliers, and distributional assumptions were checked to ensure applicability of the statistical procedures. Analyses are presented as unadjusted and adjusted for clinical site (the stratification variable).
+
+For the primary outcome analysis, the two groups were compared using Fisher’s exact test. We report the RD and 95% CI. In addition, we conducted the following sensitivity analyses: (1) a per-protocol analysis, censoring those who died, withdrew consent or were lost to follow-up; (2) classifying participants with missing outcome data as having significant improvement; (3) multiple imputation of mADCS-CGIC scores for missing outcomes; and (4) controlling for study enrollment before and after the onset of the COVID-19 pandemic.
+
+For the secondary outcomes analyses, the two groups were compared using a proportional odds analysis using ordinal logistic regression for mADCS-CGIC as a categorical outcome. We used a chi-square test or Fisher’s exact test for non-continuous outcome measures.
+
+All analyses were two-sided, and no corrections were made for multiple comparisons for the sensitivity or secondary analyses.
+
+Sample size
+
+The sample size was based on the comparison of the two groups in the RCT portion of the study. The primary outcome, upon which the sample size was based, was a score of either 1 or 2 (corresponding to ‘moderate’ or ‘marked’ improvement) on the mADCS-CGIC at the 12-week visit in reference to the BL visit, as assessed using the mADCS-CGIC. The mADCS-CGIC is a seven-point scale with measures ranging from marked improvement (score of 1) to marked worsening (score of 7). Our definition of clinically significant improvement was a binary measure indicating a score of either 1 or 2 (corresponding to ‘moderate’ or ‘marked’ improvement) on the mADCS-CGIC.
+
+S-CitAD was designed to demonstrate efficacy at a level equal to or exceeding that found in CitAD, with the rationale being that lower efficacy could not justify the widespread use of escitalopram over citalopram for the treatment of agitation in AD. In CitAD, 40% of participants in the citalopram + PSI group demonstrated clinically significant improvement in agitation (as defined above) after 9 weeks of treatment, compared to a corresponding measure of 26% of participants in the placebo + PSI group, for a relative risk of 1.53. We calculated a sample size of n = 352 (176 per group) to have 80% power to detect an RD of 14% at 12 weeks, assuming a 26% response rate in the placebo + PSI group and setting the two-sided type I error to be 0.05. Allowing for 10% loss to follow-up, we planned to randomize 392 participants to one of the two treatment arms in the randomized portion of the study. Although a 3-week course of PSI alone was likely to be less effective than what was observed in the CitAD placebo + PSI group, we allowed for also a 26% response rate during the 3-week PSI-alone run-in phase, and the total enrollment target sample was (392 / 0.74) = 530 participants. Sample size calculations were performed using ‘PROC POWER’ for a chi-square test in SAS software, version 9.3.
+
+Extended Data
+
+Extended Data Fig. 1 |. Change in NPI-C Agitation + Aggression from baseline over time by treatment group, including change at 9-week.
+
+ Open in a new tab 
+
+This figure shows the change in NPI-C from EN to BL (1-EN) and then from BL to 3-week (2-F3), BL to 6-week (3-F6), BL to 9-week (4-F9), and BL to 12-week (5-F12). Change from BL at EN equals to BL minus EN; all other time points are follow-up minus BL. Data are presented as median values (center line of box), 1st and 3rd quartiles (bottom and top edge of box), and range of data represented by 1.5 times the interquartile range (whiskers). Outliers are represented as dots beyond the box and whiskers. Confidence intervals are as follows: EN: [−1.03, 3.74], F3: [−0.51, 4.99], F6: [−2.93, 2.39], F9: [−2.07, 3.55], F12: [−2.27, 3.54]. NPI-C = Neuropsychiatrc Inventory Clinician Rating.
+
+Extended Data Table 1 |.
+
+Baseline characteristics of participants by group
+
+ Total Randomized
+
+ Placebo
+
+ Escitalopram
+
+ Number of participants
+
+ 173
+
+ 89
+
+ 84
+
+ Self-reported gender, n (%)
+
+  Men
+
+ 90 (52.0)
+
+ 44 (49.4)
+
+ 46 (54.8)
+
+  Women
+
+ 83 (48.0)
+
+ 45 (50.6)
+
+ 38 (45.2)
+
+ Age, mean (SD)
+
+ 78.4 (8.70)
+
+ 78.3 (8.74)
+
+ 78.5 (8.72)
+
+ QTcB, mean (SD)
+
+  Men
+
+ 418 (23.1)
+
+ 417 (21.6)
+
+ 419 (24.6)
+
+  Women
+
+ 427 (23.9)
+
+ 425 (25.3)
+
+ 430 (22.2)
+
+ Race/Ethnicity, n (%)
+
+  White
+
+ 127 (73.4)
+
+ 65 (73.0)
+
+ 62 (73.8)
+
+  Black or African American
+
+ 39 (22.5)
+
+ 21 (23.6)
+
+ 18 (21.4)
+
+  Hispanic or Latino
+
+ 5 (2.9)
+
+ 1 (1.1)
+
+ 4 (4.8)
+
+  Other
+
+ 11 (6.4)
+
+ 5 (5.6)
+
+ 6 (7.1)
+
+ Highest Education, n (%)
+
+  Some schooling, no high school diploma
+
+ 26 (15.0)
+
+ 17 (19.1)
+
+ 9 (10.7)
+
+  High school diploma
+
+ 53 (30.6)
+
+ 28 (31.5)
+
+ 25 (29.8)
+
+  Some college, no diploma
+
+ 30 (17.3)
+
+ 9 (10.1)
+
+ 21 (25.0)
+
+  College degree or higher
+
+ 63 (36.4)
+
+ 35 (39.3)
+
+ 28 (33.3)
+
+  Missing
+
+ 1 (0.6)
+
+ 0 (0)
+
+ 1 (1.2)
+
+ Time of enrollment, n (%)
+
+  Before COVID-19 shutdown 1 
+
+ 85 (49.1)
+
+ 41 (46.1)
+
+ 44 (52.4)
+
+  After COVID-19 pandemic opening
+
+ 88 (50.9)
+
+ 48 (53.9)
+
+ 40 (47.6)
+
+ MMSET 2 , mean (SD)
+
+ 11.0 (5.58)
+
+ 10.7 (5.76)
+
+ 11.3 (5.41)
+
+ Clinical History
+
+  Age at onset of dementia (mo.), mean (SD)
+
+ 74.5 (8.7)
+
+ 74.3 (8.3)
+
+ 74.8 (9.0)
+
+  Duration of current episode of agitation (mo.), mean (SD)
+
+ 32.7 (56.9)
+
+ 32.9 (62.6)
+
+ 32.4 (50.4)
+
+  Anxiety disorder, n (%)
+
+ 13 (7.5)
+
+ 6 (6.7)
+
+ 7 (8.3)
+
+  Major depressive disorder, n (%)
+
+ 11 (6.4)
+
+ 6 (6.7)
+
+ 5 (6.0)
+
+  Bipolar disorder, n (%)
+
+ 1 (0.6)
+
+ 0 (0)
+
+ 1 (1.2)
+
+  Other comorbid neuropsychiatric disorder, n (%)
+
+ 20 (11.6)
+
+ 13 (14.6)
+
+ 7 (8.3)
+
+ Concomitant medications, n (%)
+
+  Concomitant psychotropics
+
+ 79 (45.7)
+
+ 40 (44.9)
+
+ 39 (46.4)
+
+  Atypical antipsychotic
+
+ 21 (12.1)
+
+ 11 (12.4)
+
+ 10 (11.9)
+
+  Benzodiazepine
+
+ 8 (4.6)
+
+ 6 (6.7)
+
+ 2 (2.4)
+
+  Cannabinoids
+
+ 1 (0.6)
+
+ 1 (1.1)
+
+ 0 (0)
+
+  Carbamazepine
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+  Conventional antipsychotic
+
+ 2 (1.2)
+
+ 1 (1.1)
+
+ 1 (1.2)
+
+  Dextromethorphan quinidine
+
+ 1 (0.6)
+
+ 1 (1.1)
+
+ 0 (0)
+
+  Prazosin
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+  Pimavanserin
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+  Serotonin-norepinephrine reuptake inhibitors 3 
+
+ 3 (1.7)
+
+ 3 (3.4)
+
+ 0 (0)
+
+  Selective serotonin reuptake inhibitors 3 
+
+ 7 (4.0)
+
+ 2 (2.2)
+
+ 5 (6.0)
+
+  Valproic acid
+
+ 1 (0.6)
+
+ 1 (1.1)
+
+ 0 (0)
+
+  Memantine
+
+ 42 (24.3)
+
+ 24 (27.0)
+
+ 18 (21.4)
+
+  Cholinesterase inhibitors
+
+ 97 (56.1)
+
+ 48 (53.9)
+
+ 49 (58.3)
+
+   Donepezil
+
+ 81 (46.8)
+
+ 41 (46.1)
+
+ 40 (47.6)
+
+   Rivastigmine
+
+ 11 (6.4)
+
+ 5 (5.6)
+
+ 6 (71)
+
+   Galantamine
+
+ 6 (3.5)
+
+ 3 (3.4)
+
+ 3 (3.6)
+
+  Other cognitive enhancers 4 
+
+ 2 (1.2)
+
+ 1 (1.1)
+
+ 1 (1.2)
+
+  Lorazepam
+
+ 8 (4.6)
+
+ 5 (5.6)
+
+ 3 (3.6)
+
+  Trazodone
+
+ 26 (15.0)
+
+ 13 (14.6)
+
+ 13 (15.5)
+
+ Neuropsychiatric symptoms 5 
+
+  NPI-C Agitation + Aggression, mean (SD)
+
+ 20.5 (10.4)
+
+ 21.2 (10.3)
+
+ 19.7 (10.4)
+
+  NBRS Agitation, n (%)
+
+ 133 (76.9)
+
+ 68 (76.4)
+
+ 65 (77.4)
+
+  NPI Delusion, n (%)
+
+ 58 (33.5)
+
+ 32 (36.0)
+
+ 26 (31.0)
+
+  NPI Hallucination, n (%)
+
+ 35 (20.2)
+
+ 16 (18.0)
+
+ 19 (22.6)
+
+  NPI Anxiety, n (%)
+
+ 79 (45.7)
+
+ 44 (49.4)
+
+ 35 (41.7)
+
+  NPI Elation/Euphoria, n (%)
+
+ 13 (7.5)
+
+ 7 (7.9)
+
+ 6 (7.1)
+
+  NPI Apathy/Indifference, n (%)
+
+ 100 (57.8)
+
+ 52 (58.4)
+
+ 48 (57.1)
+
+  NPI Disinhibition, n (%)
+
+ 73 (42.2)
+
+ 42 (47.2)
+
+ 31 (36.9)
+
+  NPI Irritability/Lability, n (%)
+
+ 141 (81.5)
+
+ 76 (85.4)
+
+ 65 (77.4)
+
+  NPI Aberrant Motor Behavior, n (%)
+
+ 92 (53.2)
+
+ 48 (53.9)
+
+ 44 (52.4)
+
+  NPI Sleep and Nighttime Behavior, n (%)
+
+ 55 (31.8)
+
+ 28 (31.5)
+
+ 27 (32.1)
+
+  NPI Appetite and Eating Disorder, n (%)
+
+ 60 (34.7)
+
+ 29 (32.6)
+
+ 31 (36.9)
+
+ Activities of Daily Living, mean (SD)
+
+ 3.87 (1.74)
+
+ 3.84 (1.64)
+
+ 3.89 (1.85)
+
+ Get Up and Go
+
+  Able to stand and walk, n (%)
+
+ 156 (92.9)
+
+ 81 (95.3)
+
+ 75 (90.4)
+
+  Time to stand and walk, mean (SD)
+
+ 18.0 (18.7)
+
+ 19.3 (25.2)
+
+ 16.7 (7.04)
+
+  Fall risk n (%)
+
+   Normal
+
+ 88 (52.4)
+
+ 44 (51.8)
+
+ 44 (53.0)
+
+   Very slightly abnormal
+
+ 45 (26.8)
+
+ 25 (29.4)
+
+ 20 (24.1)
+
+   Mildly abnormal
+
+ 14 (8.3)
+
+ 8 (9.4)
+
+ 6 (7.2)
+
+   Moderately abnormal
+
+ 7 (4.2)
+
+ 2 (2.4)
+
+ 5 (6.0)
+
+   Severely abnormal
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+ Caregiver Assessments
+
+  Zarit Burden Interview, mean (SD)
+
+ 17.4 (9.66)
+
+ 17.9 (10.1)
+
+ 16.9 (9.20)
+
+  CAS sum of non-supervisory activity time, minutes per day, mean (SD)
+
+ 427 (371)
+
+ 463 (358)
+
+ 388 (383)
+
+  CAS sum of supervisory time, mean (SD)
+
+ 240 (334)
+
+ 231 (329)
+
+ 249 (341)
+
+ Open in a new tab 
+
+ 1 
+S-CitAD paused enrollment on 19 March 2020 and restarted all study activities on 7 August 2020.
+
+ 2 
+MMSET scores were translated for participants completing the MMSE at BL (maximum score = 22).
+
+ 3 
+Use of serotonin-norepinephrine or SSRIs within 7 days of enrollment was exclusionary, but here we report use within 30 days of enrollment.
+
+ 4 
+Use of more than one cognitive enhancer
+
+ 5 
+ n refers to participants with a score of 1 or more on each domain. CAS, Caregiver Activity Survey; mo, month. Neuropsychiatric Inventory; QTcB = Corrected QT interval using Bazett’s formula.
+
+Extended Data Table 2 |.
+
+Baseline characteristics of participants by group, including the observational cohort
+
+ Total Randomized
+
+ Placebo
+
+ Escitalopram
+
+ Observational Cohort
+
+ Number of participants
+
+ 173
+
+ 89
+
+ 84
+
+ 14
+
+ Self-reported gender, n (%)
+
+  Men
+
+ 90 (52.0)
+
+ 44 (49.4)
+
+ 46 (54.8)
+
+ 10 (71.4)
+
+  Women
+
+ 83 (48.0)
+
+ 45 (50.6)
+
+ 38 (45.2)
+
+ 4 (28.6)
+
+ Age, mean (SD)
+
+ 78.4 (8.70)
+
+ 78.3 (8.74)
+
+ 78.5 (8.72)
+
+ 80.1 (9.83)
+
+ QTcB, mean (SD)
+
+  Men
+
+ 418 (23.1)
+
+ 417 (21.6)
+
+ 419 (24.6)
+
+ 446 (24.5)
+
+  Women
+
+ 427 (23.9)
+
+ 425 (25.3)
+
+ 430 (22.2)
+
+ 434 (50.0)
+
+ Race/Ethnicity, n (%)
+
+  White
+
+ 127 (73.4)
+
+ 65 (73.0)
+
+ 62 (73.8)
+
+ 11 (78.6)
+
+  Black or African American
+
+ 39 (22.5)
+
+ 21 (23.6)
+
+ 18 (21.4)
+
+ 3 (21.4)
+
+  Hispanic or Latino
+
+ 5 (2.9)
+
+ 1 (11)
+
+ 4 (4.8)
+
+ 0 (0)
+
+  Other
+
+ 11 (6.4)
+
+ 5 (5.6)
+
+ 6 (7.1)
+
+ 0 (0)
+
+ Highest Education, n (%)
+
+  Some schooling, no high school diploma
+
+ 26 (15.0)
+
+ 17 (19.1)
+
+ 9 (10.7)
+
+ 0 (0)
+
+  High school diploma
+
+ 53 (30.6)
+
+ 28 (31.5)
+
+ 25 (29.8)
+
+ 6 (42.9)
+
+  Some college, no diploma
+
+ 30 (17.3)
+
+ 9 (10.1)
+
+ 21 (25.0)
+
+ 2 (14.3)
+
+  College degree or higher
+
+ 63 (36.4)
+
+ 35 (39.3)
+
+ 28 (33.3)
+
+ 6 (42.9)
+
+  Missing
+
+ 1 (0.6)
+
+ 0 (0)
+
+ 1 (12)
+
+ 0 (0)
+
+ Time of enrollment, n (%)
+
+  Before COVID-19 shutdown 3 
+
+ 85 (49.1)
+
+ 41 (46.1)
+
+ 44 (52.4)
+
+ 10 &71.4)
+
+  After COVID-19 pandemic opening
+
+ 88 (50.9)
+
+ 48 (53.9)
+
+ 40 (47.6)
+
+ 4 (28.6)
+
+ MMSET 4 , mean (SD)
+
+ 11.0 (5.58)
+
+ 10.7 (5.76)
+
+ 11.3 (5.41)
+
+ 13.2 (4.93)
+
+ Clinical History
+
+  Age at onset of dementia (mo.), mean (SD)
+
+ 74.5 (8.7)
+
+ 74.3 (8.3)
+
+ 74.8 (9.0)
+
+ 75.4 (9.3)
+
+  Duration of current episode of agitation (mo.), mean (SD)
+
+ 32.7 (56.9)
+
+ 32.9 (62.6)
+
+ 32.4 (50.4)
+
+ 36.9 (37.5)
+
+  Anxiety disorder, n (%)
+
+ 13 (7.5)
+
+ 6 (6.7)
+
+ 7 (8.3)
+
+ 2 (14.3)
+
+  Major depressive disorder, n (%)
+
+ 11 (6.4)
+
+ 6 (6.7)
+
+ 5 (6.0)
+
+ 0 (0)
+
+  Bipolar disorder, n (%)
+
+ 1 (0.6)
+
+ 0 (0)
+
+ 1 (1.2)
+
+ 0 (0)
+
+  Other comorbid neuropsychiatric disorder, n (%)
+
+ 20 (11.6)
+
+ 13 (14.6)
+
+ 7 (8.3)
+
+ 0 (0)
+
+ Concomitant medications, n (%)
+
+  Concomitant psychotropics
+
+ 79 (45.7)
+
+ 40 (44.9)
+
+ 39 (46.4)
+
+ 3 (21.4)
+
+  Atypical antipsychotic
+
+ 21 (12.1)
+
+ 11 (12.4)
+
+ 10 (11.9)
+
+ 2 (14.3)
+
+  Benzodiazepine
+
+ 8 (4.6)
+
+ 6 (6.7)
+
+ 2 (2.4)
+
+ 1 (7.1)
+
+  Cannabinoids
+
+ 1 (0.6)
+
+ 1 (1.1)
+
+ 0 (0)
+
+ 0 (0)
+
+  Carbamazepine
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+  Conventional antipsychotic
+
+ 2 (1.2)
+
+ 1 (1.1)
+
+ 1 (1.2)
+
+ 1 (7.1)
+
+  Dextromethorphan/quinidine
+
+ 1 (0.6)
+
+ 1 (1.1)
+
+ 0 (0)
+
+ 0 (0)
+
+  Prazosin
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+  Pimavanserin
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+  Serotonin-norepinephrine reuptake inhibitors 3 
+
+ 3 (1.7)
+
+ 3 (3.4)
+
+ 0 (0)
+
+ 0 (0)
+
+  Selective serotonin reuptake inhibitors 3 
+
+ 7 (4.0)
+
+ 2 (2.2)
+
+ 5 (6.0)
+
+ 0 (0)
+
+  Valproic acid
+
+ 1 (0.6)
+
+ 1 (1.1)
+
+ 0 (0)
+
+ 1 (7.1)
+
+  Memantine
+
+ 42 (24.3)
+
+ 24 (27.0)
+
+ 18 (21.4)
+
+ 1 (7.1)
+
+  Cholinesterase inhibitors
+
+ 97 (56.1)
+
+ 48 (53.9)
+
+ 49 (58.3)
+
+ 6 (42.9)
+
+   Donepezil
+
+ 81 (46.8)
+
+ 41 (46.1)
+
+ 40 (47.6)
+
+ 5 (35.7)
+
+   Rivastigmine
+
+ 11 (6.4)
+
+ 5 (5.6)
+
+ 6 (7.1)
+
+ 0 (0)
+
+   Galantamine
+
+ 6 (3.5)
+
+ 3 (3.4)
+
+ 3 (3.6)
+
+ 1 (7.1)
+
+  Other cognitive enhancers 4 
+
+ 2 (1.2)
+
+ 1 (1.1)
+
+ 1 (1.2)
+
+ 2 (14.3)
+
+  Lorazepam
+
+ 8 (4.6)
+
+ 5 (5.6)
+
+ 3 (3.6)
+
+ 1 (7.1)
+
+  Trazodone
+
+ 26 (15.0)
+
+ 13 (14.6)
+
+ 13 (15.5)
+
+ 1 (7.1)
+
+ Neuropsvchiatric symptoms 5 
+
+  NPI-C Agitation + Aggression, mean (SD)
+
+ 20.5 (10.4)
+
+ 21.2 (10.3)
+
+ 19.7 (10.4)
+
+ 18.0 (9.58)
+
+  NBRS Agitation, n (%)
+
+ 133 (76.9)
+
+ 68 (76.4)
+
+ 65 (77.4)
+
+ 13 (92.9)
+
+  NPI Delusion, n (%)
+
+ 58 (33.5)
+
+ 32 (36.0)
+
+ 26 (31.0)
+
+ 5 (35.7)
+
+  NPI Hallucination, n (%)
+
+ 35 (20.2)
+
+ 16 (18.0)
+
+ 19 (22.6)
+
+ 3 (21.4)
+
+  NPI Anxiety, n (%)
+
+ 79 (45.7)
+
+ 44 (49.4)
+
+ 35 (41.7)
+
+ 5 (35.7)
+
+  NPI Elation Euphoria, n (%)
+
+ 13 (7.5)
+
+ 7 (7.9)
+
+ 6 (7.1)
+
+ 2 (14.3)
+
+  NPI Apathy Indifference, n (%)
+
+ 100 (57.8)
+
+ 52 (58.4)
+
+ 48 (57.1)
+
+ 6 (42.9)
+
+  NPI Disinhibition, n (%)
+
+ 73 (42.2)
+
+ 42 (47.2)
+
+ 31 (36.9)
+
+ 4 (28.6)
+
+  NPI Irritability/Lability, n (%)
+
+ 141 (81.5)
+
+ 76 (85.4)
+
+ 65 (77.4)
+
+ 11 (78.6)
+
+  NPI Aberrant Motor Behavior, n (%)
+
+ 92 (53.2)
+
+ 48 (53.9)
+
+ 44 (52.4)
+
+ 7 (50.0)
+
+  NPI Sleep and Nighttime Behavior, n (%)
+
+ 55 (31.8)
+
+ 28 (31.5)
+
+ 27 (32.1)
+
+ 7 (50.0)
+
+  NPI Appetite and Eating Disorder, n (%)
+
+ 60 (34.7)
+
+ 29 (32.6)
+
+ 31 (36.9)
+
+ 3 (21.4)
+
+ Activities of Daily Living, mean (SD)
+
+ 3.87 (1.74)
+
+ 3.84 (1.64)
+
+ 3.89 (1.85)
+
+ 4.00 (2.00)
+
+ Get Up and Go
+
+  Able to stand and walk, n (%)
+
+ 156 (92.9)
+
+ 81 (95.3)
+
+ 75 (90.4)
+
+ 13 (92.9)
+
+  Time to stand and walk, mean (SD)
+
+ 18.0 (18.7)
+
+ 19.3 (25.2)
+
+ 16.7 (7.04)
+
+ 18.7 (12.2)
+
+  Fall risk, n (%)
+
+   Normal
+
+ 88 (52.4)
+
+ 44 (51.8)
+
+ 44 (53.0)
+
+ 6 (42.9)
+
+   Very slightly abnormal
+
+ 45 (26.8)
+
+ 25 (29.4)
+
+ 20 (24.1)
+
+ 3 (21.4)
+
+   Mildly abnormal
+
+ 14 (8.3)
+
+ 8 (9.4)
+
+ 6 (7.2)
+
+ 2 (14.3)
+
+   Moderately abnormal
+
+ 7 (4.2)
+
+ 2 (2.4)
+
+ 5 (6.0)
+
+ 1 (7.1)
+
+   Severely abnormal
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+ 0 (0)
+
+ Caregiver Assessments
+
+  Zarit Burden Interview, mean (SD)
+
+ 17.4 (9.66)
+
+ 17.9 (10.1)
+
+ 16.9 (9.20)
+
+ 16.5 (10.4)
+
+  CAS sum of non-supervisory activity time, minutes per day, mean (SD)
+
+ 427 (371)
+
+ 463 (358)
+
+ 388 (383)
+
+ 318 (254)
+
+  CAS sum of supervisory time, mean (SD)
+
+ 240 (334)
+
+ 231 (329)
+
+ 249 (341)
+
+ 199 (279)
+
+ Open in a new tab 
+
+ 1 
+S-CitAD paused enrollment on 19 March 2020 and restarted all study activities on 7 August 2020.
+
+ 1 
+MMSET scores were translated for participants completing the MMSE at BL (maximum score = 22).
+
+ 3 
+Use of serotonin-norepinephrine or SSRIs within 7 days of enrollment was exclusionary, but here we report use within 30 days of enrollment.
+
+ 4 
+Use of more than one cognitive enhancer
+
+ 5 
+ n refers to participants with a score of 1 or more on each domain. CAS, Caregiver Activity Survey; mo, month. Neuropsychiatric Inventory; QTcB = Corrected QT interval using Bazett’s formula.
+
+Extended Data Table 3 |.
+
+mADCS-CGIC: categorical outcome analysis
+
+ Placebo
+
+ Escitalopram
+
+ p-value
+
+ N with data at week 12
+
+ 89
+
+ 84
+
+ mADCS-CGIC Agitation at 12-weeks
+
+ 0.97
+
+  Marked Improvement, n (%)
+
+ 5 (5.6)
+
+ 7 (8.3)
+
+  Moderate Improvement, n (%)
+
+ 19 (21.3)
+
+ 22 (26.2)
+
+  Minimal Improvement, n (%)
+
+ 16 (18.0)
+
+ 15 (17.9)
+
+  No Change, n (%)
+
+ 23 (25.8)
+
+ 18 (21.4)
+
+  Minimal Worsening, n (%)
+
+ 8 (9.0)
+
+ 9 (10.7)
+
+  Moderate Worsening, n (%)
+
+ 5 (5.6)
+
+ 6 (71)
+
+  Marked Worsening, n (%)
+
+ 1 (1.1)
+
+ 1 (1.2)
+
+  Missing outcome data, n (%)
+
+ 12 (13.5)
+
+ 6 (7.1)
+
+ Estimated treatment effect, OR 1 
+
+ 0.86
+
+ 0.61
+
+ Open in a new tab 
+
+ 1 
+OR, odds ratio calculated using proportional odds logistic regression of being better that a given CGIC category for escitalopram compared to placebo.
+
+Extended Data Table 4 |.
+
+Marked or moderate improvement on the mADCS-CGIC: ITT analysis with 9 weeks and other analyses
+
+ Follow-up Timepoint
+
+ Placebo
+(N=89)
+n (%)
+
+ Escitalopram
+(N=84)
+n (%)
+
+ Risk Difference [CI] 1 
+
+ P-Value
+
+ Intention to treat
+
+  3-week
+
+ 14 (15.7)
+
+ 22 (26.1)
+
+ −0.10 [−0.23, 0.02]
+
+ 0.09
+
+  6-week
+
+ 21 (23.6)
+
+ 27 (32.1)
+
+ −0.09 [−0.22, 0.05]
+
+ 0.21
+
+  9-week
+
+ 21 (26.3)
+
+ 20 (26.7)
+
+ −0.002 [−0.13, 0.13]
+
+ 1.00
+
+  12-week
+
+ 24 (27.0)
+
+ 29 (34.5)
+
+ −0.08 [−0.21, 0.06]
+
+ 0.28
+
+ Adjusted analysis – 12-week 2 
+
+ 24 (27.0)
+
+ 29 (34.5)
+
+ −0.07 [−0.22, 0.07]
+
+ 0.31
+
+ Per protocol 3 
+
+ 24 (23.5)
+
+ 29 (27.1)
+
+ −0.06 [−0.23, 0.10]
+
+ 0.50
+
+ Sensitivity analyses
+
+  Missing outcome recoded as event= 1
+
+ 24 (27.0)
+
+ 29 (34.5)
+
+ −0.01 [−0.17, 0.15]
+
+ 0.99
+
+  Adjusting for pre- and post-COVID enrollment
+
+ 24 (27.0)
+
+ 29 (34.5)
+
+ −0.35 [−0.34, 1.04]
+
+ 0.31
+
+  Multiple imputation for missing outcome
+
+ 65 (73.0)
+
+ 55 (65.5)
+
+ 0.07 [−0.22, 0.09]
+
+ 0.45
+
+ Open in a new tab 
+
+ n indicates the number of participants who experienced ‘marked’ or ‘moderate’ improvement on mADCS-CGIC at each follow-up timepoint.
+
+ 1 
+Negative point estimate favors escitalopram.
+
+ 2 
+Adjusted for clinic
+
+ 3 
+Participants who were treated and completed 12 weeks of follow-up.
+
+Extended Data Table 5 |.
+
+Secondary outcomes over follow-up by treatment group with 9-week assessments
+
+ Placebo
+
+ Escitalopram
+
+ p-value
+
+ Number of participants MMSET 1 , mean (SD)
+
+ 89
+
+ 84
+
+  3-week
+
+ 11.1 (5.74)
+
+ 11.1 (5.63)
+
+ 1.00
+
+  6-week
+
+ 11.9 (5.99)
+
+ 11.2 (5.77)
+
+ 0.40
+
+  9-week
+
+ 12.0 (6.29)
+
+ 11.5 (5.74)
+
+ 0.60
+
+  12-week
+
+ 11.7 (5.99)
+
+ 11.1 (5.44)
+
+ 0.60
+
+ NPI-C Agitation + Aggression, mean (SD)
+
+  3-week
+
+ 15.8 (7.95)
+
+ 12.4 (9.20)
+
+ 0.01
+
+  6-week
+
+ 14.3 (8.51)
+
+ 12.8 (8.86)
+
+ 0.30
+
+  9-week
+
+ 15.2 (9.46)
+
+ 12.9 (10.0)
+
+ 0.10
+
+  12-week
+
+ 14.5 (9.83)
+
+ 12.2 (9.16)
+
+ 0.10
+
+ Activities of Daily Living, mean (SD)
+
+  3-week
+
+ 3.94 (1.55)
+
+ 4.03 (1.86)
+
+ 0.70
+
+  6-week
+
+ 3.91 (1.69)
+
+ 4.04 (1.88)
+
+ 0.70
+
+  9-week
+
+ 4.04 (1.70)
+
+ 3.78 (1.92)
+
+ 0.40
+
+  12-week
+
+ 3.99 (1.77)
+
+ 3.82 (1.90)
+
+ 0.60
+
+ Open in a new tab 
+
+ 1 
+MMSET scores were translated for participants completing the MMSE at each visit (maximum score = 22).
+
+Extended Data Table 6 |.
+
+Heart rate at each visit
+
+ Baseline
+(N=187)
+
+ Enrollment
+(N=210)
+
+ Week 3
+(N=160)
+
+ Week 6
+(N=148)
+
+ Week 12
+(N=139)
+
+ Heart rate
+
+ Mean (SD)
+
+ 67.8 (12.3)
+
+ NA (NA)
+
+ 67.5 (12.0)
+
+ 67.1 (12.0)
+
+ 67.4 (12.0)
+
+ Median [Min, Max]
+
+ 68.0 [40.0, 120]
+
+ NA [NA, NA]
+
+ 67.0 [44.0, 106]
+
+ 65.0 [43.0, 122]
+
+ 66.0 [44.0, 103]
+
+ Heart rate >90bps
+
+ 7 (3.7%)
+
+ 0 (0%)
+
+ 6 (3.8%)
+
+ 5 (3.4%)
+
+ 6 (4.3%)
+
+ Heart rate <60bps
+
+ 44 (23.5%)
+
+ 0 (0%)
+
+ 34 (21.3%)
+
+ 35 (23.6%)
+
+ 32 (23.0%)
+
+ Heart rate out of range
+
+ 51 (27.3%)
+
+ 0 (0%)
+
+ 40 (25.0%)
+
+ 40 (27.0%)
+
+ 38 (27.3%)
+
+ Open in a new tab 
+
+Extended Data Table 7 |.
+
+Assessments
+
+ Assessment
+
+ Description
+
+ Alzheimer’s Disease Cooperative Study-Activities of Daily Living Scale (ADCS-ADL) 27 
+
+ This measure assesses functional performance in patients with AD. In a structured interview format, informants are queried as to whether participants attempted each of 24 items in the inventory during the prior 3 weeks and their level of performance. The scale discriminates well among the stages of severity of AD, from very mild impairment to severe impairment.
+
+ Caregiver Activity Survey (CAS) 44 
+
+ This measure assesses the time spent caregiving or aiding participants with AD with their day-to-day activities. It consists of six items (communicating with the person, using transportation, eating, dressing, looking after one's appearance and supervising the person).
+
+ Get up and Go Test 43 
+
+ The Get Up and Go Test is a performance-based, sensitive measure of function in older persons. It measures the time a person takes to get up from a chair and walk 50ft (15.2m) as fast as possible along a level and unobstructed corridor. It has been used as an assessment of mobility or as an indicator of adverse functional effects of treatments.
+
+ Mini-Mental State Examination Telephone (MMSET) 34 
+
+ This is a 22-point validated telephone adapted version of the Mini-Mental State Examination (MMSE). The particular domains most often affected in AD (orientation, memory) are included in this instrument. Other items include those assessing working memory and naming. The MMSET omits the following items from the MMSE: following verbal and written commands, spontaneously writing a sentence, and copying two overlapping pentagons.
+
+ Modified Alzheimer’s Disease Cooperative Study - Clinical Global Impression of Change (mADCS-CGIC) 20 
+
+ The mADCS-CGIC is a systematic method, developed for the AD setting to assess clinically significant change in a patient’s agitation. A trained clinician, blind to treatment assignment and other outcome measure results, uses a 7-point Likert scale to rate each participant along a continuum from marked improvement to marked worsening, based on an interview with the caregiver and examination of the participant. The mADCS-CGIC requires the assessor to consider a number of aspects of the agitation prior to providing a “global” assessment of change. These include: emotional agitation, mood liability/distress, psychomotor agitation, verbal aggression, and physical aggression
+
+ Neuropsychiatric Inventory (NPI) 35 
+
+ The NPI is the most widely-used measure of neuropsychiatric symptoms in dementia clinical trials. The NPI assesses type and severity of behavioral disturbances in dementia. The full inventory evaluates 12 domains of NPS: apathy, agitation, delusions, hallucinations, depression, euphoria, aberrant motor behavior, irritability, disinhibition, anxiety, sleeping, and eating. Frequency (1 = occasionally, less than once/week; 2 = often, about once per week; 3 = frequently, more than once a week; 4 = very frequently, once or more/day or continuously) and severity (1 = mild, 2 = moderate, 3 = severe) scales in each domain are scored based on responses from an informed caregiver involved in the participant’s life. The NPI also includes a 5-point rating used to quantify caregiver distress with the participant’s neuropsychiatric symptoms. To obtain an NPI score for each domain, the severity score and the frequency score are multiplied. Caregiver distress ratings of each domain are summed. In S-CitAD, the NPI domains administered did not include agitation/aggression or dysphoria (at select visits) so as to avoid redundancy with the NPI-C domains rated (see below). The frequency by severity score was used to measure changes in behavior and psychological disturbances over time
+
+ Neuropsychiatric Inventory – Clinician Rating (NPI-C) - the agitation, aggression, and dysphoria domains 28 
+
+ As with the standard NPI, the NPI-C assesses type and severity of behavioral disturbances in dementia, and is used to rate the presence of neuropsychiatric symptoms across many domains, such as dysphoria or agitation. It is designed especially for clinicians to provide their structured input to the NPI rating. The agitation and aggression domain scores were calculated to measure the secondary agitation outcome, with a score range of 0 to 39 for agitation and 0 to 24 for aggression. We also used the dysphoria domain to measure depression with scores ranging from 0 to 39.
+
+ Zarit Burden Interview (ZBI) 29 
+
+ The ZBI is used to assess caregiver burden, via self-report questions, used in a wide variety of populations. We used the 12-item version which is highly correlated with the 22-item version, but does not include items regarding embarrassment and caregiver burden. Each item on the interview is a statement which the caregiver is asked to endorse using a 5-point scale. Response options range from 0 (Never) to 4 (Nearly Always). Domains include problem areas such as caregiver health, psychological well-being, monetary issues, socialization, and the relationship with the participant.
+
+ Neurobehavioral Rating Scale (NBRS) 45 
+
+ NBRS is a 28-item instrument rated by an observer and patient and derived from the Brief Psychiatric Rating Scale (BPRS) that assesses multiple types of psychopathology. It combines coverage of the breadth of psychopathology addressed in the BPRS with more comprehensive assessment of impairment seen in dementia. Scoring on the NBRS is based on a seven-point Likert scale of increasing severity (i.e. 0=not present, 1=very mild, 2-mild, 3=moderate, 4=moderately severe, 5=severe, 6=extremely severe). As in Pollock (2002), we generated a NBRS agitation domain based on NBRS items 8, 11 and 14, with a total range of 0 to 18 points. This agitation domain score has been shown to be sensitive to drug treatment effects with citalopram.
+
+ Open in a new tab 
+
+Extended Data Table 8 |.
+
+Assessments and procedures schedule
+
+ (Weeks from BL)
+
+ EN
+
+ BL
+
+ T1
+
+ T2
+
+ F3
+
+ T4
+
+ F6
+
+ T7
+
+ F9
+
+ T10
+
+ F12
+
+ −3
+
+ 0
+
+ 1
+
+ 2
+
+ 3
+
+ 4.5
+
+ 6
+
+ 7.5
+
+ 9
+
+ 10.5
+
+ 12
+
+ Procedure
+
+ Consent
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ Eligibility
+
+ X
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ Psychosocial Intervention (PSI)
+
+ X
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ Electrocardiogram (ECG), with QTcB interval
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ Medical history
+
+ X
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ Telephone interview (brief medical history)
+
+ .
+
+ .
+
+ X
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ DNA banking Ω 
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ Biomarkers
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ Basic Metabolic Panel (BMP)
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ Vital signs and weight
+
+ X
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ X
+
+ Adverse events
+
+ .
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ Provide actigraph and sleep/agitation diaries
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ Collect actigraph and sleep/agitation diaries
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ X
+
+ Assessment
+
+ DSM-V Major Depressive Episode (MDE)
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ Modified Alzheimer's Disease Cooperative Study - Clinical Global Impression of Change (mADCS-CGIC)
+
+ X
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ Neuropsychiatric Inventory – Clinician Rating (NPI-C), agitation and aggression domains
+
+ X
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ NPI-C (dysphoria domain)
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ X
+
+ NPT * 
+
+ X
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ Activities of Daily Living (ADL)
+
+ .
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ Zarit Burden Interview (ZBI)
+
+ .
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ Caregiver Activity Survey (CAS)
+
+ .
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ Get Up and Go Test
+
+ .
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ X
+
+ Neurobehavioral Rating Scale (NBRS)
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ Mini-Mental State Examination Telephone (MMSET)
+
+ X
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ Procedure
+
+ ECG, with QTcB interval
+
+ .
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ X
+
+ Randomization
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ Study drug dispensing
+
+ .
+
+ X
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ .
+
+ Study drug adherence
+
+ .
+
+ .
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ X
+
+ Blood for pharmacokinetics
+
+ .
+
+ .
+
+ .
+
+ .
+
+ X
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ X
+
+ BMP
+
+ .
+
+ .
+
+ .
+
+ .
+
+ X
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ X
+
+ Routine unmasking
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+
+ X
+
+ Open in a new tab 
+
+ Ω 
+DNA was allowed to be collected at other visits if it could not be collected at the scheduled timepoint.
+
+ * 
+Only the agitation + aggression domain of the NPI was administered at EN; an abbreviated NPI was administered at BL – F12. EN, enrollment visit; BL, baseline visit; T, scheduled telephone contact; F, scheduled follow-up visits (except for F9, which is a telephone contact).
+
+Extended Data Table 9 |.
+
+Baseline characteristics of participants in CitAD versus S-CitAD
+
+ CitAD
+
+ S-CitAD
+
+ Number of participants
+
+ 186
+
+ 173
+
+ Self-reported gender, n (%)
+
+  Men
+
+ 101 (54.4)
+
+ 90 (52.0)
+
+  Women
+
+ 85 (45.6)
+
+ 83 (48.0)
+
+ Age, mean (SD), years
+
+ 78.0 (8.0)
+
+ 78.4 (8.70)
+
+ Race/Ethnicity, n (%)
+
+  White
+
+ 120 (64.5)
+
+ 127 (73.4)
+
+  Black or African American
+
+ 31 (16.7)
+
+ 39 (22.5)
+
+  Hispanic or Latino
+
+ 24 (12.9)
+
+ 5 (2.9)
+
+  Other
+
+ 11 (5.9)
+
+ 11 (6.4)
+
+ Highest Education, n (%)
+
+  Some schooling, no high school diploma
+
+ 52 (28.0)
+
+ 26 (15.0)
+
+  High school diploma
+
+ 43 (23.1)
+
+ 53 (30.6)
+
+  Some college, no diploma
+
+ 29 (15.6)
+
+ 30 (17.3)
+
+  College degree or higher
+
+ 62 (33.3)
+
+ 63 (36.4)
+
+  Missing
+
+ 0 (0.0)
+
+ 1 (0.6)
+
+ Duration of dementia, mean (SD), years
+
+ 5 (4)
+
+ 3.9 (2.5)
+
+ MMSE 1 , mean (SD)
+
+ 15.7 (6.7)
+
+ 16.8 (7.8)
+
+ History of anxiety or mood disorder, n (%)
+
+ 25 (13.4)
+
+ 25 (14.5)
+
+ Concomitant medications, n (%)
+
+  Cholinesterase inhibitors
+
+ 128 (68.8)
+
+ 98 (56.6)
+
+  Memantine
+
+ 78 (41.9)
+
+ 42 (24.3)
+
+  Lorazepam
+
+ 15 (8.1)
+
+ S (4.6)
+
+  Trazodone
+
+ 19 (10.2)
+
+ 26 (15.0)
+
+ Assessment, mean (SD)
+
+  NBRS-A
+
+ 7.6 (3.1)
+
+ 6.1 (3.7)
+
+  NPI (Agitation subscore)
+
+ 7.9 (2.3)
+
+ 7.3 (1.9)
+
+  ADCS-ADL
+
+ 42.8 (18.4)
+
+ 41.3 (18.2)
+
+ Open in a new tab 
+
+ 1 
+MMSE scores were translated for participants completing the MMSET. ADCS-ADL, Alzheimer's Disease Cooperative Study-Activities of Daily Living scale; NBRS, Neurobehavioral Rating Scale-Agitation Subscale.
+
+Supplementary Material
+
+ Rajji Supplement 
+
+ NIHMS2130350-supplement-Rajji_Supplement.pdf (324.8KB, pdf) 
+
+ Supplementary information The online version contains supplementary material available at https://doi.org/10.1038/s41591-025-03569-y .
+
+Acknowledgements
+
+S-CitAD would like to acknowledge our patients, caregivers and their families as well as our recruitment centers across North America. We also acknowledge our funder, the National Institutes of Health/National Institute on Aging (R01AG052510). The study funder had no role in the study design, in the collection, analysis or interpretation of data, in the writing of the report or in the decision to submit the paper for publication. We also would like to acknowledge the S-CitAD Research Group principal investigators who are not listed as authors: C. A. Munro, S. Ehrhardt, A. Nair, D. Weisman, J. Khoury, C. D. Marshall, C. R. Padilla, A. Atri, G. Marotta, D. P. Devanand, M. Parulekar, M. H. Burhanullah, M. Nowrangi, T. Schwasinger-Schmidt, L. VanBussel, M. E. Agronin, S. Schilling, S. Elmi, D. W. Scharre, O. Lopez, E. D. Clark, J. Mintzer, S. Kumar, B. Pollock, J. Y. Wei, B. C. Yarns, D. L. Sultzer, C. Fisher, M. Tau, S. Pawluczyk, N. Patel and C. Manning.
+
+Footnotes
+
+Competing interests
+
+T.K.R. has received research support from Brain Canada, the Brain and Behavior Research Foundation, the BrightFocus Foundation, the Canada Foundation for Innovation, the Canada Research Chair, the Canadian Institutes of Health Research (CIHR), the Centre for Aging and Brain Health Innovation, the National Institutes of Health (NIH), the Ontario Ministry of Health and Long-Term Care, the Ontario Ministry of Research and Innovation and the Weston Brain Institute. T.K.R. also received investigator-initiated study in-kind equipment support from Newronika and in-kind research online accounts from Scientific Brain Training Pro and participated in 2021 and 2022 in an advisory activity for Biogen Canada. As of 1 September 2023, T.K.R. was an ex officio member of the Board of Trustees of the Centre for Addiction and Mental Health (CAMH) in his role as Chair of the Medical Advisory Committee at CAMH in 2023 and 2024. T.K.R. is also an inventor on United States Provisional Patent 17/396,030 that describes cell-based assays and kits for assessing serum cholinergic receptor activity. S.N.B. and D.M.S. received funding from the NIH, the American Lung Association, the State of Maryland and the US Department of Defense (DOD) (Defense Health Agency) during the period of S-CitAD. Z.I. has received research funding from the Alzheimer’s Drug Discovery Foundation, the Canadian Consortium on Neurodegeneration in Aging, the CIHR, Brain Canada, the NIH and the Weston Foundation and has served as an advisor/consultant for Eisai, Eli Lilly, Lundbeck, Novo Nordisk, Otsuka and Roche. A.M.B. is a contracting investigator with Headlands Research (Toronto Memory Program); served as a paid consultant to HealthTech Connex, Atheneum Partners; served on advisory boards and speakers’ bureaus for Eisai, Avanir, Janssen, Roche, Otsuka/Lundbeck and Boehringer Ingelheim Canada; and received research grants from the National Institute on Aging (NIA)/NIH, the CIHR, the National Research Council, Brain Canada, Centre for Aging + Brain Health Innovation, the Ontario Shores Centre, Western University, the Lawson Health Research Institute, St Josephʼs Health Care London and the Weston Foundation. H.R.O. has received research grants from the NIH, the Alzheimer’s Clinical Trials Consortium, the Alzheimer’s Association, Eisai, Biogen, Optina Diagnostics, Woolsey Pharmaceuticals, the American College of Radiology and Ananda Hemp. He has received honoraria from Biogen and Optina Diagnostics. P.R.P. received research support from the Office of Research Development, the US Department of Veterans Affairs, the Alzheimer’s Association and the NIH. P.B.R. has received research grants from the NIA, the Alzheimer’s Clinical Trials Consortium, the Richman Family Precision Medicine Center of Excellence in Alzheimer’s Disease, Eisai, Functional Neuromodulation Ltd and Eli Lilly; and honoraria from Eli Lilly, Guidepoint, GLG, Leerink, Cerevel, Cerevance, BioXcel, Sunovion, Acadia, Medalink, Novo Nordisk, Noble Insights, TwoLabs, Otsuka, Lundbeck, Acadia, MEDACorp, ExpertConnect, HMP Global, Sinaptica, Synaptogenix and Neurology Week. P.B.R. has received grant support from the NIA (AGRO1054771 (CRD), AGRO1050515 (dronabinol) and AGRO1046543 (ADMET II)). L.S.S. reports, within a 36-month timeframe, grants from the NIH (R01 AG054434 (Delivery of essential fatty acids to the brain in Alzheimer’s disease), P30 AG066530 (USC ADRC), R01 AG062687, R01 AG051346, R01 AG055444, P01 AG02350, R01 AG053267 (DIAN-TU), R01 AG074983 (Aβ and tau vaccines) and R01 AG063826 (State of California CADC 15–10291)); grants and personal fees from Eli Lilly/Avid; grants and personal fees from Roche/Genentech; grants/contracts from Eisai, Biogen and Biohaven; grants from Washington University in St Louis/NIA DIAN-TU; grants from UC San Diego ADCS; personal fees from Neurim (Israel), Cognition Therapeutics, Corium, Immunobrain Checkpoint Ltd (Israel), Alpha Cognition, BioVie, Lexeo, Lighthouse, AC Immune (Switzerland), Athira, GW Research (UK, Jazz, USA), Merck, Otsuka (USA), Pharmatrophix, Linus Health, Lundbeck, Novo Nordisk, Muna (Denmark), ONO Ltd and Vivli.org , all outside the submitted work; and support from the Della Martin Foundation endowment. A.P.P. reports personal fees from Acadia Pharmaceuticals, Athira, Biogen, Bristol Myers Squibb, Cognitive Research Corporation, Eisai, IQVIA, Lundbeck, Novartis, ONO Pharmaceuticals, WCG, WebMD and Xenon and grants to his institution from Alector, Athira, Biogen, Cassava, Eisai, Eli Lilly, Genentech/Roche, Vaccinex, the NIA, the National Institute of Mental Health and the DOD. He is a member of the scientific advisory boards of Alzheon, Athira and Cognition Therapeutics. C.G.L. has received research funding from the NIH, the Alzheimerʼs Association, NFL Benefits, Functional Neuromodulation Ltd, the BrightFocus Foundation and private donors. He has served as a paid consultant or advisor for AstraZeneca, GlaxoSmithKline, Eisai, Novartis, Forest, Supernus, Adlyfe, Takeda, Wyeth, Lundbeck, Merz, Eli Lilly, Pfizer, Genentech, Elan, the NFL Players Association, the NFL Benefits Office, Zinfandel, Bristol Myers Squibb, AbbVie, Janssen, Orion, Servier, Astellas, SVB Leerink, Roche, Avanir, Karuna, Maplight, Axsome, GIA, GW Research Ltd, Merck, EXCIVA GmbH, Otsuka, Intra-Cellular Therapies and Medesis.
+
+Additional information
+
+ Extended data is available for this paper at https://doi.org/10.1038/s41591-025-03569-y .
+
+Reporting summary
+
+Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.
+
+Data availability
+
+De-identified S-CitAD data are available for health-related research. Access is contingent upon approval by an appropriate institutional ethics board or equivalent and approval by the CitAD Steering Committee after review of a submitted CitAD Data Use Agreement form. Completed forms may be submitted by emailing citad@citadtrial.org .
+
+References
+
+ 1. Lyketsos CG
+et al. 
+Position statement of the American Association for Geriatric Psychiatry regarding principles of care for patients with dementia resulting from Alzheimer disease. Am. J. Geriatr. Psychiatry
+14, 561–573 (2006).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 2. Halpern R
+et al. 
+Using electronic health records to estimate the prevalence of agitation in Alzheimer disease/dementia. Int. J. Geriatr. Psychiatry
+34, 420–431 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 3. Panca M
+et al. 
+Healthcare resource utilisation and costs of agitation in people with dementia living in care homes in England—the Managing Agitation and Raising QUality of LifE in Dementia (MARQUE) study. PLoS ONE
+14, e0211953 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 4. Steinberg M
+et al. 
+The incidence of mental and behavioral disturbances in dementia: the Cache County study. J. Neuropsychiatry Clin. Neurosci. 15, 340–345 (2003).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 5. Aalten P, de Vugt ME, Jaspers N, Jolles J & Verhey FRJ
+The course of neuropsychiatric symptoms in dementia. Part I: findings from the two-year longitudinal Maasbed study. Int. J. Geriatr. Psychiatry
+20, 523–530 (2005).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 6. Aalten P, de Vugt ME, Jaspers N, Jolles J & Verhey FRJ
+The course of neuropsychiatric symptoms in dementia. Part II: relationships among behavioural sub-syndromes and the influence of clinical variables. Int. J. Geriatr. Psychiatry
+20, 531–536 (2005).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 7. Ryu SH, Katona C, Rive B & Livingston G
+Persistence of and changes in neuropsychiatric symptoms in Alzheimer disease over 6 months—the LASER-AD study. Am. J. Geriatr. Psychiatry
+13, 976–983 (2005).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 8. Senanarong V
+et al. 
+Agitation in Alzheimer’s disease is a manifestation of frontal lobe dysfunction. Dement. Geriatr. Cogn. Disord. 17, 14–20 (2004).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 9. Anor CJ
+et al. 
+Neuropsychiatric symptoms in Alzheimer disease, vascular dementia, and mixed dementia. Neurodegener. Dis. 17, 127–134 (2017).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 10. Reus VI
+et al. 
+The American Psychiatric Association practice guideline on the use of antipsychotics to treat agitation or psychosis in patients with dementia. Am. J. Psychiatry
+173, 543–546 (2016).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 11. Carrarini C
+et al. 
+Agitation and dementia: prevention and treatment strategies in acute and chronic conditions. Front. Neurol. 12, 644317 (2021).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 12. Kales HC, Gitlin LN & Lyketsos CG
+Assessment and management of behavioral and psychological symptoms of dementia. BMJ
+350, h369 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 13. Cummings J, Lanctot K, Grossberg G & Ballard C
+Progress in pharmacologic management of neuropsychiatric syndromes in neurodegenerative disorders: a review. JAMA Neurol. 81, 645–653 (2024).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 14. Maust DT
+et al. 
+Antipsychotics, other psychotropics, and the risk of death in patients with dementia: number needed to harm. JAMA Psychiatry
+72, 438–445 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 15. Rogowska M
+et al. 
+Implications of adverse outcomes associated with antipsychotics in older patients with dementia: a 2011–2022 update. Drugs Aging
+40, 21–32 (2023).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 16. Nowrangi MA, Lyketsos CG & Rosenberg PB
+Principles and management of neuropsychiatric symptoms in Alzheimer’s dementia. Alzheimers Res. Ther. 7, 12 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 17. Pollock BG
+et al. 
+Comparison of citalopram, perphenazine, and placebo for the acute treatment of psychosis and behavioral disturbances in hospitalized, demented patients. Am. J. Psychiatry
+159, 460–465 (2002).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 18. Pollock BG
+et al. 
+A double-blind comparison of citalopram and risperidone for the treatment of behavioral and psychotic symptoms associated with dementia. Am. J. Geriatr. Psychiatry
+15, 942–952 (2007).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 19. Porsteinsson AP
+et al. 
+Effect of citalopram on agitation in Alzheimer disease: the CitAD randomized clinical trial. JAMA
+311, 682–691 (2014).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 20. Schneider LS
+et al. 
+Validity and reliability of the Alzheimer’s Disease Cooperative Study-Clinical Global Impression of Change. Alzheimer Dis. Assoc. Disord. 11, S22–S32 (1997). [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 21. Food US & Administration Drug. FDA Drug Safety Communication: revised recommendations for Celexa (citalopram hydrobromide) related to a potential risk of abnormal heart rhythms with high doses. FDA
+ https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-revised-recommendations-celexa-citalopram-hydrobromide-related (2017). [ Google Scholar ]
+
+ 22. Schneider LS
+et al. 
+Heterogeneity of treatment response to citalopram for patients with Alzheimer’s disease with aggression or agitation: the CitAD randomized clinical trial. Am. J. Psychiatry
+173, 465–472 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 23. Ho T
+et al. 
+R- and S-citalopram concentrations have differential effects on neuropsychiatric scores in elders with dementia and agitation. Br. J. Clin. Pharmacol. 82, 784–792 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 24. Weintraub D
+et al. 
+Time to response to citalopram treatment for agitation in Alzheimer disease. Am. J. Geriatr. Psychiatry
+23, 1127–1133 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 25. Rosenberg PB
+et al. 
+Change in agitation in Alzheimer’s disease in the placebo arm of a nine-week controlled trial. Int. Psychogeriatr. 27, 2059–2067 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 26. Ehrhardt S
+et al. 
+Escitalopram for agitation in Alzheimer’s disease (S-CitAD): methods and design of an investigator-initiated, randomized, controlled, multicenter clinical trial. Alzheimers Dement. 15, 1427–1436 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 27. Galasko D
+et al. 
+An inventory to assess activities of daily living for clinical trials in Alzheimer’s disease. Alzheimer Dis. Assoc. Disord. 11, S33–S39 (1997).
+ [ PubMed ] [ Google Scholar ]
+
+ 28. de Medeiros K
+et al. 
+The Neuropsychiatric Inventory-Clinician rating scale (NPI-C): reliability and validity of a revised assessment of neuropsychiatric symptoms in dementia. Int. Psychogeriatr. 22, 984–994 (2010).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 29. Zarit SH, Orr NK & Zarit JM
+The Hidden Victims of Alzheimer’s Disease: Families Under Stress (New York Univ. Press, 1985). [ Google Scholar ]
+
+ 30. McConathy J & Owens MJ
+Stereochemistry in drug action. Prim. Care Companion J. Clin. Psychiatry
+5, 70–73 (2003).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 31. Sánchez C, Bogeso KP, Ebert B, Reines EH & Braestrup C
+Escitalopram versus citalopram: the surprising role of the R-enantiomer. Psychopharmacology
+174, 163–176 (2004).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 32. Jacquot C, David DJ, Gardier AM & Sánchez C [Escitalopram and citalopram: the unexpected role of the R-enantiomer]. Encephale
+33, 179–187 (2007).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 33. Gorman JM, Korotzer A & Su GJ
+Efficacy comparison of escitalopram and citalopram in the treatment of major depressive disorder: pooled analysis of placebo-controlled trials. CNS Spectr. 7, 40–44 (2002).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 34. McKhann GM
+et al. 
+The diagnosis of dementia due to Alzheimer’s disease: recommendations from the National Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement. 7, 263–269 (2011).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 35. Kennedy RE, Williams CP, Sawyer P, Allman RM & Crowe M
+Comparison of in-person and telephone administration of the Mini-Mental State Examination in the University of Alabama at Birmingham Study of Aging. J. Am. Geriatr. Soc. 62, 1928–1932 (2014).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 36. Folstein MF, Folstein SE & McHugh PR ‘Mini-Mental State’. Practical method for grading cognitive state of patients for clinician. J. Psychiatr. Res. 12, 189–198 (1975).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 37. Cummings J
+et al. 
+Agitation in cognitive disorders: International Psychogeriatric Association provisional consensus clinical and research definition. Int. Psychogeriatr. 27, 7–17 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 38. Cummings JL
+The neuropsychiatric inventory: assessing psychopathology in dementia patients. Neurology
+48, S10–S16 (1997). [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 39. American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders
+5th edn (American Psychiatric Publishing, 2013). [ Google Scholar ]
+
+ 40. SAS version 9.4 (SAS Institute Inc., 2013). [ Google Scholar ]
+
+ 41. Drye LT
+et al. 
+Citalopram for agitation in Alzheimer’s disease: design and methods. Alzheimers Dement. 8, 121–130 (2012).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 42. Mintzer J
+et al. 
+Effect of methylphenidate on apathy in patients with Alzheimer disease: the ADMET 2 randomized clinical trial. JAMA Neurol. 78, 1324–1332 (2021).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 43. Mathias S, Nayak USL & Isaacs B
+Balance in elderly patients—the ‘get-up and go’ test. Arch. Phys. Med. Rehabil. 67, 387–389 (1986).
+ [ PubMed ] [ Google Scholar ]
+
+ 44. Davis KL
+et al. 
+The Caregiver Activity Survey (CAS): development and validation of a new measure for caregivers of persons with Alzheimer’s disease. Int. J. Geriatr. Psychiatry
+12, 978–988 (1997).
+ [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 45. Levin HS
+et al. 
+The neurobehavioral rating scale: assessment of the behavioral sequelae of head injury by the clinician. J. Neurol. Neurosurg. Psychiatry
+50, 183–193 (1987).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Associated Data
+
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+
+Supplementary Materials
+
+ Rajji Supplement 
+
+ NIHMS2130350-supplement-Rajji_Supplement.pdf (324.8KB, pdf) 
+
+Data Availability Statement
+
+De-identified S-CitAD data are available for health-related research. Access is contingent upon approval by an appropriate institutional ethics board or equivalent and approval by the CitAD Steering Committee after review of a submitted CitAD Data Use Agreement form. Completed forms may be submitted by emailing citad@citadtrial.org .

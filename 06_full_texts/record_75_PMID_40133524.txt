@@ -1,0 +1,37 @@
+RECORD: #75
+PMID: 40133524
+PMCID: PMC12951298
+TITLE: Escitalopram for agitation in Alzheimer's dementia: a randomized controlled phase 3 trial (S-CitAD)
+AUTHORS AND AFFILIATIONS:
+- Tarek K. Rajji - Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto; Department of Psychiatry and Toronto Dementia Research Alliance, Temerty Faculty of Medicine, University of Toronto; Department of Psychiatry, University of Texas Southwestern Medical Center, Dallas
+- Sheriza N. Baksh - Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore
+- David M. Shade - Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore
+- Zahinoor Ismail - Departments of Psychiatry, Clinical Neurosciences and Community Health Sciences, Hotchkiss Brain Institute, University of Calgary
+- Amer M. Burhan - Department of Psychiatry and Toronto Dementia Research Alliance, Temerty Faculty of Medicine, University of Toronto; Ontario Shores Centre for Mental Health Sciences, Whitby
+- Hamid R. Okhravi - Department of Medicine, Lawrence J. Goldrich Institute for Integrated Neuro-Health, Old Dominion University, Norfolk
+- Prasad R. Padala - Central Arkansas Veterans Healthcare System and College of Medicine, University of Arkansas for Medical Sciences
+- Paul B. Rosenberg - Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine
+- Lon S. Schneider - Department of Psychiatry and the Behavioral Sciences, University of Southern California Keck School of Medicine
+- Anton P. Porsteinsson - Department of Psychiatry, University of Rochester School of Medicine and Dentistry
+- Constantine G. Lyketsos - Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine
+TRIAL REGISTRATION: NCT03108846 (ClinicalTrials.gov)
+FUNDING: National Institutes of Health (NIH) / National Institute on Aging (NIA); Grants: P30 AG066507 and R01AG052510; Brain Canada; Canadian Institutes of Health Research (CIHR)
+
+METHODS:
+A double-masked, multicenter randomized controlled trial (S-CitAD). Participants received 3 weeks of psychosocial intervention (PSI) alone, then non-responders were randomized 1:1 to escitalopram (up to 15 mg daily) or placebo for 12 weeks while continuing PSI. Study included 27 community-based centers across North America with assessments at enrollment, post-PSI baseline, and weeks 3, 6, 9, and 12.
+
+RESULTS:
+Of 243 consented participants, 205 were enrolled and 173 randomized (84 escitalopram, 89 placebo). The primary outcome showed no significant difference: the risk difference (RD) at 12 weeks was not statistically significant (unadjusted RD = -0.08; 95% confidence interval (CI): -0.21, 0.06). Secondary outcomes showed no significant differences except NPI-C agitation/aggression at 3 weeks favoring escitalopram. Safety concerns included increased QT prolongation and falls in the escitalopram group.
+
+EDIA/EQUITY REPORTING:
+- Age: Mean +/- SD age = 78.4 +/- 8.7 years
+- Sex: 90 men (52.0%)
+- Race/Ethnicity: 127 White (73.4%); 39 Black or African American (22.5%); 5 Hispanic or Latino (2.9%)
+- Education: Ranging from "some schooling, no high school diploma" (15.0%) to "college degree or higher" (36.4%)
+
+CANADIAN INVOLVEMENT:
+- Tarek K. Rajji - Centre for Addiction and Mental Health, Toronto; University of Toronto
+- Zahinoor Ismail - University of Calgary, Hotchkiss Brain Institute
+- Amer M. Burhan - University of Toronto; Ontario Shores Centre for Mental Health Sciences, Whitby, ON
+- Funding from Brain Canada and Canadian Institutes of Health Research (CIHR)
+- Multi-site study across 27 community-based centers in North America (including Canadian sites)

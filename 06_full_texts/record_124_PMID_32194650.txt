@@ -1,0 +1,134 @@
+RECORD: #124
+PMID: 32194650
+PMCID: PMC7065567
+TITLE: The Effects of Extended-Release Stimulant Medication on Sleep in Children with ADHD
+AUTHORS AND AFFILIATIONS:
+- Penny Corkum: Department of Psychology and Neuroscience, Dalhousie University, Nova Scotia; Department of Psychiatry, Dalhousie University, Nova Scotia; ADHD Clinic, Colchester East Hants Health Centre, Truro, Nova Scotia
+- Esmot Ara Begum: Department of Psychology and Neuroscience, Dalhousie University, Nova Scotia
+- Benjamin Rusak: Department of Psychology and Neuroscience, Dalhousie University, Nova Scotia; Department of Psychiatry, Dalhousie University, Nova Scotia
+- Malgorzata Rajda: Department of Psychiatry, Dalhousie University, Nova Scotia
+- Sarah Shea: Department of Pediatrics, Dalhousie University, Nova Scotia
+- Marilyn MacPherson: ADHD Clinic, Colchester East Hants Health Centre, Truro, Nova Scotia
+- Tracey Williams: ADHD Clinic, Colchester East Hants Health Centre, Truro, Nova Scotia
+- Kathleen Spurr: School of Health Sciences, Dalhousie University, Nova Scotia
+- Fiona Davidson: Department of Psychology and Neuroscience, Dalhousie University, Nova Scotia
+TRIAL REGISTRATION: No clinical trial registration number identified in the article
+FUNDING: Canadian Institutes of Health Research (CIHR; #158711)
+
+METHODS:
+
+Participants:
+Participants were recruited through an ADHD speciality clinic located in Truro, Nova Scotia serving a mostly rural community, as well as through private psychological practices specializing in ADHD assessments within the city of Halifax, Nova Scotia, Canada. All children were diagnosed by psychologists and pediatricians specializing in ADHD, using DSM-IV-TR diagnostic criteria. The clinical differential diagnostic assessment procedures followed multi-method and multi-informant clinical diagnostic measures including psycho-educational assessments, parent and teacher semi-structured diagnostic interviews, multiple questionnaires completed by parents and teachers, and observations conducted during testing and in the classroom.
+
+The exclusion criteria included: (1) full scale IQ falling more than one standard deviation below the mean according to the Wechsler Intelligence Scale for Children - Fourth Edition (WISC-IV); (2) a known neurological, genetic, metabolic, or seizure disorder; (3) previous diagnosis of a primary sleep disorder; (4) undergoing behavioural or pharmacological treatment for sleep problems; (5) a diagnosis of another primary mental health disorder based on the clinical diagnostic procedures described above (excluding comorbid diagnoses of learning disabilities (LD)); (6) pubertal development beyond Tanner Stage 2; (7) currently taking or had previously taken psychotropic medication; and (8) PSG evidence indicative of a sleep breathing problem. Given that periodic limb movements during sleep (PLMS) are common in children with ADHD and that there is significant variability in PLMS, these children were not excluded. Parents provided their written informed consent and children provided their verbal assent. Parents were reimbursed for their travel and costs to attend the over-night PSG, and children were rewarded with movie gift certificates and dollar store prizes for completing study procedures. Ethical approval was obtained through multiple Research Ethics Boards, including university (Dalhousie University) and hospitals (IWK Health Centre, Colchester East Hants Health Authority, Capital District Health Authority). There were no conflicts of interest of any study investigator with the pharmaceutical or equipment manufacturers.
+
+Measures:
+
+Demographic Questionnaire:
+Parents completed a demographic questionnaire, which asked for information pertaining to child, parent, and family variables, including the child's age and sex, and family's socioeconomic status (SES) variables of income and education.
+
+Conners Parent and Teacher Rating Scale-Revised (Long Form) (CP/TRS-R:L):
+The CP/TRS-R:L is a standardized behaviour rating system completed by parents and teachers to assess problem behaviours in children 3-17 years of age. The parent version includes 80 items and the teacher version includes 59 items. Raw scores are converted into T-scores so that comparisons can be made to the normative sample. The ADHD Index includes key symptoms of ADHD and has been found to be sensitive to treatment effects.
+
+Actigraphy:
+Actigraphs are small accelerometer-based devices that measure sleep and waking indirectly by recording motor activity. MicroMini-Motionloggers (Ambulatory Monitoring Inc., Ardsley, NY) were used in this study. These were initialized using zero crossing mode and the data were downloaded using ACTMe Millennium Software (version 3.47.0.3). Once downloaded, data were manually trimmed for the correct time period based on a sleep log completed by the parent. Data were scored by one research assistant, who was blind to condition, using ActionW2 software (version 2.6), which utilizes a validated sleep algorithm. Previous studies have shown that actigraphy provides valid and reliable estimates of sleep and wake times. Additionally, actigraphy has been shown to be useful for delineating sleep patterns and monitoring treatment responses in pediatric populations.
+
+Measures obtained from actigraphy included TST (sleep onset to sleep end; min), SOL (latency to start of first 20 min block with more than 19 min scored as sleep; min), and SE (the ratio of TST to time in bed [time from lights off to lights on]; %). During each phase of the study, actigraphic data was analyzed for six nights. Participants were instructed to wear the actigraph on their non-dominant wrist from bedtime to wake time, except when the actigraph would be exposed to water (e.g., showering). Only data from weekday nights were used in all actigraphy analyses. Sleep diaries were used to aid in the scoring and interpretation of the actigraphy data.
+
+Polysomnography:
+Participants underwent standard, overnight PSG assessments at the Chronobiology Laboratory in the Queen Elizabeth II Health Sciences Centre. This is a two-bedroom PSG research facility equipped with SD32+TM digital amplifiers and Sandman EliteTM software (version 9.3) (EMBLA; California, USA). PSG utilized nineteen channels including five EEG, two EOG, three submental electromyogram (EMG), four anterior tibialis EMG, two electrocardiogram (ECG), two mastoid electrodes (left and right), and one ground electrode. A thermistor was used to measure airflow in those participants who could tolerate a nasal pressure cannula. Two piezoelectric bands (chest and abdomen) were used to measure breathing effort and movement. Oxygen saturation (SpO2) was recorded using an integrated Sandman Oximeter with a Nellcor probe. A microphone and infrared video camera were used for direct observation and monitoring of the participants. A registered polysomnographic technologist (under the supervision of a physician specializing in sleep medicine - M. Rajda) scored all sleep studies based on the American Academy of Sleep Medicine (AASM) scoring manual. Non-REM (NREM) stages are denoted as N, and Rapid Eye Movement (REM) sleep is denoted as R.
+
+In the current study, the first PSG assessment was used to screen for sleep disorders (e.g., obstructive sleep apnea (OSA)). For the experimental conditions (e.g., MPH and placebo), the dependent variables from the PSG data that were analysed included TST (total minutes of sleep stages N1, N2, N3 plus R sleep), SOL (time from 'lights out' to the first epoch of any sleep stage; min), SE (the ratio of TST to time in bed [lights off to lights on] x 100; %), as well as the relative percentages of sleep stages (N1-3 and R sleep). These variables were measured during each of the three separate sleep lab visits, which took place at the end of baseline (data not included in this study), and the end of the first week of MPH and placebo conditions.
+
+Procedure:
+Participants first completed a baseline assessment in order to become familiar with the study procedures and to screen for primary sleep disorders such as OSA. The baseline assessment also provided an opportunity to eliminate first night effects from impacting the results during the medication trial. The baseline sleep characteristics of this sample have been previously reported. Following baseline, participants began the four-week cross-over trial during which children were given two weeks of MPH treatment and two weeks of placebo treatment, in a randomized order. Data related to sleep and daytime behaviour were collected during the first and third weeks of this trial (i.e., after the first week of each condition). The second and fourth weeks were used in situations in which the first week of a condition was not considered typical by the parent (e.g., child was ill). The bedtime and wake times for PSG were scheduled based on the child's typical weekday bedtime and wake time, as assessed during the baseline using actigraphy in the home environment. If the child went to bed later than usual (e.g., as a result of technical problem with the PSG), the discrepancy was made up by adjusting the morning wake time. If the child did not wake spontaneously at their typical wake time (or adjusted wake time as described above), they were awoken at that time. The child slept in one of the rooms and the parent slept in the other room, except for a few children for which the parent slept on a cot in their room.
+
+During the medication trial, participants followed a standard clinical masked protocol of ER MPH (Biphentin), which was prescribed by one of three study pediatricians (M. MacPherson, T. Williams, S. Shea), and the medication was prepared by one of two pharmacies. The pharmacists prepared the medication and placebo by placing these in identical gelatin capsules so that children and parents could not identify whether capsules contained medication or the placebo. Children weighing less than 20 kg received a 20 mg daily dose, children weighing 20-30 kg were given 30 mg, and children weighing over 30 kg were given 40 mg. The dose was consistent with a previous study that established the behavioural and cognitive effectiveness of Biphentin. The medication trial always began and ended on a weekend day. The medication trial was part of a clinical service offered by the pediatricians, and the study was an addendum to this clinical trial.
+
+The current study goal was not to evaluate the effectiveness of the medication, but rather to examine how sleep is affected by medication, and a placebo condition allowed for a comparison to the medication condition.
+
+Participants received one dose daily within one hour of waking. Participants were randomized to begin the medication trial with either the medication or placebo. Randomization was conducted using blocking on an online calculator (randomized in blocks of 10). The randomization schedule was conducted through a third-party and the child, family, teachers, and study staff were all blind to medication condition; only the study pediatricians and pharmacists were aware of the medication status of the participants.
+
+Analytic Methods:
+Power analysis for a multivariate analysis of variance (MANOVA) with two levels and three dependent variables was conducted in G*Power to determine a sufficient sample size with a smallest effect size as a conservative approach. With an effect size (Cohen's f) of 0.18 and power set at 0.95 and an alpha of 0.05, 26 participants were determined to be the minimal sample size needed. The effect size was calculated based on previous research examining the impact of IR MPH given TID using actigraphy between the medication and placebo conditions.
+
+Using PASW Statistics Base 22.0 (SPSS Version 22.0), data were analyzed using repeated measures multivariate analysis of variance (RM-MANOVA), which compared the MPH and placebo conditions. Medication status was used as the repeated measure and sleep variables collected by actigraphy (primary outcome measure) and PSG (secondary outcome measure) were the dependent variables (SOL, TST, SE). The baseline assessment data were not included in the repeated measures analysis, as the baseline week was used in this study as a habituation session and for screening of sleep disorders. Effect sizes were calculated using partial eta squared. Partial eta square results can be interpreted as: small (.01), medium (.06), large (.14).
+
+RESULTS:
+
+Participant Characteristics:
+Of the 32 individuals who consented to participate in this study, 6 were excluded due to: discomfort with the over-night PSG procedures (n=1), abnormal EEG findings (n=1), and missing actigraphy data (n=4). The remaining 26 participants completed the entire protocol. Comparison between those participants who were excluded and those included in the study indicated that there were no statistically significant differences in terms of age, sex, SES, or ADHD symptomatology.
+
+Sample Characteristics (Table 1):
+The final sample (n=26) consisted of 23 males and 3 females, ranging in age from 6 years (75 months) to 12 years (149 months), with a mean age of 8 years, 8 months (104.5 months; SD=24.5). Of the 26 participants, one participant was Latin American (3.8%), two participants were Aboriginal (7.7%), and the remaining participants were Caucasian (88.5%). Socio-Economic Status (SES) was calculated using the Boyd-NP scale, in which SES scores are based on parental education and income using Canada's 2001 census data. Boyd-NP scores range from 0 to 100, with higher scores indicating higher SES. This sample's SES was in the average range (M=68.7; SD=22.7). Mean household annual income fell in the bracket of $51,000 to $60,000.
+
+In terms of ADHD subtype, 65.4% of participants were diagnosed as combined or hyperactive-impulsive subtype (n=17) and 34.6% as inattentive subtype (n=9). Approximately one-third of the sample had a co-morbid learning disability (n=8). The sample had a mean full scale IQ that fell within the Average range based on the WISC-IV (M=95.6, SD=21.6). The mean T-score on the ADHD Index of the CPRS-R:L was 72.4 (SD=9.1) and on the CTRS-R:L was 68.9 (SD=10.6).
+
+Based on the baseline PSG assessment, none of the participants had an apnea-hyponea index score greater than one, and there was no clinical evidence of any sleep respiratory problems. Four participants (15.5%) in both conditions had a clinically significant PLMS Index (i.e., equal to or greater than five). Only two participants had significant PLMS in both conditions, whereas the other two participants were different for the medication and placebo conditions. Upon completion of data collection, 46.2% of participants had been randomized to receive the active medication condition first.
+
+Impact of MPH on ADHD Symptoms:
+A RM-MANOVA was performed using T-scores for the ADHD Index on the CPRS-R:L and CTRS-R:L to confirm the effectiveness of MPH treatment on core ADHD symptoms. While this study is not an evaluation of the effectiveness of the medication, it is important to ensure that the medication dose used in this study was therapeutic. There was a significant omnibus effect for condition (lambda=.71, F(2,24)=4.89, p<.05; partial eta-squared=.29). Univariate analyses indicated that CPRS-R:L and CTRS-R:L T-scores were both significantly reduced during MPH treatment compared to placebo: CPRS-R:L: F(1,25)=8.11, p=.009; partial eta-squared=.25; CTRS-R:L: F(1,25)=5.64, p=0.03, partial eta-squared=.18. Of note, MPH resulted in approximately one-half of a standard deviation improvement in symptoms, and ratings in the MPH condition were reduced from the clinical range to the borderline clinical range based on parent report and to the average range based on teacher report. No child was taken off medication due to adverse effects.
+
+Impact of MPH on Sleep - Actigraphy (Primary Outcome):
+Based on actigraphy data, the RM-MANOVA indicated a significant omnibus effect for condition (lambda=.42, F(4,22)=5.54, p<.001; partial eta-squared=.58). Univariate analyses indicated that there were significant changes in TST (F(1,25)=14.51, p=.001; partial eta-squared=.37) and SOL (F(1,25)=15.3, p=.001; partial eta-squared=.38). No significant differences were found in SE (F(1,25)=2.58, p=.12; partial eta-squared=.09). Based on a review of the means, participants slept 30 min less on average during the MPH condition compared to the placebo condition. This difference was accounted for by an increase of 30 min in SOL in the MPH condition.
+
+Actigraphy Results (Table 3):
+- TST (min): MPH=530.0 (SD 54.0), Placebo=559.8 (SD 60.1), p=0.001
+- SOL (min): MPH=53.3 (SD 35.3), Placebo=32.8 (SD 37.4), p=0.001
+- SE (%): MPH=80.3 (SD 7.6), Placebo=83.6 (SD 10.1), p=0.12
+
+Impact of MPH on Sleep - Polysomnography (Secondary Outcome):
+Based on PSG data, the RM-MANOVA indicated that there was no significant omnibus effect for condition (lambda=.79, F(4,22)=1.47, p=.25; partial eta-squared=.21). None of the univariate analyses were significant: TST: F(1,25)=3.32, p=.08; partial eta-squared=.12; SOL: F(1,25)=1.20, p=.28; partial eta-squared=.05; SE: F(1,25)=1.02, p=.32; partial eta-squared=.04. However, the means reflected non-significant changes in the same direction as was seen in the actigraphy data, with shorter TST and longer sleep onset latencies in the MPH condition.
+
+PSG Results (Table 4):
+- TST (min): MPH=481.3 (SD 68.6), Placebo=505.9 (SD 62.5), p=0.08
+- SOL (min): MPH=39.7 (SD 31.6), Placebo=31.3 (SD 25.1), p=0.28
+- SE (%): MPH=85.7 (SD 8.6), Placebo=87.9 (SD 6.5), p=0.32
+
+Impact of MPH on Sleep Stages (PSG):
+The final RM-MANOVA examined sleep stages based on the PSG assessment, where the relative proportion of each sleep stage throughout the night was expressed as a percentage. The percentages of sleep stages did not differ between the MPH and placebo conditions, as indicated by the results of the omnibus test on the RM-MANOVA (lambda=.78, F(4,22)=1.59, p=.21; partial eta-squared=.23). The univariate test was significant (with a large effect size) for N3 but not for N1, N2, or R; N3: F(1,25)=5.73, p=.02, partial eta-squared=.19; N1: F(1,25)=0.26, p=.62; partial eta-squared=.01; N2: F(1,25)=1.78, p=.19, partial eta-squared=.07; R: F(1,25)=0.78, p=.39; partial eta-squared=.03. Examination of the means indicated that in the MPH condition there was an increase of 3.2% for N3 (slow-wave sleep) and slight decreases in the other stages: R: 1%; N1: 0.2%; N2: 2.0%.
+
+EDIA/EQUITY REPORTING:
+
+Race/Ethnicity:
+- Reported in participant characteristics: 1 participant Latin American (3.8%), 2 participants Aboriginal (7.7%), remaining participants Caucasian (88.5%)
+- Race/ethnicity was collected as a demographic variable but was NOT used as a covariate, stratification variable, or discussed in relation to outcomes
+- The term "Aboriginal" was used (rather than "Indigenous" or specific nation names)
+
+Sex/Gender:
+- Sex reported: 23 males and 3 females (88.5% male, 11.5% female)
+- The Discussion notes: "Our study also had an unequal sex distribution, but this is consistent with known differences in ADHD diagnoses in boys versus girls"
+- Sex was NOT used as a covariate or stratification variable
+
+Age:
+- Range 6-12 years, mean 8 years 8 months (SD=24.5 months)
+
+Socioeconomic Status:
+- SES calculated using Boyd-NP scale based on parental education and income using Canada's 2001 census data
+- SES in average range (M=68.7; SD=22.7)
+- Mean household annual income in bracket of $51,000 to $60,000
+
+Education (Parental):
+- Parental education used as component of Boyd-NP SES calculation; specific breakdown not provided
+
+Place of Residence:
+- Recruitment through ADHD clinic in Truro, Nova Scotia (serving mostly rural community) and private practices in Halifax, Nova Scotia
+- Geographic context noted as relevant: rural vs urban recruitment
+
+Disability/Neurodevelopmental:
+- Approximately one-third had co-morbid learning disability (n=8)
+- IQ exclusion: full scale IQ more than 1 SD below the mean
+- Pubertal development beyond Tanner Stage 2 was an exclusion criterion
+- Medication-naive sample (never previously taken psychotropic medication)
+
+CANADIAN INVOLVEMENT:
+
+This is an entirely Canadian study.
+All Institutions: Dalhousie University (Nova Scotia), IWK Health Centre, Colchester East Hants Health Authority, Capital District Health Authority, Queen Elizabeth II Health Sciences Centre
+Study Locations: Halifax and Truro, Nova Scotia, Canada
+Funding: Canadian Institutes of Health Research (CIHR; #158711)
+All Authors: All 9 authors are affiliated with Canadian institutions (Dalhousie University departments and Nova Scotia health centres)
+Medication: Biphentin (Canadian brand of extended-release methylphenidate)
+SES Measure: Boyd-NP scale using Canada's 2001 census data
+Ethics: Dalhousie University, IWK Health Centre, Colchester East Hants Health Authority, Capital District Health Authority Research Ethics Boards
+Publication: Journal of the Canadian Academy of Child and Adolescent Psychiatry

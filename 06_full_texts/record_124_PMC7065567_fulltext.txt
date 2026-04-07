@@ -1,0 +1,671 @@
+J Can Acad Child Adolesc Psychiatry 
+. 2020 Mar 1;29(1):33–43.
+
+ Search in PMC 
+
+ Search in PubMed 
+
+ View in NLM Catalog 
+
+ Add to search 
+
+ Show available content in 
+
+ en 
+
+ fr 
+
+The Effects of Extended-Release Stimulant Medication on Sleep in Children with ADHD
+
+ Penny Corkum 
+
+ Penny Corkum 
+
+ 1 Department of Psychology and Neuroscience, Dalhousie University, Nova Scotia
+
+ 2 Department of Psychiatry, Dalhousie University, Nova Scotia
+
+ 5 ADHD Clinic, Colchester East Hants Health Centre, Truro, Nova Scotia
+
+Find articles by Penny Corkum 
+
+ 1, 2, 5, ✉ , Esmot Ara Begum 
+
+ Esmot Ara Begum 
+
+ 1 Department of Psychology and Neuroscience, Dalhousie University, Nova Scotia
+
+Find articles by Esmot Ara Begum 
+
+ 1 , Benjamin Rusak 
+
+ Benjamin Rusak 
+
+ 1 Department of Psychology and Neuroscience, Dalhousie University, Nova Scotia
+
+ 2 Department of Psychiatry, Dalhousie University, Nova Scotia
+
+Find articles by Benjamin Rusak 
+
+ 1, 2 , Malgorzata Rajda 
+
+ Malgorzata Rajda 
+
+ 2 Department of Psychiatry, Dalhousie University, Nova Scotia
+
+Find articles by Malgorzata Rajda 
+
+ 2 , Sarah Shea 
+
+ Sarah Shea 
+
+ 3 Department of Pediatrics, Dalhousie University, Nova Scotia
+
+Find articles by Sarah Shea 
+
+ 3 , Marilyn MacPherson 
+
+ Marilyn MacPherson 
+
+ 5 ADHD Clinic, Colchester East Hants Health Centre, Truro, Nova Scotia
+
+Find articles by Marilyn MacPherson 
+
+ 5 , Tracey Williams 
+
+ Tracey Williams 
+
+ 5 ADHD Clinic, Colchester East Hants Health Centre, Truro, Nova Scotia
+
+Find articles by Tracey Williams 
+
+ 5 , Kathleen Spurr 
+
+ Kathleen Spurr 
+
+ 4 School of Health Sciences, Dalhousie University, Nova Scotia
+
+Find articles by Kathleen Spurr 
+
+ 4 , Fiona Davidson 
+
+ Fiona Davidson 
+
+ 1 Department of Psychology and Neuroscience, Dalhousie University, Nova Scotia
+
+Find articles by Fiona Davidson 
+
+ 1 
+
+ Author information 
+
+ Article notes 
+
+ Copyright and License information 
+
+ 1 Department of Psychology and Neuroscience, Dalhousie University, Nova Scotia
+
+ 2 Department of Psychiatry, Dalhousie University, Nova Scotia
+
+ 3 Department of Pediatrics, Dalhousie University, Nova Scotia
+
+ 4 School of Health Sciences, Dalhousie University, Nova Scotia
+
+ 5 ADHD Clinic, Colchester East Hants Health Centre, Truro, Nova Scotia
+
+ ✉ 
+Corresponding E-Mail: penny.corkum@dal.ca 
+
+ ✉ 
+Corresponding author.
+
+Received 2019 Feb 25; Accepted 2019 Oct 19; Issue date 2020 Mar.
+
+Copyright © 2020 Canadian Academy of Child and Adolescent Psychiatry
+
+ PMC Copyright notice 
+
+PMCID: PMC7065567  PMID: 32194650 
+
+Abstract
+
+Objective
+
+Although stimulant medications, such as methylphenidate hydrochloride (MPH), are effective at reducing the core symptoms of Attention-Deficit/Hyperactivity Disorder (ADHD), they may also disrupt children’s sleep. This study aimed to investigate the acute impact of extended-release MPH on sleep using both actigraphy and polysomnography (PSG).
+
+Method
+
+Participants were 26 medication-naïve newly and rigorously diagnosed children with ADHD (23 males; 3 females) with a mean age of 8 years, 8 months ( SD = 24.5mos) who were enrolled in a clinically-administered crossover medication trial with 2 conditions: 2 weeks of placebo and 2 weeks of MPH treatment. The effect of condition on sleep variables as measured by actigraphy (primary outcome) and PSG (secondary outcome) was analyzed using repeated measures MANOVAs.
+
+Results
+
+Based on actigraphy data, total sleep time was significantly reduced by 30 minutes and sleep onset latency was significantly increased by 30 minutes in the MPH condition compared to the placebo condition (p<0.001). No differences were found in sleep efficiency. No statistically significant differences were found for the same variables assessed by PSG; however, the means were in the same direction as the actigraphy data. There was a significant increase in the relative percentage of stage N3 sleep by 3.2% during MPH treatment (p<0.05).
+
+Conclusions
+
+Increased sleep onset latency resulting in reduced total sleep time, which has been linked to poorer daytime functioning, is a potential adverse effect of stimulant medication which may require management to optimize outcome.
+
+ Keywords: ADHD, medication, sleep, actigraphy, polysomnography
+
+Résumé
+
+Objectif
+
+Bien que les médicaments stimulants comme le chlorhydrate de méthylphénidate (MPH) soient efficaces pour réduire les principaux symptômes du trouble de déficit de l’attention avec hyperactivité (TDAH), ils peuvent également perturber le sommeil des enfants. La présente étude visait à rechercher l’effet précis du MPH à libération prolongée sur le sommeil à l’aide d’une actigraphie et d’une polysomnographie (PSG).
+
+Méthode
+
+Les participants étaient 26 enfants naïfs de médicaments ayant nouvellement et rigoureusement reçu un diagnostic de TDAH (23 garçons; 3 filles) d’âge moyen de 8 ans et 8 mois ( ET = 24,5 mois) qui étaient inscrits dans un essai croisé cliniquement administré sur la médication selon 2 conditions: 2 semaines de placebo et deux semaines de traitement par MPH. L’effet de la condition sur les variables du sommeil telles que mesurées par l’actigraphie (résultat principal) et la PSG (résultat secondaire) a été analysé par des mesures répétées MANOVA.
+
+Résultats
+
+Selon les données de l’actigraphie, le temps de sommeil total était significativement réduit de 30 minutes et la latence d’endormissement était significativement accrue de 30 minutes dans la condition MPH comparativement à la condition placebo (p < 0,001). Aucune différence n’a été notée pour l’efficacité du sommeil. Aucune différence statistiquement significative n’a été observée pour les mêmes variables évaluées par la PSG; cependant, les moyennes suivaient la même direction que les données de l’actigraphie. Il y avait une augmentation significative de 3,2 % du pourcentage relatif au stade N3 du sommeil durant le traitement par MPH (p < 0,05).
+
+Conclusions
+
+La latence d’endormissement accrue entraînant un temps de sommeil total réduit, qui est lié à un mauvais fonctionnement de jour, est un effet indésirable potentiel des médicaments stimulants, qui peut nécessiter une prise en charge afin d’optimiser le résultat.
+
+ Mots clés: TDAH, médication, sommeil, actigraphie, polysomnographie
+
+Attention-deficit/hyperactivity disorder (ADHD) is one of the most common childhood neurodevelopmental disorders and affects approximately 5% of school-aged children, with sex ratios (males:females) reported in the range of 3:1 to 8:1 ( American Psychiatric Association [APA], 2013 ; Schachar, 2009 ). Children with ADHD present with developmentally inappropriate levels of inattention and/or hyperactivity and impulsivity, which cause functional impairment, particularly in academic and social settings, and overall lower quality of life ( APA, 2013 ; Danckaerts et al., 2010 ). They also commonly experience reduced school performance, peer relationship problems, and are at risk for a range of negative outcomes including substance use and antisocial problems in adulthood ( APA, 2013 ; Danckaerts et al., 2010 ). As such, multimodal treatment comprising medication and psychosocial interventions is often recommended; however, this integrated approach is uncommon in practice, and stimulant medication alone is the most common treatment for ADHD ( Froehlich, Lanphear, Epstein, Barbaresi, Katusic, & Kahn, 2007 ; Hinshaw & Arnold, 2015).
+
+The prevalence of pharmacological treatment for ADHD has been increasing and current estimates are that approximately 4% of children in North America are taking these medications ( Miller, Lalonde, McGrail, & Armstrong, 2001 ; Safer, 2016 ). While amphetamine-based medication prescriptions have increased the most over the past two decades, this is predominantly with adults ( Burcu, Zito, Metcalfe, Underwood, & Safer, 2016 ). Methylphenidate hydrochloride (MPH) continues to be the most commonly prescribed stimulant medication used to treat ADHD in children ( Stein, Weiss, & Hlavaty, 2012 ), and extended-release (ER), rather than immediate-release (IR) formulations are currently the mostly widely prescribed in North America ( Hinshaw et al., 2011 ; Safer, 2016 ; Schachar, 2008 ). Although the efficacy of stimulant medication is well established ( Cortese et al., 2018 ; Schachar et al., 2002 ; Swanson, McBurnett, Wigal, & Pfiffner, 1993 ), multiple factors should be considered before and while prescribing these medications to children. For example, stimulant medications are not always effective ( Schachar, 2009 ), and adherence rates after one year of treatment have been reported to be as low as 50% ( Charach, Ickowicz, & Schachar, 2004 ). Moreover, this low adherence rate has been shown to be partly due to parental apprehensions about medication adverse effects ( Ahmed, Borst, Wei, & Aslani, 2017 ; Brinkman, Sucharew, Majcher, & Epstein, 2018 ; Monstra, 2005 ). The most common adverse effects of stimulant medications are sleep problems and decreased appetite, but others have also been found, some over the longer term (e.g., decreased growth) ( Graham & Coghill, 2008 ; Lee et al., 2011 ; Storebø et al., 2008).
+
+Of the known adverse effects of stimulant medication treatment, sleep problems (specifically symptoms of insomnia, including difficulties falling asleep, staying asleep and shorter sleep duration) are potentially some of the most deleterious for both children and their families. There is evidence that even modest sleep loss can have a pervasive impact on daytime functioning for typically developing children ( Sadeh, Gruber, & Raviv, 2002 ; Vriend, Davidson, Rusak, & Corkum, 2015 ) and children with ADHD ( Davidson, Rusak, Chambers, & Corkum, 2018 ). Sleep loss in children can cause deficits in executive functioning, attention, memory, and processing speed ( Fallone, Acebo, Seifer, & Carskadon, 2005 ; Sadeh, Gruber, & Raviv, 2003 ; Sciberras, DePetro, Mensah, & Hiscock, 2015 ; Vriend et al., 2013 ), and have been associated with increased family stress and linked to increased rates of child abuse ( Byars, Yeomans-Maldonado, & Noll, 2011 ; Stores, 1996 ). Moreover, sleep parameters and cognitive functioning have been found to be significantly correlated in children with ADHD ( Um et al., 2016 ). There is also preliminary evidence that sleep may impact the effectiveness of medication ( Morash-Conway, Gendron, & Corkum, 2017 ).
+
+Although MPH is often effective in reducing the core symptoms of ADHD, it is also known to promote waking and impede sleep. MPH acts to facilitate the release of dopamine (DA) and norepinephrine (NE) from presynaptic membranes, and blocks the reuptake of DA and NE by the dopamine and NE transporters, resulting in increased DA availability in the synaptic cleft. These neurotransmitters act on both the prefrontal cortex and the striatum to facilitate control over attentional resources, thereby improving performance ( Engert & Pruessner, 2008 ; Schachar, 2009 ; Viggiano, Vallone, & Sadile, 2004 ; Volkow et al., 2001 ). DA and NE also play important roles in mediating the effects of stimulants in promoting wakefulness ( Boutrel & Koob, 2004 ; Wisor et al., 2001 ).
+
+Despite evidence indicating the potential for MPH regulation of dopamine to have a negative impact on sleep, there is little research relevant to this issue involving children with ADHD. Most of the research to date has been correlational or has used between-subject designs. Corkum and Coulombe (2013) conducted a review of reviews , which included eight systematic reviews comprising 78 empirical studies, and found that the results of these studies are highly inconsistent, although the majority reported a negative impact of MPH on sleep in children with ADHD. However, the severity and chronicity of these medication effects on sleep are not known.
+
+We are aware of only six studies that have prospectively examined the impact of MPH on children’s sleep during randomized, blinded, placebo-controlled crossover clinical trials using objective measures of sleep, such as actigraphy (a wrist worn watch-like device that uses body movements to determine sleep and wake states) and polysomnography (PSG; recording of physiological parameters such as electroencephalography (EEG) and electrooculography (EOG)that are used to identify sleep and sleep stages) ( Corkum, Panton, Ironside, Macpherson, & Williams, 2008 ; Galland, Tripp, & Taylor, 2010 ; Sangal et al., 2006 ; Schwartz et al., 2004 ; Stein et al., 1996 ; Tirosh, Sadeh, Munvez, & Lavie, 1993 ). The six published studies differed in several ways; four measured sleep using actigraphy, one used PSG and one used both PSG and actigraphy; all studies used IR formulations, but two involved three-times daily dosing, one involved twice daily dosing, one involved once daily dosing and two involved a variety of dosing schedules. No previous study has examined the impact of ER MPH, which is the most commonly used medication to treat ADHD in clinical practice today ( Safer, 2016 ; Schachar, 2009 ). Given its longer lasting effects, ER formulations may have increased potential to affect sleep ( Faraone & Glatt, 2010 ; Hvolby, 2014 ).
+
+A recent meta-analysis ( Kidwell, Van Dyk, Lundahl, & Nelson, 2015 ) of studies (n=9; all of which had random assignment of participants to stimulant medication conditions and an objective measure of sleep) supported the finding of a negative impact of stimulant medication on sleep in children. More specifically, it was found that stimulant medication resulted in longer sleep onset latency (SOL), reduced sleep efficiency (SE), and shorter total sleep time (TST). There were a number of significant moderators and these differed by sleep variable (e.g., number of doses of medication per day was a moderator for SOL, whereas duration of medication treatment was a moderator for SE).
+
+Given that there are few rigorous studies that evaluate the impact of stimulant medication using placebo-controlled trials on objectively measured sleep, and moreover there are no studies examining the impact of ER MPH, there is a clear need for additional research on this topic. This information is also needed to aid in the development of treatment plans, whether behavioural or pharmacological, to address sleep problems in children with ADHD who are taking ER medication. As such, the current study assesses the acute impact of ER MPH on sleep in children with ADHD. Sleep was evaluated using PSG and actigraphy, and assessed during a four week, double-blind, randomized, placebo-controlled crossover clinical trial of extended-release MPH For our primary outcome, we hypothesized that based on actigraphy, TST and SE would be reduced and SOL would be lengthened when taking MPH compared to placebo. For the secondary outcomes, we made the same hypothesis except with PSG data, and also hypothesized that sleep stages would be unaffected.
+
+Methods
+
+Participants
+
+Participants were recruited through an ADHD speciality clinic located in Truro, Nova Scotia serving a mostly rural community, as well as through private psychological practices specializing in ADHD assessments within the city of Halifax, Nova Scotia, Canada. All children were diagnosed by psychologists and pediatricians specializing in ADHD, using DSM-IV-TR ( American Psychiatric Association, 2000 ) diagnostic criteria. The clinical differential diagnostic assessment procedures followed multi-method and multi-informant clinical diagnostic measures including psycho-educational assessments, parent and teacher semi-structured diagnostic interviews, multiple questionnaires completed by parents and teachers, and observations conducted during testing and in the classroom. For more details of the diagnostic process and assessment tools, see McGonnell et al., 2009 .
+
+The exclusion criteria included: (1) full scale IQ falling more than one standard deviation below the mean according to the Wechsler Intelligence Scale for Children - Fourth Edition (WISC-IV; Wechsler, 2003 ); (2) a known neurological, genetic, metabolic, or seizure disorder; (3) previous diagnosis of a primary sleep disorder; (4) undergoing behavioural or pharmacological treatment for sleep problems; (5) a diagnosis of another primary mental health disorder based on the clinical diagnostic procedures described above (excluding comorbid diagnoses of learning disabilities (LD)); (6) pubertal development beyond Tanner Stage 2; (7) currently taking or had previously taken psychotropic medication; and (8) PSG evidence indicative of a sleep breathing problem. Given that periodic limb movements during sleep (PLMS) are common in children with ADHD ( Crabtree, Ivanenko, O’Brien, & Gozal, 2003 ; Picchietti et al., 1999 ) and that there is significant variability in PLMS ( Picchietti et al., 2009 ), these children were not excluded. Parents provided their written informed consent and children provided their verbal assent. Parents were reimbursed for their travel and costs to attend the over-night PSG, and children were rewarded with movie gift certificates and dollar store prizes for completing study procedures. Ethical approval was obtained through multiple Research Ethics Boards, including university (Dalhousie University) and hospitals (IWK Health Centre, Colchester East Hants Health Authority, Capital District Health Authority). There were no conflicts of interest of any study investigator with the pharmaceutical or equipment manufacturers.
+
+Measures
+
+Demographic Questionnaire
+
+Parents completed a demographic questionnaire, which asked for information pertaining to child, parent, and family variables, including the child’s age and sex, and family’s socioeconomic status (SES) variables of income and education.
+
+Conners Parent and Teacher Rating Scale-Revised (Long Form) (CP/TRS-R:L)
+
+The CP/TRS-R:L is a standardized behaviour rating system completed by parents and teachers to assess problem behaviours in children 3–17 years of age. The parent version includes 80 items and the teacher version includes 59 items. Raw scores are converted into T-scores so that comparisons can be made to the normative sample. The ADHD Index includes key symptoms of ADHD and has been found to be sensitive to treatment effects ( Conners, Sitarenios, Parker, & Epstein, 1998 ; Conners, 1997 ).
+
+Actigraphy
+
+Actigraphs are small accelerometer-based devices that measure sleep and waking indirectly by recording motor activity. MicroMini-Motionloggers® (Ambulatory Monitoring Inc., Ardsley, NY) were used in this study. These were initialized using zero crossing mode and the data were downloaded using ACTMe Millennium Software (version 3.47.0.3). Once downloaded, data were manually trimmed for the correct time period based on a sleep log completed by the parent. Data were scored by one research assistant, who was blind to condition, using ActionW2 software (version 2.6), which utilizes a validated sleep algorithm ( Sadeh, Sharkey, & Carskadon, 1994 ). Previous studies have shown that actigraphy provides valid and reliable estimates of sleep and wake times ( Acebo et al., 1999 ; de Souza et al., 2003 ; Sadeh, Hauri, Kripke, & Lavie, 1995 ). Additionally, actigraphy has been shown to be useful for delineating sleep patterns and monitoring treatment responses in pediatric populations ( Morgenthaler et al., 2007 ).
+
+Measures obtained from actigraphy included TST (sleep onset to sleep end; min), SOL (latency to start of first 20 min block with more than 19 min scored as sleep; min), and SE (the ratio of TST to time in bed [time from lights off to lights on]; %). During each phase of the study, actigraphic data was analyzed for six nights. Participants were instructed to wear the actigraph on their non-dominant wrist from bedtime to wake time, except when the actigraph would be exposed to water (e.g., showering). Only data from weekday nights were used in all actigraphy analyses. Sleep diaries were used to aid in the scoring and interpretation of the actigraphy data.
+
+Polysomnography
+
+Participants underwent standard, overnight PSG assessments at the Chronobiology Laboratory in the Queen Elizabeth II Health Sciences Centre. This is a two-bedroom PSG research facility equipped with SD32+ TM digital amplifiers and Sandman Elite TM software (version 9.3) (EMBLA; California, USA). PSG utilized nineteen channels including five EEG, two EOG, three submental electromyogram (EMG), four anterior tibialis EMG, two electrocardiogram (ECG), two mastoid electrodes (left and right), and one ground electrode. A thermistor was used to measure airflow in those participants who could tolerate a nasal pressure cannula. Two piezoelectric bands (chest and abdomen) were used to measure breathing effort and movement. Oxygen saturation (SpO 2 ) was recorded using an integrated Sandman Oximeter with a Nellcor probe. A microphone and infrared video camera were used for direct observation and monitoring of the participants. A registered polysomnographic technologist (under the supervision of a physician specializing in sleep medicine –M. Rajda) scored all sleep studies based on the American Academy of Sleep Medicine (AASM) scoring manual ( Iber, Ancoli-Israel, Chesson, & Quan, 2007 ). Non-REM (NREM) stages are denoted as N, and Rapid Eye Movement (REM) sleep is denoted as R.
+
+In the current study, the first PSG assessment was used to screen for sleep disorders (e.g., obstructive sleep apnea (OSA)). For the experimental conditions (e.g., MPH and placebo), the dependant variables from the PSG data that were analysed included TST (total minutes of sleep stages N1, N2, N3 plus R sleep), SOL (time from ‘lights out’ to the first epoch of any sleep stage; min), SE (the ratio of TST to time in bed [lights off to lights on] x 100; %), as well as the relative percentages of sleep stages (N1–3 and R sleep). These variables were measured during each of the three separate sleep lab visits, which took place at the end of baseline (data not included in this study), and the end of the first week of MPH and placebo conditions.
+
+Procedure
+
+Participants first completed a baseline assessment in order to become familiar with the study procedures and to screen for primary sleep disorders such as OSA. The baseline assessment also provided an opportunity to eliminate first night effects from impacting the results during the medication trial. The baseline sleep characteristics of this sample have been previously reported ( Speth, Benoit, & Corkum, 2015 ). Following baseline, participants began the four-week cross-over trial during which children were given two weeks of MPH treatment and two weeks of placebo treatment, in a randomized order. Data related to sleep and daytime behaviour were collected during the first and third weeks of this trial (i.e., after the first week of each condition). The second and fourth weeks were used in situations in which the first week of a condition was not considered typical by the parent (e.g., child was ill). The bedtime and wake times for PSG were scheduled based on the child’s typical weekday bedtime and wake time, as assessed during the baseline using actigraphy in the home environment. If the child went to bed later than usual (e.g., as a result of technical problem with the PSG), the discrepancy was made up by adjusting the morning wake time. If the child did not wake spontaneously at their typical wake time (or adjusted wake time as described above), they were awoken at that time. The child slept in one of the rooms and the parent slept in the other room, except for a few children for which the parent slept on a cot in their room.
+
+During the medication trial, participants followed a standard clinical masked protocol of ER MPH (Biphentin ® ; Purdue Pharma, 2015 ), which was prescribed by one of three study pediatricians (M. MacPherson, T. Williams, S. Shea), and the medication was prepared by one of two pharmacies. The pharmacists prepared the medication and placebo by placing these in identical gelatin capsules so that children and parents could not identify whether capsules contained medication or the placebo. Children weighing less than 20 kg received a 20 mg daily dose, children weighing 20–30 kg were given 30 mg, and children weighing over 30 kg were given 40 mg. The dose was consistent with a previous study that established the behavioural and cognitive effectiveness of Biphentin® ( Schachar et al., 2008 ). The medication trial always began and ended on a weekend day. The medication trial was part of a clinical service offered by the pediatricians, and the study was an addendum to this clinical trial.
+
+The current study goal was not to evaluate the effectiveness of the medication, but rather to examine how sleep is affected by medication, and a placebo condition allowed for a comparison to the medication condition.
+
+Participants received one dose daily within one hour of waking. Participants were randomized to begin the medication trial with either the medication or placebo. Randomization was conducted using blocking on an online calculator (randomized in blocks of 10). The randomization schedule was conducted through a third-party and the child, family, teachers, and study staff were all blind to medication condition; only the study pediatricians and pharmacists were aware of the medication status of the participants.
+
+Analytic methods
+
+Power analysis for a multivariate analysis of variance (MANOVA) with two levels and three dependent variables was conducted in G*Power to determine a sufficient sample size with a smallest effect size as a conservative approach ( Faul, Erdfelder, Buchner & Lang, 2009 ; Erdfelder, Faul & Buchner, 1996 ). With an effect size (Cohen’s f ) of 0.18 and power set at 0.95 and an alpha of 0.05, 26 participants were determined to be the minimal sample size needed (Cohen, 1998). The effect size was calculated based on our previous research examining the impact of IR MPH given TID using actigraphy between the medication and placebo conditions ( Corkum et al., 2008 ).
+
+Using PASW ® Statistics Base 22.0 (SPSS Version 22.0), data were analyzed using repeated measures multivariate analysis of variance (RM-MANOVA), which compared the MPH and placebo conditions. Medication status was used as the repeated measure and sleep variables collected by actigraphy (primary outcome measure) and PSG (secondary outcome measure) were the dependent variables (SOL, TST, SE). The baseline assessment data were not included in the repeated measures analysis, as the baseline week was used in this study as a habituation session and for screening of sleep disorders. Effect sizes were calculated using partial eta squared (η p 
+ 2 ). Partial eta square results can be interpreted as: small (.01), medium (.06), large (.14) ( Richardson, 2011 ).
+
+Results
+
+Participant Characteristics
+
+Of the 32 individuals who consented to participate in this study, 6 were excluded due to: discomfort with the over-night PSG procedures ( n = 1), abnormal EEG findings ( n = 1), and missing actigraphy data ( n = 4). The remaining 26 participants completed the entire protocol. Comparison between those participants who were excluded and those included in the study indicated that there were no statistically significant differences in terms of age, sex, SES, or ADHD symptomatology.
+
+Sample characteristics can be found in Table 1 . The final sample ( n = 26) consisted of 23 males and 3 females, ranging in age from 6 years (75 months) to 12 years (149 months), with a mean age of 8 years, 8 months (104.5 months; SD = 24.5). Of the 26 participants, one participant was Latin American (3.8%), two participants were Aboriginal (7.7%), and the remaining participants were Caucasian (88.5%). Socio-Economic Status (SES) was calculated using the Boyd-NP scale, in which SES scores are based on parental education and income using Canada’s 2001 census data ( Boyd, 2008 ). Boyd-NP scores range from 0 to 100, with higher scores indicating higher SES. This sample’s SES was in the average range ( M = 68.7; SD = 22.7). Mean household annual income fell in the bracket of $51,000 to $60,000.
+
+Table 1.
+
+Demographic and descriptive information collected at baseline (N=26)
+
+ Measures
+
+ Mean (SD or Range) / n (%)
+
+ Age (months)
+
+ 104.5 (23.4)
+
+ Sex (male)
+
+ 23 (88.5%)
+
+ Ethnicity
+
+  Caucasian
+
+ 23 (88.8%)
+
+  Latin American
+
+ 1 (3.8%)
+
+  Aboriginal
+
+ 2 (7.7%)
+
+ Socio-Economic Status
+
+ 68.7 (23.2)
+
+ Household Income
+
+ 5.6 (3.07)
+
+ ADHD subtype
+
+  ADHD-I
+
+ 9 (34.6%)
+
+  ADHD-C/HI
+
+ 17 (65.4%)
+
+ LD Diagnosis
+
+ 8 (30.8%)
+
+ Full Scale IQ (Standard Score)
+
+ 95.6 (21.6)
+
+ CPRS-R:L ADHD Index (T-Score)
+
+ 72.4 (9.1)
+
+ CTRS-R:L ADHD Index (T-Score)
+
+ 68.9 (10.6)
+
+ Open in a new tab 
+
+Notes. The household income was evaluated by asking parents to select the value that most closely estimates their household income using a nominal scale where a value of 1 = $20,000 or less, 2 = $21,000–$30,000, 3 = $31,000–$40,000, 4 = $41,000–$50,000, 5 = $51,000–$60,000, 6 = $61,000–$70,000, 7 = $71,000–$80,000, 8 = $81,000–$90,000, 9 = $91,000–$100,000, 10 = $100,000 or more; ADHD subtype: ADHD-I = ADHD Inattentive subtype; ADHD-C/HI = ADHD Combined or Hyperactive Impulsive subtype; LD Diagnosis = Learning Disability diagnosis; Full Scale IQ was based on the WISCIV; CPRS-R:L = Conners Parent Rating Scale-Revised (Long Version), CTRS-R:L = Conners Teacher Rating Scale-Revised (Long Version).
+
+In terms of ADHD subtype, 65.4% of participants were diagnosed as combined or hyperactive-impulsive subtype ( n = 17) and 34.6% as inattentive subtype ( n = 9). Approximately one-third of the sample had a co-morbid learning disability ( n = 8). The sample had a mean full scale IQ that fell within the Average range based on the WISC-IV ( M = 95.6, SD = 21.6). The mean T-score on the ADHD Index of the CPRS-R:L was 72.4 ( SD = 9.1) and on the CTRS-R:L was 68.9 ( SD = 10.6).
+
+Based on the baseline PSG assessment, none of the participants had an apnea-hyponea index score greater than one, and there was no clinical evidence of any sleep respiratory problems. Four participants (15.5%) in both conditions had a clinically significant PLMS Index (i.e., equal to or greater than five). Only two participants had significant PLMS in both conditions, whereas the other two participants were different for the medication and placebo conditions. Upon completion of data collection, 46.2% of participants had been randomized to receive the active medication condition first.
+
+Impact of MPH on ADHD Symptoms
+
+A RM-MANOVA was performed using T-scores for the ADHD Index on the CPRS-R:L and CTRS-R:L to confirm the effectiveness of MPH treatment on core ADHD symptoms ( Table 2 ). While this study is not an evaluation of the effectiveness of the medication, it is important to ensure that the medication dose used in this study was therapeutic. There was a significant omnibus effect for condition (λ = .71, F (2, 24) = 4.89, p < .05; partial η 2 = .29). Univariate analyses indicated that CPRS-R:L and CTRS-R:L T-scores were both significantly reduced during MPH treatment compared to placebo: CPRS-R:L: F (1, 25) = 8.11, p = .009; partial η 2 = .25; CTRS-R:L: F (1, 25) = 5.64, p = 0.03, partial η 2 = .18. Of note, MPH resulted in approximately one-half of a standard deviation improvement in symptoms, and ratings in the MPH condition were reduced from the clinical range to the borderline clinical range based on parent report and to the average range based on teacher report. No child was taken off medication due to adverse effects.
+
+Table 2.
+
+Impact of ER MPH on core ADHD symptoms (T-score, means and standard deviations) during the MPH and Placebo conditions (n=26)
+
+ Variable
+
+ MPH
+
+ (SD)
+
+ Placebo
+
+ (SD)
+
+ p value
+
+ CPRS-R:L ADHD Index
+
+ 62.9
+
+ 11.6
+
+ 68.2
+
+ 10.3
+
+ .009 * 
+
+ CTRS-R:L ADHD Index
+
+ 58.4
+
+ 11.2
+
+ 64.0
+
+ 13.5
+
+ .026 * 
+
+ Open in a new tab 
+
+Note. ER MPH = Extended Release Methylphenidate Hydrochloride; CPRS-R:L = Conners Parent Rating Scale-Revised (Long version); CTRS-R:L = Conners Teacher Rating Scale-Revised (Long version);
+
+ * 
+statistically significant difference between MPH and placebo treatment conditions.
+
+Impact of MPH on Sleep
+
+Based on actigraphy data ( Table 3 ), the RM-MANOVA indicated a significant omnibus effect for condition (λ = .42, F (4, 22) = 5.54, p < .001; partial η 2 = .58). Univariate analyses indicated that there were significant changes in TST ( F (1, 25) = 14.51, p = .001; partial η 2 = .37) and SOL ( F (1, 25) = 15.3, p = .001; partial η 2 = .38). No significant differences were found in SE ( F (1, 25) = 2.58, p =.12; partial η 2 = .09). Based on a review of the means ( Table 3 ), participants slept 30 min less on average during the MPH condition compared to the placebo condition. This difference was accounted for by an increase of 30 min in SOL in the MPH condition.
+
+Table 3.
+
+Actigraphy sleep variables (means and standard deviations) during the ER MPH and Placebo conditions (n=26)
+
+ Variable
+
+ MPH
+
+ (SD)
+
+ Placebo
+
+ (SD)
+
+ p value
+
+ TST (min)
+
+ 530.0
+
+ 54.0
+
+ 559.8
+
+ 60.1
+
+ 0.001 * 
+
+ SOL (min)
+
+ 53.3
+
+ 35.3
+
+ 32.8
+
+ 37.4
+
+ 0.001 * 
+
+ SE (%)
+
+ 80.3
+
+ 7.6
+
+ 83.6
+
+ 10.1
+
+ 0.12
+
+ Open in a new tab 
+
+Note. ER MPH = Extended Release Methylphenidate Hydrochloride; TST = total sleep time; SOL = sleep onset latency; SE = sleep efficiency.
+
+ * 
+statistically significant difference between MPH and placebo treatment conditions.
+
+Based on PSG data ( Table 4 ), the RM-MANOVA indicated that there was no significant omnibus effect for condition (λ = .79, F (4, 22) = 1.47, p = .25; partial η 2 = .21). None of the univariate analyses were significant: TST: F (1, 25) = 3.32, p = .08; partial η 2 = .12); SOL: F (1, 25) = 1.20, p = .28; partial η 2 = .05); or SE: F (1, 25) = 1.02, p = .32; partial η 2 = .04. However, the means reflected non-significant changes in the same direction as was seen in the actigraphy data, with shorter TST and longer sleep onset latencies in the MPH condition.
+
+Table 4.
+
+Polysomnography sleep variables (means and standard deviations) during the ER MPH and Placebo conditions (n=26)
+
+ Variable
+
+ MPH
+
+ (SD)
+
+ Placebo
+
+ (SD)
+
+ p value
+
+ TST (min)
+
+ 481.3
+
+ 68.6
+
+ 505.9
+
+ 62.5
+
+ 0.08
+
+ SOL (min)
+
+ 39.7
+
+ 31.6
+
+ 31.3
+
+ 25.1
+
+ 0.28
+
+ SE (%)
+
+ 85.7
+
+ 8.6
+
+ 87.9
+
+ 6.5
+
+ 0.32
+
+ Open in a new tab 
+
+Note. ER MPH = Extended Release Methylphenidate Hydrochloride; TST = total sleep time; SOL = sleep onset latency; SE = sleep efficiency.
+
+The final RM-MANOVA examined sleep stages based on the PSG assessment, where the relative proportion of each sleep stage throughout the night was expressed as a percentage. The percentages of sleep stages did not differ between the MPH and placebo conditions, as indicated by the results of the omnibus test on the RM-MANOVA (λ = .78, F (4, 22) = 1.59, p = .21; partial η 2 = .23). The univariate test was significant (with a large effect size) for N3 but not for N1, N2, or R; N3: F (1, 25) = 5.73, p = .02, partial η 2 = .19; N1: F (1, 25) = 0.26, p = .62; partial η 2 = .01; N2: F (1, 25) = 1.78, p = .19, partial η 2 = .07; R: F (1, 25) = 0.78, p = .39, partial η 2 = .03. Examination of the means indicated that in the MPH condition there was an increase of 3.2% for N3 (slow-wave sleep) and slight decreases in the other stages: R: 1%; N1: 0.2%; N2: 2.0%.
+
+Discussion
+
+The main finding of this study was that based on actigraphy, MPH had a negative impact on TST due to a 30 min increase in SOL. Although the PSG data indicated change in the same direction, the difference observed was not statistically significant ( p = .08). While the omnibus test was not significant for sleep stages, a univariate test indicated that there was a significant increase with a large effect size in stage N3 (slow wave sleep) in the MPH condition relative to the placebo condition. This is the first published study that examined the impact of ER MPH on sleep using a prospective design and objective sleep measures (actigraphy and PSG). Moreover, all participants were medication-naïve and did not have comorbid mental health disorders (with the exception of one-third of the sample having a learning disability). The medication dose used in this study was found to be effective in improving ADHD symptoms based on parent and teacher questionnaires (medium effect sizes) and no child was taken off medication due to adverse effects, indicating that the dose was a clinically appropriate dose and yet sleep was negatively impacted.
+
+Our results are consistent with previous prospective studies that evaluated sleep during medication trials that used IR MPH formulations (rather than ER formulations). For example, with three times daily MPH, Sangal et al. (2006) found an increase of ~39 min in SOL and Corkum et al. (2008) found an increase of ~42 min, and with twice daily MPH, Schwartz et al. (2004) found an increase of ~11 min. It is clear that across studies, including the current one, MPH, regardless of the formulation, results in delayed sleep onset, which ultimately reduces TST as waking times remained consistent, given school start times. This is also consistent with the meta-analysis conducted by Kidwell et al. (2015) .
+
+PSG studies assessing the effect of MPH on sleep variables have been inconsistent. In the current study, there were no statistically significant effects, although the data indicated changes in the same direction as actigraphy for SOL and TST. Based on PSG results, Sangal et al. (2006) found increased SOL and reduced SE in the MPH condition. Similarly, Galland et al. (2010) also found MPH prolonged SOL and decreased TST and SE. It is likely that the inconsistencies in results between actigraphy and PSG are due to the fact that PSG is collected in a novel and controlled environment for one night compared to actigraphy that is collected at home over a number of nights.
+
+Changes in sleep stages in response to MPH treatment, as assessed by PSG, have also been inconsistent. The current study found an increase in N3 (slow wave) sleep, whereas other studies’ findings ranged from no changes in any N sleep stage or R sleep after controlling for potential covariates to increased N2 and R sleep ( Galland et al., 2010 ; Sangal et al., 2006 ). The clinical significance of our findings related to increased N3 is questionable, given that the changes were very small. For example, in the current study, N3 sleep increased by only 3.2% relative to the other stages. This corresponded to an increase of 7 min in N3 during the MPH condition. N3 is thought to be the most restorative sleep stage and when disrupted is associated with poorer daytime functioning ( Dijk, 2009 ).
+
+Based on the results of the current and previous studies, MPH results in delays in sleep onset, which in turn reduces TST. This is consistent with a previous study which found that MPH caused increased motor activity during the SOL period, a reduction in relative circadian amplitude and a phase delay in the timing of their daily rhythm ( Ironside, Davidson, & Corkum, 2010 ). The delay in SOL may be a result of the impact of increased dopamine levels, which can promote waking and inhibit melatonin synthesis and release by affecting heteromeric dopamine and norepinephrine receptor complexes in the pineal gland ( Gonzalez, Moreno-Delgado, & Moreno, 2012 ). The nocturnal rise in melatonin levels is an important physiological signal for the transition to sleep and inhibition of melatonin synthesis can be expected to delay sleep onset.
+
+Regardless of the mechanism for the lengthened SOL in the home environment when on medication, it is important to consider the impact this has on decreasing overall TST, which in turn has been linked to poorer daytime functioning. A number of studies have demonstrated that even a 60 min reduction of sleep over fewer than 7 nights can have a detrimental impact on daytime functioning ( Sadeh et al., 2003 ; Vriend et al., 2013 ). More specifically, this modest sleep restriction had a negative impact on attention, memory, processing speed, emotional regulation, and teacher reports of academic problems. Importantly, the areas impacted by very modest, chronic sleep restriction are many of the same cognitive processes that are challenging for children with ADHD ( Marx et al., 2010 ; Vriend et al., 2015 ).
+
+Currently, there is no research that has examined whether MPH’s impact on SOL and TST during acute trials persists over the longer term. However, there is evidence that sleep can be improved in children with ADHD, even those that are on stimulant medications. Both behavioural interventions and melatonin have been shown to be effective in reducing SOL ( Corkum et al., 2016 ; Hiscock et al., 2015 ; Weiss, Wasdell, Bomben, Rea, & Freeman, 2006 ).
+
+While there are a number of strengths of this study (medication-naïve children, ER medication, crossover medication trial, using both actigraphy and PSG, elimination of possibility of first night effects in the sleep lab), there are also a number of limitations that must be considered when interpreting the results. Generalizing the findings of this study beyond our sample should be done with caution as this sample was unusual in that the children did not have any comorbid psychiatric disorders. This was done in order to control for the likely influence of other psychiatric conditions on sleep. We also did not collect a measure of adherence with medication, although parents reported informally to the pediatrician that they had been adherent, and we witnessed medication administration during the participants’ time in the sleep lab. Our study also had an unequal sex distribution, but this is consistent with known differences in ADHD diagnoses in boys versus girls ( Schachar, 2009 ). Moreover, research indicates that there are no sex differences in terms of sleep problems in pre-pubertal children ( Calhoun, Fernandez-Mendoza, Vgontzas, Liao, & Bixler, 2014 ). In addition, this field of research could benefit from studies with a much larger sample size that encompass more ethnicities, income levels, and comorbidities, such as general medical conditions and comorbid mental health disorders, as well as studies examining the longer-term impact of stimulant medication on sleep.
+
+The clinical implications of this research underscore the need for prescribing physicians to assess for sleep problems prior to medication initiation and monitor sleep both during the short and long term in children with ADHD (see Lycett, Mensah, Hiscock, & Sciberras, 2015 ). Evidence-based treatment recommendations highlight that behavioural sleep interventions should be the first-line treatment, as these interventions have been found to be effective in improving sleep in children with ADHD, including those being treated with stimulant medications ( Corkum et al., 2016 ; Cortese et al., 2013 ; Hiscock et al., 2019 ). There is growing evidence that a transdiagnostic approach to the treatment of sleep problems is feasible, which means that slightly modified versions of behavioural sleep interventions can be used with children with ADHD ( Rigney et al., 2018 ).
+
+Acknowledgements / Conflicts of Interest
+
+The authors would like to acknowledge the support provided by the coordinators of the study (Angela Mailman, Rebecca Craig, Kait Sullivan, & Fiona Davidson), PSG technologist (Sharon Cooper), pharmacists (David Guinan, Wayne Little) and research assistants (Brittany Barnett, Ashley Davis, Erika Ivey, Brittany Pothier, Meredith Bessey, Jaclyn Cappell, Tasha Cullingham, Anders Dorbeck, Shaune Ford, Katie Goodine, Melissa McGonnall, Sarah Melkert, Abbey Poirier, Sunny Shaffner, Jillian Tonet, Nicolle Vincent, Jessica Waldon, & Lindsay Walker). The authors also gratefully acknowledge Valerie Corkum for helping with recruitment, Melissa Gendron for helping with drafting the manuscript, Derek van Voorst for his editing, and Drs. Shelly Weiss, Thomas Trappenberg, Andrea Kent and Noam Peleg-Soreni for their input on the study design. This project was funded by the Canadian Institutes of Health Research (CIHR; #158711).
+
+References
+
+ Acebo C, Sadeh A, Seifer R, Tzischinsky O, Wolfson AR, Hafer A, Carskadon MA. Estimating sleep patterns with activity monitoring in children and adolescents: How many nights are necessary for reliable measures? Sleep. 1999;22(1):95–103. doi: 10.1093/sleep/22.1.95. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Ahmed R, Borst J, Wei YC, Aslani P. Parents’ perspectives about factors influencing adherence to pharmacotherapy for ADHD. Journal of Attention Disorders. 2017;21(2):91–99. doi: 10.1177/1087054713499231. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 5th ed. Arlington, VA: Author; 2013. [ Google Scholar ]
+
+ American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 4th ed., text revision. Washington, DC: Author; 2000. [ Google Scholar ]
+
+ Boutrel B, Koob GF. What keeps us awake: The neuropharmacology of stimulants and wakefulness-promoting medications. Sleep: Journal of Sleep and Sleep Disorders Research. 2004;27(6):1181–1194. doi: 10.1093/sleep/27.6.1181. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Boyd M. A socioeconomic scale for Canada: Measuring occupational status from the census. Canadian Review of Sociology. 2008;45(1):51–91. doi: 10.1111/j.1755-618X.2008.00003.x. [ DOI ] [ Google Scholar ]
+
+ Brinkman WB, Sucharew H, Majcher JH, Epstein JN. Predictors of medication continuity in children with ADHD. Pediatrics. 2018;141(6):1–10. doi: 10.1542/peds.2017-2580. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Burcu M, Zito JM, Metcalfe L, Underwood H, Safer DJ. Trends in stimulant medication use in commercially insured youths and adults, 2010–2014. JAMA Psychiatry. 2016;73(9):992–993. doi: 10.1001/jamapsychiatry.2016.1182. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Byars KC, Yeomans-Maldonado G, Noll JG. Parental functioning and pediatric sleep disturbance: An examination of factors associated with parenting stress in children clinically referred for evaluation of insomnia. Sleep Medicine. 2011;12(9):898–905. doi: 10.1016/j.sleep.2011.05.002. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Calhoun SL, Fernandez-Mendoza J, Vgontzas AN, Liao D, Bixler EO. Prevalence of insomnia symptoms in a general population sample of young children and preadolescents: Gender effects. Sleep Medicine. 2014;15(1):91–95. doi: 10.1016/j.sleep.2013.08.787. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Charach A, Ickowicz A, Schachar R. Stimulant treatment over five years: Adherence, effectiveness, and adverse effects. Journal of the American Academy of Child & Adolescent Psychiatry. 2004;43(5):559–567. doi: 10.1097/00004583-200405000-00009. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Cohen J. Statistical Power Analysis for the Behavioral Sciences. 2nd edition. Hillsdale, New Jersey: Lawrence Erlbaum Associates; 1988. [ Google Scholar ]
+
+ Conners CK, Sitarenios G, Parker JD, Epstein JN. Revision and restandardization of the Conners teacher rating scale (CTRS-R): Factor structure, reliability, and criterion validity. Journal of Abnormal Child Psychology. 1998;26(4):279–291. doi: 10.1023/A:1022606501530. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Conners CK. The Conners Rating Scales – Revised Technical Manual. North Towanda: Multi-Health Systems; 1997. [ Google Scholar ]
+
+ Corkum P, Coulombe JA. Sleep in the context of ADHD: A review of reviews to determine implications for research and clinical practice. In: Amy Wolfson HM, editor. The Oxford Handbook of Infant, Child, and Adolescent Sleep and Behavior. 2013. pp. 495–514. [ DOI ] [ Google Scholar ]
+
+ Corkum P, Panton R, Ironside S, Macpherson M, Williams T. Acute impact of immediate release methylphenidate administered three times a day on sleep in children with attention-deficit/ hyperactivity disorder. Journal of Pediatric Psychology. 2008;33(4):368–379. doi: 10.1093/jpepsy/jsm106. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Corkum P, Lingley-Pottie P, Davidson F, McGrath P, Chambers CT, Mullane J, …Weiss SK. Better nights/better days - Distance intervention for insomnia in school-aged children with/ without ADHD: A randomized controlled trial. Journal of Pediatric Psychology. 2016;41(6):701–713. doi: 10.1093/jpepsy/jsw031. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Cortese S, Adamo N, Del Giovane C, Mohr-Jensen C, Hayes AJ, Carucci S, …Cipriani A. Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: A systematic review and network meta-analysis. The Lancet Psychiatry. 2018;5(9):727–738. doi: 10.1016/S2215-0366(18)30269-4. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Cortese S, Brown TE, Corkum P, Gruber R, O’Brien LM, Stein M, Owens J. Assessment and management of sleep problems in youths with attention-deficit/hyperactivity disorder. Journal of the American Academy of Child & Adolescent Psychiatry. 2013;52(8):784–796. doi: 10.1016/j.jaac.2013.06.001. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Crabtree VM, Ivanenko A, O’Brien LM, Gozal D. Periodic limb movement disorder of sleep in children. Journal of Sleep Research. 2003;12(1):73–81. doi: 10.1046/j.1365-2869.2003.00332.x. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Danckaerts M, Sonuga-Barke EJS, Banaschewski T, Buitelaar J, Döpfner M, Hollis C, …Coghill D. The quality of life of children with attention deficit/hyperactivity disorder: A systematic review. European Child & Adolescent Psychiatry. 2010;19(2):83–105. doi: 10.1007/s00787-009-0046-3. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Davidson F, Rusak B, Chambers C, Corkum P. The impact of sleep restriction on daytime functioning in school-age children with and without ADHD: A narrative review of the literature. Canadian Journal of School Psychology. 2018 doi: 10.1177/0829573518770593. Advance online publication. [ DOI ] [ Google Scholar ]
+
+ de Souza L, Benedito-Silva AA, Pires MLN, Poyares D, Tufik S, Calil HM. Further validation of actigraphy for sleep studies. Sleep. 2003;26(1):81–85. doi: 10.1093/sleep/26.1.81. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Dijk DJ. Regulation and functional correlates of slow wave sleep. Journal of Clinical Sleep Medicine. 2009;5(2 Suppl):S6–S15. [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Engert V, Pruessner JC. Dopaminergic and noradrenergic contributions to functionality in ADHD: The role of methylphenidate. Current Neuropharmacology. 2008;6(4):322–328. doi: 10.2174/157015908787386069. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Erdfelder E, Faul F, Buchner A. GPOWER: A general power analysis program. Behavior Research Methods, Instruments, & Computers. 1996;28(1):1–11. doi: 10.3758/BF03203630. [ DOI ] [ Google Scholar ]
+
+ Fallone G, Acebo C, Seifer R, Carskadon MA. Experimental restriction of sleep opportunity in children: Effects on teacher ratings. Sleep. 2005;28(12):1561–1567. doi: 10.1093/sleep/28.12.1561. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Faraone SV, Glatt SJ. A comparison of the efficacy of medications for adult attention-deficit/hyperactivity disorder using meta-analysis of effect sizes. The Journal of Clinical Psychiatry. 2010;71(6):754–763. doi: 10.4088/JCP.08m04902pur. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Faul F, Erdfelder E, Buchner A, Lang AG. Statistical Power Analyses Using G*Power 3.1: Tests for Correlation and Regression Analyses. Behavior Research Methods. 2009;41(4):1149–1160. doi: 10.3758/BRM.41.4.1149. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Froehlich TE, Lanphear BP, Epstein JN, Barbaresi WJ, Katusic SK, Kahn RS. Prevalence, recognition, and treatment of attention-deficit/hyperactivity disorder in a national sample of US children. Archives of Pediatrics & Adolescent Medicine. 2007;161(9):857–864. doi: 10.1001/archpedi.161.9.857. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Galland B, Tripp EG, Taylor B. The sleep of children with attention deficit hyperactivity disorder on and off methylphenidate: A matched case-control study. Journal of Sleep Research. 2010;19(2):366–373. doi: 10.1111/j.1365-2869.2009.00795.x. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Gonzalez S, Moreno-Delgado D, Moreno E. Circadian-related heteromerization of adrenergic and dopamine D4 receptors modulates melatonin synthesis and release in the pineal gland. PloS Biology. 2012;10(6):e1001347. doi: 10.1371/journal.pbio.1001347. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Graham J, Coghill D. Adverse effects of pharmacotherapies for attention-deficit hyperactivity disorder: Epidemiology, prevention and management. CNS Drugs. 2008;22(3):213–237. doi: 10.2165/00023210-200822030-00003. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Hinshaw SP, Scheffler RM, Fulton BD, Aase H, Banaschewski T, Cheng W, …Weiss MD. International variation in treatment procedures for ADHD: Social context and recent trends. Psychiatric Services. 2011;62(5):459–464. doi: 10.1176/appi.ps.62.5.459. Advance online publication. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Hiscock H, Mulraney M, Heussler H, Rinehart N, Schuster T, Grobler AC, Sciberras E. Impact of a behavioral intervention, delivered by pediatricians or psychologists, on sleep problems in children with ADHD: A cluster-randomized, translational trial. Journal of Child Psychology and Psychiatry. 2019 doi: 10.1111/jcpp.13083. Advance online publication. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Hiscock H, Sciberras E, Mensah F, Gerner B, Efron D, Khano S, Oberklaid F. Impact of a behavioural sleep intervention on symptoms and sleep in children with attention deficit hyperactivity disorder, and parental mental health: Randomised controlled trial. British Medical Journal. 2015;350:h68. doi: 10.1136/bmj.h68. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Hvolby A. Associations of sleep disturbance with ADHD: Implications for treatment. ADHD Attention Deficit and Hyperactivity Disorders. 2014;7(1):1–18. doi: 10.1007/s12402-014-0151-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Iber C, Ancoli-Israel S, Chesson A, Quan S. The AASM Manual for the Scoring of Sleep and Associated Events: Rules, Terminology and Technical Specifications. Westcherster, IL: American Academy of Sleep Medicine; 2007. [ Google Scholar ]
+
+ Ironside S, Davidson F, Corkum P. Circadian motor activity affected by stimulant medication in children with attention-deficit/ hyperactivity disorder. Journal of Sleep Research. 2010;19(4):546–551. doi: 10.1111/j.1365-2869.2010.00845.x. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Kidwell KM, Van Dyk TR, Lundahl A, Nelson TD. Stimulant medications and sleep for youth with ADHD: A metaanalysis. Pediatrics. 2015;136(6):1144–1153. doi: 10.1542/peds.2015-1708. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Lee J, Grizenko N, Bhat V, Sengupta S, Polotskaia A, Joober R. Relation between therapeutic response and side effects induced by methylphenidate as observed by parents and teachers of children with ADHD. BMC Psychiatry. 2011;11 doi: 10.1186/1471-244X-11-70. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Lycett K, Mensah FK, Hiscock H, Sciberras E. Comparing subjective measures of behavioral sleep problems in children with ADHD: A cross-sectional study. Sleep Medicine. 2015;16(11):1377–1380. doi: 10.1016/j.sleep.2015.08.015. https://doi-10.1016/j.sleep.2015.08.015 . [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Marx I, Hübner T, Herpertz SC, Berger C, Reuter E, Kircher T, Konrad K. Cross-sectional evaluation of cognitive functioning in children, adolescents and young adults with ADHD. Journal of Neural Transmission. 2010;117(3):403–419. doi: 10.1007/s00702-009-0345-3. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ McGonnell M, Corkum P, McKinnon M, MacPherson M, Williams T, Davidson C, Jones DB, Stephenson D. Doing it right: An interdisciplinary model for the diagnosis of ADHD. Journal of the Canadian Academy of Child and Adolescent Psychiatry. 2009;18(4):283–286. [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Miller AR, Lalonde CE, McGrail KM, Armstrong RW. Prescription of methylphenidate to children and youth, 1990–1996. Canadian Medical Association Journal. 2001;165(11):1489–1494. [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Monstra VJ. Overcoming the barriers to effective treatment for attention-deficit/hyperactivity disorder: A neuro-educational approach. International Journal of Psychophysiology. 2005;58(1):71–80. doi: 10.1016/j.ijpsycho.2005.03.010. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Morash-Conway J, Gendron M, Corkum P. The role of sleep quality and quantity in moderating the effectiveness of medication in the treatment of children with ADHD. ADHD Attention Deficit Hyperactivity Disorders. 2017;9(1):31–38. doi: 10.1007/s12402-016-0204-. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Morgenthaler T, Alessi C, Friedman L, Owens J, Kapur V, Boehlecke B, American Academy of Sleep Medicine. Practice parameters for the use of actigraphy in the assessment of sleep and sleep disorders: An update for 2007. Sleep. 2007;30(4):519–529. doi: 10.1093/sleep/30.4.519. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Picchietti MA, Picchietti DL, England SJ, Walters AS, Couvadelli BV, Lewin DS, Hening W. Children show individual night-to-night variability of periodic limb movements in sleep. Sleep: Journal of Sleep and Sleep Disorders Research. 2009;32(4):530–535. doi: 10.1093/sleep/32.4.530. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Picchietti DL, Underwood DJ, Farris WA, Walters AS, Shah MM, Dahl RE, Hening WA. Further studies on periodic limb movement disorder and restless legs syndrome in children with attention-deficit hyperactivity disorder. Movement Disorders: Official Journal of the Movement Disorder Society. 1999;14(6):1000–1007. doi: 10.1002/1531-8257(199911)14:6&#x0003c;1000:AID-MDS1014&#x0003e;3.0.CO;2-P. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Purdue Pharma. Biphentin® (methylphenidate hydrochloride controlled release capsules) Product Monograph. 2015. Retrieved June, 2015 from http://www.purdue.ca/files/Biphentin-PM-EN.pdf . 
+
+ Richardson JT. Eta squared and partial eta squared as measures of effect size in educational research. Educational Research Review. 2011;6(2):135–147. [ Google Scholar ]
+
+ Rigney G, Ali NS, Corkum PV, Brown CA, Constantin E, Godbout R, …Weiss SK. A systematic review to explore the feasibility of a behavioural sleep intervention for insomnia in children with neurodevelopmental disorders: A transdiagnostic approach. Sleep Medicine Reviews. 2018;41:244–254. doi: 10.1016/j.smrv.2018.03.008. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Sadeh A, Gruber R, Raviv A. Sleep, neurobehavioral functioning, and behavior problems in school-age children. Child Development. 2002;73(2):405–417. doi: 10.1111/1467-8624.00414. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Sadeh A, Gruber R, Raviv A. The effects of sleep restriction and extension on school-age children: What a difference an hour makes. Child Development. 2003;74(2):444–455. doi: 10.1111/1467-8624.7402008. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Sadeh A, Hauri PJ, Kripke DF, Lavie P. The role of actigraphy in the evaluation of sleep disorders. Sleep. 1995;18(4):288–302. doi: 10.1093/sleep/18.4.288. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Sadeh A, Sharkey KM, Carskadon MA. Activity-based sleep-wake identification: An empirical test of methodological issues. Sleep. 1994;17(3):201–207. doi: 10.93/sleep/17.3.201. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Safer DJ. Recent trends in stimulant usage. Journal of Attention Disorders. 2016;20(6):471–477. doi: 10.1177/1087054715605915. 1177/1087054715605915. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Sangal RB, Owens J, Allen AJ, Sutton V, Schuh K, Kelsey D. Effects of atomoxetine and methylphenidate on sleep in children with ADHD. Sleep: Journal of Sleep and Sleep Disorders Research. 2006;29(12):1573–1585. doi: 10.1093/sleep/29.12.1573. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Schachar R. Attention deficit hyperactivity disorder in children, adolescents, and adults. CONTINUUM: Lifelong Learning in Neurology. 2009;15(6):78–97. [ Google Scholar ]
+
+ Schachar R, Jadad AR, Gauld M, Boyle M, Booker L, Snider A, Cunningham C. Attention-deficit hyperactivity disorder: Critical appraisal of extended treatment studies. The Canadian Journal of Psychiatry / La Revue Canadienne De Psychiatrie. 2002;47(4):337–348. doi: 10.1177/070674370204700404. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Schachar R, Ickowicz A, Crosbie J, Donnelly GAE, Reiz JL, Miceli PC, …Darke AC. Cognitive and behavioral effects of multilayer-release methylphenidate in the treatment of children with attention-deficit/hyperactivity disorder. Journal of Child and Adolescent Psychopharmacology. 2008;18(1):11–24. doi: 10.1089/cap.2007.0039. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Schwartz G, Amor LB, Grizenko N, Lageix P, Baron C, Boivin DB, Joober R. Actigraphic monitoring during sleep of children with ADHD on methylphenidate and placebo. Journal of the American Academy of Child & Adolescent Psychiatry. 2004;43(10):1276–1282. doi: 10.1097/01.chi.0000135802.94090.93. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Sciberras E, DePetro A, Mensah F, Hiscock H. Association between sleep and working memory in children with ADHD: A crosssectional study. Sleep Medicine. 2015;16(10):1192–1197. doi: 10.1016/j.sleep.2015.06.006. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Speth T, Benoit A, Corkum PV. Sleep parameters and architecture in children with attention-deficit/hyperactivity disorder: A comparison with typically developing peers and across subtypes. Journal of Sleep Disorders: Treatment and Care. 2015;4(1) doi: 10.4172/2325-9639.1000149. [ DOI ] [ Google Scholar ]
+
+ Stein MA, Blondis TA, Schnitzler ER, O’Brien T, Fishkin J, Blackwell B, Roizen NJ. Methylphenidate dosing: Twice daily versus three times daily. Pediatrics. 1996;98(4):748–756. [ PubMed ] [ Google Scholar ]
+
+ Stein MA, Weiss M, Hlavaty L. ADHD treatments, sleep, and sleep problems: Complex associations. Neurotherapeutics. 2012;9(3):509–517. doi: 10.1007/s13311-012-0130-0. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Storebø OJ, Krogh HB, Ramstad E, Moreira-Maia CR, Holmskov M, Skoog M, …Gluud C. Methylphenidate for attention-deficit/hyperactivity disorder in children and adolescents: Cochrane systematic review with meta-analyses and trial sequential analyses of randomised clinical trials. British Medical Journal. 2015;351:h5203, 1–14. doi: 10.1136/bmj.h5203. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Stores G. Practitioner review: Assessment and treatment of sleep disorders in children and adolescents. Journal of Child Psychology and Psychiatry, and Allied Disciplines. 1996;37(8):907–925. doi: 10.1111/j.1469-7610.1996.tb01489.x. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Swanson JM, McBurnett K, Wigal T, Pfiffner LJ. Effect of stimulant medication on children with attention deficit disorder: A ‘review of reviews’. Exceptional Children. 1993;60(2):154–161. 1177/002221949102400406. [ Google Scholar ]
+
+ Tirosh E, Sadeh A, Munvez R, Lavie P. Effects of methylphenidate on sleep in children with attention-deficit hyperactivity disorder: An activity monitor study. American Journal of Diseases of Children. 1993;147(12):1313–1315. doi: 10.1001/archpedi.1993.02160360055018. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Um YH, Jeong J-H, Hong S-C, Kim T-W, Lim HK, Seo H-J, Han J-H. Association between sleep parameters and cognitive function in drug-naïve children with attention-deficit hyperactivity disorder: A polysomnographic study. Sleep Medicine. 2016;21:165–170. doi: 10.1016/j.sleep.2015.11.016. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Viggiano D, Vallone D, Sadile A. Dysfunctions in dopamine systems and ADHD: Evidence from animals and modeling. Neural Plasticity. 2004;11(1–2):97–114. doi: 10.1155/NP.2004.97. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Volkow ND, Wang G, Fowler JS, Logan J, Gerasimov M, Maynard L, Franceschi D. Therapeutic doses of oral methylphenidate significantly increase extracellular dopamine in the human brain. The Journal of Neuroscience: The Official Journal of the Society for Neuroscience. 2001;21(2):RC121. doi: 10.1523/JNEUROSCI.21-02-j0001.2001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ Vriend J, Davidson F, Rusak B, Corkum P. Emotional and cognitive impact of sleep restriction in children. Sleep Medicine Clinics. 2015;10(2):107–115. doi: 10.1016/j.jsmc.2015.02.009. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Vriend JL, Davidson FD, Corkum PV, Rusak B, Chambers CT, McLaughlin EN. Manipulating sleep duration alters emotional functioning and cognitive performance in children. Journal of Pediatric Psychology. 2013;38(10):1058–1069. doi: 10.1093/jpepsy/jst033. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Wechsler D. Wechsler Intelligence Scale for Children-Fourth Edition. San Antonio, TX: Harcourt Assessment, Inc; 2003. [ Google Scholar ]
+
+ Weiss MD, Wasdell MB, Bomben MM, Rea KJ, Freeman RD. Sleep hygiene and melatonin treatment for children and adolescents with ADHD and initial insomnia. Journal of the American Academy of Child & Adolescent Psychiatry. 2006;45(5):512–519. doi: 10.1097/01chi.0000205706.78818.ef. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ Wisor JP, Nishino S, Sora I, Uhl GH, Mignot E, Edgar DM. Dopaminergic role in stimulant-induced wakefulness. The Journal of Neuroscience. 2001;21(5):1787–1794. doi: 10.1523/JNEUROSCI.21-05-01787.2001. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Articles from Journal of the Canadian Academy of Child and Adolescent Psychiatry are provided here courtesy of Canadian Academy of Child and Adolescent Psychiatry

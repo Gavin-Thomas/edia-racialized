@@ -1,0 +1,66 @@
+RECORD: #33
+PMID: 40936464
+PMCID: PMC12451564
+TITLE: Sustained mood improvement with laughing gas exposure (SMILE): a randomised, placebo-controlled pilot trial of nitrous oxide for treatment-resistant depression
+AUTHORS AND AFFILIATIONS:
+- Karim S Ladha - Department of Anesthesiology and Pain Medicine, University of Toronto; Department of Anesthesia and Pain Management, Women's College Hospital; Department of Anesthesia and Pain Management, Toronto Western Hospital; Li Ka Shing Knowledge Institute, St Michael's Hospital; Department of Anesthesia, St Michael's Hospital
+- Jiwon Lee - Department of Anesthesia, St Michael's Hospital; Temerty Faculty of Medicine, University of Toronto
+- Gabriella F Mattina - Department of Anesthesia, St Michael's Hospital
+- Janneth Pazmino-Canizares - Department of Anesthesia, St Michael's Hospital
+- Duminda N Wijeysundera - Department of Anesthesiology and Pain Medicine, University of Toronto; Department of Anesthesia, St Michael's Hospital
+- Fatemeh Gholamali Nezhad - Interventional Psychiatry Program, St Michael's Hospital, Unity Health Toronto
+- Vanessa K Tassone - Interventional Psychiatry Program, St Michael's Hospital, Unity Health Toronto; Institute of Medical Science, University of Toronto
+- Fathima Adamsahib - Interventional Psychiatry Program, St Michael's Hospital, Unity Health Toronto
+- Wendy Lou - Biostatistics Division, Dalla Lana School of Public Health, University of Toronto
+- Sidney Kennedy - Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto
+- Venkat Bhat (corresponding author) - Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto; Interventional Psychiatry Program, St Michael's Hospital, Unity Health Toronto; Neuroscience Research Program, St Michael's Hospital
+Additional investigators: Kaylyssa Philip, Tedros Mokonnen, Zaaria Thomas, Sandra Drozdz, Nigel Siu, Vanessa Flores, Alvina Joseph, Pearl Lau, Ashwin Sankar, David Sussman, Juan Francisco Morales Santelices, Sakshi Gandotra, Leandra Amado, Siti Nadzrah Yunus, Kruthi Rao, Calvin Diep, Akash Goel, Miki Peer
+TRIAL REGISTRATION: NCT04957368 (ClinicalTrials.gov)
+FUNDING: St. Michael's Hospital Innovation Fund (grant number SMH-20-001); additional support from Canadian Anesthesiologists' Society, Canadian Institutes of Health Research, Ministry of Health Innovation Funds, Department of National Defence (Government of Canada), Royal College of Physicians and Surgeons of Canada, Brain & Behavior Foundation, New Frontiers Research Fund, American Foundation for Suicide Prevention, University of Toronto Connaught Funds
+
+METHODS:
+Study Design: This was a double-blinded (patient and outcome assessor), randomised, active placebo-controlled pilot trial in which participants were randomly assigned in a 1:1 ratio to receive either nitrous oxide or the active placebo, midazolam.
+
+Participants: Forty patients with TRD, aged 18-65 years, were recruited from the Interventional Psychiatry Program at Unity Health Toronto - St. Michael's Hospital in Toronto, Canada, between 15 October 2021 and 27 December 2023.
+
+Inclusion Criteria: (a) meeting DSM-5 criteria for MDD, (b) experiencing a current major depressive episode (MDE) as confirmed by the Mini-International Neuropsychiatric Interview (MINI) for DSM-5, (c) scoring >17 on the Hamilton Rating Scale for Depression (HRSD), (d) failure to respond to two trials of antidepressant therapy of adequate dose and duration during the current depressive episode, (e) abstinence or use of highly effective or double-barrier contraceptive methods in women of childbearing potential and (f) capacity to provide informed consent.
+
+Exclusion Criteria: (a) acute suicidality (score >=3 on HRSD item 3), (b) MDE in individuals with bipolar disorder, (c) current substance misuse or dependence and/or history of alcohol misuse or dependence within the past year, (d) dementia, (e) current or lifetime history of schizophrenia or schizoaffective disorder, (f) current history of dissociative disorders, (g) history of hypersensitivity or allergy to any ingredients in the study formulations, (h) contraindication to nitrous oxide or midazolam, (i) use of centrally acting medicinal products or central nervous system depressants, (j) pregnant or breastfeeding women, (k) electroconvulsive therapy or ketamine treatment within the current depressive episode, or (l) unwilling to maintain the current antidepressant regimen.
+
+Randomization and Blinding: An online random number generator was used to generate the allocation sequence in random permuted blocks of varying sizes (4-6) without stratification on baseline characteristics. The allocation sequence was accessible solely to the Research Pharmacy at St. Michael's Hospital. The clinician administering the study intervention was unblinded to ensure proper delivery and safety. Participants, outcome assessors, data analysts and all other clinicians were blinded to allocation assignment.
+
+Interventions: Participants underwent a 4-week course of weekly administered active treatment or placebo. The active treatment comprised a 1-h inhalation of nitrous oxide at an inspiratory concentration of 50%, along with concurrent intravenous saline. The placebo comprised a 1-h inhalation of 50% oxygen combined with concurrent intravenous midazolam (0.02 mg/kg, up to 2 mg). Participants continued to receive routine psychiatric care and treatment throughout the study.
+
+Outcomes and Assessments: Feasibility was assessed based on rates of recruitment, withdrawal, adherence, missing data and the number of adverse events. The primary exploratory clinical outcome was the change in Montgomery-Asberg Depression Rating Scale (MADRS) from baseline to 6 weeks. Other clinical measures included remission rate (MADRS score <10), response rate (>=50% decrease in MADRS score from baseline), minimal clinically important difference (decrease in MADRS score >=6 from baseline), the Quick Inventory of Depressive Symptomatology (QIDS) and the General Anxiety Disorder-7 (GAD-7) and adverse events as assessed by the Toronto Side Effects Scale (TSES). Participants completed a baseline assessment, with follow-up assessments on days 1, 7, 14, 21, 28 and 42.
+
+Statistical Analyses: Feasibility outcomes were summarised using counts, rates and percentages. Clinical outcomes were analysed with the intention-to-treat principle. Between-group differences for continuous outcomes were assessed with analysis of covariance adjusted only for baseline scores. Given the pilot nature of the study, the sample size of 40 participants was selected based on logistical considerations. No formal sample size calculation was performed. Statistical analyses were conducted with Stata version 17.0.
+
+RESULTS:
+Feasibility: A total of 300 patients were initially screened, and 40 eligible participants were randomised to either the nitrous oxide group (n = 20) or placebo group (n = 20). Of the 179 patients assessed for eligibility, 22.3% (95% CI 16.9-29.0) consented to participate, which translates to approximately 1.5 patients per month recruited.
+
+Withdrawals: Two participants (10%, 95% CI 2.8-30.1) withdrew from the nitrous oxide group because of heightened anxiety (n = 1) and choosing to pursue ketamine treatment (n = 1). Two participants (10%, 95% CI 2.8-30.1) withdrew from the placebo group because they experienced a decline in mood (n = 1) and exacerbation of a pre-existing gastrointestinal condition (n = 1).
+
+Adherence: The 18 participants in the nitrous oxide group who did not withdraw fully adhered to the trial protocol (100.0%, 95% CI 82.4-100.0). Of the 18 participants in the placebo group who did not withdraw, 17 participants (94.4%, 95% CI 74.2-99.0) demonstrated full adherence.
+
+Adverse Events: Adverse events were more frequent in the nitrous oxide group than the placebo group. Most common events in both groups were tiredness/drowsiness, nausea/vomiting, headache and dizziness/lightheadedness. One participant in the nitrous oxide group experienced a serious adverse event (hospitalized for worsening mood).
+
+Clinical Outcomes - Primary Measure: When comparing changes from baseline to the day 42 follow-up, the percentage change in MADRS score was -20.5% (95% CI -39.6 to -1.3) in the nitrous oxide group and -9.0% (95% CI -22.6 to 4.6) in the placebo group. The between-group difference in MADRS score at day 42, adjusted for baseline, was 3.0 (95% CI -1.8 to 7.9) in favour of nitrous oxide.
+
+Secondary Measures: The percentage change in QIDS score was -20.2% (95% CI -39.4 to -1.0) in the nitrous oxide group and -14.7% (95% CI -31.1 to 1.8) in the placebo group, with an adjusted between-group difference of 1.1 (95% CI -1.8 to 4.0). The percentage change in GAD-7 score was -18.2% (95% CI -42.9 to 6.5) in the nitrous oxide group and -17.0% (95% CI -49.9 to 16.0) in the placebo group.
+
+Response and Remission Rates: At day 42, 50.0% (9/18, 95% CI 29.0-71.0) of patients in the nitrous oxide group achieved a minimal clinically important difference of 6 points on the MADRS vs 22.2% (4/18, 95% CI 9.0-45.2) in placebo. Response (>=50% decrease in MADRS) was 16.7% (3/18) in nitrous oxide vs 0.0% (0/18) in placebo. Remission (MADRS <10) was 5.6% (1/18) in nitrous oxide vs 0.0% (0/18) in placebo.
+
+EDIA/EQUITY REPORTING:
+Sex/Gender: Nitrous oxide group: 7 male (39%), 11 female (61%); 7 men (39%), 11 women (61%), 0 other. Placebo group: 7 male (39%), 11 female (61%); 8 men (44%), 9 women (50%), 1 other (6%). NOTE: Both sex and gender were reported separately.
+Age: Nitrous oxide group: mean 44.4 years (SD 10.2); Placebo group: mean 41.6 years (SD 13.3)
+BMI: Nitrous oxide group: mean 27.8 kg/m2 (SD 5.8); Placebo group: mean 30.3 kg/m2 (SD 6.3)
+Race/Ethnicity: NOT REPORTED
+SES/Education: NOT REPORTED
+Other PROGRESS-Plus: NOT REPORTED (no reporting on Indigenous status, sexual orientation, disability status, rural/urban, immigration, language, religion)
+Psychiatric Comorbidities: Reported by prevalence (e.g., panic disorder 61% in nitrous oxide vs 50% in placebo)
+
+CANADIAN INVOLVEMENT:
+Canadian Site: Study conducted entirely at Interventional Psychiatry Program at Unity Health Toronto - St. Michael's Hospital in Toronto, Canada (sole site - entirely Canadian trial)
+Canadian Authors: All participating authors maintain Canadian institutional affiliations (University of Toronto, Women's College Hospital, Toronto Western Hospital, St Michael's Hospital, Dalla Lana School of Public Health)
+Canadian Funding: St. Michael's Hospital Innovation Fund (grant SMH-20-001); Canadian Anesthesiologists' Society; Canadian Institutes of Health Research; Ministry of Health Innovation Funds; Department of National Defence (Government of Canada); Royal College of Physicians and Surgeons of Canada
+Canadian Ethics: Approved by St. Michael's Hospital Research Ethics Board (study #21-096)

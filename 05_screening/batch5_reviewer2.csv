@@ -1,0 +1,151 @@
+id,title,decision,category,notes
+27435520,Idiopathic focal epilepsies: The lost tribe,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+,The Effects of Group-Administered Canine Therapy on University Students’ Wellbeing: A Randomized Controlled Trial,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+29173525,The Brain-Gut Axis and Stress in Inflammatory Bowel Disease,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+35356856,Current Concepts of Mixed Pathologies in Neurodegenerative Diseases,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+36641605,Establishing Clinically Meaningful Change on Outcome Assessments Frequently Used in Trials of Mild Cognitive Impairment Due to Alzheimer's Disease.,OUT_OF_SCOPE,neurodegenerative,Primarily neurodegenerative; Alzheimer
+28874596,"A Double-Blind, Randomized, Placebo-Controlled Trial of Panax Ginseng for Cancer-Related Fatigue in Patients With Advanced Cancer.",OUT_OF_SCOPE,not_mental_health,Cancer-related fatigue in advanced cancer; not a primary MH condition
+33118052,Rapid and sustained decreases in suicidality following a single dose of ayahuasca among individuals with recurrent major depressive disorder: results from an open-label trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30218837,A randomized controlled effectiveness trial of training strategies in cognitive processing therapy for posttraumatic stress disorder: Impact on patient outcomes.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+27090500,"The long-term effectiveness of a selective, personality-targeted prevention program in reducing alcohol use and related harms: a cluster randomized controlled trial.",OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+27382000,Management of Depression in Patients With Cancer: A Clinical Practice Guideline.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28981875,Predicting Response to Repetitive Transcranial Magnetic Stimulation in Patients With Schizophrenia Using Structural Magnetic Resonance Imaging: A Multisite Machine Learning Analysis.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+32731748,Identifying and measuring the common elements of naturalistic developmental behavioral interventions for autism spectrum disorder: Development of the NDBI-Fi,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+37353280,Palliative care to support the needs of adults with neurological disease,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28941098,Comparing three-year extension of early intervention service to regular care following two years of early intervention service in first-episode psychosis: a randomized single blind clinical trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+31486777,Magnetic seizure therapy (MST) for major depressive disorder.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32326347,"Efficacy of Lactobacillus paracasei HA-196 and Bifidobacterium longum R0175 in Alleviating Symptoms of Irritable Bowel Syndrome (IBS): A Randomized, Placebo-Controlled Study.",OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+34807255,Educating Outpatients for Bowel Preparation Before Colonoscopy Using Conventional Methods vs Virtual Reality Videos Plus Conventional Methods: A Randomized Clinical Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28418398,Intranasal oxytocin enhances intrinsic corticostriatal functional connectivity in women.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+27984490,Examination of an Internet-Delivered Cognitive Behavioural Pain Management Course for Adults with Fibromyalgia: A Randomized Controlled Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32785972,Nitric oxide is fundamental to neurovascular coupling in humans.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+34496940,Machine-learning-based COVID-19 mortality prediction model and identification of patients at low and high risk of dying.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+26482574,Effects of Person-Centered Physical Therapy on Fatigue-Related Variables in Persons With Rheumatoid Arthritis: A Randomized Controlled Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30503715,Neurobiological and immunogenetic aspects of narcolepsy: Implications for pharmacotherapy,OUT_OF_SCOPE,not_mental_health,No MH condition identified
+31927311,Deep brain stimulation in treatment resistant schizophrenia: A pilot randomized cross-over clinical trial,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+31860455,"Long versus short pulse width subcallosal cingulate stimulation for treatment-resistant depression: a randomised, double-blind, crossover trial.",OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+36580558,Effects of a 12-week Vivifrail exercise program on intrinsic capacity among frail cognitively impaired community-dwelling older adults: secondary analysis of a multicentre randomised clinical trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+25999335,Agomelatine or placebo as adjunctive therapy to a mood stabiliser in bipolar I depression: randomised double-blind placebo-controlled trial.,MAP,meets_all_criteria,"RCT; bipolar I depression (DSM-5); agomelatine (pharmacotherapy); Canadian PI (Yatham LN, UBC); 2016"
+33574886,Effects of Basketball and Baduanjin Exercise Interventions on Problematic Smartphone Use and Mental Health among College Students: A Randomized Controlled Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+26990279,A pilot randomized controlled trial of telephone-based cognitive behavioural therapy for preoperative bariatric surgery patients.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28433887,Effects of clay art therapy on adults outpatients with major depressive disorder: A randomized controlled trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28139349,"Safety and efficacy of ozanezumab in patients with amyotrophic lateral sclerosis: a randomised, double-blind, placebo-controlled, phase 2 trial.",OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+26997655,Safety and efficacy of valproic acid treatment in SCA3/MJD patients.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+35969390,Framework for Clinical Trials in Cerebral Small Vessel Disease (FINESSE): A Review.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+29562518,Metabolic Dysfunction in Alzheimer's Disease: From Basic Neurobiology to Clinical Approaches,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+,Huntingtin and the Synapse,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+34958021,Impact of 40 Hz Transcranial Alternating Current Stimulation on Cerebral Tau Burden in Patients with Alzheimer's Disease: A Case Series,OUT_OF_SCOPE,non_interventional,"Study type: Case Series, animal, mouse"
+33580033,One-year randomized trial comparing virtual reality-assisted therapy to cognitive-behavioral therapy for patients with treatment-resistant schizophrenia.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+34162446,Cannabidiol use and effectiveness: real-world evidence from a Canadian medical cannabis clinic.,OUT_OF_SCOPE,not_rct,"Real-world evidence study, not an RCT"
+36927882,Deep Brain Stimulation of the Anterior Nucleus of the Thalamus in Drug-Resistant Epilepsy in the MORE Multicenter Patient Registry.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28104188,Maternal multiple micronutrient supplementation and other biomedical and socioenvironmental influences on children's cognition at age 9-12 years in Indonesia: follow-up of the SUMMIT randomised trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+,"Dynamics of bioconvective Casson nanoliquid from a moving surface capturing gyrotactic microorganisms, magnetohydrodynamics and stratifications",OUT_OF_SCOPE,not_mental_health,No MH condition identified
+36115362,Clinical characterisation of patients in the post-acute stage of anti-NMDA receptor encephalitis: a prospective cohort study and comparison with patients with schizophrenia spectrum disorders,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+,"The benefits of citizen science and nature-noticing activities for well-being, nature connectedness and pro-nature conservation behaviours",OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+33616613,Effect of Telephone Cognitive Behavioral Therapy for Insomnia in Older Adults With Osteoarthritis Pain: A Randomized Clinical Trial.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+34574975,"Longitudinal Relationships between Nomophobia, Addictive Use of Social Media, and Insomnia in Adolescents.",OUT_OF_SCOPE,not_rct,No RCT indicators found
+29403650,Reducing stigma among healthcare providers to improve mental health services (RESHAPE): protocol for a pilot cluster randomized controlled trial of a stigma reduction intervention for training primary healthcare workers in Nepal.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+29371415,Charting the road forward in psychiatric neurosurgery: proceedings of the 2016 American Society for Stereotactic and Functional Neurosurgery workshop on neuromodulation for psychiatric disorders.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+27124405,Sleeping for Two: An Open-Pilot Study of Cognitive Behavioral Therapy for Insomnia in Pregnancy.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+34802112,Cannabis-Based Medicines and Medical Cannabis for Chronic Neuropathic Pain.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+32898304,Education and training for preventing and minimizing workplace aggression directed toward healthcare workers.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+26865523,Recommendations for observational studies of comorbidity in multiple sclerosis,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28347929,Cerebral microbleeds and risk of incident dementia: the Framingham Heart Study,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30511349,Neuroprotective Actions of Glucagon-Like Peptide-1 (GLP-1) Analogues in Alzheimer’s and Parkinson’s Diseases,OUT_OF_SCOPE,not_mental_health,No MH condition identified
+30119073,Preventing Posttraumatic Stress in ICU Survivors: A Single-Center Pilot Randomized Controlled Trial of ICU Diaries and Psychoeducation.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32542515,Task-related functional magnetic resonance imaging-based neuronavigation for the treatment of depression by individualized repetitive transcranial magnetic stimulation of the visual cortex.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+27724881,"Defending behaviors, bullying roles, and their associations with mental health in junior high school students: a population-based study.",OUT_OF_SCOPE,non_interventional,"Study type: cross-sectional, Survey"
+33127241,The Mediating Effect of School Climate on Adolescent Mental Health: Findings From a Randomized Controlled Trial of a School-Wide Intervention.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+31502862,Evaluating the effect of Family Integrated Care on maternal stress and anxiety in neonatal intensive care units.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+36517479,Optimal deep brain stimulation sites and networks for stimulation of the fornix in Alzheimer's disease.,OUT_OF_SCOPE,not_mental_health,No MH condition identified
+34291720,Finasteride for hair loss: a review.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+26686960,"Patient-reported outcomes with anastrozole versus tamoxifen for postmenopausal patients with ductal carcinoma in situ treated with lumpectomy plus radiotherapy (NSABP B-35): a randomised, double-blind, phase 3 clinical trial.",OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+31840813,Intensive vs Standard Blood Pressure Control in Adults 80 Years or Older: A Secondary Analysis of the Systolic Blood Pressure Intervention Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+25666784,Is sex an indicator of prognosis after mild traumatic brain injury: A systematic analysis of the findings of the world health organization collaborating centre task force on mild traumatic brain injury and the international collaboration on mild traumatic brain injury prognosis,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28678552,Acetylcholinesterase inhibitors for treating dementia symptoms - a safety evaluation,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+32478631,Integrating psychotherapy and psychopharmacology: psychedelic-assisted psychotherapy and other combined treatments,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+38359838,Psilocybin-assisted psychotherapy for treatment resistant depression: A randomized clinical trial evaluating repeated doses of psilocybin.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+28185899,"Lurasidone versus treatment as usual for cognitive impairment in euthymic patients with bipolar I disorder: a randomised, open-label, pilot study.",MAP,meets_all_criteria,"RCT; bipolar I disorder (DSM-5); lurasidone (antipsychotic) for cognitive impairment; UBC Vancouver, Canada; 2017"
+31409541,Cost-effectiveness of a collaborative dementia care management-Results of a cluster-randomized controlled trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+33828514,"A Self-Compassion and Mindfulness-Based Cognitive Mobile Intervention (Serene) for Depression, Anxiety, and Stress: Promoting Adaptive Emotional Regulation and Wisdom.",OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+25864773,Assertive Anger Mediates Effects of Dialectical Behaviour-informed Skills Training for Borderline Personality Disorder: A Randomized Controlled Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+31159629,"Normative Data for the Montreal Cognitive Assessment in Greek Older Adults With Subjective Cognitive Decline, Mild Cognitive Impairment and Dementia.",OUT_OF_SCOPE,not_rct,No RCT indicators found
+26542272,"Cognitive behavioral therapy for insomnia, but not armodafinil, improves fatigue in cancer survivors with insomnia: a randomized placebo-controlled trial.",OUT_OF_SCOPE,not_mental_health,No MH condition identified
+26787360,Managing Cancer And Living Meaningfully (CALM): randomised feasibility trial in patients with advanced cancer.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28076358,A Randomized Trial Examining Housing First in Congregate and Scattered Site Formats.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+27058405,An enriched environmental programme during inpatient neuro-rehabilitation: A randomized controlled trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30591354,Health-related Quality of Life for Abiraterone Plus Prednisone Versus Enzalutamide in Patients with Metastatic Castration-resistant Prostate Cancer: Results from a Phase II Randomized Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+29753556,Pharmacotherapy for postural tachycardia syndrome.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+32315118,The A4 study: β-amyloid and cognition in 4432 cognitively unimpaired adults,OUT_OF_SCOPE,not_mental_health,No MH condition identified
+35121669,Cognitive reserve and mild cognitive impairment,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32074061,"An Eight-Week, Web-Based Mindfulness Virtual Community Intervention for Students' Mental Health: Randomized Controlled Trial.",OUT_OF_SCOPE,not_pharmacotherapy,"Web-based mindfulness intervention is psychological, not pharmacotherapy"
+30955702,Adjunct transcranial direct current stimulation improves cognitive function in patients with schizophrenia: A double-blind 12-week study.,OUT_OF_SCOPE,not_pharmacotherapy_not_canadian,"tDCS is neuromodulation, not pharmacotherapy; Korean study, not Canadian"
+29277687,Defibrillator shocks and their effect on objective and subjective patient outcomes: Results of the PainFree SST clinical trial.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+35900217,"World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part II: OCD and PTSD.",OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+32183741,"Effect of mirabegron on cognitive function in elderly patients with overactive bladder: MoCA results from a phase 4 randomized, placebo-controlled study (PILLAR).",OUT_OF_SCOPE,pharma_not_targeting_mh,"Mirabegron targets overactive bladder, not MH; cognitive function is safety assessment, not treatment target"
+32663993,"The utility of smartphone-based, ecological momentary assessment for depressive symptoms.",OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+31421233,Trajectories of Growth Associated With Long-Term Stimulant Medication in the Multimodal Treatment Study of Attention-Deficit/Hyperactivity Disorder.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+35483649,Serotonergic psychedelic drugs LSD and psilocybin reduce the hierarchical differentiation of unimodal and transmodal cortex.,OUT_OF_SCOPE,non_interventional,Study type: neuroimaging
+32976204,Effect of two different pre-operative exercise training regimens before colorectal surgery on functional capacity: A randomised controlled trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30480081,Alzheimer's disease: 3-Dimensional MRI texture for prediction of conversion from mild cognitive impairment.,OUT_OF_SCOPE,non_interventional,Study type: Neuroimaging
+26825862,Is Hearing Loss Associated with Poorer Health in Older Adults Who Might Benefit from Hearing Screening?,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+27317708,Introduction of a paediatric anaesthesia comic information leaflet reduced preoperative anxiety in children.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28960596,Psychosocial stress and major cardiovascular events in patients with stable coronary heart disease.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+31473553,Gender distribution in psychiatry journals' editorial boards worldwide.,OUT_OF_SCOPE,non_interventional,Study type: editorial
+26784863,Acupuncture for menopausal hot flashes,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30696332,Clozapine augmentation strategies – a systematic meta-review of available evidence. Treatment options for clozapine resistance,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+31477542,A pilot investigation of an intensive theta burst stimulation protocol for patients with treatment resistant depression: Short Title: Intensive TBS in depression,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+36368186,Treatment-resistant OCD: Pharmacotherapies in adults,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+33230025,Body dysmorphic disorder: a treatment synthesis and consensus on behalf of the International College of Obsessive-Compulsive Spectrum Disorders and the Obsessive Compulsive and Related Disorders Network of the European College of Neuropsychopharmacology.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+32380271,Efficacy of adjunctive infliximab vs. placebo in the treatment of anhedonia in bipolar I/II depression.,MAP,meets_all_criteria,"RCT; bipolar I/II depression (DSM-5); infliximab (anti-TNF, pharmacotherapy for anhedonia); Canadian PI (McIntyre RS, Toronto); 2020"
+31167023,Association of Repetitive Transcranial Magnetic Stimulation Treatment With Subgenual Cingulate Hyperactivity in Patients With Major Depressive Disorder: A Secondary Analysis of a Randomized Clinical Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+35811518,Precision Medicine Approach to Alzheimer's Disease: Successful Pilot Project.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30619873,Efficacy of a Therapeutic Diet on Dogs With Signs of Cognitive Dysfunction Syndrome (CDS): A Prospective Double Blinded Placebo Controlled Clinical Study.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+34054677,Are the PHQ-9 and GAD-7 Suitable for Use in India? A Psychometric Analysis.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+28620308,The Effect of Interdialytic Combined Resistance and Aerobic Exercise Training on Health Related Outcomes in Chronic Hemodialysis Patients: The Tunisian Randomized Controlled Study.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+29781651,Exposure and CBT for chronic back pain: An RCT on differential efficacy and optimal length of treatment,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+,Magnetic resonance-guided focused ultrasound: Current status and future perspectives in thermal ablation and blood-brain barrier opening,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+32449924,"Safety of ixekizumab in adult patients with plaque psoriasis, psoriatic arthritis and axial spondyloarthritis: data from 21 clinical trials",OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32959455,Pregnancy and COVID-19: pharmacologic considerations,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+33813611,Evaluating cannabidiol (CBD) expectancy effects on acute stress and anxiety in healthy adults: a randomized crossover study.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+34515737,Effect of an Oncology Nurse-Led Primary Palliative Care Intervention on Patients With Advanced Cancer: The CONNECT Cluster Randomized Clinical Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30854751,Unilateral and bilateral repetitive transcranial magnetic stimulation for treatment-resistant late-life depression.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+29959111,Web-Based Intervention for Family Carers of Persons with Dementia and Multiple Chronic Conditions (My Tools 4 Care): Pragmatic Randomized Controlled Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+29710118,Disorganized Gyrification Network Properties During the Transition to Psychosis.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+27623621,Efficacy and safety assessment of acupuncture and nimodipine to treat mild cognitive impairment after cerebral infarction: a randomized controlled trial.,OUT_OF_SCOPE,not_canadian,Chinese study (Tianjin); not Canadian
+27159302,Novel Arthroscopic Classification of Osteochondritis Dissecans of the Knee: A Multicenter Reliability Study.,OUT_OF_SCOPE,non_interventional,"Study type: Cohort study, Study Design"
+30307792,The Effects of Probiotic Formulation Pretreatment (Lactobacillus helveticus R0052 and Bifidobacterium longum R0175) on a Lipopolysaccharide Rat Model.,OUT_OF_SCOPE,non_interventional,"Study type: animal, Rat, rats"
+29615645,Antidepressant drug-specific prediction of depression treatment outcomes from genetic and clinical variables.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+,Understanding the roles of high salinity in inhibiting the molybdenite flotation,OUT_OF_SCOPE,not_rct,No RCT indicators found
+26763501,"Change in dysfunctional beliefs about sleep in behavior therapy, cognitive therapy, and cognitive-behavioral therapy for insomnia",OUT_OF_SCOPE,not_mental_health,No MH condition identified
+28387672,Dynamics of Frailty and Cognition after Age 50: Why It Matters that Cognitive Decline is Mostly Seen in Old Age,OUT_OF_SCOPE,non_interventional,Study type: Survey
+29309829,Targeting cytokines in reduction of depressive symptoms: A comprehensive review,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+37296309,Meta-analytic prevalence of comorbid mental disorders in individuals at clinical high risk of psychosis: the case for transdiagnostic assessment.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+33395981,"A randomized, controlled trial of alpha-rhythm EEG neurofeedback in posttraumatic stress disorder: A preliminary investigation showing evidence of decreased PTSD symptoms and restored default mode and salience network connectivity using fMRI.",OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32098633,Longitudinal impacts of an online safety and health intervention for women experiencing intimate partner violence: randomized controlled trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+34406350,Association of Atrial Fibrillation Burden With Health-Related Quality of Life After Atrial Fibrillation Ablation: Substudy of the Cryoballoon vs Contact-Force Atrial Fibrillation Ablation (CIRCA-DOSE) Randomized Clinical Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+31595772,Is Benzodiazepine Use Associated With the Risk of Dementia and Cognitive Impairment-Not Dementia in Older Persons? The Canadian Study of Health and Aging.,OUT_OF_SCOPE,not_rct,No RCT indicators found
+29794609,Effects of internet-based pain coping skills training before home exercise for individuals with hip osteoarthritis (HOPE trial): a randomised controlled trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32004517,Chronic Pain Self-Management Support With Pain Science Education and Exercise (COMMENCE) for People With Chronic Pain and Multiple Comorbidities: A Randomized Controlled Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+34177633,"Cannabis and Cognitive Functioning: From Acute to Residual Effects, From Randomized Controlled Trials to Prospective Designs.",OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+31208523,Dysfunction of mitochondria: Implications for Alzheimer's disease.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30043457,Efficacy and safety of sodium oxybate in alcohol-dependent patients with a very high drinking risk level.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+31278982,Brain eicosapentaenoic acid metabolism as a lead for novel therapeutics in major depression.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+30827757,Baseline effective connectivity predicts response to repetitive transcranial magnetic stimulation in patients with treatment-resistant depression.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+29594942,The Endoplasmic Reticulum Stress Response in Neuroprogressive Diseases: Emerging Pathophysiological Role and Translational Implications.,OUT_OF_SCOPE,not_mental_health,No MH condition identified
+25669746,"Amyloid-related imaging abnormalities-haemosiderin (ARIA-H) in patients with Alzheimer's disease treated with bapineuzumab: a historical, prospective secondary analysis.",OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+31339100,Exercise-and strategy-based physiotherapy-delivered intervention for preventing repeat falls in people with parkinson’s: The PDSAFE RCT,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32590751,Mental health circumstances among health care workers and general public under the pandemic situation of COVID-19 (HOME-COVID-19),OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+34730821,Collaboration With People With Lived Experience of Mental Illness to Reduce Stigma and Improve Primary Care Services: A Pilot Cluster Randomized Clinical Trial.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+34744825,"Study Protocol for ""Psilocybin as a Treatment for Anorexia Nervosa: A Pilot Study"".",OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+32713772,Effects of a Humanoid Companion Robot on Dementia Symptoms and Caregiver Distress for Residents in Long-Term Care.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32366948,"Helicobacter pylori, periodontal pathogens, and their interactive association with incident all-cause and Alzheimer's disease dementia in a large national survey.",OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+26730716,"Varenicline Effects on Smoking, Cognition, and Psychiatric Symptoms in Schizophrenia: A Double-Blind Randomized Trial.",OUT_OF_SCOPE,not_canadian,"Calgary likely refers to Calgary Depression Scale; multi-country (US, Israel, China)"
+31321766,Transcranial Magnetic and Electrical Stimulation in Alzheimer's Disease and Mild Cognitive Impairment: A Review of Randomized Controlled Trials.,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+32444032,The effectiveness and safety of acupuncture for depression: An overview of meta-analyses.,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+34615849,Barriers to clinical adoption of pharmacogenomic testing in psychiatry: a critical analysis.,OUT_OF_SCOPE,not_mental_health,No MH condition identified
+32255210,"Educational, supportive and behavioural interventions to improve usage of continuous positive airway pressure machines in adults with obstructive sleep apnoea.",OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention
+26771737,Heterogeneity of treatment response to citalopram for patients with Alzheimer's disease with aggression or agitation: The citad randomized clinical trial,OUT_OF_SCOPE,not_canadian,No Canadian site/PI indicators
+26768892,"Is Off-label repeat prescription of ketamine as a rapid antidepressant safe? Controversies, ethical concerns, and legal implications",OUT_OF_SCOPE,not_rct,"Ethics/review paper about ketamine, not an RCT"
+29154270,"Ubisol-Q10 (a Nanomicellar Water-Soluble Formulation of CoQ10) Treatment Inhibits Alzheimer-Type Behavioral and Pathological Symptoms in a Double Transgenic Mouse (TgAPEswe, PSEN1dE9) Model of Alzheimer's Disease",OUT_OF_SCOPE,not_mental_health,No MH condition identified
+,Income shocks and suicides: Causal evidence from Indonesia,OUT_OF_SCOPE,not_pharmacotherapy,No pharma intervention

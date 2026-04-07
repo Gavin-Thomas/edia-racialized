@@ -1,0 +1,1137 @@
+article [ref_98]
+ link "Go to Journal of the American Medical Directors Association on ScienceDirect" [ref_99] href="/journal/journal-of-the-american-medical-directors-association"
+  image "Elsevier" [ref_100]
+ heading "Journal of the American Medical Directors Association" [ref_101]
+  link "Go to Journal of the American Medical Directors Association on ScienceDirect" [ref_102] href="/journal/journal-of-the-american-medical-directors-association"
+   generic "Journal of the American Medical Directors Association" [ref_103]
+ generic ", 1 February 2016, Pages 142-147" [ref_104]
+  link "Go to table of contents for this volume/issue" [ref_105] href="/journal/journal-of-the-american-medical-directors-association/vol/17/issue/2"
+   generic "Volume 17, Issue 2" [ref_106]
+ link "Homepage for Journal of the American Medical Directors Association" [ref_107] href="/journal/journal-of-the-american-medical-directors-association/vol/17/issue/2"
+  image "Journal of the American Medical Directors Association" [ref_108]
+ heading "Original StudyA Randomized Placebo-Controlled Discontinuation Study of Cholinesterase Inhibitors in " [ref_109]
+  generic "Original Study" [ref_110]
+  generic "A Randomized Placebo-Controlled Discontinuation Study of Cholinesterase Inhibitors in Institutionali" [ref_111]
+ generic ", , , , , ," [ref_112]
+  generic "Author links open overlay panel" [ref_113]
+  link [ref_114] href="/author/7102947194/n-herrmann"
+   generic "Nathan" [ref_115]
+   generic "Herrmann" [ref_116]
+  button [ref_117] type="button"
+   generic "Jordana" [ref_118]
+   generic "O'Regan" [ref_119]
+   generic "MSc" [ref_120]
+  button [ref_121] type="button"
+   generic "Myuri" [ref_122]
+   generic "Ruthirakuhan" [ref_123]
+   generic "MSc" [ref_124]
+  link [ref_125] href="/author/24440932900/alex-j-kiss"
+   generic "Alexander" [ref_126]
+   generic "Kiss" [ref_127]
+   generic "PhD" [ref_128]
+  button [ref_129] type="button"
+   generic "Goran" [ref_130]
+   generic "Eryavec" [ref_131]
+  button [ref_132] type="button"
+   generic "Evelyn" [ref_133]
+   generic "Williams" [ref_134]
+  link [ref_135] href="/author/7003916943/krista-l-lanctot"
+   generic "Krista L." [ref_136]
+   generic "Lanctôt" [ref_137]
+   generic "PhD" [ref_138]
+  button [ref_139] type="button"
+   generic "Correspondence author icon" [ref_140]
+   generic "Author email or social media contact details icon" [ref_141]
+ button [ref_142] type="button"
+  generic "Show more" [ref_143]
+ button [ref_144] type="button"
+  generic "Outline" [ref_145]
+ button [ref_146] type="button"
+  generic "Add to Mendeley" [ref_147]
+ button [ref_148] type="button"
+  generic "Share" [ref_149]
+ button [ref_150] type="button"
+  generic "Cite" [ref_151]
+ link "Persistent link using digital object identifier" [ref_152] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jamda.2015.08.019"
+  generic "https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jamda.2015.08.019" [ref_153]
+  generic "Opens in new window" [ref_154]
+ link [ref_155] href="https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S1525861015005587&orderBeanReset=true"
+  generic "Get rights and content" [ref_156]
+  generic "Opens in new window" [ref_157]
+ generic "Under a Creative Commons" [ref_158]
+ link [ref_159] href="http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  generic "license" [ref_160]
+  generic "Opens in new window" [ref_161]
+ generic "Open access" [ref_162]
+ region [ref_163]
+ region [ref_164]
+ heading "Abstract" [ref_165]
+ heading "Objectives" [ref_166]
+ link "Cholinesterase inhibitors" [ref_167] href="/topics/medicine-and-dentistry/acetylcholinesterase-inhibitor"
+ generic "(ChEIs) offer modest benefits in (AD), which must be balanced against risks. Relatively few data de." [ref_168]
+  link "Alzheimer disease" [ref_169] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/alzheimers-disease"
+ heading "Design" [ref_170]
+ generic "Institutionalized patients with moderate to severe AD (standardized Mini- Mental Status Examination " [ref_171]
+ heading "Measurements" [ref_172]
+ generic "The primary outcome of this pilot study was change on the Clinician's Global Impression of Change (C" [ref_173]
+  link "tolerability" [ref_174] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/tolerability"
+ heading "Results" [ref_175]
+ generic "Forty patients (mean ± standard deviation age = 89.3 ± 3.5 years, standardized Mini-Mental Status Ex" [ref_176]
+  generic "= .53). The occurrence of was similar in both groups. There were no significant differences in any ." [ref_177]
+   link "adverse events" [ref_178] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/adverse-event"
+ heading "Conclusions" [ref_179]
+ generic "These results suggest that ChEI discontinuation is safe and well tolerated in the majority of instit" [ref_180]
+ list [ref_181]
+  listitem [ref_182]
+   link [ref_183] href="/science/article/pii/S1525861015005538"
+    generic "Previous" [ref_184]
+     generic "article" [ref_185]
+     generic "in issue" [ref_186]
+  listitem [ref_187]
+   link [ref_188] href="/science/article/pii/S1525861015005927"
+    generic "Next" [ref_189]
+     generic "article" [ref_190]
+     generic "in issue" [ref_191]
+ heading "Keywords" [ref_192]
+ generic "Cholinesterase inhibitors" [ref_193]
+ generic "randomized controlled trial" [ref_194]
+ generic "neuropsychiatric symptoms" [ref_195]
+ generic "Alzheimer disease" [ref_196]
+ generic "institutionalization" [ref_197]
+ generic "Alzheimer disease (AD) is the most prevalent form of dementia, occurring in 5%–7% of individuals age" [ref_198]
+  link [ref_199] href="#bib1"
+  link [ref_200] href="#bib2"
+  link [ref_201] href="#bib3"
+ generic "Currently approved treatments available for the symptomatic management of mild to moderate AD includ" [ref_202]
+  link "memantine" [ref_203] href="/topics/medicine-and-dentistry/memantine"
+  generic "are also approved for the treatment of severe AD." [ref_204]
+   generic ". Donepezil, the rivastigmine , and" [ref_205]
+    link "transdermal patch" [ref_206] href="/topics/medicine-and-dentistry/transdermal-patch"
+   link "memantine" [ref_207] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/memantine"
+ generic "Several clinical practice guidelines have proposed ChEIs for the treatment of all stages of AD, with" [ref_208]
+  link [ref_209] href="#bib4"
+  link [ref_210] href="#bib5"
+  link [ref_211] href="#bib6"
+  generic "While ChEIs have demonstrated short-term stabilization on measures of cognition and global functioni" [ref_212]
+   link "randomized controlled trials" [ref_213] href="/topics/medicine-and-dentistry/randomized-controlled-trial"
+  link [ref_214] href="#bib7"
+  link [ref_215] href="#bib8"
+  link [ref_216] href="#bib9"
+  link [ref_217] href="#bib10"
+  link [ref_218] href="#bib11"
+  link [ref_219] href="#bib12"
+  link [ref_220] href="#bib13"
+  link [ref_221] href="#bib14"
+  link [ref_222] href="#bib15"
+  link [ref_223] href="#bib16"
+  link [ref_224] href="#bib17"
+  link [ref_225] href="#bib18"
+  link [ref_226] href="#bib19"
+  generic "As such, ChEI discontinuation in institutionalized patients with AD no longer displaying obvious cli" [ref_227]
+   link "polypharmacy" [ref_228] href="/topics/medicine-and-dentistry/polypharmacy"
+ generic "Currently, there are no double-blind RCTs addressing ChEI discontinuation in moderate to severe inst" [ref_229]
+ region [ref_230]
+  heading "Methods" [ref_231]
+  region [ref_232]
+   heading "Study Participants" [ref_233]
+   generic "All patients were institutionalized and resided in 1 of 2" [ref_234]
+    link "LTC" [ref_235] href="/topics/medicine-and-dentistry/long-term-care"
+    generic "physician. The Research Ethics Boards at both sites approved this study." [ref_236]
+     generic "facilities. was obtained from the patient's substitute decision maker and approved by the" [ref_237]
+      link "Informed consent" [ref_238] href="/topics/medicine-and-dentistry/informed-consent"
+     link "primary care" [ref_239] href="/topics/medicine-and-dentistry/primary-health-care"
+   generic "Eligible patients were ≥55 years, met the National Institute of Neurologic and Communicative Disorde" [ref_240]
+    link "AD" [ref_241] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/alzheimers-disease"
+   link "donepezil" [ref_242] href="/topics/medicine-and-dentistry/donepezil"
+   generic "had to be on a stable dose for ≥1 month prior to study entry." [ref_243]
+    link "galantamine" [ref_244] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/galantamine"
+    generic ", or (oral) for ≥2 years, with a stable dose for ≥3 months prior to study entry. Patients receiving." [ref_245]
+     link "rivastigmine" [ref_246] href="/topics/medicine-and-dentistry/rivastigmine"
+    link "psychotropic" [ref_247] href="/topics/medicine-and-dentistry/psychoactive-drug"
+   generic "Patients were excluded if they had dementia unrelated to AD, were treated with" [ref_248]
+    link "transdermal" [ref_249] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/transdermal"
+    generic ", had any uncontrolled medical illness that would interfere with their participation in the study, o" [ref_250]
+     link "rivastigmine" [ref_251] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/rivastigmine"
+  region [ref_252]
+   heading "Study Procedures" [ref_253]
+   generic "This was an 8-week randomized, double-blind, placebo-controlled pilot trial. Following study entry, " [ref_254]
+    link "ChEI" [ref_255] href="/topics/medicine-and-dentistry/acetylcholinesterase-inhibitor"
+    generic "to continue receiving their (continuation) at their current dose, or to receive an identical-lookin." [ref_256]
+     link "ChEI" [ref_257] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/cholinesterase-inhibitor"
+   generic "or clinically significant increase in neuropsychiatric symptoms (NPS) (NPI-NH total increase ≥50% co" [ref_258]
+    generic "(sMMSE total decrease ≥3 points compared with BL)" [ref_259]
+     generic "Following screening, patients were assessed at, 0 [baseline (BL)], 2, 4, and 8 (study endpoint) week" [ref_260]
+      link "side effect" [ref_261] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/side-effect"
+      generic "rating scale, Neuropsychiatric Inventory-Nursing Home edition (NPI-NH)," [ref_262]
+       link "Cornell Depression Scale" [ref_263] href="/topics/medicine-and-dentistry/cornell-scale-for-depression-in-dementia"
+       generic "for Dementia, Apathy Evaluation Scale (AES), Cohen-Mansfield Agitation Inventory (CMAI), Alzheimer's" [ref_264]
+        link "Quality of Life" [ref_265] href="/topics/medicine-and-dentistry/quality-of-life"
+     link "cognitive deterioration" [ref_266] href="/topics/medicine-and-dentistry/mental-deterioration"
+    link [ref_267] href="#bib20"
+    link [ref_268] href="#bib21"
+  region [ref_269]
+   heading "Outcome Measures" [ref_270]
+   generic "The primary efficacy outcome was CGI-C." [ref_271]
+    link [ref_272] href="#bib22"
+    generic "of the patient. Given the nature of this population's significant cognitive and functional impairmen" [ref_273]
+     generic "The CGI-C is a 7-point (ranging from “marked improvement” to “marked worsening”) that requires an e." [ref_274]
+      link "Likert scale" [ref_275] href="/topics/medicine-and-dentistry/likert-scale"
+     link "functional status" [ref_276] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/functional-status"
+    link [ref_277] href="#bib23"
+   generic "The secondary outcome measures were safety, efficacy, and . The safety outcome was determined by the" [ref_278]
+    link "tolerability" [ref_279] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/tolerability"
+   link "AEs" [ref_280] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/adverse-event"
+   generic "experienced. All emergent AEs were noted and followed up with until resolution. The efficacy and tol" [ref_281]
+    link "cognitive impairment" [ref_282] href="/topics/medicine-and-dentistry/cognitive-defect"
+  region [ref_283]
+   heading "Sample Size" [ref_284]
+   generic "A sample size calculation was performed for the primary efficacy outcome described previously using " [ref_285]
+    link [ref_286] href="#bib24"
+  region [ref_287]
+   heading "Statistical Analysis" [ref_288]
+   generic "To compare BL characteristics between the treatment groups, independent -tests (for parametric data)" [ref_289]
+   generic "The primary assessment of efficacy was based on an intention-to-treat comparison of the CGI-C rating" [ref_290]
+    link "logistic regression analysis" [ref_291] href="/topics/medicine-and-dentistry/logistic-regression-analysis"
+    generic ", adjusting for BL sMMSE, was used to compare CGI-C ratings between the treatment groups. An observe" [ref_292]
+     link "antipsychotic" [ref_293] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/antipsychotic"
+   generic "To assess the safety of ChEI discontinuation, a χ" [ref_294]
+    link "Fisher exact test" [ref_295] href="/topics/medicine-and-dentistry/fisher-exact-test"
+    generic "was used to determine the association between treatment group and AE occurrence and to determine if " [ref_296]
+     link "analysis of covariance" [ref_297] href="/topics/medicine-and-dentistry/analysis-of-covariance"
+    link "sMMSE scores" [ref_298] href="/topics/medicine-and-dentistry/mini-mental-state-examination-score"
+   generic "A model was run within each group to determine predictors of CGI-C worsening." [ref_299]
+    link "linear regression" [ref_300] href="/topics/medicine-and-dentistry/linear-regression-analysis"
+ region [ref_301]
+  heading "Results" [ref_302]
+  region [ref_303]
+   heading "Study Patient Characteristics" [ref_304]
+   generic "(1) = .316, = .57], time to early termination, as measured by the number of weeks actively particip." [ref_305]
+    generic "continuation (N = 21) or placebo (N = 19), and all were included in the analyses (" [ref_306]
+     generic "Forty institutionalized patients with moderate to severe were randomized to" [ref_307]
+      link "AD" [ref_308] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/alzheimers-disease"
+     link "ChEI" [ref_309] href="/topics/medicine-and-dentistry/acetylcholinesterase-inhibitor"
+    link [ref_310] href="#fig1"
+     generic "Figure 1" [ref_311]
+    generic "scores (" [ref_312]
+     generic "). All BL characteristics were comparable, except patients randomized to continuation had lower" [ref_313]
+      link "ChEI" [ref_314] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/cholinesterase-inhibitor"
+     link "sMMSE" [ref_315] href="/topics/medicine-and-dentistry/mini-mental-state-examination"
+    link [ref_316] href="#tbl1"
+     generic "Table 1" [ref_317]
+    generic "). Of the 40 randomized, 33 patients (82.5%) completed the study (85.7% continuation, N = 18; 78.9% " [ref_318]
+     link "AE" [ref_319] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/adverse-event"
+   list [ref_320]
+    listitem [ref_321]
+     link "Download high-res image (671KB)" [ref_322] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S1525861015005587-gr1_lrg.jpg"
+      generic "Download:" [ref_323]
+       generic "Download high-res image (671KB)" [ref_324]
+    listitem [ref_325]
+     link "Download full-size image" [ref_326] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S1525861015005587-gr1.jpg"
+      generic "Download:" [ref_327]
+       generic "Download full-size image" [ref_328]
+   generic ". Participant flow diagram." [ref_329]
+    generic "Fig. 1" [ref_330]
+   generic ". Baseline Characteristics" [ref_331]
+    generic "Table 1" [ref_332]
+   table [ref_333]
+    generic "Demographics/Baseline characteristics" [ref_334]
+    generic "Total (N = 40)" [ref_335]
+    generic "Placebo(ChEI Disc.)(N = 19)" [ref_336]
+    generic "ChEI Cont.(N = 21)" [ref_337]
+    generic "Value" [ref_338]
+    generic "Age (years)" [ref_339]
+    generic "89.2 (± 3.5)" [ref_340]
+    generic "89.7 (± 3.8)" [ref_341]
+    generic "88.9 (± 3.3)" [ref_342]
+    generic ".46" [ref_343]
+    generic "Sex (%M)" [ref_344]
+    generic "73.7" [ref_345]
+    generic "85.7" [ref_346]
+    generic ".34" [ref_347]
+    generic "Number of concomitant illnesses" [ref_348]
+    generic "6.4 (± 2.43)" [ref_349]
+    generic "6.5 (± 2.8)" [ref_350]
+    generic "6.29 (± 2.1)" [ref_351]
+    generic ".62" [ref_352]
+    generic "Number of concomitant meds" [ref_353]
+    generic "12.3 (± 5.5)" [ref_354]
+    generic "11.3 (± 5.2)" [ref_355]
+    generic "13.2 (± 5.7)" [ref_356]
+    generic ".23" [ref_357]
+    generic "ChEIs" [ref_358]
+    generic "Donepezil" [ref_359]
+    generic ".49" [ref_360]
+    generic "Galantamine" [ref_361]
+    generic ".80" [ref_362]
+    generic "Rivastigmine" [ref_363]
+    generic ".57" [ref_364]
+    generic "Psychotropics" [ref_365]
+    generic "Memantine" [ref_366]
+    generic "37.5" [ref_367]
+    generic "31.6" [ref_368]
+    generic "42.9" [ref_369]
+    generic ".46" [ref_370]
+    generic "Antidepressants" [ref_371]
+    generic "42.1" [ref_372]
+    generic "47.6" [ref_373]
+    generic ".73" [ref_374]
+    generic "Antipsychotics" [ref_375]
+    generic "32.5" [ref_376]
+    generic "26.3" [ref_377]
+    generic "38.1" [ref_378]
+    generic ".39" [ref_379]
+    generic "Baseline Parameters" [ref_380]
+    generic "CGI" [ref_381]
+    generic "3.7 (± 0.7)" [ref_382]
+    generic "3.5 (± 0.7)" [ref_383]
+    generic "3.8 (± 0.6)" [ref_384]
+    generic ".20" [ref_385]
+    generic "Weight (kg)" [ref_386]
+    generic "71.1 (± 14.5)" [ref_387]
+    generic "67.1 (± 14.9)" [ref_388]
+    generic "74.9 (± 13.4)" [ref_389]
+    generic ".15" [ref_390]
+    generic "sMMSE" [ref_391]
+    generic "8.1 (± 5.2)" [ref_392]
+    generic "10.0 (± 5.1)" [ref_393]
+    generic "6.4 (± 4.8)" [ref_394]
+    generic ".03" [ref_395]
+    generic "SIB Total" [ref_396]
+    generic "56.9 (± 31.1)" [ref_397]
+    generic "63.7 (± 28.0)" [ref_398]
+    generic "50.8 (± 33.1)" [ref_399]
+    generic ".20" [ref_400]
+    generic "NPI-NH Total" [ref_401]
+    generic "21.1 (± 15.9)" [ref_402]
+    generic "20.3 (± 18.0)" [ref_403]
+    generic "21.9 (± 14.0)" [ref_404]
+    generic ".52" [ref_405]
+    generic "Delusions (NPI-NH)" [ref_406]
+    generic "1.15 (± 2.95)" [ref_407]
+    generic "1.95 (± 4.02)" [ref_408]
+    generic ".43 (± 1.12)" [ref_409]
+    generic ".13" [ref_410]
+    generic "Hallucinations (NPI-NH)" [ref_411]
+    generic ".37 (± 1.35)" [ref_412]
+    generic ".47 (± 1.43)" [ref_413]
+    generic ".29 (± 1.31)" [ref_414]
+    generic ".67" [ref_415]
+    generic "NPI-NH disruption total" [ref_416]
+    generic "7.9 (± 6.4)" [ref_417]
+    generic "7.8 (± 7.3)" [ref_418]
+    generic "8.0 (± 5.7)" [ref_419]
+    generic ".94" [ref_420]
+    generic "CMAI" [ref_421]
+    generic "46.9 (± 13.7)" [ref_422]
+    generic "44.1 (± 12.4)" [ref_423]
+    generic "49.6 (± 14.6)" [ref_424]
+    generic ".26" [ref_425]
+    generic "AES" [ref_426]
+    generic "55.9 (± 11.2)" [ref_427]
+    generic "52.4 (± 12.7)" [ref_428]
+    generic "59.0 (± 8.7)" [ref_429]
+    generic ".08" [ref_430]
+    generic "ADCS-ADL-sev" [ref_431]
+    generic "12.7 (± 10.0)" [ref_432]
+    generic "14.2 (± 10.9)" [ref_433]
+    generic "11.3 (± 9.1)" [ref_434]
+    generic ".50" [ref_435]
+    generic "QUALID" [ref_436]
+    generic "21.6 (± 7.2)" [ref_437]
+    generic "20.1 (± 6.6)" [ref_438]
+    generic "23.0 (± 7.7)" [ref_439]
+    generic ".15" [ref_440]
+   generic "ChEI, cholinesterase inhibitor; Disc, discontinuation;" [ref_441]
+    link "Cont" [ref_442] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/metronidazole"
+    generic ", Quality of Life in Late-Stage Dementia scale." [ref_443]
+     generic ", continuation; sMMSE, Standardized Mini Mental State Examination; SIB, Severe Impairment Battery; C" [ref_444]
+      link "CMAI" [ref_445] href="/topics/medicine-and-dentistry/cohen-mansfield-agitation-inventory"
+     link "QUALID" [ref_446] href="/topics/medicine-and-dentistry/quality-of-life"
+  region [ref_447]
+   heading "Study Outcomes" [ref_448]
+   generic "Minimal to marked worsening over 8 weeks on the CGI-C occurred in 6 continuation (28.6%) vs 7 placeb" [ref_449]
+    generic "= .53]. In a post-hoc analysis adjusting for BL sMMSE and for use, to account for frequent antipsyc." [ref_450]
+     link "antipsychotic" [ref_451] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/antipsychotic"
+   generic "The frequency of AEs is presented in . Unintentional weight loss (20% of total) and falls (15% of to" [ref_452]
+    link [ref_453] href="#tbl2"
+     generic "Table 2" [ref_454]
+   generic ". Frequency of AEs" [ref_455]
+    generic "Table 2" [ref_456]
+   table [ref_457]
+    generic "Placebo (N = 19)" [ref_458]
+    generic "ChEI Continuation (N = 21)" [ref_459]
+    generic "Total (N = 40)" [ref_460]
+    generic "Unintentional weight loss (<1.66%)" [ref_461]
+    generic "Fall" [ref_462]
+    generic "Loss of consciousness" [ref_463]
+    generic "Vomiting" [ref_464]
+    generic "Perineum wound" [ref_465]
+    generic "Oral thrush" [ref_466]
+    generic "IV due to poor appetite" [ref_467]
+    generic "Respiratory tract infection" [ref_468]
+    generic "Conjunctivitis" [ref_469]
+    generic "Dizziness" [ref_470]
+    generic "Rash" [ref_471]
+    generic "Cognitive decline/confusion" [ref_472]
+    generic "Acute/unproductive cough" [ref_473]
+    generic "Deterioration in behavior" [ref_474]
+    generic "Bradycardia" [ref_475]
+    generic "Serious AEs" [ref_476]
+    generic "Bowel obstruction" [ref_477]
+    generic "Seizure" [ref_478]
+    generic "Atrial fibrillation" [ref_479]
+   generic "Mean change scores on all BL parameters are shown in" [ref_480]
+    link [ref_481] href="#tbl3"
+     generic "Table 3" [ref_482]
+    generic ". When controlling for BL and treatment group, there was no significant effect of time on any cogni." [ref_483]
+     link "sMMSE scores" [ref_484] href="/topics/medicine-and-dentistry/mini-mental-state-examination-score"
+   generic ". Change Scores (Baseline to 8 Weeks)" [ref_485]
+    generic "Table 3" [ref_486]
+   table [ref_487]
+    generic "Parameter" [ref_488]
+    generic "Placebo" [ref_489]
+    generic "Cholinesterase Cont." [ref_490]
+    generic "Value" [ref_491]
+    generic "BL (Mean ± SD)" [ref_492]
+    generic "Endpoint (Mean ± SD)" [ref_493]
+    generic "Change (Mean ± SD)" [ref_494]
+    generic "BL (Mean ± SD)" [ref_495]
+    generic "Endpoint (Mean ± SD)" [ref_496]
+    generic "Change (Mean ± SD)" [ref_497]
+    generic "CGI" [ref_498]
+    generic "3.5 ± 0.7" [ref_499]
+    generic "3.6 ± 0.4" [ref_500]
+    generic "−0.1 ± 0.5" [ref_501]
+    generic "3.8 ± 0.6" [ref_502]
+    generic "3.8 ± 0.8" [ref_503]
+    generic "0.0 ± 0.4" [ref_504]
+    generic ".64" [ref_505]
+    generic "CGI-C*" [ref_506]
+    generic "n/a" [ref_507]
+    generic "n/a" [ref_508]
+    generic "3.6 ± 1.1*" [ref_509]
+    generic "n/a" [ref_510]
+    generic "n/a" [ref_511]
+    generic "3.4 ± 1.2*" [ref_512]
+    generic ".55" [ref_513]
+    generic "Weight (kg)" [ref_514]
+    generic "67.1 ± 14.9" [ref_515]
+    generic "66.9 ± 15.2" [ref_516]
+    generic "−0.4 ± 2.2" [ref_517]
+    generic "74.8 ± 13.4" [ref_518]
+    generic "74.4 ± 12.5" [ref_519]
+    generic "−0.4 ± 4.1" [ref_520]
+    generic ".84" [ref_521]
+    generic "sMMSE" [ref_522]
+    generic "10 ± 5.1" [ref_523]
+    generic "8.8 ± 5.6" [ref_524]
+    generic "−1.0 ± 4.0" [ref_525]
+    generic "6.4 ± 4.8" [ref_526]
+    generic "7.1 ± 5.8" [ref_527]
+    generic "0.7 ± 3.1" [ref_528]
+    generic ".19" [ref_529]
+    generic "SIB" [ref_530]
+    generic "63.7 ± 28.0" [ref_531]
+    generic "57.2 ± 34.7" [ref_532]
+    generic "−6.5 ± 21.3" [ref_533]
+    generic "50.8 ± 3.1" [ref_534]
+    generic "49.5 ± 35" [ref_535]
+    generic "−1.3 ± 14.6" [ref_536]
+    generic ".25" [ref_537]
+    generic "NPI-NH" [ref_538]
+    generic "20.3 ± 18" [ref_539]
+    generic "23.8 ± 3.6" [ref_540]
+    generic "3.6 ± 12.6" [ref_541]
+    generic "21.9 ± 14" [ref_542]
+    generic "20.9 ± 18.4" [ref_543]
+    generic "−1.1 ± 8.9" [ref_544]
+    generic ".24" [ref_545]
+    generic "NPI-disruption" [ref_546]
+    generic "7.8 ± 7.3" [ref_547]
+    generic "8.8 ± 9.8" [ref_548]
+    generic "1.0 ± 4.2" [ref_549]
+    generic "8.0 ± 5.7" [ref_550]
+    generic "7.8 ± 7.0" [ref_551]
+    generic "−0.2 ± 6.3" [ref_552]
+    generic ".28" [ref_553]
+    generic "CMAI" [ref_554]
+    generic "44.1 ± 12.4" [ref_555]
+    generic "43.8 ± 9.1" [ref_556]
+    generic "−0.3 ± 7.3" [ref_557]
+    generic "49.6 ± 4.6" [ref_558]
+    generic "52.3 ± 19.3" [ref_559]
+    generic "2.5 ± 11.2" [ref_560]
+    generic ".90" [ref_561]
+    generic "AES" [ref_562]
+    generic "52.4 ± 12.7" [ref_563]
+    generic "54.2 ± 12.5" [ref_564]
+    generic "1.8 ± 7.6" [ref_565]
+    generic "59 ± 8.7" [ref_566]
+    generic "62.3 ± 5.9" [ref_567]
+    generic "3.3 ± 5.5" [ref_568]
+    generic ".32" [ref_569]
+    generic "ADCS-ADL-sev" [ref_570]
+    generic "14.2 ± 10.9" [ref_571]
+    generic "14.1 ± 11.1" [ref_572]
+    generic "−0.1 ± 3.8" [ref_573]
+    generic "11.3 ± 9.1" [ref_574]
+    generic "11.3 ± 9.1" [ref_575]
+    generic "0.0 ± 3.4" [ref_576]
+    generic ".54" [ref_577]
+    generic "QUALID" [ref_578]
+    generic "20.1 ± 6.6" [ref_579]
+    generic "20.4 ± 7.2" [ref_580]
+    generic "0.3 ± 3.1" [ref_581]
+    generic "23.0 ± 7.7" [ref_582]
+    generic "22.9 ± 8.5" [ref_583]
+    generic "−0.1 ± 4.8" [ref_584]
+    generic ".92" [ref_585]
+   generic ", analysis of covariance; cont, continuation; n/a, not applicable (change score only); sMMSE, Standa" [ref_586]
+    link "ANCOVA" [ref_587] href="/topics/medicine-and-dentistry/analysis-of-covariance"
+   generic "Asterisk (*) denotes that the reported CGI-C score is reported as the score provided by the study ph" [ref_588]
+   generic "In the placebo group, hallucinations at BL (NPI-NH) significantly predicted CGI-C worsening at study" [ref_589]
+    link [ref_590] href="#fig2"
+     generic "Figure 2" [ref_591]
+   list [ref_592]
+    listitem [ref_593]
+     link "Download high-res image (90KB)" [ref_594] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S1525861015005587-gr2_lrg.jpg"
+      generic "Download:" [ref_595]
+       generic "Download high-res image (90KB)" [ref_596]
+    listitem [ref_597]
+     link "Download full-size image" [ref_598] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S1525861015005587-gr2.jpg"
+      generic "Download:" [ref_599]
+       generic "Download full-size image" [ref_600]
+   generic ". Proportion of ChEI discontinued patients with and without delusions and hallucinations (NPI-NH)." [ref_601]
+    generic "Fig. 2" [ref_602]
+ region [ref_603]
+  heading "Discussion" [ref_604]
+  generic "This study suggests that ChEI discontinuation is safe and well tolerated in institutionalized patien" [ref_605]
+   link "weight change" [ref_606] href="/topics/medicine-and-dentistry/body-weight-change"
+  generic "Though the results of our study also indicated that treatment allocation did not have a significant " [ref_607]
+   generic "Currently, ChEIs are recommended for the treatment of moderate to severe AD, however, the American ." [ref_608]
+    link "Geriatrics" [ref_609] href="/topics/medicine-and-dentistry/geriatrics"
+   link [ref_610] href="#bib25"
+   generic "A meta-analysis of 5 ChEI discontinuation, double-blind reported that ChEI discontinuation increase." [ref_611]
+    link "RCTs" [ref_612] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/randomized-controlled-trial"
+   link [ref_613] href="#bib26"
+   generic "However, of those studies, only the" [ref_614]
+    link "Donepezil" [ref_615] href="/topics/medicine-and-dentistry/donepezil"
+    generic "and" [ref_616]
+     link "Memantine" [ref_617] href="/topics/medicine-and-dentistry/memantine"
+     generic "for Moderate to Severe Alzheimer Disease trial specifically included patients with moderate to sever" [ref_618]
+      link "Donepezil" [ref_619] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/donepezil"
+      generic "and for Moderate to Severe Alzheimer Disease trial demonstrated that ChEI discontinuation may lead ." [ref_620]
+       link "Memantine" [ref_621] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/memantine"
+   link [ref_622] href="#bib7"
+   link [ref_623] href="#bib26"
+  generic "ChEI treatment has been associated with an increased risk of nausea, vomiting, weight loss, syncope," [ref_624]
+   generic "17−19" [ref_625]
+   generic "Those AEs must be taken into consideration during ChEI discontinuation as the patient group is both " [ref_626]
+    link "polypharmacy" [ref_627] href="/topics/medicine-and-dentistry/polypharmacy"
+   link [ref_628] href="#bib27"
+   link [ref_629] href="#bib28"
+  generic ", , An open label study with donepezil in 120 patients with AD, with a mean NPI total score of 30 a." [ref_630]
+   generic "medications." [ref_631]
+    generic "It is interesting to speculate on why NPS like hallucinations and delusions were associated with cli" [ref_632]
+     link "cholinergic" [ref_633] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/cholinergic-receptor-stimulating-agent"
+    link "anticholinergic" [ref_634] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/cholinergic-receptor-blocking-agent"
+   link [ref_635] href="#bib29"
+   generic "Three of patients with AD reported NPS worsening in those randomized to placebo when compared with ." [ref_636]
+    link "RCTs" [ref_637] href="/topics/medicine-and-dentistry/randomized-controlled-trial"
+   link [ref_638] href="#bib30"
+   link [ref_639] href="#bib31"
+   link [ref_640] href="#bib32"
+   link [ref_641] href="#bib33"
+   generic "In a of 2033 patients with AD (double blind RCT with galantamine), in 57% of patients treated with" [ref_642]
+    link "post hoc analysis" [ref_643] href="/topics/medicine-and-dentistry/post-hoc-analysis"
+   link "galantamine" [ref_644] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/galantamine"
+   generic ", there was ≥30% reduction in the hallucination and delusions NPI score, with 72% of patients treate" [ref_645]
+    link "galantamine" [ref_646] href="/topics/medicine-and-dentistry/galantamine"
+   link [ref_647] href="#bib34"
+   link [ref_648] href="#bib35"
+  generic "Study strengths included randomization, double-blinding, use of placebo control using an identical a" [ref_649]
+   link [ref_650] href="#bib36"
+   link [ref_651] href="#bib37"
+   link [ref_652] href="#bib38"
+   generic "were excluded. As a result, patients included in the study may have been healthier and have had a be" [ref_653]
+    generic "This study also allowed concomitant use of" [ref_654]
+     link "antipsychotics" [ref_655] href="/topics/medicine-and-dentistry/typical-antipsychotic"
+     generic "as are commonly used in long-term care in patients with moderate to severe AD and behavioral distur." [ref_656]
+      link "antipsychotics" [ref_657] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/typical-antipsychotic"
+    link "psychotropics" [ref_658] href="/topics/medicine-and-dentistry/psychoactive-drug"
+    generic ". In addition, when controlling for antipsychotic use, treatment group was not a significant predict" [ref_659]
+     link "rivastigmine" [ref_660] href="/topics/medicine-and-dentistry/rivastigmine"
+    link "palliative care" [ref_661] href="/topics/medicine-and-dentistry/symptomatic-treatment"
+   link [ref_662] href="#bib26"
+  generic "Finally, this study also had a small sample size, which should be considered when interpreting resul" [ref_663]
+   link "tolerability" [ref_664] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/tolerability"
+ region [ref_665]
+  heading "Conclusions" [ref_666]
+  generic "This study of the safety and tolerability of ChEI discontinuation in institutionalized patients with" [ref_667]
+   link [ref_668] href="#bib7"
+   link [ref_669] href="#bib30"
+   link [ref_670] href="#bib32"
+ button [ref_671] type="button"
+  generic "Recommended articles" [ref_672]
+ region [ref_673]
+  heading "References" [ref_674]
+  region [ref_675]
+   list [ref_676]
+    listitem [ref_677]
+     link [ref_678] href="#bbib1"
+     generic "M. Prince, R. Bryce, E. Albanese," [ref_679]
+      generic "et al." [ref_680]
+     generic "The global prevalence of dementia: A systematic review and metaanalysis" [ref_681]
+     generic "Alzheimers Dement, 9 (2013), pp. 63-75 e2" [ref_682]
+     link [ref_683] href="/science/article/pii/S1552526012025319/pdfft?md5=dcb79444acf0fa0887b16d647f209390&pid=1-s2.0-S1552526012025319-main.pdf"
+      generic "View PDF" [ref_684]
+     link [ref_685] href="/science/article/pii/S1552526012025319"
+      generic "View article" [ref_686]
+     link [ref_687] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jalz.2012.11.007"
+      generic "Crossref" [ref_688]
+      generic "Opens in new window" [ref_689]
+     link [ref_690] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20global%20prevalence%20of%20dementia%3A%20A%20systematic%20review%20and%20metaanalysis&publication_year=2013&author=M.%20Prince&author=R.%20Bryce&author=E.%20Albanese"
+      generic "Google Scholar" [ref_691]
+      generic "Opens in new window" [ref_692]
+    listitem [ref_693]
+     link [ref_694] href="#bbib2"
+     generic "N. Herrmann, S. Gauthier" [ref_695]
+     generic "Diagnosis and treatment of dementia: 6. Management of severe alzheimer disease" [ref_696]
+     generic "CMAJ, 179 (2008), pp. 1279-1287" [ref_697]
+     link [ref_698] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1503/cmaj.070804"
+      generic "Crossref" [ref_699]
+      generic "Opens in new window" [ref_700]
+     link [ref_701] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-57349130740&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_702]
+      generic "Opens in new window" [ref_703]
+     link [ref_704] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Diagnosis%20and%20treatment%20of%20dementia%3A%206.%20Management%20of%20severe%20alzheimer%20disease&publication_year=2008&author=N.%20Herrmann&author=S.%20Gauthier"
+      generic "Google Scholar" [ref_705]
+      generic "Opens in new window" [ref_706]
+    listitem [ref_707]
+     link [ref_708] href="#bbib3"
+     generic "Canadian study of health and aging" [ref_709]
+     generic "Study methods and prevalence of dementia" [ref_710]
+     generic "CMAJ, 150 (1994), pp. 899-913" [ref_711]
+     link [ref_712] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Study%20methods%20and%20prevalence%20of%20dementia&publication_year=1994&author=Canadian%20study%20of%20health%20and%20aging"
+      generic "Google Scholar" [ref_713]
+      generic "Opens in new window" [ref_714]
+    listitem [ref_715]
+     link [ref_716] href="#bbib4"
+     generic "National Collaborating Centre for Mental Health (UK)" [ref_717]
+     generic "Dementia: A NICE-SCIE guideline on supporting People with dementia and their Carers in health and So" [ref_718]
+     generic "British Psychological Society, Leicester (UK) (2007)" [ref_719]
+     link [ref_720] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Dementia%3A%20A%20NICE-SCIE%20guideline%20on%20supporting%20People%20with%20dementia%20and%20their%20Carers%20in%20health%20and%20Social%20care&publication_year=2007&author=National%20Collaborating%20Centre%20for%20Mental%20Health%20(UK)"
+      generic "Google Scholar" [ref_721]
+      generic "Opens in new window" [ref_722]
+    listitem [ref_723]
+     link [ref_724] href="#bbib5"
+     generic "N. Herrmann, K.L. Lanctot, D.B. Hogan" [ref_725]
+     generic "Pharmacological recommendations for the symptomatic treatment of dementia: The Canadian Consensus Co" [ref_726]
+     generic "Alzheimers Res Ther, 5 (2013), p. S5" [ref_727]
+     link [ref_728] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84880139684&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_729]
+      generic "Opens in new window" [ref_730]
+     link [ref_731] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Pharmacological%20recommendations%20for%20the%20symptomatic%20treatment%20of%20dementia%3A%20The%20Canadian%20Consensus%20Conference%20on%20the%20Diagnosis%20and%20Treatment%20of%20Dementia%202012&publication_year=2013&author=N.%20Herrmann&author=K.L.%20Lanctot&author=D.B.%20Hogan"
+      generic "Google Scholar" [ref_732]
+      generic "Opens in new window" [ref_733]
+    listitem [ref_734]
+     link [ref_735] href="#bbib6"
+     generic "A. Moore, C. Patterson, L. Lee," [ref_736]
+      generic "et al." [ref_737]
+     generic "Fourth Canadian Consensus Conference on the Diagnosis and treatment of Dementia: Recommendations for" [ref_738]
+     generic "Can Fam Physician, 60 (2014), pp. 433-438" [ref_739]
+     link [ref_740] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/bies.201400051"
+      generic "Crossref" [ref_741]
+      generic "Opens in new window" [ref_742]
+     link [ref_743] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Fourth%20Canadian%20Consensus%20Conference%20on%20the%20Diagnosis%20and%20treatment%20of%20Dementia%3A%20Recommendations%20for%20family%20physicians&publication_year=2014&author=A.%20Moore&author=C.%20Patterson&author=L.%20Lee"
+      generic "Google Scholar" [ref_744]
+      generic "Opens in new window" [ref_745]
+    listitem [ref_746]
+     link [ref_747] href="#bbib7"
+     generic "R. Howard, R. McShane, J. Lindesay," [ref_748]
+      generic "et al." [ref_749]
+     generic "Donepezil and memantine for moderate-to-severe Alzheimer's disease" [ref_750]
+     generic "N Engl J Med, 366 (2012), pp. 893-903" [ref_751]
+     link [ref_752] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84863229484&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_753]
+      generic "Opens in new window" [ref_754]
+     link [ref_755] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Donepezil%20and%20memantine%20for%20moderate-to-severe%20Alzheimers%20disease&publication_year=2012&author=R.%20Howard&author=R.%20McShane&author=J.%20Lindesay"
+      generic "Google Scholar" [ref_756]
+      generic "Opens in new window" [ref_757]
+    listitem [ref_758]
+     link [ref_759] href="#bbib8"
+     generic "A. Homma, Y. Imai, H. Tago," [ref_760]
+      generic "et al." [ref_761]
+     generic "Donepezil treatment of patients with severe Alzheimer's disease in a Japanese population: Results fr" [ref_762]
+     generic "Dement Geriatr Cogn Disord, 25 (2008), pp. 399-407" [ref_763]
+     link [ref_764] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1159/000122961"
+      generic "Crossref" [ref_765]
+      generic "Opens in new window" [ref_766]
+     link [ref_767] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-43049134839&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_768]
+      generic "Opens in new window" [ref_769]
+     link [ref_770] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Donepezil%20treatment%20of%20patients%20with%20severe%20Alzheimers%20disease%20in%20a%20Japanese%20population%3A%20Results%20from%20a%2024-week%2C%20double-blind%2C%20placebo-controlled%2C%20randomized%20trial&publication_year=2008&author=A.%20Homma&author=Y.%20Imai&author=H.%20Tago"
+      generic "Google Scholar" [ref_771]
+      generic "Opens in new window" [ref_772]
+    listitem [ref_773]
+     link [ref_774] href="#bbib9"
+     generic "S.E. Black, R. Doody, H. Li," [ref_775]
+      generic "et al." [ref_776]
+     generic "Donepezil preserves cognition and global function in patients with severe Alzheimer disease" [ref_777]
+     generic "Neurology, 69 (2007), pp. 459-469" [ref_778]
+     link [ref_779] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1212/01.wnl.0000266627.96040.5a"
+      generic "Crossref" [ref_780]
+      generic "Opens in new window" [ref_781]
+     link [ref_782] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-34548081204&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_783]
+      generic "Opens in new window" [ref_784]
+     link [ref_785] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Donepezil%20preserves%20cognition%20and%20global%20function%20in%20patients%20with%20severe%20Alzheimer%20disease&publication_year=2007&author=S.E.%20Black&author=R.%20Doody&author=H.%20Li"
+      generic "Google Scholar" [ref_786]
+      generic "Opens in new window" [ref_787]
+    listitem [ref_788]
+     link [ref_789] href="#bbib10"
+     generic "H. Feldman, S. Gauthier, J. Hecker," [ref_790]
+      generic "et al." [ref_791]
+     generic "A 24-week, randomized, double-blind study of donepezil in moderate to severe Alzheimer's disease" [ref_792]
+     generic "Neurology, 57 (2001), pp. 613-620" [ref_793]
+     link [ref_794] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0035964226&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_795]
+      generic "Opens in new window" [ref_796]
+     link [ref_797] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A%C2%A024-week%2C%20randomized%2C%20double-blind%20study%20of%20donepezil%20in%20moderate%20to%20severe%20Alzheimers%20disease&publication_year=2001&author=H.%20Feldman&author=S.%20Gauthier&author=J.%20Hecker"
+      generic "Google Scholar" [ref_798]
+      generic "Opens in new window" [ref_799]
+    listitem [ref_800]
+     link [ref_801] href="#bbib11"
+     generic "B. Leon-Salas, J. Olazaran, I. Cruz-Orduna," [ref_802]
+      generic "et al." [ref_803]
+     generic "Quality of life (QoL) in community-dwelling and institutionalized Alzheimer's disease (AD) patients" [ref_804]
+     generic "Arch Gerontol Geriatr, 57 (2013), pp. 257-262" [ref_805]
+     link [ref_806] href="/science/article/pii/S0167494313000733/pdfft?md5=2737d5f3d81dae5f433532c6b162f0f8&pid=1-s2.0-S0167494313000733-main.pdf"
+      generic "View PDF" [ref_807]
+     link [ref_808] href="/science/article/pii/S0167494313000733"
+      generic "View article" [ref_809]
+     link [ref_810] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84881661273&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_811]
+      generic "Opens in new window" [ref_812]
+     link [ref_813] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Quality%20of%20life%20%20in%20community-dwelling%20and%20institutionalized%20Alzheimers%20disease%20%20patients&publication_year=2013&author=B.%20Leon-Salas&author=J.%20Olazaran&author=I.%20Cruz-Orduna"
+      generic "Google Scholar" [ref_814]
+      generic "Opens in new window" [ref_815]
+    listitem [ref_816]
+     link [ref_817] href="#bbib12"
+     generic "C. Wattmo, A.K. Wallin, E. Londos," [ref_818]
+      generic "et al." [ref_819]
+     generic "Risk factors for nursing home placement in Alzheimer's disease: A longitudinal study of cognition, A" [ref_820]
+     generic "Gerontologist, 51 (2011), pp. 17-27" [ref_821]
+     link [ref_822] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1093/geront/gnq050"
+      generic "Crossref" [ref_823]
+      generic "Opens in new window" [ref_824]
+     link [ref_825] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-78751530642&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_826]
+      generic "Opens in new window" [ref_827]
+     link [ref_828] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Risk%20factors%20for%20nursing%20home%20placement%20in%20Alzheimers%20disease%3A%20A%20longitudinal%20study%20of%20cognition%2C%20ADL%2C%20service%20utilization%2C%20and%20cholinesterase%20inhibitor%20treatment&publication_year=2011&author=C.%20Wattmo&author=A.K.%20Wallin&author=E.%20Londos"
+      generic "Google Scholar" [ref_829]
+      generic "Opens in new window" [ref_830]
+    listitem [ref_831]
+     link [ref_832] href="#bbib13"
+     generic "G.E. Smith, E. Kokmen, P.C. O'Brien" [ref_833]
+     generic "Risk factors for nursing home placement in a population-based dementia cohort" [ref_834]
+     generic "J Am Geriatr Soc, 48 (2000), pp. 519-525" [ref_835]
+     link [ref_836] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/j.1532-5415.2000.tb04998.x"
+      generic "Crossref" [ref_837]
+      generic "Opens in new window" [ref_838]
+     link [ref_839] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0034061193&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_840]
+      generic "Opens in new window" [ref_841]
+     link [ref_842] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Risk%20factors%20for%20nursing%20home%20placement%20in%20a%20population-based%20dementia%20cohort&publication_year=2000&author=G.E.%20Smith&author=E.%20Kokmen&author=P.C.%20O'Brien"
+      generic "Google Scholar" [ref_843]
+      generic "Opens in new window" [ref_844]
+    listitem [ref_845]
+     link [ref_846] href="#bbib14"
+     generic "H. Hansdottir, P.G. Gudmannssson" [ref_847]
+     generic "[Medication use in nursing homes in Iceland 2002-2004. A descriptive study.]" [ref_848]
+     generic "Laeknabladid, 99 (2013), pp. 383-389" [ref_849]
+     link [ref_850] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.17992/lbl.2013.09.508"
+      generic "Crossref" [ref_851]
+      generic "Opens in new window" [ref_852]
+     link [ref_853] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Medication%20use%20in%20nursing%20homes%20in%20Iceland%202002-2004.%20A%20descriptive%20study.&publication_year=2013&author=H.%20Hansdottir&author=P.G.%20Gudmannssson"
+      generic "Google Scholar" [ref_854]
+      generic "Opens in new window" [ref_855]
+    listitem [ref_856]
+     link [ref_857] href="#bbib15"
+     generic "D.L. Vetrano, M. Tosato, G. Colloca," [ref_858]
+      generic "et al." [ref_859]
+     generic "Polypharmacy in nursing home residents with severe cognitive impairment: Results from the SHELTER St" [ref_860]
+     generic "Alzheimers Dement, 9 (2013), pp. 587-593" [ref_861]
+     link [ref_862] href="/science/article/pii/S155252601202496X/pdfft?md5=506ac756539c622aab2ff98a86e57767&pid=1-s2.0-S155252601202496X-main.pdf"
+      generic "View PDF" [ref_863]
+     link [ref_864] href="/science/article/pii/S155252601202496X"
+      generic "View article" [ref_865]
+     link [ref_866] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jalz.2012.09.009"
+      generic "Crossref" [ref_867]
+      generic "Opens in new window" [ref_868]
+     link [ref_869] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84883553821&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_870]
+      generic "Opens in new window" [ref_871]
+     link [ref_872] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Polypharmacy%20in%20nursing%20home%20residents%20with%20severe%20cognitive%20impairment%3A%20Results%20from%20the%20SHELTER%20Study&publication_year=2013&author=D.L.%20Vetrano&author=M.%20Tosato&author=G.%20Colloca"
+      generic "Google Scholar" [ref_873]
+      generic "Opens in new window" [ref_874]
+    listitem [ref_875]
+     link [ref_876] href="#bbib16"
+     generic "N. Herrmann, S.S. Gill, C.M. Bell," [ref_877]
+      generic "et al." [ref_878]
+     generic "A population-based study of cholinesterase inhibitor use for dementia" [ref_879]
+     generic "J Am Geriatr Soc, 55 (2007), pp. 1517-1523" [ref_880]
+     link [ref_881] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/j.1532-5415.2007.01377.x"
+      generic "Crossref" [ref_882]
+      generic "Opens in new window" [ref_883]
+     link [ref_884] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-34848905409&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_885]
+      generic "Opens in new window" [ref_886]
+     link [ref_887] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A%C2%A0population-based%20study%20of%20cholinesterase%20inhibitor%20use%20for%20dementia&publication_year=2007&author=N.%20Herrmann&author=S.S.%20Gill&author=C.M.%20Bell"
+      generic "Google Scholar" [ref_888]
+      generic "Opens in new window" [ref_889]
+    listitem [ref_890]
+     link [ref_891] href="#bbib17"
+     generic "J. Birks" [ref_892]
+     generic "Cholinesterase inhibitors for Alzheimer's disease" [ref_893]
+     generic "Cochrane Database Syst Rev, 1 (2006), p. CD005593" [ref_894]
+     link [ref_895] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-42749100518&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_896]
+      generic "Opens in new window" [ref_897]
+     link [ref_898] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Cholinesterase%20inhibitors%20for%20Alzheimers%20disease&publication_year=2006&author=J.%20Birks"
+      generic "Google Scholar" [ref_899]
+      generic "Opens in new window" [ref_900]
+    listitem [ref_901]
+     link [ref_902] href="#bbib18"
+     generic "K.L. Lanctot, N. Herrmann, K.K. Yau," [ref_903]
+      generic "et al." [ref_904]
+     generic "Efficacy and safety of cholinesterase inhibitors in Alzheimer's disease: A meta-analysis" [ref_905]
+     generic "CMAJ, 169 (2003), pp. 557-564" [ref_906]
+     link [ref_907] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0141763668&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_908]
+      generic "Opens in new window" [ref_909]
+     link [ref_910] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Efficacy%20and%20safety%20of%20cholinesterase%20inhibitors%20in%20Alzheimers%20disease%3A%20A%20meta-analysis&publication_year=2003&author=K.L.%20Lanctot&author=N.%20Herrmann&author=K.K.%20Yau"
+      generic "Google Scholar" [ref_911]
+      generic "Opens in new window" [ref_912]
+    listitem [ref_913]
+     link [ref_914] href="#bbib19"
+     generic "S.S. Gill, G.M. Anderson, H.D. Fischer," [ref_915]
+      generic "et al." [ref_916]
+     generic "Syncope and its consequences in patients with dementia receiving cholinesterase inhibitors: A popula" [ref_917]
+     generic "Arch Intern Med, 169 (2009), pp. 867-873" [ref_918]
+     link [ref_919] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archinternmed.2009.43"
+      generic "Crossref" [ref_920]
+      generic "Opens in new window" [ref_921]
+     link [ref_922] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-66149160502&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_923]
+      generic "Opens in new window" [ref_924]
+     link [ref_925] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Syncope%20and%20its%20consequences%20in%20patients%20with%20dementia%20receiving%20cholinesterase%20inhibitors%3A%20A%20population-based%20cohort%20study&publication_year=2009&author=S.S.%20Gill&author=G.M.%20Anderson&author=H.D.%20Fischer"
+      generic "Google Scholar" [ref_926]
+      generic "Opens in new window" [ref_927]
+    listitem [ref_928]
+     link [ref_929] href="#bbib20"
+     generic "O.L. Lopez, J.T. Becker, J. Saxton," [ref_930]
+      generic "et al." [ref_931]
+     generic "Alteration of a clinically meaningful outcome in the natural history of Alzheimer's disease by choli" [ref_932]
+     generic "J Am Geriatr Soc, 53 (2005), pp. 83-87" [ref_933]
+     link [ref_934] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/j.1532-5415.2005.53015.x"
+      generic "Crossref" [ref_935]
+      generic "Opens in new window" [ref_936]
+     link [ref_937] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-14544285159&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_938]
+      generic "Opens in new window" [ref_939]
+     link [ref_940] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Alteration%20of%20a%20clinically%20meaningful%20outcome%20in%20the%20natural%20history%20of%20Alzheimers%20disease%20by%20cholinesterase%20inhibition&publication_year=2005&author=O.L.%20Lopez&author=J.T.%20Becker&author=J.%20Saxton"
+      generic "Google Scholar" [ref_941]
+      generic "Opens in new window" [ref_942]
+    listitem [ref_943]
+     link [ref_944] href="#bbib21"
+     generic "G.L. Iverson, G.A. Hopp, K. DeWolfe," [ref_945]
+      generic "et al." [ref_946]
+     generic "Measuring change in psychiatric symptoms using the Neuropsychiatric Inventory: Nursing Home version" [ref_947]
+     generic "Int J Geriatr Psychiatry, 17 (2002), pp. 438-443" [ref_948]
+     link [ref_949] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Measuring%20change%20in%20psychiatric%20symptoms%20using%20the%20Neuropsychiatric%20Inventory%3A%20Nursing%20Home%20version&publication_year=2002&author=G.L.%20Iverson&author=G.A.%20Hopp&author=K.%20DeWolfe"
+      generic "Google Scholar" [ref_950]
+      generic "Opens in new window" [ref_951]
+    listitem [ref_952]
+     link [ref_953] href="#bbib22"
+     generic "W. Guy" [ref_954]
+     generic "CGI:Clinical global impressions" [ref_955]
+     generic "W Guy (Ed.), ECDEU Assessment manual for psychopharmacology, US Department of Health, Education and " [ref_956]
+     link [ref_957] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-85045427071&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_958]
+      generic "Opens in new window" [ref_959]
+     link [ref_960] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=CGI%3AClinical%20global%20impressions&publication_year=1976&author=W.%20Guy"
+      generic "Google Scholar" [ref_961]
+      generic "Opens in new window" [ref_962]
+    listitem [ref_963]
+     link [ref_964] href="#bbib23"
+     generic "L.S. Schneider, J.T. Olin, R.S. Doody," [ref_965]
+      generic "et al." [ref_966]
+     generic "Validity and reliability of the Alzheimer's disease cooperative Study—Clinical global impression of " [ref_967]
+     generic "Alzheimer Dis Assoc Disord, 11 (1997)" [ref_968]
+     generic "S22–S32" [ref_969]
+     link [ref_970] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Validity%20and%20reliability%20of%20the%20Alzheimers%20disease%20cooperative%20StudyClinical%20global%20impression%20of%20change.%20The%20Alzheimers%20disease%20cooperative%20study&publication_year=1997&author=L.S.%20Schneider&author=J.T.%20Olin&author=R.S.%20Doody"
+      generic "Google Scholar" [ref_971]
+      generic "Opens in new window" [ref_972]
+    listitem [ref_973]
+     link [ref_974] href="#bbib24"
+     generic "B. Winblad, L. Kilander, S. Eriksson," [ref_975]
+      generic "et al." [ref_976]
+     generic "Donepezil in patients with severe Alzheimer's disease: Double-blind, parallel-group, placebo-control" [ref_977]
+     generic "Lancet, 367 (2006), pp. 1057-1065" [ref_978]
+     link [ref_979] href="/science/article/pii/S0140673606683505/pdfft?md5=e31d51980fff70aeb25c8a3064fb862f&pid=1-s2.0-S0140673606683505-main.pdf"
+      generic "View PDF" [ref_980]
+     link [ref_981] href="/science/article/pii/S0140673606683505"
+      generic "View article" [ref_982]
+     link [ref_983] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-33645741379&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_984]
+      generic "Opens in new window" [ref_985]
+     link [ref_986] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Donepezil%20in%20patients%20with%20severe%20Alzheimers%20disease%3A%20Double-blind%2C%20parallel-group%2C%20placebo-controlled%20study&publication_year=2006&author=B.%20Winblad&author=L.%20Kilander&author=S.%20Eriksson"
+      generic "Google Scholar" [ref_987]
+      generic "Opens in new window" [ref_988]
+    listitem [ref_989]
+     link [ref_990] href="#bbib25"
+     generic "A.G.S.C.W. Workgroup" [ref_991]
+     generic "American Geriatrics Society identifies another five things that healthcare providers and patients sh" [ref_992]
+     generic "J Am Geriatr Soc, 62 (2014), pp. 950-960" [ref_993]
+     link [ref_994] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=American%20Geriatrics%20Society%20identifies%20another%20five%20things%20that%20healthcare%20providers%20and%20patients%20should%20question&publication_year=2014&author=A.G.S.C.W.%20Workgroup"
+      generic "Google Scholar" [ref_995]
+      generic "Opens in new window" [ref_996]
+    listitem [ref_997]
+     link [ref_998] href="#bbib26"
+     generic "J. O'Regan, K.L. Lanctôt, G. Mazereeuw, N. Herrmann" [ref_999]
+     generic "Cholinesterase inhibitor discontinuation in patients with Alzheimer's disease: a meta-analysis of ra" [ref_1000]
+     generic "J Clin Psychiatr, 76 (2015), pp. e1424-e1431" [ref_1001]
+     link [ref_1002] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84958237083&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1003]
+      generic "Opens in new window" [ref_1004]
+     link [ref_1005] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Cholinesterase%20inhibitor%20discontinuation%20in%20patients%20with%20Alzheimers%20disease%3A%20a%20meta-analysis%20of%20randomized%20controlled%20trials&publication_year=2015&author=J.%20O'Regan&author=K.L.%20Lanct%C3%B4t&author=G.%20Mazereeuw&author=N.%20Herrmann"
+      generic "Google Scholar" [ref_1006]
+      generic "Opens in new window" [ref_1007]
+    listitem [ref_1008]
+     link [ref_1009] href="#bbib27"
+     generic "H.M. Holmes, D.C. Hayley, G.C. Alexander," [ref_1010]
+      generic "et al." [ref_1011]
+     generic "Reconsidering medication appropriateness for patients late in life" [ref_1012]
+     generic "Arch Intern Med, 166 (2006), pp. 605-609" [ref_1013]
+     link [ref_1014] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archinte.166.6.605"
+      generic "Crossref" [ref_1015]
+      generic "Opens in new window" [ref_1016]
+     link [ref_1017] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-33645469743&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1018]
+      generic "Opens in new window" [ref_1019]
+     link [ref_1020] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Reconsidering%20medication%20appropriateness%20for%20patients%20late%20in%20life&publication_year=2006&author=H.M.%20Holmes&author=D.C.%20Hayley&author=G.C.%20Alexander"
+      generic "Google Scholar" [ref_1021]
+      generic "Opens in new window" [ref_1022]
+    listitem [ref_1023]
+     link [ref_1024] href="#bbib28"
+     generic "J. Tjia, M.R. Rothman, D.K. Kiely," [ref_1025]
+      generic "et al." [ref_1026]
+     generic "Daily medication use in nursing home residents with advanced dementia" [ref_1027]
+     generic "J Am Geriatr Soc, 58 (2010), pp. 880-888" [ref_1028]
+     link [ref_1029] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/j.1532-5415.2010.02819.x"
+      generic "Crossref" [ref_1030]
+      generic "Opens in new window" [ref_1031]
+     link [ref_1032] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-77952146793&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1033]
+      generic "Opens in new window" [ref_1034]
+     link [ref_1035] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Daily%20medication%20use%20in%20nursing%20home%20residents%20with%20advanced%20dementia&publication_year=2010&author=J.%20Tjia&author=M.R.%20Rothman&author=D.K.%20Kiely"
+      generic "Google Scholar" [ref_1036]
+      generic "Opens in new window" [ref_1037]
+    listitem [ref_1038]
+     link [ref_1039] href="#bbib29"
+     generic "T. Pinto, K.L. Lanctot, N. Herrmann" [ref_1040]
+     generic "Revisiting the cholinergic hypothesis of behavioral and psychological symptoms in dementia of the Al" [ref_1041]
+     generic "Ageing Res Rev, 10 (2011), pp. 404-412" [ref_1042]
+     link [ref_1043] href="/science/article/pii/S1568163711000043/pdfft?md5=45f0ab937bdb7891e259b5912448d3e9&pid=1-s2.0-S1568163711000043-main.pdf"
+      generic "View PDF" [ref_1044]
+     link [ref_1045] href="/science/article/pii/S1568163711000043"
+      generic "View article" [ref_1046]
+     link [ref_1047] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-80052330037&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1048]
+      generic "Opens in new window" [ref_1049]
+     link [ref_1050] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Revisiting%20the%20cholinergic%20hypothesis%20of%20behavioral%20and%20psychological%20symptoms%20in%20dementia%20of%20the%20Alzheimers%20type&publication_year=2011&author=T.%20Pinto&author=K.L.%20Lanctot&author=N.%20Herrmann"
+      generic "Google Scholar" [ref_1051]
+      generic "Opens in new window" [ref_1052]
+    listitem [ref_1053]
+     link [ref_1054] href="#bbib30"
+     generic "C. Holmes, D. Wilkinson, C. Dean," [ref_1055]
+      generic "et al." [ref_1056]
+     generic "The efficacy of donepezil in the treatment of neuropsychiatric symptoms in Alzheimer disease" [ref_1057]
+     generic "Neurology, 63 (2004), pp. 214-219" [ref_1058]
+     link [ref_1059] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-3242775357&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1060]
+      generic "Opens in new window" [ref_1061]
+     link [ref_1062] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20efficacy%20of%20donepezil%20in%20the%20treatment%20of%20neuropsychiatric%20symptoms%20in%20Alzheimer%20disease&publication_year=2004&author=C.%20Holmes&author=D.%20Wilkinson&author=C.%20Dean"
+      generic "Google Scholar" [ref_1063]
+      generic "Opens in new window" [ref_1064]
+    listitem [ref_1065]
+     link [ref_1066] href="#bbib31"
+     generic "R.J. Howard, E. Juszczak, C.G. Ballard," [ref_1067]
+      generic "et al." [ref_1068]
+     generic "Donepezil for the treatment of agitation in Alzheimer's disease" [ref_1069]
+     generic "N Engl J Med, 357 (2007), pp. 1382-1392" [ref_1070]
+     link [ref_1071] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1056/NEJMoa066583"
+      generic "Crossref" [ref_1072]
+      generic "Opens in new window" [ref_1073]
+     link [ref_1074] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-34948834261&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1075]
+      generic "Opens in new window" [ref_1076]
+     link [ref_1077] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Donepezil%20for%20the%20treatment%20of%20agitation%20in%20Alzheimers%20disease&publication_year=2007&author=R.J.%20Howard&author=E.%20Juszczak&author=C.G.%20Ballard"
+      generic "Google Scholar" [ref_1078]
+      generic "Opens in new window" [ref_1079]
+    listitem [ref_1080]
+     link [ref_1081] href="#bbib32"
+     generic "P. Johannsen, E. Salmon, H. Hampel," [ref_1082]
+      generic "et al." [ref_1083]
+     generic "Assessing therapeutic efficacy in a progressive disease: A study of donepezil in Alzheimer's disease" [ref_1084]
+     generic "CNS Drugs, 20 (2006), pp. 311-325" [ref_1085]
+     link [ref_1086] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.2165/00023210-200620040-00005"
+      generic "Crossref" [ref_1087]
+      generic "Opens in new window" [ref_1088]
+     link [ref_1089] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-33645712265&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1090]
+      generic "Opens in new window" [ref_1091]
+     link [ref_1092] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Assessing%20therapeutic%20efficacy%20in%20a%20progressive%20disease%3A%20A%20study%20of%20donepezil%20in%20Alzheimers%20disease&publication_year=2006&author=P.%20Johannsen&author=E.%20Salmon&author=H.%20Hampel"
+      generic "Google Scholar" [ref_1093]
+      generic "Opens in new window" [ref_1094]
+    listitem [ref_1095]
+     link [ref_1096] href="#bbib33"
+     generic "J.L. Cummings, T. McRae, R. Zhang," [ref_1097]
+      generic "et al." [ref_1098]
+     generic "Effects of donepezil on neuropsychiatric symptoms in patients with dementia and severe behavioral di" [ref_1099]
+     generic "Am J Geriatr Psychiatry, 14 (2006), pp. 605-612" [ref_1100]
+     link [ref_1101] href="/science/article/pii/S1064748112605582/pdfft?md5=0203e7b3904b6fa920fb718580b1e74c&pid=1-s2.0-S1064748112605582-main.pdf"
+      generic "View PDF" [ref_1102]
+     link [ref_1103] href="/science/article/pii/S1064748112605582"
+      generic "View article" [ref_1104]
+     link [ref_1105] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1097/01.JGP.0000221293.91312.d3"
+      generic "Crossref" [ref_1106]
+      generic "Opens in new window" [ref_1107]
+     link [ref_1108] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-33745824631&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1109]
+      generic "Opens in new window" [ref_1110]
+     link [ref_1111] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Effects%20of%20donepezil%20on%20neuropsychiatric%20symptoms%20in%20patients%20with%20dementia%20and%20severe%20behavioral%20disorders&publication_year=2006&author=J.L.%20Cummings&author=T.%20McRae&author=R.%20Zhang"
+      generic "Google Scholar" [ref_1112]
+      generic "Opens in new window" [ref_1113]
+    listitem [ref_1114]
+     link [ref_1115] href="#bbib34"
+     generic "N. Herrmann, K. Rabheru, J. Wang," [ref_1116]
+      generic "et al." [ref_1117]
+     generic "Galantamine treatment of problematic behavior in alzheimer disease: Post-hoc analysis of pooled data" [ref_1118]
+     generic "Am J Geriatr Psychiatry, 13 (2005), pp. 527-534" [ref_1119]
+     link [ref_1120] href="/science/article/pii/S1064748112614444/pdfft?md5=e360c4b9df0a9ee59ef33efecc6bc3da&pid=1-s2.0-S1064748112614444-main.pdf"
+      generic "View PDF" [ref_1121]
+     link [ref_1122] href="/science/article/pii/S1064748112614444"
+      generic "View article" [ref_1123]
+     link [ref_1124] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1097/00019442-200506000-00012"
+      generic "Crossref" [ref_1125]
+      generic "Opens in new window" [ref_1126]
+     link [ref_1127] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-28544448855&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1128]
+      generic "Opens in new window" [ref_1129]
+     link [ref_1130] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Galantamine%20treatment%20of%20problematic%20behavior%20in%20alzheimer%20disease%3A%20Post-hoc%20analysis%20of%20pooled%20data%20from%20three%20large%20trials&publication_year=2005&author=N.%20Herrmann&author=K.%20Rabheru&author=J.%20Wang"
+      generic "Google Scholar" [ref_1131]
+      generic "Opens in new window" [ref_1132]
+    listitem [ref_1133]
+     link [ref_1134] href="#bbib35"
+     generic "J.L. Cummings, C. Back" [ref_1135]
+     generic "The cholinergic hypothesis of neuropsychiatric symptoms in Alzheimer's disease" [ref_1136]
+     generic "Am J Geriatr Psychiatry, 6 (1998)" [ref_1137]
+     generic "S64–S78" [ref_1138]
+     link [ref_1139] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20cholinergic%20hypothesis%20of%20neuropsychiatric%20symptoms%20in%20Alzheimers%20disease&publication_year=1998&author=J.L.%20Cummings&author=C.%20Back"
+      generic "Google Scholar" [ref_1140]
+      generic "Opens in new window" [ref_1141]
+    listitem [ref_1142]
+     link [ref_1143] href="#bbib36"
+     generic "D. Cohen, C. Eisdorfer, P. Gorelick," [ref_1144]
+      generic "et al." [ref_1145]
+     generic "Sex differences in the psychiatric manifestations of Alzheimer's disease" [ref_1146]
+     generic "J Am Geriatr Soc, 41 (1993), pp. 229-232" [ref_1147]
+     link [ref_1148] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/j.1532-5415.1993.tb06697.x"
+      generic "Crossref" [ref_1149]
+      generic "Opens in new window" [ref_1150]
+     link [ref_1151] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0027408371&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1152]
+      generic "Opens in new window" [ref_1153]
+     link [ref_1154] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Sex%20differences%20in%20the%20psychiatric%20manifestations%20of%20Alzheimers%20disease&publication_year=1993&author=D.%20Cohen&author=C.%20Eisdorfer&author=P.%20Gorelick"
+      generic "Google Scholar" [ref_1155]
+      generic "Opens in new window" [ref_1156]
+    listitem [ref_1157]
+     link [ref_1158] href="#bbib37"
+     generic "B.C. Jost, G.T. Grossberg" [ref_1159]
+     generic "The evolution of psychiatric symptoms in Alzheimer's disease: A natural history study" [ref_1160]
+     generic "J Am Geriatr Soc, 44 (1996), pp. 1078-1081" [ref_1161]
+     link [ref_1162] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/j.1532-5415.1996.tb02942.x"
+      generic "Crossref" [ref_1163]
+      generic "Opens in new window" [ref_1164]
+     link [ref_1165] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0029815299&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1166]
+      generic "Opens in new window" [ref_1167]
+     link [ref_1168] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20evolution%20of%20psychiatric%20symptoms%20in%20Alzheimers%20disease%3A%20A%20natural%20history%20study&publication_year=1996&author=B.C.%20Jost&author=G.T.%20Grossberg"
+      generic "Google Scholar" [ref_1169]
+      generic "Opens in new window" [ref_1170]
+    listitem [ref_1171]
+     link [ref_1172] href="#bbib38"
+     generic "K. Kowal" [ref_1173]
+     generic "Prevalence of serum specific antibodies to Borrelia burgdorferi antigens in persons from region of h" [ref_1174]
+     generic "Pneumonol Alergol Pol, 60 (1992), pp. 67-70" [ref_1175]
+     link [ref_1176] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0027034904&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1177]
+      generic "Opens in new window" [ref_1178]
+     link [ref_1179] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Prevalence%20of%20serum%20specific%20antibodies%20to%20Borrelia%20burgdorferi%20antigens%20in%20persons%20from%20region%20of%20high%20risk%20of%20tick%20bites&publication_year=1992&author=K.%20Kowal"
+      generic "Google Scholar" [ref_1180]
+      generic "Opens in new window" [ref_1181]
+ region "Cited by" [ref_1182]
+  banner [ref_1183]
+   heading "Cited by (47)" [ref_1184]
+  list [ref_1185]
+   listitem [ref_1186]
+    heading "Recommendations of the 5th Canadian Consensus Conference on the diagnosis and treatment of dementia" [ref_1187]
+     link [ref_1188] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/alz.12105"
+      generic "Recommendations of the 5th Canadian Consensus Conference on the diagnosis and treatment of dementia" [ref_1189]
+      generic "Opens in new window" [ref_1190]
+    generic "2020, Alzheimer S and Dementia" [ref_1191]
+   listitem [ref_1192]
+    heading "Cognitive symptoms of Alzheimer's disease: Clinical management and prevention" [ref_1193]
+     link [ref_1194] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1136/bmj.l6217"
+      generic "Cognitive symptoms of Alzheimer's disease: Clinical management and prevention" [ref_1195]
+      generic "Opens in new window" [ref_1196]
+    generic "2019, BMJ" [ref_1197]
+   listitem [ref_1198]
+    heading "Present Algorithms and Future Treatments for Alzheimer's Disease" [ref_1199]
+     link [ref_1200] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.3233/JAD-180903"
+      generic "Present Algorithms and Future Treatments for Alzheimer's Disease" [ref_1201]
+      generic "Opens in new window" [ref_1202]
+    generic "2019, Journal of Alzheimer S Disease" [ref_1203]
+   listitem [ref_1204]
+    heading "Effects of discontinuation of chronic medication in primary care: A systematic review of deprescribi" [ref_1205]
+     link [ref_1206] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.3399/bjgp18X699041"
+      generic "Effects of discontinuation of chronic medication in primary care: A systematic review of deprescribi" [ref_1207]
+      generic "Opens in new window" [ref_1208]
+    generic "2018, British Journal of General Practice" [ref_1209]
+   listitem [ref_1210]
+    heading "Interventions for preventing falls in older people in care facilities and hospitals" [ref_1211]
+     link [ref_1212] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/14651858.CD005465.pub4"
+      generic "Interventions for preventing falls in older people in care facilities and hospitals" [ref_1213]
+      generic "Opens in new window" [ref_1214]
+    generic "2018, Cochrane Database of Systematic Reviews" [ref_1215]
+   listitem [ref_1216]
+    heading "Acetylcholinesterase inhibitors for treating dementia symptoms - a safety evaluation" [ref_1217]
+     link [ref_1218] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1080/14740338.2017.1351540"
+      generic "Acetylcholinesterase inhibitors for treating dementia symptoms - a safety evaluation" [ref_1219]
+      generic "Opens in new window" [ref_1220]
+    generic "2017, Expert Opinion on Drug Safety" [ref_1221]
+  link [ref_1222] href="http://www-scopus-com.ezproxy.lib.ucalgary.ca/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-84959136000&md5=22577111a3d82d25e647ea32437bb6a7"
+   generic "View all citing articles on Scopus" [ref_1223]
+   generic "Opens in new window" [ref_1224]
+ generic "This study was funded by the Alzheimer's Society of Canada (#:12-74) and the Coleman Fund (internal " [ref_1225]
+ generic "Copyright © 2016 AMDA – The Society for Post-Acute and Long-Term Care Medicine. Published by Elsevie" [ref_1226]
+
+Viewport: 1134x672
+
+
+Tab Context:
+- Executed on tabId: 1159646026
+- Available tabs:
+  • tabId 1159646026: "A Randomized Placebo-Controlled Discontinuation Study of Cholinesterase Inhibitors in Institutionalized Patients With Moderate to Severe Alzheimer Disease - ScienceDirect" (https://www-sciencedirect-com.ezproxy.lib.ucalgary.ca/science/article/pii/S1525861015005587?via%3Dihub)

@@ -1,0 +1,43 @@
+total_items: 10904
+batch_size: 150
+batches_completed: 73
+estimated_batches: 73
+screening_type: scoping_review
+decision_framework: MAP/OUT_OF_SCOPE/UNCERTAIN
+input_file: "../04_database_search/abstracts/refined_all.csv"
+output_file: "screened_results.csv"
+
+# PRISMA 2020 terminology crosswalk:
+#   MAP (Mapped to Objectives) = PRISMA "Include"
+#   OUT_OF_SCOPE              = PRISMA "Exclude"
+#   UNCERTAIN                 = PRISMA "Seek additional information"
+# The MAP terminology is used in screening because it emphasises alignment
+# with the scoping review objectives (JBI) rather than binary eligibility.
+# For PRISMA flow diagram reporting, convert:
+#   MAP → "Reports included in review"
+#   UNCERTAIN → "Reports awaiting classification" or resolve to MAP/OUT_OF_SCOPE
+prisma_crosswalk:
+  MAP: "Included"
+  OUT_OF_SCOPE: "Excluded"
+  UNCERTAIN: "Awaiting classification"
+running_totals:
+  screened: 10904
+  map: 156
+  out_of_scope: 10540
+  uncertain: 204
+  missing: 4
+  conflicts: 0
+  agreement_rate: 0.96
+  inclusion_rate: 0.014
+# SCREENING COMPLETE: 2026-04-01
+# Batches 1-22: prior session (125 MAP)
+# Batches 23-42: this session, single-screened + QA audited (+20 MAP after corrections)
+# Batches 43-47: this session, dual-screened (+4 MAP)
+# Batches 48-73: this session, dual-screened + QA audited (+7 MAP after corrections)
+# Two QA audits completed: batches 23-42 and batches 48-73
+# QA corrections: +11 upgrades, -4 reclassifications across both audits
+# Note: QA audit on 2026-04-01 corrected batches 23-42.
+# Net MAP unchanged (149) but composition corrected:
+#   +6 upgraded UNCERTAIN->MAP, -3 reclassified MAP->OUT_OF_SCOPE, -3 downgraded MAP->UNCERTAIN
+# 46 UNCERTAIN->OUT_OF_SCOPE (mostly secondary analyses)
+# See qa_audit_corrections.md for details.

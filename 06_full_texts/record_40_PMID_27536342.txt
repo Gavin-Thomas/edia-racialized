@@ -1,0 +1,47 @@
+RECORD: #40
+PMID: 27536342
+PMCID: PMC4971598
+TITLE: A randomized, double-blind, cross-over, phase IV trial of oros-methylphenidate (CONCERTA) and generic novo-methylphenidate ER-C (NOVO-generic)
+AUTHORS AND AFFILIATIONS:
+- Angelo Fallu - Clinique Woodward, DIEX Research Inc., Sherbrooke, QC, Canada (corresponding author)
+- Farida Dabouz - FB2D Clinical Research Consulting, Montreal, Quebec, Canada
+- Melissa Furtado - START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada
+- Leena Anand - START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada
+- Martin A Katzman - START Clinic for Mood and Anxiety Disorders, Toronto, ON, Canada; The Northern Ontario School of Medicine, Thunder Bay, ON, Canada; Department of Psychology, Lakehead University, Thunder Bay, ON, Canada; University of Toronto, Toronto, ON, Canada; Adler Graduate Professional School, Toronto ON, Canada
+TRIAL REGISTRATION: No trial registration identifier mentioned
+FUNDING: No specific grant from any funding agency in the public, commercial, or not-for-profit sectors
+
+METHODS:
+Study design: Randomized, double-blind, cross-over, single-center, phase IV trial. Performed at DIEX Research Inc., Sherbrooke, Quebec from July to November 2010. After screening, eligible adults randomized 1:1 to 3 weeks of CONCERTA at current daily dose (36-90 mg) or generic novo-methylphenidate ER-C (NOVO-generic). After first 3-week period, crossed over to the other treatment for additional 3 weeks. No washout between periods. Assessed at baseline and end of each 3-week period. Total study duration 6-7 weeks.
+
+Randomization generated using SAS, provided to unblinded pharmacist outside investigator site who prepared study medication. Both medications placed in white opaque capsules to maintain blind. Neither investigator, research team, nor subjects knew allocation. No formal sample size calculation; 20 subjects based on available ADHD population. Crossover design to gain benefit of subject as own control. Conducted per Declaration of Helsinki and ICH Good Clinical Practice. Independent IRB approved the protocol.
+
+Patients: 20 eligible adults (aged 18-55 years) with primary DSM-IV adult ADHD diagnosis confirmed via clinical interview. Must have been taking CONCERTA >3 months with stable dose (36-90 mg) for >=4 weeks, with significant clinical benefit at screening (CGI-S <=3). Exclusion: unstable psychiatric comorbidities, substance use disorder (except nicotine/caffeine) within 6 months, marked anxiety/tension/aggression, autism/Asperger's, Tourette's/motor tics, hyperthyroidism, recent MI/stroke, seizure disorder, glaucoma, uncontrolled hypertension, other ADHD medications, benzodiazepines, antihistamines.
+
+Outcome measures: Primary: change in Treatment Satisfaction Questionnaire for Medication (TSQM-II) scores monitoring patient satisfaction including effectiveness, convenience, side effects, global satisfaction. Secondary: Adult ADHD Quality of Life (AAQoL), Adult ADHD Self-Report Scale (ASRS-1.1), Sheehan Disability Scale (SDS), Quality of Life Enjoyment and Satisfaction Questionnaire Short Form (Q-LES-Q-SF), SF-36, CGI-Improvement, CGI-Severity. Safety: AE monitoring, suicidality screening.
+
+Statistical analysis: Linear mixed effects ANOVA model including treatment, period and sequence as fixed effects, patient as random effect. Two-sided tests at significance 0.05. No imputation of missing data. No adjustment for multiple comparisons.
+
+RESULTS:
+Demographics: 20 patients enrolled: 11 female, 9 male, median age 45.5 years (range 25-53). Six patients randomized to CONCERTA/novo-MPH group, remainder to novo-MPH/CONCERTA. 6 (30%) withdrew prematurely during treatment; 5 while receiving novo-MPH, 1 withdrew consent. 19 patients included in efficacy analysis. 16 patients had combined ADHD, 4 inattentive ADHD. 11 had no past conditions; 3 had past depression, 1 adjustment disorder with depression, 2 anxiety, 1 burnout. Median treatment duration with ADHD medication: 24 months; with CONCERTA: 18.5 months.
+
+Primary efficacy: TSQM-II Effectiveness: CONCERTA change from baseline not significant (p=0.5852), indicating continued satisfaction. Novo-MPH showed significant decrease in effectiveness satisfaction (p<0.0037). Difference significant in favor of CONCERTA (p=0.0433). TSQM-II Side Effects: Novo-MPH patients significantly more dissatisfied (p=0.0001); significant between-group difference favoring CONCERTA (p=0.0321). Global Satisfaction: Significant decrease with novo-MPH (p=0.0004), no significant change with CONCERTA.
+
+Secondary efficacy: CGI-S: Patients rated severity median 3 (mildly ill) on CONCERTA vs median 4 (moderately ill) on novo-MPH. Novo-MPH increase in severity significant (p=0.0007). Investigator-rated CGI-S significantly different (p=0.0100). CGI-I significantly more favorable for CONCERTA (p=0.0412). SDS: Novo-MPH showed significant increased functional impairment in all domains; social life disruption significantly worse vs CONCERTA (p=0.0428). Q-LES-Q-SF: Significant decrease in satisfaction with novo-MPH (p=0.0004/0.0005); significant differences favoring CONCERTA (p=0.0443/0.0400). ASRS-1.1: Significant increase in inattention with novo-MPH (p=0.0039); significant difference favoring CONCERTA (p=0.0267). AAQoL: Significant decrease in all subscales with novo-MPH; Life Outlook significantly different between treatments (p=0.0446).
+
+Safety: 17 subjects reported 77 AEs, 10 unrelated to study drug. Most common with novo-MPH: ADHD exacerbation (59%), fatigue (29%), nausea (18%), dizziness (18%). With CONCERTA: fatigue, ADHD exacerbation, irritability (13% each).
+
+EDIA/EQUITY REPORTING:
+Sex/Gender: 11 female, 9 male
+Age: Median 45.5 years (range 25-53); inclusion 18-55 years
+ADHD Subtypes: 16 combined, 4 inattentive
+Past Psychiatric History: Depression (3), adjustment disorder with depression (1), anxiety (2), burnout (1)
+Race/Ethnicity: NOT REPORTED
+SES/Education: NOT REPORTED
+Other PROGRESS-Plus: NOT REPORTED (no reporting on Indigenous status, SOGI, disability, rural/urban, immigration, language, religion)
+
+CANADIAN INVOLVEMENT:
+Canadian Site: DIEX Research Inc., Sherbrooke, Quebec, Canada (sole study site - entirely Canadian trial)
+Canadian Authors: All authors are from Canadian institutions. Angelo Fallu (Sherbrooke, QC); Farida Dabouz (Montreal, QC); Melissa Furtado, Leena Anand, Martin A Katzman (Toronto, ON; Thunder Bay, ON)
+Canadian Funding: No specific funding reported - study was unfunded/self-initiated
+Canadian Context: References Canadian ADHD Resource Alliance (CADDRA) guidelines and Health Canada approval/bioequivalence criteria for generic methylphenidate

@@ -1,0 +1,155 @@
+id,title,final_decision,category,vote_count,conflict_flag,reconciliation_notes
+35432560,Effects of Jie Yu Wan on Generalized Anxiety Disorder: A Randomized Clinical Trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34633141,Effects of an evidence-based nursing intervention on prevention of anxiety and depression in the postpartum period.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+32739466,Lavender and dodder combined herbal syrup versus citalopram in major depressive disorder with anxious distress: A double-blind randomized trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35088753,Comparative Effectiveness of Transcutaneous Auricular Vagus Nerve Stimulation vs Citalopram for Major Depressive Disorder: A Randomized Trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35887711,Cognitive Stimulation as Alternative Treatment to Improve Psychological Disorders in Patients with Mild Cognitive Impairment.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+34513348,A Phase III Prospective Active and Placebo-Controlled Randomized Trial of Vilazodone in the Treatment of Major Depressive Disorder.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+39281359,Gene-based drug therapy for children and youth treated with psychoactive medications.,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+33354769,Reducing the rate of psychiatric re-admissions in bipolar disorder using smartphones-The RADMIS trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+37120920,Cost-effectiveness of flexible take-home buprenorphine-naloxone versus methadone for treatment of prescription-type opioid use disorder.,OUT_OF_SCOPE,substance-use-pharma,2,Y,Conflict: UNCERTAIN vs OUT_OF_SCOPE -> OUT_OF_SCOPE
+37070114,"Comparison of the potency of nortriptyline and mirtazapine on gastrointestinal symptoms, the level of anxiety and depression in patients with functional dyspepsia.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34835987,Psychophysiological Effects of Lactobacillus plantarum PS128 in Patients with Major Depressive Disorder: A Preliminary 8-Week Open Trial.,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+40986221,Thymoquinone regulates RSL3-induced ferroptosis in the alzheimer mouse hippocampus.,OUT_OF_SCOPE,animal,2,N,Agreement
+34797324,Efficacy of sequential N-butylphthalide therapy on psychiatric and behavioral functions in acute ischemic stroke.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+33889094,Treatment for Major Depressive Disorder by Repetitive Transcranial Magnetic Stimulation in Different Parameters: A Randomized Double-Blinded Controlled Trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+31931894,"Effectiveness of mirtazapine as add-on to paroxetine v. paroxetine or mirtazapine monotherapy in patients with major depressive disorder with early non-response to paroxetine: a two-phase, multicentre, randomized, double-blind clinical trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34307020,"Electroacupuncture plus moxibustion for major depressive disorder: A randomized, sham-controlled, pilot clinical trial.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+34627009,"Pentoxifylline for treatment of major depression after percutaneous coronary intervention or coronary artery bypass grafting: A randomized, double-blind, placebo-controlled trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34635144,Huatan Dingji Decoction intervening in atrial fibrillation: protocol for a randomized double-blind single-simulated placebo-controlled clinical trial.,OUT_OF_SCOPE,non-MH,2,N,Agreement
+36172511,Program for education and enrichment of relational skills (PEERS) training for social skills and depressed mood intervention in young adult with depression: Study protocol for a randomized controlled trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+36331353,"Outpatient mental health service use in major trauma survivors: A population-based cohort study from Ontario, Canada.",OUT_OF_SCOPE,non-RCT,2,N,Agreement
+34054983,"Efficacy of Gemfibrozil as an Adjunct to Sertraline in Major Depressive Disorder, A Double-Blind, Randomized, and Placebo-Controlled Clinical Trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32332464,Body Mass Index as a Moderator of Treatment Response to Ketamine for Major Depressive Disorder.,OUT_OF_SCOPE,secondary-analysis,2,Y,Conflict: UNCERTAIN vs OUT_OF_SCOPE -> OUT_OF_SCOPE
+32876128,Improvement in borderline personality disorder symptomatology after repetitive transcranial magnetic stimulation of the dorsomedial prefrontal cortex: preliminary results.,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener B (best ratio: 0.42)
+36307858,High-definition transcranial direct current stimulation (HD-tDCS) as augmentation therapy in late-life depression (LLD) with suboptimal response to treatment-a study protocol for a double-blinded randomized sham-controlled trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+,The effect of music to improve sleep quality in depression related insomnia,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+36037586,"Buprenorphine/naloxone and methadone effectiveness for reducing craving in individuals with prescription opioid use disorder: Exploratory results from an open-label, pragmatic randomized controlled trial.",OUT_OF_SCOPE,substance-use-pharma,2,Y,Conflict: UNCERTAIN vs OUT_OF_SCOPE -> OUT_OF_SCOPE
+32091557,Effect of Osteopathic Manipulative Therapy on Generalized Anxiety Disorder.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+36948325,"Zishen pingchan granules combined with pramipexole in the improvement of depressive symptoms in Parkinson's disease: a prospective, multicenter, randomized, double-blind, controlled clinical study.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35467962,"Breathing and Relaxation Exercises Help Improving Fear of COVID-19, Anxiety, and Sleep Quality: A Randomized Controlled Trial.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+28969438,Adjunctive Bright Light Therapy for Bipolar Depression: A Randomized Double-Blind Placebo-Controlled Trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+36798983,Objective sleep duration and response to combined pharmacotherapy and cognitive behavioral insomnia therapy among patients with comorbid depression and insomnia: a report from the TRIAD study.,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+35378149,"Patient-reported health-related quality of life from a randomized, placebo-controlled phase 2 trial of zuranolone in adults with major depressive disorder.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32725102,N-acetylcysteine as an adjunctive treatment for smoking cessation: a randomized clinical trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35702828,"Flexible Buprenorphine/Naloxone Model of Care for Reducing Opioid Use in Individuals With Prescription-Type Opioid Use Disorder: An Open-Label, Pragmatic, Noninferiority Randomized Controlled Trial.",UNCERTAIN,substance-use-pharma,2,Y,Conflict: UNCERTAIN vs MAP -> UNCERTAIN
+33340432,A 52-week prophylactic randomised control trial of omega-3 polyunsaturated fatty acids in bipolar disorder.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+,Effect of Citicoline on Memory Function in Healthy Order Adults,OUT_OF_SCOPE,non-MH,2,N,Agreement
+36612412,The Effects of Adding Art Therapy to Ongoing Antidepressant Treatment in Moderate-to-Severe Major Depressive Disorder: A Randomized Controlled Study.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+38498628,Lemborexant (Dayvigo): CADTH Reimbursement Recommendation,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+32063564,"L-Carnosine combination therapy for major depressive disorder: A randomized, double-blind, placebo-controlled trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+31108379,Efficacy of cognitive behavioural therapy with medication for patients with obsessive-compulsive disorder: A multicentre randomised controlled trial in China.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32194251,Slow release oral morphine versus methadone for opioid use disorder in the fentanyl era (pRESTO): Protocol for a non-inferiority randomized clinical trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+33965268,Differences in the Associations between Body Dissatisfaction and Eating Outcomes by Gender? A Lebanese Population Study.,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+32379661,Integrative therapy (short-term psychodynamic psychotherapy & cognitive-behavioral therapy) and cognitive-behavioral therapy in the treatment of generalized anxiety disorder: A randomized controlled trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+35379314,A randomised controlled trial investigating the clinical and cost-effectiveness of Alpha-Stim AID cranial electrotherapy stimulation (CES) in patients seeking treatment for moderate severity depression in primary care (Alpha-Stim-D Trial).,OUT_OF_SCOPE,protocol,2,N,Agreement
+35712892,Impact of fentanyl use on initiation and discontinuation of methadone and buprenorphine/naloxone among people with prescription-type opioid use disorder: secondary analysis of a Canadian treatment trial.,OUT_OF_SCOPE,secondary-analysis,2,Y,Conflict: UNCERTAIN vs OUT_OF_SCOPE -> OUT_OF_SCOPE
+33247483,"Efficacy and safety of tipepidine as adjunctive therapy in major depressive disorder: A randomized, double-blind, placebo-controlled clinical trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32379216,"The effects of a new, improved Chinese medicine, Gengnianchun formula granules, on hot flushes, depression, anxiety, and sleep in Chinese peri- and postmenopausal women: a randomized placebo-controlled trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36117757,Effect of green tea consumption in treatment of mild to moderate depression in Iranian patients living with HIV: A double-blind randomized clinical trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36842964,"Early outcomes, associated factors and predictive values of clinical outcomes of tandospirone in generalized anxiety disorder: a post-hoc analysis of a randomized, controlled, multicenter clinical trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36761867,The effect of cognitive behavioral therapy on future thinking in patients with major depressive disorder: A randomized controlled trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+32936085,User Experience and Effects of an Individually Tailored Transdiagnostic Internet-Based and Mobile-Supported Intervention for Anxiety Disorders: Mixed-Methods Study.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+31728244,"Efficacy and Safety of Ashwagandha (Withania somnifera) Root Extract in Insomnia and Anxiety: A Double-blind, Randomized, Placebo-controlled Study.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36484844,"Antidepressant effects of prolonged intermittent theta-burst stimulation monotherapy at the bilateral dorsomedial prefrontal cortex for medication and standard transcranial magnetic stimulation-resistant major depression: a three arm, randomized, double blind, sham-controlled pilot study.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+35654766,"Clinical, gut microbial and neural effects of a probiotic add-on therapy in depressed patients: a randomized controlled trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+38179224,Research hotspots and trends on neuropathic pain-related mood disorders: a bibliometric analysis from 2003 to 2023.,OUT_OF_SCOPE,review,2,N,Agreement
+31609787,"OnabotulinumtoxinA for the treatment of major depressive disorder: a phase 2 randomized, double-blind, placebo-controlled trial in adult females.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34082074,Individualized prescribing portraits to reduce inappropriate initiation of opioid analgesics to opioid naïve patients in primary care: Protocol for a randomized controlled trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+39300064,Local ionic transport enables selective PGM-free bipolar membrane electrode assembly.,OUT_OF_SCOPE,non-MH,2,N,Agreement
+,A101 VIRTUAL MINDFULNESS-BASED STRESS REDUCTION FOR ADULTS WITH INFLAMMATORY BOWEL DISEASE: FEASIBILITY TRIAL PRELIMINARY RESULTS,OUT_OF_SCOPE,non-pharma-Canadian,2,Y,Conflict: UNCERTAIN vs OUT_OF_SCOPE -> OUT_OF_SCOPE
+41499568,Flexible Dentures for Edentulism: Health Technologies,OUT_OF_SCOPE,non-MH,2,N,Agreement
+31516094,"Efficacy of a multispecies probiotic as adjunctive therapy in generalized anxiety disorder: a double blind, randomized, placebo-controlled trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34983602,Efficacy of acupuncture and its influence on the emotional network in adult insomnia patients: protocol for a randomized controlled clinical trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+33016149,Xiangshao granules can relieve emotional symptoms in menopausal women: a randomized controlled trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32851354,Efficacy of transcutaneous auricular vagus nerve stimulation for adolescents with mild to moderate depression: Study protocol for a randomized controlled trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+41182288,How Spinal Flexion Influences Fracture Morphology in the Porcine Spine.,OUT_OF_SCOPE,non-MH,2,N,Agreement
+35722557,"A Randomized Clinical Trial Comparing Two Treatment Strategies, Evaluating the Meaningfulness of HAM-D Rating Scale in Patients With Major Depressive Disorder.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35292088,Electro-acupuncture for protracted amphetamine abstinence syndrome: study protocol for a pragmatic randomized controlled trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+36948325,"Clinical efficacy and immune effects of acupuncture in patients with comorbid chronic pain and major depression disorder: a double-blinded, randomized controlled crossover study.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+34678863,"Clinical efficacy of Danzhi Xiaoyao Powder in the treatment of post-stroke depression: A protocol for randomized, double-blind clinical study.",OUT_OF_SCOPE,protocol,2,N,Agreement
+31174713,Treatment with injectable hydromorphone: Comparing retention in double blind and open label treatment periods.,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+36383742,Effect of Concomitant Benzodiazepines on the Antidepressant Effects of Ketamine: Findings From the RAPID Intravenous Ketamine Study.,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+32804742,Effect of pimavanserin on anxious depression in patients with major depression and an inadequate response to previous therapy: secondary analysis of the clarity study.,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+28852238,"Anxiety Treatment of Opioid Dependent Patients with Buprenorphine: A Randomized, Double-blind, Clinical Trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36815166,"Acupuncture for comorbid depression and insomnia in perimenopause: A feasibility patient-assessor-blinded, randomized, and sham-controlled clinical trial.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+32090788,Antidepressants effects of Rhodiola capsule combined with sertraline for major depressive disorder: A randomized double-blind placebo-controlled clinical trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+37003540,Differential effect of cannabis use on opioid agonist treatment outcomes: Exploratory analyses from the OPTIMA study.,OUT_OF_SCOPE,secondary-analysis,2,Y,Conflict: UNCERTAIN vs OUT_OF_SCOPE -> OUT_OF_SCOPE
+33900931,The Efficacy of Computerized Cognitive Behavioral Therapy for Depressive and Anxiety Symptoms in Patients With COVID-19: Randomized Controlled Trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+35854250,Effects of group mindfulness-based cognitive therapy and group cognitive behavioural therapy on symptomatic generalized anxiety disorder: a randomized controlled noninferiority trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+28085707,"Citicoline Combination Therapy for Major Depressive Disorder: A Randomized, Double-Blind, Placebo-Controlled Trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35090538,"Efficacy of acupuncture on cognitive function in poststroke depression: study protocol for a randomized, placebo-controlled trial.",OUT_OF_SCOPE,protocol,2,N,Agreement
+35990057,"An assessor-blinded, randomized comparative trial of transcutaneous auricular vagus nerve stimulation (taVNS) combined with cranial electroacupuncture vs. citalopram for depression with chronic pain.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34375683,Efficacy and safety of 24-week pramipexole augmentation in patients with treatment resistant depression. A retrospective cohort study.,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+31955155,"Efficacy and Safety of Deep Transcranial Magnetic Stimulation in Office Workers with Treatment-Resistant Depression: A Randomized, Double-Blind, Sham-Controlled Trial.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+30142795,"Electro-acupuncture improves psychiatric symptoms, anxiety and depression in methamphetamine addicts during abstinence: A randomized controlled trial.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+37122643,Comparison of the efficacy of venlafaxine and bupropion in the treatment of depressive episode in patients with bipolar II disorder.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+30303668,"Clonidine for the Treatment of Psychiatric Conditions and Symptoms: A Review of Clinical Effectiveness, Safety, and Guidelines",OUT_OF_SCOPE,review,2,N,Agreement
+35968287,"Efficacy and safety of acupuncture combined with auricular acupressure for smoking cessation: A study protocol of a multicentre, randomized, controlled clinical trial.",OUT_OF_SCOPE,protocol,2,N,Agreement
+35370812,L-Methylfolate in Antidepressant Non-responders: The Impact of Body Weight and Inflammation.,OUT_OF_SCOPE,review,2,N,Agreement
+34358723,Extra-Virgin Olive Oil Improves Depression Symptoms Without Affecting Salivary Cortisol and Brain-Derived Neurotrophic Factor in Patients With Major Depression: A Double-Blind Randomized Controlled Trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36588900,Prefrontal brain function in patients with chronic insomnia disorder: A pilot functional near-infrared spectroscopy study.,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+35697087,Music to improve sleep quality in adults with depression-related insomnia (MUSTAFI): randomized controlled trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+31437698,Transcranial direct current stimulation for the treatment of generalized anxiety disorder: A randomized clinical trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+31763210,Evaluation of the effectiveness of crocin isolated from saffron in treatment of burning mouth syndrome: A randomized controlled trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36191556,"Efficacy and safety of nitrous oxide for patients with treatment-resistant depression, a randomized controlled trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35815855,"Safety and Efficacy of Continuous Theta Burst ""Intensive"" Stimulation in Acute-Phase Bipolar Depression: A Pilot, Exploratory Study.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+29149756,Residual anxiety may be associated with depressive relapse during continuation therapy of bipolar II depression.,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+34718252,Two rTMS sessions per week: a practical approach for treating major depressive disorder.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+35940087,"Comparative study of low-dose ketamine infusion and repetitive transcranial magnetic stimulation in treatment-resistant depression: A posthoc pooled analysis of two randomized, double-blind, placebo-controlled studies.",OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+35650629,Effectiveness and cost-effectiveness of sector-independent treatment coordination for people with substance-related disorders following an online assessment (ASSIST): study protocol for a randomized controlled trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+36371903,How well do Cognitive Behavioural Therapy and Behavioural Activation for depression repair anhedonia? A secondary analysis of the COBRA randomized controlled trial.,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+33579359,"Comparing rapid micro-induction and standard induction of buprenorphine/naloxone for treatment of opioid use disorder: protocol for an open-label, parallel-group, superiority, randomized controlled trial.",OUT_OF_SCOPE,protocol-Canadian,2,Y,Conflict: UNCERTAIN vs OUT_OF_SCOPE -> OUT_OF_SCOPE
+35025539,A randomized controlled trial for identifying the most suitable treatment for depression based on patients' attachment orientation.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+,Prediction of functional outcome in bipolar disorder: Effects of cognitive remediation and cognitive psychoeducational group therapy,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+26802315,"Rapid onset of treatment effects on psychosis, depression, and mania in patients with acute exacerbation of schizoaffective disorder following treatment with oral extended-release paliperidone.",OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+33115894,"Effects of bright light therapy for depression during pregnancy: a randomised, double-blind controlled trial.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+28520672,Sertraline for Major Depression During the Year Following Traumatic Brain Injury: A Randomized Controlled Trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34981180,Behavioral economic analysis of topiramate pharmacotherapy for alcohol: a placebo-controlled investigation of effects on alcohol reinforcing value and delayed reward discounting.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+33372679,"Resveratrol Adjunct Therapy for Negative Symptoms in Patients With Stable Schizophrenia: A Double-Blind, Randomized Placebo-Controlled Trial.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+33170261,Effect of Sodium Benzoate vs Placebo Among Individuals With Early Psychosis: A Randomized Clinical Trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35798178,Personality as a basis for antidepressant selection for patients with depression: A two-point outcome study at 4 and 8 weeks.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35971297,Opium tincture versus methadone for opioid agonist treatment: a randomized controlled trial.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+30531477,"An 8-Week, Randomized, Phase 2, Double-Blind, Sequential Parallel-Group Comparison Study of Two Dose Levels of the GABAA Positive Allosteric Modulator PF-06372865 Compared With Placebo as an Adjunctive Treatment in Outpatients With Inadequate Response to Standard of Care for Generalized Anxiety Disorder.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35483297,Effects of auricular acupressure on depression in stroke patients: A single-blind randomized controlled trial.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+,Dealing with Posttraumatic Nightmares,OUT_OF_SCOPE,review,2,N,Agreement
+34011310,"Venlafaxine vs. fluoxetine in postmenopausal women with major depressive disorder: an 8-week, randomized, single-blind, active-controlled study.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36540578,Comparison between the Efficacies of Modafinil and Citalopram in the Treatment of Major Depression.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36607882,Clinical study of Jiaotai Pill combined with head massage with 5-tone rhythm on insomnia patients of heart-kidney disharmony type.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+31583561,"Treatment of bipolar depression with supraphysiologic doses of levothyroxine: a randomized, placebo-controlled study of comorbid anxiety symptoms.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+27541608,The Psychiatric Inclusion and Exclusion Criteria in Placebo-Controlled Monotherapy Trials of Bipolar Depression: An Analysis of Studies of the Past 20 Years.,OUT_OF_SCOPE,review,2,N,Agreement
+41251310,Challenges using the Feline Grimace Scale in brachycephalic cats with ocular pain.,OUT_OF_SCOPE,animal,2,N,Agreement
+31923105,Protocol on transcranial alternating current stimulation for the treatment of major depressive disorder: a randomized controlled trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+36791487,Brain function changes reveal rapid antidepressant effects of nitrous oxide for treatment-resistant depression: Evidence from task-state EEG.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35932937,"Effect of transcutaneous auricular vagus nerve stimulation on major depressive disorder with peripartum onset: A multicenter, open-label, controlled proof-of-concept clinical trial (DELOS-1).",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32641367,Connectivity guided theta burst transcranial magnetic stimulation versus repetitive transcranial magnetic stimulation for treatment-resistant moderate to severe depression: study protocol for a randomised double-blind controlled trial (BRIGhTMIND).,OUT_OF_SCOPE,protocol,2,N,Agreement
+34608842,Accuracy in recognising happy facial expressions is associated with antidepressant response to a NOP receptor antagonist but not placebo treatment.,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+34563429,Are Care-Recipient Outcomes Attributable to Improved Caregiver Well-Being? A Cluster-Randomized Controlled Trial of Benefit-Finding Intervention.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+36880278,Exposure-response Modeling From the CLARITY Trial of Pimavanserin for Adjunctive Treatment of Major Depressive Disorder.,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+41505571,Tofacitinib: Therapeutic area: Juvenile idiopathic arthritis,OUT_OF_SCOPE,non-MH,2,N,Agreement
+35254443,Oxytocin enhances basolateral amygdala activation and functional connectivity while processing emotional faces: preliminary findings in autistic vs non-autistic women.,OUT_OF_SCOPE,non-MH,2,N,Agreement
+35105558,Efficacy of acupuncture treatment for chronic spontaneous urticaria: study protocol for a randomised controlled trial.,OUT_OF_SCOPE,non-MH,2,N,Agreement
+33117723,"Self-management program versus usual care for community-dwelling older adults with multimorbidity: A pragmatic randomized controlled trial in Ontario, Canada.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+35738653,Augmenting neurocognitive remediation therapy to Preventive Cognitive Therapy for partially remitted depressed patients: protocol of a pragmatic multicentre randomised controlled trial.,OUT_OF_SCOPE,protocol,2,N,Agreement
+36612825,Effects of Urban Forest Therapy Program on Depression Patients.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+31372757,"Transdermal estradiol for postpartum depression: results from a pilot randomized, double-blind, placebo-controlled study.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+30930801,A Multicenter Phase II Rater-Blinded Randomized Controlled Trial to Compare the Effectiveness of Eye Movement Desensitization Reprocessing Therapy vs. Treatment as Usual in Patients With Substance Use Disorder and History of Psychological Trauma.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+33327282,Family nursing with the assistance of network improves clinical outcome and life quality in patients underwent coronary artery bypass grafting.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+31725942,"Randomized, double-blind, placebo-controlled study to assess the efficacy and safety of vortioxetine in Japanese patients with major depressive disorder.",OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35950904,"Very Low-Level Transcranial Photobiomodulation for Major Depressive Disorder: The ELATED-3 Multicenter, Randomized, Sham-Controlled Trial.",OUT_OF_SCOPE,non-pharma,2,N,Agreement
+31374046,A statistical analysis plan for a randomized clinical trial to evaluate the efficacy and safety of ethosuximide in patients with treatment-resistant depression.,OUT_OF_SCOPE,protocol,2,N,Agreement
+35087463,High-Frequency Repetitive Transcranial Magnetic Stimulation Over the Left Dorsolateral Prefrontal Cortex Shortly Alleviates Fatigue in Patients With Multiple System Atrophy: A Randomized Controlled Trial.,OUT_OF_SCOPE,non-MH,2,N,Agreement
+37428688,COMPARISON OF KETAMINE-MIDAZOLAM AND KETAMINE-MIDAZOLAM-BUTORPHANOL PREMEDICATION PRIOR TO SEVOFLURANE ANESTHESIA IN WOODCHUCKS (MARMOTA MONAX).,OUT_OF_SCOPE,animal,2,N,Agreement
+31205190,Prior Antidepressant Treatment Trials May Predict a Greater Risk of Depressive Relapse During Antidepressant Maintenance Therapy.,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+36563484,Comparative effect of progressive relaxation technique and Benson's technique on anxiety and fatigue in cancer survivors - an experimental study.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+36763929,Sexual function improves as depressive symptoms decrease during treatment with escitalopram: results of a naturalistic study of patients with major depressive disorder.,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+31045830,"Efficacy and safety of Soshiho-tang in patients with atopic dermatitis and gastrointestinal disorders: Study protocol for a double-blind, randomized, and placebo-controlled clinical trial.",OUT_OF_SCOPE,non-MH,2,N,Agreement
+40388392,The effects of handling on mouse behavior: cupped hands versus familiar or novel huts or tunnels.,OUT_OF_SCOPE,animal,1,N,Unmatched in Screener B (best ratio: 0.43)
+32091557,Effect of Osteopathic Manipulative Therapy on Generalized Anxiety Disorder.,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+31174713,Treatment with injectable hydromorphone: Comparing retention in double blind and open label treatment periods.,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+35237197,Mindfulness-Based Cognitive Therapy Regulates Brain Connectivity in Patients With Late-Life Depression.,OUT_OF_SCOPE,non-Canadian; non-pharma,1,N,Unmatched in Screener A
+32831871,Effect of Transcutaneous Vagus Nerve Stimulation at Auricular Concha for Insomnia: A Randomized Clinical Trial.,OUT_OF_SCOPE,non-Canadian; non-pharma,1,N,Unmatched in Screener A
+35677877,"Improved Safety of Hybrid Electroconvulsive Therapy Compared With Standard Electroconvulsive Therapy in Patients With Major Depressive Disorder: A Randomized, Double-Blind, Parallel-Group Pilot Trial.",OUT_OF_SCOPE,non-Canadian; non-pharma,1,N,Unmatched in Screener A
+32851354,Efficacy and brain mechanism of transcutaneous auricular vagus nerve stimulation for adolescents with mild to moderate depression: Study protocol for a randomized controlled trial.,OUT_OF_SCOPE,non-Canadian; protocol; non-pharma,1,N,Unmatched in Screener A
+34983620,Efficacy and safety of Xiaoyao pills for mild to moderate depression: study protocol for a randomized controlled trial.,OUT_OF_SCOPE,non-Canadian; protocol,1,N,Unmatched in Screener A
+36387948,Study on the Changes in Circadian Rhythm Before and After Treatment and the Influencing Factors in Patients with Depression.,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A

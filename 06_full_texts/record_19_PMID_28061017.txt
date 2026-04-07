@@ -1,0 +1,66 @@
+RECORD: #19
+PMID: 28061017
+PMCID: PMC5408318
+TITLE: Feasibility and Safety of Extended-Release Naltrexone Treatment of Opioid and Alcohol Use Disorder in HIV Clinics: A Pilot/Feasibility Randomized Trial
+AUTHORS AND AFFILIATIONS:
+- P Todd Korthuis, MD, MPH - Oregon Health & Science University, Portland, OR
+- Paula J Lum, MD, MPH - University of California, San Francisco, San Francisco, CA
+- Pamela Vergara-Rodriguez, MD - Ruth M. Rothstein Core Center, Chicago, IL
+- Keith Ahamad, MD - British Columbia Centre for Excellence in HIV/AIDS, Vancouver, BC; University of British Columbia, Vancouver, BC
+- Evan Wood, MD, PhD - British Columbia Centre for Excellence in HIV/AIDS, Vancouver, BC; University of British Columbia, Vancouver, BC
+- Lynn E Kunkel, MS - Oregon Health & Science University, Portland, OR
+- Neal L Oden, PhD - EMMES Corporation
+- Robert Lindblad, MD - EMMES Corporation
+- James L Sorensen, PhD - University of California, San Francisco, San Francisco, CA
+- Virgilio Arenas, MD - Ruth M. Rothstein Core Center, Chicago, IL
+- HA Doan, MPH, DrPH - Oregon Health & Science University, Portland, OR
+- Raul N Mandler, MD - National Institutes of Health, National Institute on Drug Abuse
+- Dennis McCarty, PhD - Oregon Health & Science University, Portland, OR
+TRIAL REGISTRATION: NCT01908062 (ClinicalTrials.gov)
+FUNDING: U.S. National Institutes of Health, National Institute on Drug Abuse (NIDA, UG1DA015815 and UG1DA013732). Manufacturer donated extended-release naltrexone to NIDA.
+
+METHODS:
+Design: The CTN-0055 CHOICES study was an open-label, randomized, pilot trial of XR-NTX versus treatment as usual (TAU) for treatment of OUD/AUD in HIV-infected patients. Conducted under direction of NIDA's Clinical Trials Network (CTN). Approved by IRBs at Oregon Health and Science University and pilot sites.
+
+Setting: Two large outpatient HIV clinics: Ruth M. Rothstein Core Center in Chicago, IL and John Ruedy Immunodeficiency Clinic (IDC) at St. Paul's Hospital in Vancouver, BC. Sites required to provide HIV primary care, have sufficient potential participants, providers willing to be trained in XR-NTX, prior research experience, capacity to prescribe ART regardless of CD4 count, and access to addiction counseling.
+
+Participants: Recruited during HIV clinic visits and through clinic-affiliated outreach programs between June 2014 and March 2015. NIDA set pilot enrollment target of 50 participants within 12 months. Eligible HIV-infected participants (1) met DSM-5 criteria for moderate or severe OUD/AUD, (2) willing to be randomized, (3) willing to establish/continue HIV care, (4) willing to initiate/continue ART, (5) at least 18 years old, (6) able to provide written informed consent, (7) able to communicate in English, (8) if female, willing to avoid pregnancy. Exclusion criteria included disabling/terminal illness, liver function abnormalities, known allergy to naloxone/naltrexone, chronic pain requiring opioids, current methadone/buprenorphine maintenance in past 4 weeks, among others.
+
+Intervention: Randomized 1:1 to XR-NTX vs TAU, blocked by site. XR-NTX participants underwent medically supervised withdrawal as needed, then received Vivitrol 380mg IM injection at initiation and at 4, 8, and 12 weeks (16 weeks total). TAU participants received local standard of care. All referred to counseling and attended monthly medical management. Research visits every 4 weeks.
+
+Outcomes: Primary: (1) patient acceptance of opioid antagonist therapy, (2) recruitment rate, (3) treatment initiation, (4) retention on treatment. Secondary (16 weeks): change in opioid/alcohol use (ASI-lite, urine toxicology, urine ethylglucuronide), HIV-1 RNA viral suppression.
+
+Statistical Analysis: Descriptive statistics for feasibility outcomes. Chi-square tests and t-tests for differences by treatment assignment. Intent-to-treat design.
+
+RESULTS:
+Recruitment: 113 individuals pre-screened, 100 eligible for screening, 78 consented, 51 randomized (45% of pre-screened; 65% of screened). Trial achieved 155% of expected randomizations, reaching targets 4 months ahead of schedule. Mean 3.2 participants per month per site.
+
+Participant Characteristics: 43% women, 47% Black, 45% disabled, 61% had high school education or greater. Mean age 46 (SD 10) years. 53% had only AUD, 31% only OUD, 16% both. 94% prescribed ART, 80% had HIV viral suppression at baseline.
+
+Treatment Initiation: 68% assigned to XR-NTX initiated treatment within 4 weeks vs 96% of TAU (p=.011). XR-NTX initiation greater for AUD-only (92%) vs OUD (42%, p=.011). TAU participants with OUD primarily received buprenorphine/naloxone (84%). Leading reason for not initiating XR-NTX was inability to tolerate opioid detoxification.
+
+Treatment Retention: Of those initiating (n=41), 88% retained on XR-NTX at 16 weeks vs 50% on TAU. All but one XR-NTX initiator received all four doses without interruption. Retention in counseling higher for XR-NTX (88% vs 35%, p=.004).
+
+Substance Use: Among OUD participants, mean days of opioid use and positive UDS decreased in both arms. Among AUD participants, days of intoxication and positive ethylglucuronide decreased in both groups.
+
+HIV Outcomes: 94% on ART at baseline; 80% virally suppressed at baseline, 84% at 16 weeks. Among OUD, viral suppression increased from 67% to 80% (XR-NTX) and 58% to 75% (TAU).
+
+Safety: 14 participants experienced 29 adverse events (38% mild, 55% moderate, 7% severe). Two serious adverse events (suicidal ideation, ankle fracture) unrelated to study. No precipitated withdrawals. No fatal overdoses.
+
+EDIA/EQUITY REPORTING:
+Sex/Gender: 43% women; women composed 37% of AUD-only, 56% of OUD, 38% of both
+Race/Ethnicity: 47% Black/African American; also reported White and Other categories; Hispanic ethnicity reported
+Age: Mean age 46 (SD 10) years; inclusion >=18 years
+Education: 61% had high school education or greater; categories: <high school, high school/GED, >=some college
+Disability/Employment: 45% disabled; employment status categories: working now, looking for work/unemployed, disabled, other
+Marital Status: Married/living with partner 8/51 (16%)
+Substance Use: Tracked separately by diagnosis (OUD, AUD, both)
+SES/Income: NOT EXPLICITLY REPORTED
+Language: English required for inclusion
+Other PROGRESS-Plus: NOT REPORTED (no reporting on Indigenous status, SOGI beyond sex, religion)
+
+CANADIAN INVOLVEMENT:
+Canadian Sites: John Ruedy Immunodeficiency Clinic (IDC) at St. Paul's Hospital in Vancouver, BC (1 of 2 study sites)
+Canadian Authors: Keith Ahamad, MD - British Columbia Centre for Excellence in HIV/AIDS, University of British Columbia, Vancouver, BC; Evan Wood, MD, PhD - British Columbia Centre for Excellence in HIV/AIDS, University of British Columbia, Vancouver, BC
+Canadian Funding: No Canadian funding agencies mentioned. Funded by US NIDA.
+Acknowledgment: HIV clinics in Vancouver, BC acknowledged for recruitment and data collection.

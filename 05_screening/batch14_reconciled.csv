@@ -1,0 +1,158 @@
+id,title,final_decision,category,vote_count,conflict_flag,reconciliation_notes
+10.1002/trc2.12005,TRanscranial AlterNating current Stimulation FOR patients with Mild Alzheimer's Disease (TRANSFORM-AD study): Protocol for a randomized controlled clinical trial,OUT_OF_SCOPE,Protocol; Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+10.1017/s1754470x1900028x,Cultural adaptation of cognitive behavioural therapy (CBT) for patients with depression and anxiety in Saudi Arabia and Bahrain,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+10.1037/cbs0000247,Mandatory Reporting and Clinician Decision-Making When a Client Discloses Sexual Interest in Children,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+10.1080/00934690.2017.1417198,Contours of the Past: LiDAR Data Expands the Limits of Late Pre-Columbian Human Settlement in the Santarem Region Lower Amazon,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+10.1080/15332985.2018.1476284,Cognitive behavioral interventions for depression among Hispanic people: promising meta-analytic evidence for deep cultural adaptations,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+10.3390/brainsci13020306,Dual Semi-Supervised Learning for Classification of Alzheimer's Disease and Mild Cognitive Impairment Based on Neuropsychological Data,OUT_OF_SCOPE,Observational; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+23773886,An exploratory open-label randomized trial comparing Risperidone long-Acting Injectable with oral antipsychotic medication in the treatment of early psychosis,MAP,Pharmacological; Schizophrenia,MAP:3/3,none,unanimous
+26221049,Dopamine D2/3 Receptor Occupancy Following Dose Reduction Is Predictable With Minimal Plasma Antipsychotic Concentrations,MAP,Pharmacological; Schizophrenia,MAP:3/3,none,unanimous
+26509816,Patterns of Sedation Weaning in Critically Ill Children Recovering From Acute Respiratory Failure,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+27172829,Predicting disease progression in progressive supranuclear palsy in multicenter clinical trials.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+27244298,The pediatric sleep clinical global impressions scale - A new tool to measure pediatric insomnia in autism spectrum disorders,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+27267317,Could cannabidiol be used as an alternative to antipsychotics?,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+27280963,The effects of desvenlafaxine on neurocognitive and work functioning in employed outpatients with major depressive disorder.,MAP,Pharmacological; MDD,MAP:2/3;UNCERTAIN:1/3,minor,majority MAP (2/3); dissent: UNCERTAIN
+27390257,Outcome Expectations and Osteoarthritis: Association of Perceived Benefits of Exercise With Self-Efficacy and Depression.,OUT_OF_SCOPE,Observational; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+27428009,Cannabinoids for fibromyalgia,OUT_OF_SCOPE,Review; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+27444389,Exhaust ventilation in attached garages improves residential indoor air quality.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+27452837,Anodal tDCS targeting the left temporo-parietal junction disrupts verbal reality-monitoring.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+27471879,The effects of a pedometer-based intervention on first-year university students: A randomized control trial.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+27523508,Psychometric properties of Alzheimer's disease assessment scale-cognitive subscale for mild cognitive impairment and Mild Alzheimer's disease patients in an Asian context,OUT_OF_SCOPE,Observational; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+27621226,Hemokinin-1 mediates anxiolytic and anti-depressant-like actions in mice,OUT_OF_SCOPE,Non-human,OUT_OF_SCOPE:3/3,none,unanimous
+27756854,The Time Course of Effect of Multilayer-Release Methylphenidate Hydrochloride Capsules: A Randomized Double-Blind Study of Adults With ADHD,MAP,Pharmacological; ADHD,MAP:3/3,none,unanimous
+27783998,Hepatocellular carcinoma and antidepressants: A nationwide population-based study,OUT_OF_SCOPE,Observational; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+27891062,Results from 10 Years of a CBT Pain Self-Management Outpatient Program for Complex Chronic Conditions.,OUT_OF_SCOPE,Non-pharmacological; Observational,OUT_OF_SCOPE:3/3,none,unanimous
+27939188,Effects of working memory training on neural correlates of Go/Nogo response control in adults with ADHD: A randomized controlled trial.,UNCERTAIN,Non-pharmacological,UNCERTAIN:2/3;OUT_OF_SCOPE:1/3,minor,majority UNCERTAIN (2/3); dissent: OUT_OF_SCOPE
+28094662,Clinical and psychological moderators of the effect of mindfulness-based cognitive therapy on persistent pain in women treated for primary breast cancer,OUT_OF_SCOPE,Non-pharmacological; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+28346865,Repetitive Transcranial Magnetic Stimulation for the Treatment of Executive Function Deficits in Autism Spectrum Disorder: Clinical Trial Approach.,OUT_OF_SCOPE,Non-pharmacological; Protocol,OUT_OF_SCOPE:3/3,none,unanimous
+28399850,Psychometric characteristics of the General Oral Health Assessment Index in a French representative sample of patients with schizophrenia,OUT_OF_SCOPE,Observational; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+28440817,Effects of dopamine D2/D3 receptor antagonism on human planning and spatial working memory.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+28500373,Effects of varenicline versus transdermal nicotine replacement therapy on cigarette demand on quit day in individuals with substance use disorders,MAP,Pharmacological; Substance use disorder,MAP:3/3,none,unanimous
+28500373_dup,Effects of varenicline versus NRT on cigarette demand,OUT_OF_SCOPE,Duplicate,OUT_OF_SCOPE:1/3,none,unanimous
+28516381,Listening to music during shock wave lithotripsy decreases anxiety pain and dissatisfaction: A randomized controlled study.,OUT_OF_SCOPE,Non-pharmacological; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+28661955,Tablet-Based Intervention for Reducing Children's Preoperative Anxiety: A Pilot Study.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+28717812,A New Adaptive Home-based Exercise Technology among Older Adults Living in Nursing Home: A Pilot Study on Feasibility Acceptability and Physical Performance.,OUT_OF_SCOPE,Non-pharmacological; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+28727078,Flaxseed meal and oat hulls supplementation modulates growth performance blood lipids intestinal fermentation bile acids and neutral sterols in growing pigs,OUT_OF_SCOPE,Non-mental-health; Non-human,OUT_OF_SCOPE:3/3,none,unanimous
+28750232,Effects of chair yoga therapy on physical fitness in patients with psychiatric disorders: A 12-week single-blind randomized controlled trial.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+28762160,Parental Outcomes Following Participation in Cognitive Behavior Therapy for Children with Autism Spectrum Disorder.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+28843079,Investigating the role of hopelessness in the relationship between PTSD symptom change and suicidality.,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+29046265,Using the Internet to Train Therapists: Randomized Comparison of Two Scalable Methods.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+29265834,Treatment agreement adherence and outcome in cognitive behavioral treatments for insomnia.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+29334906,Rationale and design of the CAROLINA cognition substudy: a randomised controlled trial on cognitive outcomes of linagliptin versus glimepiride,OUT_OF_SCOPE,Non-mental-health; Protocol,OUT_OF_SCOPE:3/3,none,unanimous
+29510762,The Norwegian healthy body image programme: Study protocol for a randomized controlled school-based intervention,OUT_OF_SCOPE,Protocol; Non-Canadian; Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+29627509,Neuroimaging findings as predictors of treatment outcome of psychotherapy in anxiety disorders,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+29661592,Monopolar vs. bipolar transurethral resection for non-muscle invasive bladder carcinoma: A post-hoc analysis from a randomized controlled trial.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+29679106,Social support intervention to promote resilience and quality of life in women living in Karachi Pakistan,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+29731210,No. 249-Asymptomatic Endometrial Thickening.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+29962366,Effectiveness of an Assertive Community Treatment program for people with severe schizophrenia in mainland China,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+30005584,Dialectical behavior therapy skills training affects defense mechanisms in borderline personality disorder,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+30012784,Phantom motor execution as a treatment for phantom limb pain: protocol for an international double-blind randomised controlled clinical trial.,OUT_OF_SCOPE,Protocol; Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+30135814,Educating patients about Internet-delivered cognitive behaviour therapy: Perceptions among treatment seekers and non-treatment seekers,OUT_OF_SCOPE,Non-pharmacological; Observational,OUT_OF_SCOPE:3/3,none,unanimous
+30196869,Two-Year Follow-Up of Internet and Telephone Assisted Parent Training for Disruptive Behavior at Age 4.,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+30265333,Intrathecal Morphine Following Lumbar Fusion: A Randomized Placebo-Controlled Trial.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+30265333_dup,Intrathecal Morphine Following Lumbar Fusion,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:1/3,none,unanimous
+30361298,Therapeutic trial design for frontotemporal dementia and related disorders.,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+30401608,Effect of Vitamin D Supplementation on Depressive Symptoms in Patients With Knee Osteoarthritis,OUT_OF_SCOPE,Non-mental-health; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+30564436,Cardiac rehabilitation to improve health-related quality of life following trans-catheter aortic valve implantation: a randomised controlled feasibility study,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+30587996,Adjunctive brexpiprazole in patients with major depressive disorder and anxiety symptoms: post hoc analyses of three placebo-controlled studies.,OUT_OF_SCOPE,Pharmacological; MDD,MAP:3/3,none; methodologist_override,"unanimous; Methodologist override: post hoc/secondary analysis of pooled RCTs, not main trial results; excluded per criteria [original reconciled decision: MAP]"
+30640027,Examining a training effect on the state anxiety response to an acute bout of exercise in low and high anxious individuals.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+30728943,The impact of in hospital patient-education intervention on older people's attitudes and intention to have their benzodiazepines deprescribed,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+30735896,Safety and efficacy of glecaprevir/pibrentasvir in patients with chronic hepatitis C genotypes 1-6 receiving opioid substitution therapy,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+30753085,Cariprazine for the treatment of bipolar depression: a review.,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+30796919,Long-Term Specialized Physical Therapy in Cervical Dystonia: Outcomes of a Randomized Controlled Trial.,OUT_OF_SCOPE,Non-pharmacological; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+30930034,Evaluation of a plasticity-based cognitive training program in schizophrenia: Results from the eCaesar trial,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+30964385,Integrating Advance Care Planning Videos into Surgical Oncologic Care: A Randomized Clinical Trial.,OUT_OF_SCOPE,Non-pharmacological; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+31054019,Evaluating same-source bias in the association between neighbourhood characteristics and depression in a community sample from Toronto Canada.,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+31056784,The ONE-MIND Study: Rationale and protocol for assessing the effects of ONlinE MINDfulness-based cancer recovery,OUT_OF_SCOPE,Protocol; Non-pharmacological,OUT_OF_SCOPE:2/3;MAP:1/3,minor,majority OUT_OF_SCOPE (2/3); dissent: MAP
+31068063,Remote neuropsychological assessment of elderly Japanese population using the Alzheimer's Disease Assessment Scale: A validation study.,OUT_OF_SCOPE,Observational; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+31208680,Self-Help for Social Anxiety: Randomized Controlled Trial Comparing a Mindfulness and Acceptance-Based Approach With a Control Group,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+31262324,Research priorities in childhood-onset lupus: Results of a multidisciplinary prioritization exercise,OUT_OF_SCOPE,Non-mental-health; Observational,OUT_OF_SCOPE:3/3,none,unanimous
+31330515,Exploring Cognitive Frailty: Prevalence and Associations with Other Frailty Domains in Older People with Different Degrees of Cognitive Impairment.,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+31477556,Effectiveness of Hip Protectors to Reduce Risk for Hip Fracture from Falls in Long-Term Care,OUT_OF_SCOPE,Non-mental-health; Observational,OUT_OF_SCOPE:3/3,none,unanimous
+31595830,Social anxiety is associated with impaired memory for imagined social events with positive outcomes.,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+31708817,Exploring Differences Between Adolescents and Adults With Perinatal Depression in Nigeria.,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+31735039,Correlates of spiritual wellbeing in persons living with Parkinson disease.,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+31822489,Patient decision aids for antidepressant use in pregnancy: a pilot randomised controlled trial in the UK.,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+31828022,Motivation and engagement during cognitive training for schizophrenia spectrum disorders.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+31834588,Training Executive Attention and Motor Skills (TEAMS): a Preliminary Randomized Clinical Trial of Preschool Youth with ADHD.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+31889940,The plasma peptides of breast versus ovarian cancer.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+31937274,A suicide prevention strategy for youth presenting to the emergency department with suicide related behaviour: protocol for a randomized controlled trial.,OUT_OF_SCOPE,Protocol; Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+32022692,Examining the Usage User Experience and Perceived Impact of an Internet-Based Cognitive Behavioral Therapy Program for Adolescents With Anxiety,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:2/3;MAP:1/3,minor,majority OUT_OF_SCOPE (2/3); dissent: MAP
+32022692_dup,Examining Usage of iCBT for Adolescent Anxiety,OUT_OF_SCOPE,Duplicate,OUT_OF_SCOPE:1/3,none,unanimous
+32274665,Treatment-induced symptoms depression and age as predictors of sexual problems in premenopausal women with early breast cancer,OUT_OF_SCOPE,Observational; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+32295565,Minocycline as adjunctive treatment for treatment-resistant depression: study protocol for a double blind placebo-controlled randomized trial (MINDEP2).,OUT_OF_SCOPE,Protocol; Pharmacological; MDD,MAP:2/3;UNCERTAIN:1/3,minor; methodologist_override,majority MAP (2/3); dissent: UNCERTAIN; Methodologist override: protocol only (not main trial results); excluded per criteria [original reconciled decision: MAP]
+32299999,Effects of a traditional Chinese mind-body exercise Baduanjin on the physical and cognitive functions in the community of older adults with cognitive frailty,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+32315806,Registered clinical trials investigating ketamine for psychiatric disorders,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+32533796,Attachment & Child Health (ATTACH) pilot trials: Effect of parental reflective function intervention for families affected by toxic stress.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+32560926,Accuracy of diagnostic judgments using ICD-11 vs. ICD-10 diagnostic guidelines for obsessive-compulsive and related disorders.,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+32595783,Effect of Mindfulness-Based Relapse Prevention on Impulsivity Trajectories Among Young Adults in Residential Substance Use Disorder Treatment.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+32665041,Breath Regulation and yogic Exercise An online Therapy for calm and Happiness (BREATH) for frontline hospital and long-term care home staff managing COVID-19,OUT_OF_SCOPE,Non-pharmacological; Protocol,MAP:2/3;OUT_OF_SCOPE:1/3,minor; methodologist_override,majority MAP (2/3); dissent: OUT_OF_SCOPE; Methodologist override: non-pharmacological intervention (yoga/breathing); excluded per criteria [original reconciled decision: MAP]
+32670103,The THINC-it Tool for Cognitive Assessment and Measurement in Major Depressive Disorder: Sensitivity to Change.,MAP,Pharmacological; MDD,MAP:2/3;UNCERTAIN:1/3,minor,majority MAP (2/3); dissent: UNCERTAIN
+32670103_dup,The THINC-it Tool for Cognitive Assessment MDD,OUT_OF_SCOPE,Duplicate,OUT_OF_SCOPE:1/3,none,unanimous
+32677243,Mindfulness-based stress reduction for mental health in youth: a cluster randomized controlled trial.,UNCERTAIN,Non-pharmacological; Canadian,UNCERTAIN:2/3;MAP:1/3,minor,majority UNCERTAIN (2/3); dissent: MAP
+32703307,Randomized control trial of advanced cancer patients at a private hospital in Kenya and the impact of dignity therapy on quality of life,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+32838679,Cost-Effectiveness of Housing First With Assertive Community Treatment: Results From the Canadian At Home/Chez Soi Trial.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+32840955,Video cognitive-behavioral therapy for insomnia in cancer patients: A cost-effective alternative.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+32942203,Examining the effectiveness of an online program to cultivate mindfulness and self-compassion skills (Mind-OP),OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+32991946,The feasibility of a personality targeted intervention for addictive overeating: FoodFix,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+33016374,Rivastigmine in Parkinson's Disease Dementia with Orthostatic Hypotension.,OUT_OF_SCOPE,Pharmacological; Dementia,MAP:3/3,none; methodologist_override,"unanimous; Methodologist override: post hoc analysis of existing RCTs, not main trial results; excluded per criteria [original reconciled decision: MAP]"
+33022345,Effects of tDCS on neuroplasticity and inflammatory biomarkers in bipolar depression: Results from a sham-controlled study.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+33139709,Emotional face processing across neurodevelopmental disorders: a dynamic faces study in children with autism spectrum disorder attention deficit hyperactivity disorder and obsessive-compulsive disorder.,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+33190659,Effects of repetitive paired associative stimulation on brain plasticity and working memory in Alzheimer's disease: a pilot randomized double-blind-controlled trial.,UNCERTAIN,Non-pharmacological,OUT_OF_SCOPE:1/3;UNCERTAIN:1/3;MAP:1/3,major,3-way conflict
+33226796,Copper(II) Binding to PBT2 Differs from That of Other 8-Hydroxyquinoline Chelators: Implications for the Treatment of Neurodegenerative Protein Misfolding Diseases,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+33290245,Using the Online Psychotherapy Tool to Address Mental Health Problems in the Context of the COVID-19 Pandemic,OUT_OF_SCOPE,Protocol; Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+33368836,Validation of the Death and Dying Distress Scale in patients with advanced cancer.,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+33421650,Digital training for non-specialist health workers to deliver a brief psychological treatment for depression in India,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+33421650_dup,Digital training for non-specialist health workers India,OUT_OF_SCOPE,Duplicate,OUT_OF_SCOPE:1/3,none,unanimous
+33461049,Associations between brain amyloid accumulation and the use of angiotensin-converting enzyme inhibitors versus angiotensin receptor blockers,OUT_OF_SCOPE,Observational; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+33555602,Predictors of persistent concussion symptoms in adults with acute mild traumatic brain injury presenting to the emergency department.,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:2/3;MAP:1/3,minor,majority OUT_OF_SCOPE (2/3); dissent: MAP
+33964566,The effects of self-disclaimer Instagram captions on young women's mood and body image,OUT_OF_SCOPE,Non-pharmacological; Observational,OUT_OF_SCOPE:3/3,none,unanimous
+34055112,Ontario health technology assessment series: Repetitive transcranial magnetic stimulation for people with treatment-resistant depression: A health technology assessment,OUT_OF_SCOPE,Review; Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+34102933,Child maltreatment and neglect in the United Arab Emirates and relationship with low self-esteem and symptoms of depression.,OUT_OF_SCOPE,Observational; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+34210833,Epidemiology and Treatment of Peripheral Neuropathy in Systemic Sclerosis.,OUT_OF_SCOPE,Review; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+34276254,State of the Art: Immersive Technologies for Perioperative Anxiety Acute and Chronic Pain Management in Pediatric Patients.,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+34293413,Multicomponent exercise to improve motor functions cognition and well-being for nursing home residents who are unable to walk,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+34429517,Serotonin depletion impairs both Pavlovian and instrumental reversal learning in healthy humans.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+34429517_dup,Serotonin depletion impairs reversal learning,OUT_OF_SCOPE,Duplicate,OUT_OF_SCOPE:1/3,none,unanimous
+34461326,Neuromodulatory treatments for psychiatric disease: A comprehensive survey of the clinical trial landscape.,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+34498899,A Review of the Inclusion of Ethnoracial Groups in Empirically Supported Posttraumatic Stress Disorder Treatment Research,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+34543193,Propagating Uncertainty Across Cascaded Medical Imaging Tasks for Improved Deep Learning Inference,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+34657043,Minimal Clinically Important Difference of Executive Function Performance in Older Adults Who Fall,OUT_OF_SCOPE,Non-pharmacological; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+34758431,Psychedelic use is associated with reduced daily opioid use among people who use illicit drugs in a Canadian setting,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+34762980,Transcranial magnetic stimulation for sleep disorders in Alzheimer's disease: A double-blind randomized and sham-controlled pilot study,UNCERTAIN,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:1/3;UNCERTAIN:1/3;MAP:1/3,major,3-way conflict
+34962559,Effect of Vitamin D Supplementation on Outcomes in People With Early Psychosis: The DFEND Randomized Clinical Trial.,OUT_OF_SCOPE,Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+35151410,Efficacy and safety of balovaptan for socialisation and communication difficulties in autistic adults in North America and Europe,MAP,Pharmacological; ASD,MAP:3/3,none,unanimous
+35293295,Advances in the Pharmacological and Non-pharmacological Management of Non-motor Symptoms in Parkinson's Disease: An Update Since 2017,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+35348196,Unconditional cash transfers for reducing poverty and vulnerabilities in low- and middle-income countries.,OUT_OF_SCOPE,Review; Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+35367986,The Chronic Conditions Course: A Randomised Controlled Trial of an Internet-Delivered Transdiagnostic Psychological Intervention,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+35379698,Development of a sensitive trial-ready poly(GP) CSF biomarker assay for C9orf72-associated frontotemporal dementia and amyotrophic lateral sclerosis,OUT_OF_SCOPE,Non-mental-health; Observational,OUT_OF_SCOPE:3/3,none,unanimous
+35404226,Does total sleep time substantially increase after cognitive behavioral therapy for insomnia?,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+35410438,Detection of astrocytic tau pathology facilitates recognition of chronic traumatic encephalopathy neuropathologic change.,OUT_OF_SCOPE,Non-mental-health; Observational,OUT_OF_SCOPE:3/3,none,unanimous
+35551928,Separate and combined effects of alcohol and cannabis on mood subjective experience cognition and psychomotor performance: A randomized trial.,UNCERTAIN,Pharmacological; Substance use,UNCERTAIN:2/3;MAP:1/3,minor,majority UNCERTAIN (2/3); dissent: MAP
+35634394,The Effect of the Dietary Approaches to Stop Hypertension (DASH) Diet on Sleep Mental Health and Hormonal Changes,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+35714163,Lacticaseibacillus rhamnosus HA-114 improves eating behaviors and mood-related factors in adults with overweight during weight loss,UNCERTAIN,Pharmacological; Mental health adjacent,UNCERTAIN:2/3;MAP:1/3,minor,majority UNCERTAIN (2/3); dissent: MAP
+35901118,Using prosocial behavior to safeguard mental health and foster emotional well-being during the COVID-19 pandemic,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+35929466,Repeated Measures of Modified Rankin Scale Scores to Assess Functional Recovery From Stroke: AFFINITY Study Findings.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+35976994,Stratifying the autistic phenotype using electrophysiological indices of social perception,OUT_OF_SCOPE,Observational,OUT_OF_SCOPE:3/3,none,unanimous
+36190756,What Are the Best Practices for Psychotherapy With Indigenous Peoples in the United States and Canada?,OUT_OF_SCOPE,Review; Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+36247832,The Bucharest Early Intervention Project: Adolescent mental health and adaptation following early deprivation.,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+36401022,Viltolarsen: From Preclinical Studies to FDA Approval,OUT_OF_SCOPE,Non-mental-health; Review,OUT_OF_SCOPE:3/3,none,unanimous
+36588036,Need and Interest in Nature Prescriptions to Protect Cardiovascular and Mental Health,OUT_OF_SCOPE,Observational; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+36633570,Intranasal Carbetocin Reduces Hyperphagia Anxiousness and Distress in Prader-Willi Syndrome: CARE-PWS Phase 3 Trial.,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:2/3;UNCERTAIN:1/3,minor,majority OUT_OF_SCOPE (2/3); dissent: UNCERTAIN
+37187863,Comparison of online and in-person cognitive behavioral therapy in individuals diagnosed with major depressive disorder: a non-randomized controlled trial.,OUT_OF_SCOPE,Non-pharmacological; Non-RCT,OUT_OF_SCOPE:3/3,none,unanimous
+37227402,Head-To-Head Comparison of Vortioxetine Versus Desvenlafaxine in Patients With Major Depressive Disorder With Partial Response to SSRI Therapy: Results of the VIVRE Study.,MAP,Pharmacological; MDD,MAP:3/3,none,unanimous
+37398577,Automatic depression severity assessment with deep learning using parameter-efficient tuning.,OUT_OF_SCOPE,Non-mental-health; Observational,OUT_OF_SCOPE:3/3,none,unanimous
+37489602,A Study on the Effect of Traditional Chinese Exercise Combined With Rhythm Training on the Intervention of Older Adults With Mild Cognitive Impairment.,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+37541734,Guideline No. 440: Management of Monochorionic Twin Pregnancies,OUT_OF_SCOPE,Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+37597960,Unified Protocol vs Trauma-Focused Cognitive Behavioral Therapy Among Adolescents With PTSD,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+38027469,Ambroxol as a disease-modifying treatment to reduce the risk of cognitive impairment in GBA-associated Parkinson's disease: AMBITIOUS study protocol.,OUT_OF_SCOPE,Protocol,OUT_OF_SCOPE:2/3;MAP:1/3,minor,majority OUT_OF_SCOPE (2/3); dissent: MAP
+38198456,Effects of MDMA-assisted therapy for PTSD on self-experience.,UNCERTAIN,Pharmacological; PTSD,UNCERTAIN:1/3;MAP:1/3;OUT_OF_SCOPE:1/3,major,3-way conflict
+38310894,A psychosocial goal-setting and manualised support intervention for independence in dementia (NIDUS-Family),OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+38360452,Repetitive transcranial magnetic stimulation as a treatment for Alzheimer's disease: A randomized placebo-controlled double-blind clinical trial.,OUT_OF_SCOPE,Non-pharmacological,OUT_OF_SCOPE:3/3,none,unanimous
+38516884,Chimeric antigen receptor macrophages target and resorb amyloid plaques,OUT_OF_SCOPE,Non-human; Non-mental-health,OUT_OF_SCOPE:3/3,none,unanimous
+38717445,Metabolome-associated psychological comorbidities improvement in irritable bowel syndrome patients receiving a probiotic.,UNCERTAIN,Pharmacological; Mental health adjacent,UNCERTAIN:2/3;MAP:1/3,minor,majority UNCERTAIN (2/3); dissent: MAP
+39276779,Frailty for neurologists: perspectives on how frailty influences care planning.,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:3/3,none,unanimous
+39366844,Insights into the use of biomarkers in clinical trials in Alzheimer's disease.,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:2/3,none,unanimous
+39978982,Mentalisation-based treatment for antisocial personality disorder in males convicted of an offence on community probation in England and Wales,OUT_OF_SCOPE,Non-pharmacological; Non-Canadian,OUT_OF_SCOPE:3/3,none,unanimous
+39978982_dup,Insights into the use of biomarkers in clinical trials in Alzheimer's disease.,OUT_OF_SCOPE,Review,OUT_OF_SCOPE:1/3,none,unanimous
+40120616,Safety and efficacy of long-term gantenerumab treatment in dominantly inherited Alzheimer's disease,OUT_OF_SCOPE,Non-Canadian,OUT_OF_SCOPE:2/3;MAP:1/3,minor,majority OUT_OF_SCOPE (2/3); dissent: MAP

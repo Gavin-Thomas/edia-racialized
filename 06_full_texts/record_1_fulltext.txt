@@ -1,0 +1,593 @@
+European Neuropsychopharmacology
+Volume 28, Issue 8, August 2018, Pages 970-979
+12-week double-blind randomized multicenter study of efficacy and safety of agomelatine (25–50 mg/day) versus escitalopram (10–20 mg/day) in out-patients with severe generalized anxiety disorder
+Author links open overlay panel
+Dan J. Stein a
+, 
+Jon-Paul Khoo b
+, 
+Antti Ahokas c
+, Marek Jarema d, Michael. Van Ameringen e, 
+Livia Vavrusova f
+, 
+Cyril Hӧschl g
+, Michael Bauer h, Istvan Bitter i, Sergey N. Mosolov j, 
+Valérie Olivier k
+, 
+Sophie Matharan k
+, 
+Françoise Picarel-Blanchot k
+, 
+Christian de Bodinat k
+Show more
+Add to Mendeley
+Share
+Cite
+https://doi.org/10.1016/j.euroneuro.2018.05.006
+Get rights and content
+Full text access
+Abstract
+Treatment of severely symptomatic patients with generalized anxiety disorder (GAD) raises particular concerns for clinicians.
+This 12-week double-blind study evaluated the efficacy of agomelatine (25–50 mg/day) in the treatment of patients with severe GAD, using escitalopram (10–20 mg) as active comparator. The primary outcome measure was the change from baseline of the total score on the Hamilton Anxiety scale (HAM-A) at week 12. Secondary outcome measures included rate of response to treatment (at least 50% score reduction from baseline) in the HAM-A psychic and somatic anxiety sub-scores, Clinical Global Impression severity and change scores, the Toronto Hospital Alertness Test, the Snaith-Hamilton Pleasure Scale, and the Leeds Sleep Evaluation Questionnaire Scores.
+Sixty one clinical centers (Australia, Canada, Czech Republic, Finland, Germany, Hungary, Poland, Russia, Slovakia) participated from April 2013 to February 2015.
+Patient characteristics and demographic data were comparable between treatment groups. Both treatments were associated with a clinically significant decrease in HAM-A total score at week 12; the non-inferiority of agomelatine versus escitalopram was not demonstrated (E(SE) = −0.91(0.69), 95%CI = [−2.26, 0.44], p = 0.195). At week 12, the response rate was 60.9% in the agomelatine group, and 64.8% in the escitalopram group. In both treatment arms, HAM-A psychic and somatic anxiety scores decreased, alertness and sleep parameters improved, and ability to experience pleasure increased. In these secondary outcome measures, there were no significant differences between the treatment groups. Agomelatine was well-tolerated, with a lower incidence of adverse events than escitalopram.
+Agomelatine and escitalopram are efficacious in treating GAD patients with severe symptoms.
+Previous article in issue
+Next article in issue
+Keywords
+AgomelatineEscitalopramGeneralized anxiety disorder
+Introduction
+Generalized anxiety disorder (GAD) has a lifetime prevalence of 3.7% across the globe (Ruscio et al., 2017) and is the most common anxiety disorder in primary care (Hoffman et al., 2008, Kessler et al., 2002, Kessler et al., 2005, Wittchen, 2002, Wittchen et al., 2011). GAD is characterized by anxiety and worries that are difficult to control, and by accompanying psychic and somatic symptoms including sleep disturbance. GAD is an impairing illness, and when symptoms are severe patients may demonstrate significant disability with considerable social and occupational dysfunction (Kessler et al., 2005, Wittchen et al., 2011). Severe GAD may be associated with increased risk for suicidality (Norton et al., 2008), and is associated with lower response rates to some forms of treatment (Haby et al., 2006).
+While several medications have shown efficacy for GAD (Bandelow et al., 2012), many patients fail to respond to, cannot tolerate, or develop discontinuation symptoms after use of such compounds (Kapczinski et al., 2003). Agomelatine has a mechanism of action and tolerability profile that differs from that of currently approved therapies for GAD (de Bodinat et al., 2010, Guardiola-Lemaitre et al., 2014) and so is an attractive option for the treatment of this disorder. Its efficacy and tolerability in treating GAD has been demonstrated using doses of 25–50 mg daily in three short-term placebo-controlled studies, including one with escitalopram as an active control (Stein et al., 2017, Stein et al., 2014, Stein et al., 2008, Stein et al., 2013), and in a relapse prevention study (Stein et al., 2012).
+Notably, agomelatine was efficacious in reducing symptoms in a subset of patients with severe GAD (Stein et al., 2014). Of particular interest was a signal in this subset of severely ill participants that agomelatine was perhaps more efficacious than the escitalopram, a selective serotonin reuptake inhibitor (SSRI) (Stein et al., 2014). Given that care of this population raises particular clinical concerns and that there have been few prior trials of pharmacotherapy for severe GAD (Liebowitz et al., 2003; Matza et al., 2010), it would be useful to obtain additional data regarding the efficacy of agomelatine in an appropriately powered sample of patients with severe GAD.
+The primary objective of the present study was to investigate the short-term (12-week) efficacy of agomelatine (25–50 mg/day) compared to escitalopram (10–20 mg) in reducing GAD symptoms, assessed by the HAM-A, in out-patients with severe illness. Escitalopram was chosen as an active comparator given its demonstrated efficacy in the treatment of GAD (Baldwin et al., 2006, Davidson et al., 2004, Goodman et al., 2005, Stein et al., 2005) and as it had previously been used as an active control in a GAD trial of agomelatine (Stein et al., 2014). The secondary objectives were to assess the potential clinical benefits of these two treatments on a broad array of clinically relevant measures including response rate, alertness, subjective sleep, and anhedonia, and to provide supplementary data on their tolerability.
+Experimental procedures
+Patients
+A total of 523 physically healthy male and female outpatients, aged between 18 and 65 years old inclusive, with a primary diagnosis of GAD according to DSM-IV-TR criteria (American Psychiatric Association, 2000), were recruited between April 2013 and February 2015 in Australia (6 centers), Canada (6 centers), Czech republic (10 centers), Finland (6 centers), Germany (9 centers), Hungary (6 centers), Poland (7 centers), Russia (7 centers), and Slovakia (4 centers). The study was conducted in accordance with the principles of Good Clinical Practice and the Declaration of Helsinki (World Medical Association, 2013). All patients gave informed signed consent.
+The Mini International Neuropsychiatric Interview (MINI) (Sheehan et al., 1998) was used to diagnose GAD (DSM-IV-TR criteria) and potential comorbid disorders. Patients were required to have a HAM-A (Hamilton, 1959) total score ≥ 25, a score ≥ 2 on both HAM-A items 1 and 2, HAM-A items 1 + 2 ≥ 5, a Hospital and Depression Anxiety (HAD) (Zigmond and Snaith, 1983) Anxiety score ≥ 11 and ≥ HAD Depression score at selection and week 0 (baseline), and a Montgomery-Åsberg Depression Rating Scale (MADRS) (Montgomery and Asberg, 1979) score ≤ 16 at selection. Patients with a decrease greater than 20% on the HAM-A total score between selection and baseline were excluded from the study.
+Patients with current anxiety disorders other than GAD, including panic disorder, posttraumatic stress disorder, agoraphobia, social phobia, and obsessive-compulsive disorder according to DSM-IV-TR criteria and confirmed by the MINI, were excluded. Regarding specific phobia, only patients with symptoms present almost daily or which could interfere with study evaluation were excluded. Patients with anxiety symptoms due to a general medical condition or substance use were also excluded. Patients with other psychiatric disorders including major depressive disorder, drug or alcohol abuse or dependence, severe personality disorders, a history of psychotic disorder, neurological disorders, and suicide risk (as judged by the clinician) and/or patients with a suicidal ideation (4 or 5 on the Columbia Suicide Severity Rating Scale) were excluded. Women of childbearing potential without effective contraception, pregnant women, and patients with severe or uncontrolled general medical disorders likely to interfere with the conduct of the study were excluded. Patients receiving psychotropic agents or other treatments likely to impact on the central nervous system or on study evaluations, or having recently begun psychotherapy, were excluded. Menopause hormone replacement therapy, treatment with thyroid hormones or beta-blockers were authorized when used at a stable dosage (start, stop or modification within the 3 months [4 weeks for beta-blockers] prior to baseline were criteria for exclusion).
+Design and measures
+Patients were randomized to receive agomelatine or escitalopram in the evening for 12 weeks. Randomization was balanced and stratified by center, and was done using an Interactive Response System (IRS). Treatments were identically labeled. Daily dosage of agomelatine or escitalopram could be increased at week 4 (agomelatine: from 25 mg to 50 mg; escitalopram: from 10 mg to 20 mg) on the basis of insufficient improvement, in blinded fashion according to a predefined dose adjustment algorithm (to which investigators and patients were blind).
+At study end, or in case of premature withdrawal, investigators had the option to gradually reduce escitalopram medication during a double-blind tapering period of one week to avoid possible withdrawal reactions. While such dose reduction took place for those in the escitalopram arm, the dose of agomelatine in fact remained unchanged as this antidepressant is not associated with discontinuation symptoms on abrupt withdrawal (Montgomery et al., 2004, Stein et al., 2012, Stein et al., 2008). Patients were followed up for one week after discontinuation. During the 12-week period, visits were scheduled at baseline visit and weeks 2, 4, 8 and 12 (last visit).
+The primary outcome measure was a change from baseline in the HAM-A total score, which was rated at the selection and baseline visits and at weeks 2, 4, 8 and 12. Secondary outcome measures included the HAM-A psychic and somatic anxiety sub-scores rated at each visit, and three Self-rating questionnaires: the Toronto Hospital Alertness Test (THAT) and the Snaith-Hamilton Pleasure Scale (SHAPS) completed by the patient at baseline visit and weeks 2, 4, 8 and 12 to measure alertness (Shapiro et al., 2006) and anhedonia (Snaith et al., 1995), and the Leeds Sleep Evaluation Questionnaire (LSEQ) completed by the patient at weeks 2, 4, 8 and 12 to measure the impact of treatments on sleep parameters (Parrott and Hindmarch 1980). With respect to the Clinical Global Impression (CGI) scale (Guy, 1976), the CGI-Severity of illness (CGI-S) was assessed at each visit from selection, and the CGI-Improvement (CGI-I) assessed at each visit from week 2. All efficacy measures were performed at the end of the study or at the withdrawal visit in the case of premature withdrawal.
+Safety measures included adverse events reporting at each visit, vital signs (heart rate, blood pressure) at selection and baseline visits and at week 12, 12-lead electrocardiograms at selection and week 12, weight and body-mass index (BMI) at the selection visit, baseline and week 12. Standard biochemistry and hematology tests, as well as liver function tests including alanine amino transferase (ALAT), aspartate amino transferase (ASAT), gamma glutamyl transferase (γGT), alkaline phosphatase (ALP), and total bilirubin were undertaken at selection visit, at weeks 4 (liver function parameters only), 8 (liver function parameters only) and 12. Assessment of suicidal ideation and suicidal behavior was performed using the Columbia Suicide Severity Rating Scale (C-SSRS) at baseline visit and weeks 2, 4, 8, and 12. All safety measures were performed at the end of the study or at the end of treatment in the case of premature withdrawal.
+Training
+All clinicians were trained in administering the diagnostic instruments and the outcome measures. Presentations were done at an International investigators’ meeting on DSM-IV-TR criteria for GAD and on the MINI. Videos of clinical cases were used to establish inter-rater reliability on symptom measures. Training sessions on symptom severity measures were repeated once during the year recruitment period.
+Statistical Analyses
+The efficacy analyses were performed in the full analysis set (FAS) (all included and randomized patients having taken at least one dose of study medication and having a value at baseline and at least one post-baseline value for the primary efficacy criterion). The primary analysis compared the change from baseline to week 12 of HAM-A total score in agomelatine and escitalopram groups, using a two-way analysis of covariance (ANCOVA) model including the fixed, categorical effect of treatment, the random categorical effect of center, as well as the continuous, fixed covariate of baseline HAM-A total score. Missing data at week 12 were imputed using the last observation carried forward (LOCF) approach.
+A non-inferiority analysis was carried out taking into account the fixed pre-defined non-inferiority margin of 1.5 points. If the lower end of the two-sided 95% confidence interval of the treatment difference was superior to −1.5, the non-inferiority of agomelatine to escitalopram would be established (with, in that case, a p-value from the non-inferiority unilateral test less than or equal to 0.025).
+To assess the robustness of the results of the primary analysis, agomelatine was compared to escitalopram on the change from baseline to week 12 of HAM-A total score, using a mixed-effects model for repeated measures (MMRM) including the fixed, categorical effects of treatment, visit and treatment-by-visit interaction, the random categorical effect of center, as well as the continuous fixed covariate of baseline score on the HAM-A.
+Descriptive statistics were provided by treatment group in the FAS on the 12-week period for HAM-A psychic and somatic anxiety scores, CGI-S and CGI-I scores, THAT and SHAPS total scores, LSEQ getting off to sleep score, quality of sleep score, sleep awakening score and Integrity of behavior score. Secondary analyses in the FAS were planned for all secondary outcome measures, including the response rate to treatment (at least 50% decrease from baseline of the HAM-A total score) over the 12-week period, conditional on demonstration of non-inferiority of agomelatine on the primary outcome.
+The above-mentioned analyses were repeated in the subset of “more severely anxious patients” with a HAM-A total score ≥ 25 and a CGI-S score ≥ 5 at baseline.
+For every safety measurement, descriptive statistics were provided by treatment group in the safety set (all included patients having taken at least one dose of medication).
+Statistical analysis was performed using SAS® software, version 9.2 (SAS Institute, Cary, North Carolina). The type I error was set at 2.5% for non-inferiority tests.
+Results
+Patients
+Five hundred and twenty-three patients were randomly assigned to receive agomelatine 25 mg (261 patients) or escitalopram 10 mg (262 patients). A total of 91 patients did not complete the trial (82.6% completer rate). In both arms, reasons for withdrawal were mainly adverse events, non-medical reasons and lack of efficacy (Table 1).
+
+Table 1. Disposition of patients (n).
+
+Empty Cell
+	Agomelatine	Escitalopram
+Included (randomized)	261	262
+With a protocol deviation ≤ week 0	40	41
+Lost to follow-up	–	–
+Withdrawn	49	42
+due to adverse event	15	19
+due to non-medical reason	21	15
+due to lack of efficacy	13	3
+due to protocol deviation	–	4
+due to cure, remission	–	1
+Completed (%)	212 (81.2)	220 (84.0)
+Full analysis Set (FAS)	258	261
+Sub-FAS with HAM-A total score ≥ 25 and CGI-S ≥ 5 at week 0	191	188
+Safety set	260	262
+The patients’ age was 41.0 ± 12.1 years (mean ± SD) with a greater proportion of females (69.0%). The mean HAM-A total score at baseline was 30.3 ± 3.4 and there were no clinically relevant differences between the treatment groups for demographic criteria and clinical characteristics at study start (Table 2).
+
+Table 2. Baseline patient demographic and clinical characteristics – randomized set.
+
+Empty Cell
+	Agomelatine	Escitalopram
+
+Empty Cell
+	(N = 261)	(N = 262)
+Age (mean ± SD) (years)	41.1 ± 12.3	40.9 ± 12.0
+% female	67.4	70.6
+Duration of GAD (Median) (years)	3.4	4.5
+Previous anxiolytic treatmenta (n(%))	53 (20.3)	39 (14.9)
+Previous antidepressant treatmenta (n(%))	85 (32.6)	73 (27.9)
+HAM-A total score (mean ± SD)	30.3 ± 3.5	30.3 ± 3.3
+HAM-A psychic anxiety score (mean ± SD)	16.2 ± 2.3	16.0 ± 2.2
+HAM-A somatic anxiety score (mean ± SD)	14.1 ± 2.8	14.3 ± 2.9
+CGI severity of illness score (mean ± SD)	4.9 ± 0.7	4.9 ± 0.7
+HAD anxiety score (mean ± SD)	15.8 ± 2.5	15.7 ± 2.6
+HAD depression score (mean ± SD)	6.6 ± 3.6	6.4 ± 3.6
+MADRS total score (mean ± SD)	11.7 ± 2.6	11.6 ± 2.8
+THAT total score (mean ± SD)	N = 257
+21.7 ± 8.3	N = 260
+21.6 ± 7.8
+SHAPS total score (mean ± SD)	N = 257
+29.7 ± 6.8	N = 260
+29.0 ± 7.0
+SDS total score (mean ± SD)	n = 231
+19.9 ± 4.3	n = 228
+19.0 ± 4.8
+a
+In the last 12 months before the selection
+In the agomelatine group, 38 out of 261 (14.6%) randomized patients had a dose increase after the week-4 visit, while this occurred in the escitalopram group for 28 out of 262 (10.7%) patients.
+Primary efficacy criterion
+In the FAS
+The mean HAM-A total score decreased from baseline to week 12 in both treatment groups. At week 12 (LOCF), the mean ± SD reduction from baseline was −16.0 ± 9.1 in the agomelatine group and −16.9 ± 8.4 in the escitalopram group. Considering the pre-defined margin of 1.5 points, the non-inferiority of agomelatine compared to escitalopram, after adjustment for center (random effect) and baseline HAM-A total score, and using the LOCF approach for missing data at week 12, was not statistically demonstrated (E (SE) = −0.91 (0.69), 95%CI = [−2.26, 0.44], p = 0.195). This result was confirmed in a sensitivity analysis employing MMRM, to help address the issue of missing data (E (SE) = −1.00 (0.63), 95%CI [−2.24], p = 0.214) (Table 3A).
+
+Table 3. HAM-A total score (change from baseline to week 12 – LOCF) – FAS.
+
+A: FAS
+HAM-A total score (mean ± SD)
+Agomelatine (n = 258)	Escitalopram (n = 261)
+−16.0 ± 9.1	−16.9 ± 8.4
+Difference Escitalopram minus Agomelatine
+Estimate	SE	95% CI	p-value
+−0.91a	0.69	[−2.26 ; 0.44]	0.195b
+−1.00c	0.63	[−2.24 ; 0.23]	0.214b
+B: HAM-A total score sub-FAS of more severely anxious patients
+HAM-A total score (mean ± SD)
+Agomelatine (n = 191)	Escitalopram (n = 188)
+−16.4 ± 9.5	−17.4 ± 8.6
+Difference Escitalopram minus Agomelatine
+Estimate	SE	95% CI	p-value
+−0.92a	0.85	[−2.59 ; 0.75]	0.247b
+−0.93c	0.78	[−2.47 ; 0.61]	0.234b
+E (SE): Estimate (Standard Error) of the difference between treatment group – 95% CI: Two-sided 95% Confidence Interval of the estimate – p value: one-sided p-value of treatment effect to be compared to 0.025.
+a
+Analysis of covariance model on factors treatment and center (random effect) with baseline HAM-A total score as covariate.
+b
+Non-inferiority test centered on a non-inferiority margin of 1.5: one-sided p-value to be compared to 0.025.
+c
+Sensitivity analysis addressing the method of handling missing data; Mixed-effects Model with Repeated Measures including terms for effects of treatment, baseline HAM-A total score, center (random effect), visit and an interaction term treatment × visit.
+In more severely anxious patients
+For patients with HAM-A total score ≥ 25 and CGI-S ≥ 5 at baseline (N = 191 in the agomelatine group, N = 188 in the escitalopram group), the mean HAM-A total score decreased from baseline to week 12 in both treatment groups. At week 12 (LOCF), the mean ± SD total score reduction from baseline was −16.4 ± 9.5 in the agomelatine group and −17.4 ± 8.6 in the escitalopram group. The non-inferiority of agomelatine compared to escitalopram was not statistically demonstrated (E (SE) = −0.92 (0.85), 95%CI = [−2.59, 0.75], p = 0.247); a result confirmed by the MMRM sensitivity analysis (E (SE) = −0.93 (0.78), 95%CI = [−2.47, 0.61], p = 0.234) (Table 3B).
+Secondary efficacy criteria
+In the FAS (Table 4A)
+Response to treatment based on at least a 50% reduction in HAM-A total score increased during the course of the study in both treatment groups. At week 12 (LOCF), the response rate was 60.9% in the agomelatine group and 64.8% in the escitalopram group.
+
+Table 4A. Secondary efficacy criteria – expressed as Mean ± SD scores in the FAS.
+
+Empty Cell
+	
+Empty Cell
+	Agomelatine (n = 258)	Escitalopram (n = 261)
+HAMA psychic anxiety score			
+
+Empty Cell
+	Baseline	16.2 ± 2.3	16.0 ± 2.2
+
+Empty Cell
+	Week 12 (LOCF)	7.8 ± 5.4	7.0 ± 4.9
+
+Empty Cell
+	Change from baseline (LOCF)	−8.4 ± 5.1	−9.0 ± 4.7
+HAMA somatic anxiety score			
+
+Empty Cell
+	Baseline	14.1 ± 2.8	14.3 ± 2.9
+
+Empty Cell
+	Week 12 (LOCF)	6.6 ± 4.7	6.4 ± 4.4
+
+Empty Cell
+	Change from baseline (LOCF)	−7.6 ± 4.7	−7.9 ± 4.5
+CGI-S			
+
+Empty Cell
+	Baseline	4.9 ± 0.7	4.9 ± 0.7
+
+Empty Cell
+	Week 12 (LOCF)	3.0 ± 1. 4	2.8 ± 1.3
+CGI-I			
+
+Empty Cell
+	Week 12 (LOCF)	2.1 ± 1.2	1.9 ± 1.1
+THAT		N = 252	N = 254
+
+Empty Cell
+	Baseline	21.7 ± 8.3	21.7 ± 7.7
+
+Empty Cell
+	Week 12 (LOCF)	29.4 ± 10.3	31.3 ± 9.7
+
+Empty Cell
+	Change from baseline (LOCF)	7.8 ± 10.3	9.6 ± 9.9
+SHAPS total score		N = 252	N = 254
+
+Empty Cell
+	Baseline	29.7 ± 6.8	29.0 ± 7.0
+
+Empty Cell
+	Week 12 (LOCF)	26.7 ± 7.3	24.8 ± 7.1
+
+Empty Cell
+	Change from baseline (LOCF)	−3.1 ± 7.1	−4.2 ± 6.5
+LSEQ score at Week 12 (LOCF) (mm)		N = 256	N = 256
+
+Empty Cell
+	Getting off to sleep	37.8 ± 18.6	39.5 ± 18.4
+
+Empty Cell
+	Quality of sleep	36.9 ± 21.3	37.7 ± 22.2
+
+Empty Cell
+	Sleep awakening	43.1 ± 20.2	43.1 ± 21.5
+
+Empty Cell
+	Integrity of behavior	42.7 ± 21.5	41.0 ± 21.2
+Psychic and somatic anxiety symptoms were significantly improved by both agomelatine and escitalopram. At week 12 (LOCF), the mean change from baseline on the HAM-A psychic anxiety sub-score was −8.4 ± 5.1 in the agomelatine and −9.0 ± 4.7 in the escitalopram groups; the mean change from baseline on the HAM-A somatic anxiety sub-score was similar in both treatment groups (−7.6 ± 4.7 versus −7.9 ± 4.5).
+The mean CGI-S and CGI-I scores decreased in both groups, indicating that patients’ overall clinical picture improved during the course of the study. The mean THAT score increased over the 12-week period in both groups, indicating that patients felt more alert. The decrease of SHAPS scores during the study, indicating that on both treatments patients improved in their ability to experience pleasure. In both treatment groups, patients had an improvement in LSEQ ratings of getting off to sleep score, quality of sleep score, sleep awakening and integrity of behavior scores over the 12-week period.
+In more severely anxious patients (Table 4B)
+At week 12 (LOCF), the response rate based on at least 50% reduction in the HAMA total score was 60.2% in the agomelatine group and 66.0% in the escitalopram group.
+
+Table 4B. Secondary efficacy criteria – expressed as Mean ± SD scores in the more severely anxious patients.
+
+Empty Cell
+	
+Empty Cell
+	Agomelatine (n = 191)	Escitalopram (n = 188)
+HAMA psychic anxiety score			
+
+Empty Cell
+	Baseline	16.7 ± 2.3	16.3 ± 2.2
+
+Empty Cell
+	Week 12 (LOCF)	8.0 ± 5.6	7.2 ± 5.2
+
+Empty Cell
+	Change from baseline (LOCF)	−8.7 ± 5.3	−9.1 ± 4.8
+HAMA somatic anxiety score			
+
+Empty Cell
+	Baseline	14.4 ± 3.0	14.7 ± 2.9
+
+Empty Cell
+	Week 12 (LOCF)	6.7 ± 4.8	6.5 ± 4.5
+
+Empty Cell
+	Change from baseline (LOCF)	−7.7 ± 4.9	−8.3 ± 4.6
+CGI-S			
+
+Empty Cell
+	Baseline	5.3 ± 0.5	5.2 ± 0.4
+
+Empty Cell
+	Week 12 (LOCF)	3.2 ± 1. 5	3.0 ± 1.4
+CGI-I			
+
+Empty Cell
+	Week 12 (LOCF)	2.1 ± 1.3	1.9 ± 1.2
+THAT		N = 189	N = 184
+
+Empty Cell
+	Baseline	21.3 ± 8.3	22.0 ± 7.7
+
+Empty Cell
+	Week 12 (LOCF)	30.2 ± 10.2	32.4 ± 9.2
+
+Empty Cell
+	Change from baseline (LOCF)	9.0 ± 10.1	10.5 ± 9.5
+SHAPS total score		N = 189	N = 184
+
+Empty Cell
+	Baseline	29.7 ± 7.0	28.8 ± 7.2
+
+Empty Cell
+	Week 12 (LOCF)	26.1 ± 7.2	24.2 ± 7.2
+
+Empty Cell
+	Change from baseline (LOCF)	−3.8 ± 7.1	−4.7 ± 6.7
+LSEQ score at Week 12 (LOCF) (mm)		N = 189	N = 184
+
+Empty Cell
+	Getting off to sleep	37.2 ± 18.8	37.7 ± 18.5
+
+Empty Cell
+	Quality of sleep	36.2 ± 21.4	36.5 ± 22.1
+
+Empty Cell
+	Sleep awakening	42.6 ± 20.3	42.8 ± 21.1
+
+Empty Cell
+	Integrity of behavior	42.0 ± 21.7	40.0 ± 20.8
+Over the 12-week period results on all secondary criteria were similar to those observed in the FAS in both treatment groups.
+Tolerability
+In the safety set (N = 522), 276 patients reported at least one emergent adverse event (EAE) during the 12-week treatment period and the 1-week tapering period, with a numerically lower rate in the agomelatine group (46.9%) than in the escitalopram group (58.8%) (Table 5). Headache, nausea, fatigue and insomnia were the most frequently reported EAEs. The percentages of patients were numerically lower in the agomelatine than in the escitalopram group for headache (10.4% vs. 12.2%) nausea (6.5% versus 17.9%) insomnia (2.3% versus 6.1%) dizziness (1.9% versus 3.8%) anxiety (1.9% versus 3.4%), hyperhidrosis (0.8% versus 5.0%) and diarrhoea (1.5% versus 4.6%). Other EAEs showed no difference between the groups. The majority of EAEs were rated as mild or moderate. Twenty-two patients (4.2%) reported at least one severe treatment-related EAE. In the agomelatine group, 7 patients (2.7%) reported 13 severe treatment-related EAEs, mainly related to psychiatric disorders (4 events, 4 patients, 1.5%). In the escitalopram group, 15 patients (5.7%) reported 24 severe treatment-related EAEs including 11 psychiatric events (9 patients, 3.4%).
+
+Table 5. Most frequently reported emergent adverse events⁎ during the double-blind treatment period (at least 2% of the patients in any group) – Safety set.
+
+Adverse events	Agomelatine (N = 260)	Escitalopram (N = 262)
+All	46.9	58.8
+Headache	10.4	12.2
+Nausea	6.5	17.9
+Fatigue	4.6	4.2
+Nasopharyngitis	4.2	3.8
+Dry mouth	3.8	1.9
+Tension headache	2.7	1.1
+Constipation	2.7	–
+Insomnia	2.3	6.1
+Dizziness	1.9	3.8
+Anxiety	1.9	3.4
+Diarrhoea	1.5	4.6
+Hyperhidrosis	0.8	5.0
+⁎ Expressed as percent of affected patients among exposed patients in the considered treatment group.
+In all, 17 serious emergent adverse events (SEAEs) (13 patients, 2.5%) were documented during the study. Nine SEAEs were reported in 7 patients on agomelatine and 8 SEAEs were reported in 6 patients on escitalopram. SEAEs were considered as treatment-related by the investigator in 6 patients (2.3%) in the agomelatine group (schizophrenia, somnolence, vision blurred, myocardial ischaemia, nightmare [each in one patient] and abnormal sensation in eye, amblyopia, impaired driving ability [in one patient]) and in 2 patients (0.8%) in the escitalopram group (sleep disorders and fatigue in one patient, activities of daily living impaired in one patient). All patients recovered from these events.
+Emergent potentially clinically significant abnormal (PCSA) transaminases levels were sparse during the 12-week period: one patient in the agomelatine group (0.4%) and 2 patients in the escitalopram group (0.8%) reported PCSA value of aspartate aminotransferase, two patients in the agomelatine group (0.8%) and 4 patients in the escitalopram group (1.6%) reported PCSA values of alanine aminotransferase, 3 patients in the agomelatine group (1.2%) and 3 patients in the escitalopram group (1.2%) reported PCSA values of gamma-glutamyl transferase. Values were normalized after study drug discontinuation.
+There were neither clinically relevant differences between treatment groups nor changes from baseline to the last post-baseline value for biochemical and haematological parameters, blood pressure, heart rate, body weight and BMI. Three patients in both groups reported at least one emergent clinically significant ECG abnormality during treatment.
+In the safety set, the assessment of suicidal ideation and suicidal behavior performed using the C-SSRS showed that only a few patients presented suicidal ideations and/or suicidal behavior over the study period in both groups. One patient in each group had suicidal ideation at the last post-baseline assessment without suicidal ideation at baseline. No suicidal behavior was reported during the study.
+Discussion
+In this study, GAD symptoms were improved in both agomelatine and escitalopram groups, as supported by consistent findings on the primary outcome measure (HAM-A total score) and on secondary measures. There was no demonstration of a statistical non-inferiority of agomelatine versus escitalopram on the primary outcome measure.
+At week 12, the mean ± SD reduction from baseline in HAM-A total score (LOCF) was similar in the agomelatine (−16.0 ± 9.1) and the escitalopram (−16.9 ± 8.4) groups. These results were also in the range of changes previously reported over a 12-week study for agomelatine (−15.6 ± 9.4) and escitalopram (−15.6 ± 8.2) (Stein et al., 2014). In addition, the HAM-A total score changes from baseline were similar for both treatments in the subset of severely anxious patients (HAM-A total score ≥ 25 and CGI-S ≥ 5 at baseline), and approximately the same as in the FAS population. Somewhat equivalent efficacies across different levels of symptom severity were also observed in a previous investigation of agomelatine in GAD, although in that study there was a signal that agomelatine was superior to escitalopram in the most severely ill subset (Stein et al., 2014). Clinicians have major concerns regarding patients with severe GAD, so the confirmation here of the efficacy of agomelatine and escitalopram make them promising treatment options for reducing the significant distress and impairment in outpatients with such symptoms. As less than 15% of agomelatine-treated patients needed an uptitration at week 4, agomelatine 25 mg daily appears to be the dose of choice for the majority of patients, a recommendation that is consistent with results from previous GAD trials (Stein et al., 2017, Stein et al., 2014, Stein et al., 2008).
+Whereas some agents that are used for GAD treatment may act primarily on psychic or somatic symptoms of the disorder, the benefits of agomelatine and escitalopram were observed on both psychic and somatic anxious symptoms, again in agreement with previous GAD trials (Stein et al., 2017, Stein et al., 2014, Stein et al., 2012, Stein et al., 2008, Stein et al., 2005). The psychic symptoms of anxiety may be more specific for GAD, while somatic symptoms may be important clinical predictors of the presence of anxiety disorders in general (Jackson et al., 2001). It is important that the full range of patient's GAD symptoms respond to treatment, hence agents that reduce both psychic and somatic symptoms are particularly beneficial in clinical practice.
+In addition to reducing psychic and somatic GAD symptoms, agomelatine and escitalopram exhibited other useful features for GAD patients. Both treatments led to decreased anhedonia as measured by SHAPS scores over the 12-week period, showing that they improved patients’ ability to experience pleasure. Treatments also improved all sleep parameters as assessed by the LSEQ. Sleep disturbance is an important diagnostic criterion for GAD (Andrews and Slade, 2002), and occurs in 50–70% of patients (Papadimitriou and Linkowski, 2005). The benefits of agomelatine and escitalopram for the treatment of sleep problems in GAD patient have already been demonstrated (Stein et al., 2014, Stein and Lopez, 2011) and are confirmed by our findings here. The improvements in the self-reported ratings of GAD patients on getting off to sleep and on perceived quality of sleep (on the LSEQ scale) were accompanied by higher levels of alertness as indicated by increased total THAT scores over the study period.
+The profile of adverse events found during the study period was consistent with prior observations in patients suffering from GAD and treated with agomelatine or escitalopram (Stein et al., 2014, Stein et al., 2012, Stein et al., 2008, Stein et al., 2005). Agomelatine was well-tolerated, with a lower rate of patients reporting adverse events than in the escitalopram group. Emergent PCSA transaminases levels had a low prevalence with both compounds, and normalized after study drug discontinuation. These data are consistent with a recent extensive meta-analysis which emphasizes that both agomelatine and escitalopram have particularly favorable efficacy vs tolerability profiles, with agomelatine having somewhat superior tolerability (Cipriani et al., 2018).
+One limitation of our study is that patients included in GAD phase III trials have minimal comorbidity and so are not representative of GAD patients seen in everyday practice (Hoertel et al., 2012). However, most trials in GAD patients follow regulatory guidelines and therefore exclude primary psychiatric comorbidities, and indeed this limitation holds true across a number of mental disorders. Furthermore, in some respects participants included in our study are representative of those seen found in clinical practice and in the general community (e.g., there are higher rates of women with GAD). Finally, enrolled patients had severe GAD symptoms and high levels of associated disability; such patients may well be more representative of the population seen in medical practice.
+Strengths of the study, moreover, include a focus on severe generalized anxiety disorder, the use of a broad range of outcome measures, and confirmation of the sensitivity of the primary analysis with a MMRM analysis. Although it is has been suggested that severe GAD is less responsive to some forms of intervention, there have been few studies of the pharmacotherapy of severe GAD (Liebowitz et al., 2003, Matza et al., 2010); this study therefore helps extend the field. While GAD studies necessarily focus on the HAM-A as a primary outcome measure, there is a relative dearth of work on key secondary outcome measures such as sleep; this study therefore again helps take the field forwards. Finally, the use of a MMRM analysis to confirm the robustness of the primarily analysis is useful here.
+Currently, there are several pharmacologic treatment options for GAD, and each has benefits and limitations (Baldwin et al, 2014). As for many psychiatric conditions, there remains a clinical need for novel agents, especially for patients who do not respond adequately to or cannot tolerate existing therapies. Our finding confirms previous work supporting the clear efficacy of agomelatine 25 mg in the treatment of severely ill GAD patients. The results of this study, taken together with the existing literature, demonstrate that both agomelatine and escitalopram in severe GAD reduce the psychic and somatic GAD symptoms, improve sleep and alertness, and increase ability to feel pleasure. The combination of these efficacy data together with the good tolerability of agomelatine support previous work indicating that this compound is a promising treatment option for the management of GAD (Stein et al., 2014, Stein et al., 2012, Stein et al., 2008).
+Acknowledgments
+The authors thank the Servier Biostatistics team for its contribution in the study.
+Role of funding source
+This study was funded by Servier. Servier employees were involved in the study design, writing of the protocol, collection and statistical analysis of data.
+Contributors
+VO, SM, FPB, CdB designed the study and wrote the protocol. DJS VO, SM, FPB, CdB managed the literature searches and analyses. VO, SM, FPB undertook the statistical analysis, and DJS wrote the first draft of the manuscript. All authors contributed to and have approved the final manuscript.
+Conflict of interest
+D.J. Stein has received research grants and/or consultancy honoraria from Abbott, Astrazeneca, Eli-Lilly, GlaxoSmithKline, Jazz Pharmaceuticals, Johnson & Johnson, Lundbeck, Orion, Pfizer, Pharmacia, Roche, Servier, Solvay, Sumitomo, Takeda, Tikvah, and Wyeth. He is supported by the South African Medical Research Council.
+J.P. Khoo has received research grants and/or consultancy honoraria from Alkermes, AstraZeneca; Bristol-Myers Squibb; Eli Lilly; GlaxoSmithKline; Janssen; Lundbeck; Pfizer; Sanofi-Aventis; Servier; and Wyeth. I am assuming “consultancy honoraria’ to include speaking honoraria, educational grants and clinical trial payments.
+A. Ahokas has received research grants and/or consultancy honoraria from AstraZeneca, Bristol-Myers Scibb, Eli Lilly, GlaxoSmithKline, Lundbeck, Orion, Otsuka, Sanofi-Aventis, Servier and Wyeth.
+M. Jarema has received consultancy honoraria from Angelini, Janssen, Servier.
+D.M. Van Ameringen has received grant/research support from Hamilton Academic Health Sciences Organization (HAHSO) Innovation Grant (AFP Innovation Grant), Canadian Foundation for Innovation, Janssen-Ortho Inc., Pfizer Inc., Shire Canada. He has been speaker's bureau and advisory board for Purdue and Allergan.
+L. Vavrusova has no disclosures.
+C. Höschl has received consultancy and lecturing honoraria from Gedeon Richter, Eli Lilly, Janssen and Servier. He is also Lundbeck International Neuroscience Foundation faculty member
+M. Bauer has received grant/research support from Deutsche Forschungsgemeinschaft, and Bundesministerium für Bildung und Forschung (BMBF).
+He is/has been a consultant for Allergan, Ferrer Internacional, Janssen, Lilly, Lundbeck, neuraxpharm, Novartis, Otsuka, and Servier, and has received speaker honoraria from Lilly, Lundbeck, neuraxpharm, Otsuka, Pfizer and Servier.
+I. Bitter has received a research grant from E. Lilly and consultancy honoraria from Eli Lilly, EGIS, EGRIS Janssen/Janssen-Cilag, Lundbeck, Medavante, Gedeon Richter, and Servier.
+S.N. Mosolov has received research grants and/ or consultancy honoraria from Gedeon Richter, Janssen-Cilag, Pfizer, Sanofi-Aventis, Servier and Minerva.
+V. Olivier, S. Matharan, F. Picarel-Blanchot and C. de Bodinat are employees at Servier.
+References
+American Psychiatric Association, 2000
+American Psychiatric Association
+Diagnostic and Statistical Manual of Mental Disorders, 4th Edn (DSM-IV-TR), American Psychiatric Association, Washington DC (2000)
+Google Scholar
+Andrews and Slade, 2002
+G. Andrews, T. Slade
+The classification of anxiety disorders in ICD-10 and DSM-IV: a concordance analysis
+Psychopathology, 35 (2002), pp. 100-106
+View in ScopusGoogle Scholar
+Baldwin et al., 2006
+D.S. Baldwin, A.K. Huusom, E. Maehlum
+Escitalopram and paroxetine in the treatment of generalised anxiety disorder: randomised, placebo-controlled, double-blind study
+Br. J. Psychiatry, 189 (2006), pp. 264-272
+CrossrefView in ScopusGoogle Scholar
+Baldwin et al., 2014
+Baldwin D.S., Anderson I.M., Nutt D.J., Allgulander C., Bandelow B., den Boer J.A., Christmas D.M., Davies S., Fineberg N., Lidbetter N., Malizia A., McCrone P., Nabarro D., O'Neill C., Scott J., van der Wee N., Wittchen H.U.
+Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology
+J. Psychopharmacol., 28 (2014), pp. 403-439
+CrossrefView in ScopusGoogle Scholar
+Bandelow et al., 2012
+B. Bandelow, L. Sher, R. Bunevicius, E. Hollander, S. Kasper, J. Zohar, H.J. Moller
+Guidelines for the pharmacological treatment of anxiety disorders, obsessive-compulsive disorder and posttraumatic stress disorder in primary care
+Int. J. Psychiatry Clin. Pract., 16 (2012), pp. 77-84
+CrossrefView in ScopusGoogle Scholar
+Cipriani et al., 2018
+A. Cipriani, T.A. Furukawa, G. Salanti, A. Chaimani, L.Z. Atkinson, Y. Ogawa, S. Leucht, H.G. Ruhe, E.H. Turner, J.P.T. Higgins, M. Egger, N. Takeshima, Y. Hayasaka, H. Imai, K. Shinohara, A. Tajik, J.P.A. Ioannidis, J.R. Geddes
+Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis
+Lancet, 391 (2018), pp. 1357-1366
+View PDF
+View articleView in ScopusGoogle Scholar
+Davidson et al., 2004
+J.R. Davidson, A. Bose, A. Korotzer, Zheng H.
+Escitalopram in the treatment of generalized anxiety disorder: double-blind, placebo controlled, flexible-dose study
+Depression Anxiety, 19 (2004), pp. 234-240
+View in ScopusGoogle Scholar
+de Bodinat et al., 2010
+C. de Bodinat, B. Guardiola-Lemaitre, E. Mocaer, P. Renard, C. Munoz, M.J. Millan
+Agomelatine, the first melatonergic antidepressant: discovery, characterization and development
+Nat. Rev. Drug Discov., 9 (2010), pp. 628-642
+CrossrefView in ScopusGoogle Scholar
+Goodman et al., 2005
+W.K. Goodman, A. Bose, Wang Q.
+Treatment of generalized anxiety disorder with escitalopram: pooled results from double-blind, placebo-controlled trials
+J Affect. Disord., 87 (2005), pp. 161-167
+View PDF
+View articleView in ScopusGoogle Scholar
+Guardiola-Lemaitre et al., 2014
+B. Guardiola-Lemaitre, B.C. de, P. Delagrange, M.J. Millan, C. Munoz, E. Mocaer
+Agomelatine: mechanism of action and pharmacological profile in relation to antidepressant properties
+Br. J. Pharmacol., 171 (2014), pp. 3604-3619
+CrossrefView in ScopusGoogle Scholar
+Guy, 1976
+W. Guy
+ECDEU Assessment Manual for Psychopharmacology
+National Institute of Mental Health, Rockville MD (1976), pp. 217-222
+US Department of Health, Education and Welfare publication ADM 76-338
+Google Scholar
+Haby et al., 2006
+Haby M.M., Donnelly M., Corry J., Vos T.
+Cognitive behavioural therapy for depression, panic disorder and generalized anxiety disorder: a meta-regression of factors that may predict outcome
+Aust. N. Z. J. Psychiatry, 40 (2006), pp. 9-19
+View in ScopusGoogle Scholar
+Hamilton, 1959
+M. Hamilton
+The assessment of anxiety states by rating
+Br. J. Med. Psychol., 32 (1959), pp. 50-55
+CrossrefView in ScopusGoogle Scholar
+Hoertel et al., 2012
+N. Hoertel, Le S.Y., C. Blanco, P. Lavaud, C. Dubertret
+Generalizability of clinical trial results for generalized anxiety disorder to community samples
+Depression Anxiety, 29 (2012), pp. 614-620
+CrossrefView in ScopusGoogle Scholar
+Hoffman et al., 2008
+D.L. Hoffman, E.M. Dukes, H.U. Wittchen
+Human and economic burden of generalized anxiety disorder
+Depression Anxiety, 25 (2008), pp. 72-90
+CrossrefView in ScopusGoogle Scholar
+Jackson et al., 2001
+J.L. Jackson, J.S. Houston, S.R. Hanling, K.A. Terhaar, Yun J.S.
+Clinical predictors of mental disorders among medical outpatients
+Arch. Intern. Med., 161 (2001), pp. 875-879
+View in ScopusGoogle Scholar
+Kapczinski et al., 2003
+F. Kapczinski, M.S. Lima, J.S. Souza, R. Schmitt
+Antidepressants for generalized anxiety disorder
+Cochrane Database Syst. Rev., 2 (2003), Article CD003592
+View in ScopusGoogle Scholar
+Kessler et al., 2002
+R.C. Kessler, P.A. Berglund, D.J. Dewit, T.B. Ustun, Wang P.S., H.U. Wittchen
+Distinguishing generalized anxiety disorder from major depression: prevalence and impairment from current pure and comorbid disorders in the US and Ontario
+Int. J Methods Psychiatr. Res., 11 (2002), pp. 99-111
+CrossrefView in ScopusGoogle Scholar
+Kessler et al., 2005
+R.C. Kessler, N. Brandenburg, M. Lane, P. Roy-Byrne, P.D. Stang, D.J. Stein, H.U. Wittchen
+Rethinking the duration requirement for generalized anxiety disorder: evidence from the National Comorbidity Survey Replication
+Psychol. Med., 35 (2005), pp. 1073-1082
+View in ScopusGoogle Scholar
+Liebowitz et al., 2003
+Liebowitz M.R., DeMartinis N.A., Weihs K., Londborg P.D., Smith W.T., Chung H., Fayyad R., Clary C.M.
+Efficacy of sertraline in severe generalized social anxiety disorder: results of a double-blind, placebo-controlled study
+J. Clin. Psychiatry, 64 (2003), pp. 785-792
+View in ScopusGoogle Scholar
+Matza et al., 2010
+Matza L.S., Morlock R., Sexton C., Malley K., Feltner D.
+Identifying HAM-A cutoffs for mild, moderate, and severe generalized anxiety disorder
+Int. J. Methods Psychiatr. Res., 19 (2010), pp. 223-232
+CrossrefView in ScopusGoogle Scholar
+Montgomery and Asberg, 1979
+S.A. Montgomery, M. Asberg
+A new depression scale designed to be sensitive to change
+Br. J. Psychiatry, 134 (1979), pp. 382-389
+CrossrefView in ScopusGoogle Scholar
+Montgomery et al., 2004
+S.A. Montgomery, S.H. Kennedy, G.D. Burrows, M. Lejoyeux, I. Hindmarch
+Absence of discontinuation symptoms with agomelatine and occurrence of discontinuation symptoms with paroxetine: a randomized, double-blind, placebo-controlled discontinuation study
+Int. Clin. Psychopharmacol., 19 (2004), pp. 271-280
+View in ScopusGoogle Scholar
+Norton et al., 2008
+Norton P.J., Temple S.R., Pettit J.W.
+Suicidal ideation and anxiety disorders: elevated risk or artifact of comorbid depression?
+J. Behav. Ther. Exp. Psychiatry, 39 (2008), pp. 515-525
+View PDF
+View articleView in ScopusGoogle Scholar
+Papadimitriou and Linkowski, 2005
+G.N. Papadimitriou, P. Linkowski
+Sleep disturbance in anxiety disorders
+Int. Rev. Psychiatry, 17 (2005), pp. 229-236
+CrossrefView in ScopusGoogle Scholar
+Parrott and Hindmarch, 1980
+A.C. Parrott, I. Hindmarch
+The leeds sleep evaluation questionnaire in psychopharmacological investigations – a review
+Psychopharmacology, 71 (1980), pp. 173-179
+View in ScopusGoogle Scholar
+Ruscio et al., 2017
+Ruscio A.M., Hallion L.S., Lim C.C.W., Aguilar-Gaxiola S., Al-Hamzawi A., Alonso J., Andrade L.H., Borges G., Bromet E.J., Bunting B., Caldas de Almeida J.M., Demyttenaere K., Florescu S., de G.G., Gureje O., Haro J.M., He Y., Hinkov H., Hu C., de J.P., Karam E.G., Lee S., Lepine J.P., Levinson D., Mneimneh Z., Navarro-Mateu F., Posada-Villa J., Slade T., Stein D.J., Torres Y., Uda H., Wojtyniak B., Kessler R.C., Chatterji S., Scott K.M.
+Cross-sectional comparison of the epidemiology of DSM-5 generalized anxiety disorder across the globe
+JAMA Psychiatry, 74 (2017), pp. 465-475
+CrossrefView in ScopusGoogle Scholar
+Shapiro et al., 2006
+C.M. Shapiro, C. Auch, M. Reimer, L. Kayumov, R. Heslegrave, N. Huterer, H. Driver, G.M. Devins
+A new approach to the construct of alertness
+J. Psychosom. Res., 60 (2006), pp. 595-603
+View PDF
+View articleView in ScopusGoogle Scholar
+Sheehan et al., 1998
+D.V. Sheehan, Y. Lecrubier, K.H. Sheehan, P. Amorim, J. Janavs, E. Weiller, T. Hergueta, R. Baker, G.C. Dunbar
+The Mini-International Neuropsychiatric Interview (M.I.N.I.): the development and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10
+J. Clin. Psychiatry, 59 (Suppl 20) (1998), pp. 22-33
+View in ScopusGoogle Scholar
+Snaith et al., 1995
+R.P. Snaith, M. Hamilton, S. Morley, A. Humayan, D. Hargreaves, P. Trigwell
+A scale for the assessment of hedonic tone the Snaith-Hamilton Pleasure Scale
+Br. J. Psychiatry, 167 (1995), pp. 99-103
+CrossrefView in ScopusGoogle Scholar
+Stein et al., 2017
+D.J. Stein, A. Ahokas, M. Jarema, A. Avedisova, L. Vavrusova, O. Chaban, C. Gruget, V. Olivier, F. Picarel-Blanchot, C. de Bodinat
+Efficacy and safety of agomelatine (10 or 25 mg/day) in non-depressed out-patients with generalized anxiety disorder: a 12-week, double-blind, placebo-controlled study
+Eur. Neuropsychopharmacol., 27 (2017), pp. 526-537
+View PDF
+View articleView in ScopusGoogle Scholar
+Stein et al., 2014
+D.J. Stein, A. Ahokas, M.S. Marquez, C. Hoschl, Oh K.S., M. Jarema, A.S. Avedisova, C. Albarran, V. Olivier
+Agomelatine in generalized anxiety disorder: an active comparator and placebo-controlled study
+J. Clin. Psychiatry, 75 (2014), pp. 362-368
+View in ScopusGoogle Scholar
+Stein et al., 2012
+D.J. Stein, A.A. Ahokas, C. Albarran Severo, V. Olivier, C. Allgulander
+Agomelatine prevents relapse in generalised anxiety disorder: a 6-month placebo-controlled discontinuation study
+J. Clin. Psychiatry, 73 (2012), pp. 1002-1008
+View in ScopusGoogle Scholar
+Stein et al., 2008
+D.J. Stein, A.A. Ahokas, C. de Bodinat
+Efficacy of agomelatine in generalized anxiety disorder: a randomized, double-blind, placebo-controlled study
+J. Clin. Psychopharmacol., 28 (2008), pp. 561-566
+View in ScopusGoogle Scholar
+Stein et al., 2005
+D.J. Stein, H.F. Andersen, W.K. Goodman
+Escitalopram for the treatment of GAD: efficacy across different subgroups and outcomes
+Ann. Clin Psychiatry, 17 (2005), pp. 71-75
+CrossrefView in ScopusGoogle Scholar
+Stein and Lopez, 2011
+D.J. Stein, A.G. Lopez
+Effects of escitalopram on sleep problems in patients with major depression or generalized anxiety disorder
+Adv. Ther., 28 (2011), pp. 1021-1037
+CrossrefView in ScopusGoogle Scholar
+Stein et al., 2013
+D.J. Stein, F. Picarel-Blanchot, S.H. Kennedy
+Efficacy of the novel antidepressant agomelatine for anxiety symptoms in major depression
+Hum. Psychopharmacol., 28 (2013), pp. 151-159
+CrossrefView in ScopusGoogle Scholar
+Wittchen, 2002
+H.U. Wittchen
+Generalized anxiety disorder: prevalence, burden, and cost to society
+Depression Anxiety, 16 (2002), pp. 162-171
+View in ScopusGoogle Scholar
+Wittchen et al., 2011
+H.U. Wittchen, F. Jacobi, J. Rehm, A. Gustavsson, M. Svensson, B. Jonsson, J. Olesen, C. Allgulander, J. Alonso, C. Faravelli, L. Fratiglioni, P. Jennum, R. Lieb, A. Maercker, O.J. van, M. Preisig, L. Salvador-Carulla, R. Simon, H.C. Steinhausen
+The size and burden of mental disorders and other disorders of the brain in Europe 2010
+Eur. Neuropsychopharmacol., 21 (2011), pp. 655-679
+View PDF
+View articleView in ScopusGoogle Scholar
+World Medical Association 2013
+World Medical Association, 2013. Declaration of Helsinki. In: p. Revision 2013.
+Google Scholar
+Zigmond and Snaith, 1983
+A.S. Zigmond, R.P. Snaith
+The hospital anxiety and depression scale
+Acta Psychiatr. Scand., 67 (1983), pp. 361-370
+CrossrefView in ScopusGoogle Scholar
+Cited by (30)
+Long-term Outcome of Deep Brain Stimulation of the Ventral Part of the Anterior Limb of the Internal Capsule in a Cohort of 50 Patients With Treatment-Refractory Obsessive-Compulsive Disorder
+2021, Biological Psychiatry
+Citation Excerpt :
+
+Because the primary study aim was to assess whether DBS effects remain at long-term follow-up, we predefined clinically significant changes on symptom scales. We predefined Y-BOCS score increases ≥3 points/year, HAM-A score increases ≥2 points/year, and HAM-D score increases ≥2 points/year as clinically significant changes (19–22). The World Health Organization Quality of Life Scale–Brief Version (WHOQOL-BREF) assessed QoL, comprehending a general score and 4 subdomains: physical health, psychological health, social relationships, and environment (23).
+
+Show abstract
+Novel pharmacological targets in drug development for the treatment of anxiety and anxiety-related disorders
+2019, Pharmacology and Therapeutics
+Citation Excerpt :
+
+Its anxiolytic effect seems to be a result of the synergistic action of this action, antagonising 5-HT2C receptors in subcortical areas including hippocampus and the MT receptor stimulation enhancing neurogenesis and reducing stress-induced glutamate release (Levitan et al., 2015; Tardito, Molteni, Popoli, & Racagni, 2012). In GAD patients, agomelatine has been shown to exert efficacy superior to placebo and comparable to the active comparator escitalopram, though with overall better tolerability, and evidence of preventing anxiety relapse over 6 months in one study [e.g. (Stein, Ahokas, Albarran, Olivier, & Allgulander, 2012; Stein et al., 2018); for review, see (Buoli, Grassi, Serati, & Altamura, 2017; Slee et al., 2019)]. Although the further development of agomelatine for the treatment of GAD is on hold due to a strategic decision by Servier, the evidence of clinical efficacy and the relatively good tolerability of agomelatine in GAD patients (Slee et al., 2019) would call for its further investigation in other anxiety disorders.
+
+Show abstract
+Differential associations between chronotype, anxiety, and negative affect: A structural equation modeling approach
+2019, Journal of Affective Disorders
+Citation Excerpt :
+
+Additional research is needed to determine whether CBSRT might be effective for other anxiety disorders with and without comorbid MDD. Likewise, agomelatine, a melatonin agonist, has been shown to be effective for generalized anxiety disorder (Stein et al., 2018), suggesting that chronotherapies recommended for DSPD (Auger et al., 2015) may also be beneficial for anxiety disorders. Further, these findings suggest that assessment of sleep and chronotype in individuals seeking treatment for anxiety disorders and anxiety in individuals seeking treatment for sleep and circadian rhythm disorders may enhance case conceptualization and promote a more holistic treatment approach.
+
+Show abstract
+Pharmacotherapy of Anxiety Disorders: Current and Emerging Treatment Options
+2020, Frontiers in Psychiatry
+Show abstract
+Trends in Antidepressant Use and Expenditure in Six Major Cities in China From 2013 to 2018
+2020, Frontiers in Psychiatry
+Show abstract
+Agomelatine for the treatment of generalized anxiety disorder: focus on its distinctive mechanism of action
+2022, Therapeutic Advances in Psychopharmacology
+View all citing articles on Scopus
+View Abstract
+© 2018 Elsevier B.V. and ECNP. All rights reserved.

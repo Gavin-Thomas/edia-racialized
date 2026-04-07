@@ -1,0 +1,163 @@
+id,title,final_decision,category,vote_count,conflict_flag,reconciliation_notes
+28806966,An exploratory study assessing psychological distress of indigents in Burkina Faso,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.43)
+,CAN A REFORM OF PRIMARY CARE IMPROVE THE MANAGEMENT OF PATIENTS WITH DEMENTIA?,OUT_OF_SCOPE,non-RCT,1,N,Unmatched in Screener B (best ratio: 0.57)
+29110140,Economic Evaluation of Implementing a Novel Pharmacogenomic Test (IDgenetix) to Guide Treatment of Patients with Depression,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.47)
+,Modeling the appearance and progression of cognitive impairment,OUT_OF_SCOPE,non-RCT,1,N,Unmatched in Screener B (best ratio: 0.53)
+30630555,Group rumination-focused CBT v. group CBT for depression: phase II trial,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.43)
+28609307,A 6-Year Posttreatment Follow-up of Panic Disorder Patients,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.47)
+31721487,Impact of Pharmacogenomics on Clinical Outcomes for Patients Taking Medications With Gene-Drug Interactions,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29510970,The Optimization of an eHealth Solution (Thought Spot) with Transition-Aged Youth,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+36922318,Corrigendum to Optimizing Outcomes of Treatment-Resistant Depression in Older Adults (OPTIMUM),OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+27777607,Effect of mirtazapine versus SSRIs on benzodiazepine use in patients with MDD,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.70)
+28252881,A Randomized Controlled Pilot Study on Mindfulness-Based Cognitive Therapy for Unipolar Depression in Patients With Chronic Pain,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+31303567,Influence of baseline severity on the effects of SSRIs in depression,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+32743079,Testing the Mechanism of Action of Computerized Cognitive Training in Young Adults with Depression: Protocol,OUT_OF_SCOPE,protocol,2,N,Agreement
+28324814,Risk of injury from alcohol marijuana and other drug use among ED patients,OUT_OF_SCOPE,non-MH,2,N,Agreement
+35220359,The Relationship Between Depression and Pain During Acute ECT,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+28069279,Masitinib for treatment of severely symptomatic indolent systemic mastocytosis,OUT_OF_SCOPE,non-MH,2,N,Agreement
+30714202,Cognitive behavioral therapy improves diverse profiles of depressive symptoms in Parkinson's disease,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+28535455,The effectiveness of telemedicine-delivered opioid agonist therapy in a supervised clinical setting,OUT_OF_SCOPE,non-MH,2,N,Agreement
+30880991,GSK-3B and BDNF genes may not be associated with venlafaxine treatment response in Chinese,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+27525966,The Validity of the Different Versions of the Hamilton Depression Scale,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32406210,Effectiveness of ECT in patients with less treatment-resistant depression,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.63)
+31200665,Perinatal depressive symptoms among low-income South African women,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+31948296,Effect of Pretreatment of S-Ketamine On Postoperative Depression for Breast Cancer Patients,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.52)
+30153563,Capacity to provide informed consent among adults with bipolar disorder,OUT_OF_SCOPE,non-RCT,1,N,Unmatched in Screener B (best ratio: 0.48)
+25308771,Sertraline hydrochloride treatment for patients with stable COPD complicated with depression,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.53)
+27181179,Effect of recombinant erythropoietin on inflammatory markers in patients with affective disorders,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.48)
+26291629,Evaluating the Psychometric Properties of 3 Depression Measures in a Sample of Persons With TBI,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+28422869,Effects of Jianpi Qingchang decoction on the quality of life of patients with ulcerative colitis,OUT_OF_SCOPE,non-MH,1,N,Unmatched in Screener B (best ratio: 0.50)
+32993175,Effects of Psychoactive Massage in Outpatients with Depressive Disorders,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32502027,"Effectiveness of ECT in patients with ""less treatment-resistant"" depression by the Maudsley Staging Model",OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.63)
+31200665,Perinatal depressive symptoms among low-income South African women at risk of depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+30944021,Vitamin D3 supplementation and treatment outcomes in patients with depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29110517,Functions of reminiscence in later life,OUT_OF_SCOPE,non-RCT,1,N,Unmatched in Screener B (best ratio: 0.79)
+30123143,Machine Learning Based Classification of Deep Brain Stimulation Outcomes in a Rat Model,OUT_OF_SCOPE,animal,2,N,Agreement
+,T51. TREATMENT OF NEGATIVE SYMPTOMS OF SCHIZOPHRENIA WITH TDCS,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29659120,Patterns of depressive symptom remission during the treatment of SAD with CBT or light therapy,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+26896028,Do people with bipolar disorders have access to psychosocial treatments? A survey in Italy,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34887180,Dexmedetomidine Use in ICU Sedation and Postoperative Recovery in Elderly Patients Post-Cardiac Surgery,OUT_OF_SCOPE,non-MH,1,N,Unmatched in Screener B (best ratio: 0.73)
+,A202 EFFECT OF A SINGLE DOSE OF LORAZEPAM ON SALIVARY CORTISOL RESPONSE IN CHILDREN UNDERGOING DIGESTIVE ENDOSCOPY,OUT_OF_SCOPE,non-MH,2,Y,Conflict: OUT_OF_SCOPE vs UNCERTAIN -> OUT_OF_SCOPE
+32188192,Chronic fatigue syndrome treated by the traditional Chinese procedure abdominal tuina,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+,IMPACT OF ADAPTED DANCE ON MOOD AND PHYSICAL FUNCTION AMONG ALZHEIMER'S DISEASE ASSISTED LIVING RESIDENTS,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+28097909,Administration of ketamine for unipolar and bipolar depression,OUT_OF_SCOPE,review,2,N,Agreement
+35544134,Application of Patient-Reported Outcome Measurements in Clinical Trials in China,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36896037,A Wrinkle in Measuring Time Use for Cognitive Health,OUT_OF_SCOPE,review,2,N,Agreement
+34377337,Influence of psychological nursing on negative emotion and sleep quality of glaucoma trabeculectomy patients,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+28535332,Interventions for treating anxiety after stroke,OUT_OF_SCOPE,review,2,N,Agreement
+27498098,Efficacy and cost-effectiveness of a specialist depression service versus usual specialist mental health care,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+27425430,Reduced spontaneous neuronal activity in the insular cortex and thalamus in healthy adults with insomnia symptoms,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36802717,Preliminary findings from the Music and Movement for Health study,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.67)
+30588705,Analgesic effects of repetitive transcranial magnetic stimulation on modified 2010 criteria-diagnosed fibromyalgia,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34306374,The effects of total enteral nutrition via nasal feeding and percutaneous radiologic gastrostomy,OUT_OF_SCOPE,non-MH,2,N,Agreement
+26747258,The effectiveness of acupuncture as a treatment for tinnitus,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+27965856,Ketamine for depression relapse prevention following ECT: protocol (KEEP-WELL trial),OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+27262302,Influence of ACE gene on differential response to sertraline versus fluoxetine in patients with major depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+27195443,Correction to MBCT vs CBASP for chronically depressed patients,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.43)
+27525966,The Validity of the Different Versions of the Hamilton Depression Scale in Separating Remission Rates,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+,T16. SCHIZOPHRENIA SPECTRUM DISORDER: DEPRESSION TRAJECTORIES AND IMMUNE MARKERS,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29268206,Efficacy of bright light therapy in bipolar depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+28600189,Effect of high-dose simvastatin on cognitive neuropsychiatric and health-related quality-of-life measures in SPMS,OUT_OF_SCOPE,non-MH,2,N,Agreement
+27445478,5-HTR1A and 5-HTR2A genetic polymorphisms and SSRI antidepressant response in depressive Chinese patients,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29879465,Bayesian synthesis using prior information on fracture risk from randomized trials,OUT_OF_SCOPE,non-MH,2,N,Agreement
+34870610,A Virtual Supermarket Program for the Screening of Mild Cognitive Impairment in Older Adults,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+26646596,Effectiveness of Chinese Hand Massage on Anxiety Among Patients Awaiting Coronary Angiography,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29306690,Differential change on depressive symptom factors with antidepressant medication and CBT for MDD,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29541481,Determinants of hospitalization in Chinese patients with type 2 diabetes receiving peer support,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32937032,Impact of Psychiatric Diagnosis and Treatment on Medication Adherence in Youth With SLE,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29677524,Effectiveness of community-based depression intervention programme (ComDIP),OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34542779,Change in Alcohol Use Based on Self-Report and a Quantitative Biomarker in People With HIV,OUT_OF_SCOPE,non-MH,2,N,Agreement
+27798030,The Screen-ICD trial: Screening for anxiety and CBT intervention for ICD patients,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+27529765,Effects of Restricted Time in Bed on Antidepressant Treatment Response,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+28844559,A randomized sham-controlled study of maintenance rTMS for treatment-resistant depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29298664,The prevention of delirium in elderly with obstructive sleep apnea (PODESA) study,OUT_OF_SCOPE,non-MH,2,N,Agreement
+35022886,Application of interdisciplinary collaborative hospice care for terminal geriatric cancer patients,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+30683710,Randomized Trial of a Tailored CBT Mobile Application for Anxiety in Patients with Incurable Cancer,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.63)
+33250338,Slowed Processing Speed Disrupts Patient Expectancy in Late Life Depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36337257,Warm-season temperatures and emergency department visits among children with health insurance,OUT_OF_SCOPE,non-MH,2,N,Agreement
+30047786,Effects of SSRI medication on heart rate and blood pressure in individuals with hypertension and depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+26773906,The effects of levomilnacipran ER in adult patients with first-episode highly recurrent or chronic MDD,OUT_OF_SCOPE,secondary-analysis,2,N,Agreement
+38620354,Semaglutide (Wegovy): CADTH Reimbursement Recommendation,OUT_OF_SCOPE,non-MH,2,N,Agreement
+28318797,Early Symptom Trajectories as Predictors of Treatment Outcome for Citalopram Versus Placebo,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34053964,Immeasurable Time Bias in Self-controlled Designs,OUT_OF_SCOPE,non-MH,2,N,Agreement
+26799332,Interpersonal psychotherapy as add-on for treatment-resistant depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32502027,Metabolic syndrome depression and fibromyalgia syndrome prevalence in patients with IBS,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29497298,Agomelatine versus paroxetine in treating depressive and anxiety symptoms in patients with CKD,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36386175,The association of ARRB1 polymorphisms with response to antidepressant treatment in depressed patients,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29370555,The Effectiveness of CBT versus Psychoeducation in the Management of Depression among Patients Undergoing Haemodialysis,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.58)
+33836810,Evaluation of the online-based self-help programme Selfapy in patients with unipolar depression: study protocol,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29867593,Study on the Therapeutic Effects of Drug and CBT on NERD Patients With Emotional Disorders,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.82)
+34105206,Does heroin-assisted treatment reduce crime? A review of RCTs,OUT_OF_SCOPE,review,2,N,Agreement
+28293470,Hypothalamic-pituitary-adrenal axis and depression symptom effects of an arginine vasopressin type 1B receptor antagonist,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+31399142,Effects of two types of exercise training on psychological well-being in patients with high-grade glioma: protocol,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+31930057,Vortioxetine versus sertraline in metabolic control distress and depression in Mexican patients with type 2 diabetes,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35418013,Are clinical trials randomising households to lifestyle interventions to delay cognitive decline feasible?,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+31610633,Chronic cough not asthma is associated with depression in the elderly,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36433778,Changes in music-evoked emotion and ventral striatal functional connectivity after psilocybin therapy for depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35891632,Intervention for Treating Depression in Parents of Children with Intellectual Disability of Down's Syndrome,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+,Evaluation of an Ecological Momentary Intervention for Depression in Older Adults Living Alone,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+,MULTIMODAL PERSONALIZED CHRONOTHERAPY IMPROVES SLEEP IN ADULTS WITH MILD COGNITIVE IMPAIRMENT,OUT_OF_SCOPE,non-pharma,2,Y,Conflict: OUT_OF_SCOPE vs UNCERTAIN -> OUT_OF_SCOPE
+31824242,Maximizing the Treatment Benefit of tDCS in Neurodegenerative Anomia,OUT_OF_SCOPE,non-MH,2,N,Agreement
+32300897,Therapeutic effects of proprioceptive exercise on functional capacity anxiety and depression in patients with diabetic neuropathy,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+26766959,Associations between Serotonergic Genes and Escitalopram Treatment Responses in Patients with Depressive Disorder and ACS,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+34540090,The effect of early systematic rehabilitation nursing on the quality of life and limb function in elderly patients with stroke sequelae,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+31747035,Augmentation of Positive Valence System-Focused CBT by Inaudible High-Frequency Sounds for Anhedonia: Trial Protocol,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+27955636,Effects of delaying binge drinking on adolescent brain development: a longitudinal neuroimaging study,OUT_OF_SCOPE,non-pharma,2,Y,Conflict: OUT_OF_SCOPE vs UNCERTAIN -> OUT_OF_SCOPE
+27000323,Anticholinergic Drug Burden in Persons with Dementia Taking a Cholinesterase Inhibitor,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+33176757,Effects and feasibility of hyperthermic baths in comparison to exercise as add-on treatment to usual care in depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32280035,Adolescent cognitive control and mediofrontal theta oscillations are disrupted by neglect,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+31352707,The Efficacy of Miniaturized Repetitive Transcranial Magnetic Stimulation in Patients with Depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+28570792,A Pilot Randomized Controlled Study of Tai Chi in the Treatment of Depressed Chinese Americans,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+30346974,Comparison of prescribing practices for older adults treated by female versus male physicians,OUT_OF_SCOPE,non-RCT,2,N,Agreement
+34007630,Impact of Pharmacist-Led Cognitive Behavioural Therapy for Chronic Insomnia,OUT_OF_SCOPE,non-pharma,2,N,Agreement
+36725835,Effects of bilateral sequential theta-burst stimulation on 5-HT1A receptors in treatment-resistant depression,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35756208,Variables Associated With Body Image Concerns in Acromegaly Patients,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+29288172,Effectiveness and cost-effectiveness of a guided internet- and mobile-based depression intervention for individuals with chronic back pain,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+32608989,Integrated Yoga Practice in Cardiac Rehabilitation Program,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+28224818,Adjunctive low-dose docosahexaenoic acid (DHA) for major depression: An open-label pilot trial,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35360055,The Impact of Hormonal Contraceptive Use on Serotonergic Neurotransmission and Antidepressant Treatment Response,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+28932136,Assessment of anxiety depression and serum cortisol level in oral submucous fibrosis patients,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+35981135,100000 lumens to treat seasonal affective disorder: BROAD light therapy proof of concept RCT,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+30793079,Accelerated intermittent theta burst stimulation in major depression induces decreases in modularity,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+36186272,Detecting Critical Decision Points during CBT and Light Therapy for Winter Depression,OUT_OF_SCOPE,secondary-analysis,1,N,Unmatched in Screener B (best ratio: 0.78)
+32697707,Antidepressant effects of ketamine and ECT: A pilot comparison,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+38620372,Trastuzumab Deruxtecan (Enhertu): CADTH Reimbursement Recommendation,OUT_OF_SCOPE,non-MH,2,N,Agreement
+32696895,The effectiveness of MBCT for reducing rumination and improving mindfulness and self-compassion in patients with TRD,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener B (best ratio: 0.52)
+32242480,High-Frequency External Muscle Stimulation Reduces Depressive Symptoms in Older Male Veterans,OUT_OF_SCOPE,non-Canadian,2,N,Agreement
+,SUPPORTING OPTIMAL AGING OF OLDER PERSONS WITH MULTIPLE CHRONIC CONDITIONS AND THEIR FAMILIES,OUT_OF_SCOPE,non-RCT,1,N,Unmatched in Screener B (best ratio: 0.45)
+10068,Effect of mirtazapine versus selective serotonin reuptake inhibitors on benzodiazepine use in patients with major depressive disorder,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10074,Effectiveness of electroconvulsive therapy in patients with less treatment-resistant depression by the Maudsley Staging Model,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10077,Functions of reminiscence in later life: Predicting change in the physical and mental health of older adults over time,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10082,Dexmedetomidine Use in Intensive Care Unit Sedation and Postoperative Recovery in Elderly Patients Post-Cardiac Surgery (DIRECT),OUT_OF_SCOPE,non-MH,1,N,Unmatched in Screener A
+10093,Preliminary findings from the early phases of the Music and Movement for Health study,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10099,A randomized controlled trial on the efficacy of mindfulness-based cognitive therapy and a group version of CBASP for chronically depressed patients: Correction,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10118,Randomized Trial of a Tailored Cognitive-Behavioral Therapy Mobile Application for Anxiety in Patients with Incurable Cancer,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10130,The Effectiveness of Cognitive Behavioral Therapy versus Psychoeducation in the Management of Depression among Patients Undergoing Haemodialysis,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10132,Study on the Therapeutic Effects of Drug and Cognitive-Behavioral Therapy on Non-Erosive Reflux Disease Patients With Emotional Disorders,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10148,Additional Benefit of Intraoperative Electroacupuncture in Improving Tolerance of Deep Brain Stimulation Surgical Procedure,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10149,THE EFFECTS OF GROUP ARTS THERAPY BASED ON EMOTION MANAGEMENT TRAINING ON EMOTIONAL EXPRESSION ALEXITHYMIA DEPRESSION AND QUALITY OF LIFE IN PATIENTS WITH SCHIZOPHRENIA,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10150,Baseline blood levels of omega-3 and depression remission: a secondary analysis,OUT_OF_SCOPE,secondary,1,N,Unmatched in Screener A
+10151,S30. COMBINING PHARMACOTHERAPY OF BI 425809 WITH COMPUTERIZED COGNITIVE TRAINING IN PATIENTS WITH SCHIZOPHRENIA,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10152,Rhythmic low-field magnetic stimulation may improve depression by increasing brain-derived neurotrophic factor,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10153,Predicting Response to the Antidepressant Bupropion using Pretreatment fMRI,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10154,Efficacy of light therapy for a college student sample with non-seasonal subthreshold depression,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10155,Effects of adjunctive N-acetylcysteine on depressive symptoms: Modulation by baseline high-sensitivity C-reactive protein,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10156,Adjuvant Guided Exercise Therapy Versus Self-Organized Activity in Patients With Major Depression,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10157,Abrupt Symptom Improvements in Antidepressant Clinical Trials: Transient Placebo Effects or Therapeutic Reality?,OUT_OF_SCOPE,secondary,1,N,Unmatched in Screener A
+10158,Cortical thickness predicts remission of depression with antidepressants in patients with late-life depression and cognitive impairment,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10159,A study on the effects of mindfulness-based cognitive therapy and loving-kindness mediation on depression rumination mindfulness level and quality of life in depressed patients,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10160,Duloxetine Reduces Pain and Improves Quality of Recovery Following Total Knee Arthroplasty in Centrally Sensitized Patients,OUT_OF_SCOPE,non-MH,1,N,Unmatched in Screener A
+10163,Baseline Working Memory Predicted Response to Low-Dose Ketamine Infusion in Patients with Treatment-Resistant Depression,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10165,People with diabetes need a lower cut-off than others for depression screening with PHQ-9,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10166,Mindfulness for Motor and Nonmotor Dysfunctions in Parkinson's Disease,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10167,O9.3. EFFECT OF INTRANASAL VASOPRESSIN ON ALTRUISTIC BEHAVIOR IN SCHIZOPHRENIA,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10168,Positive effects of the inclusion of open-mouth pressure for elimination of blood in microscopic subinguinal varicocelectomy,OUT_OF_SCOPE,non-MH,1,N,Unmatched in Screener A
+10169,Effect of Chaihu plus Longgu Muli decoction plus five-element music therapy in the treatment of cancer-related depression,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10170,Combined treatment with memantine/escitalopram for older depressed patients with cognitive impairment: a pilot study,OUT_OF_SCOPE,non-Canadian,1,N,Unmatched in Screener A
+10171,Psychological therapies for people with borderline personality disorder,OUT_OF_SCOPE,review,1,N,Unmatched in Screener A
+10172,Effects of hyperthermic baths on depression sleep and heart rate variability in patients with depressive disorder,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10173,A pilot study on high amplitude low frequency-music impulse stimulation as an add-on treatment for depression,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10174,Cardiac Rehabilitation in Primary Care. Impact of an Intervention on Perceived Self-Efficacy,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10175,Enhancing Social Interaction in Depression (SIDE study): protocol of a randomised controlled trial on CBCT for couples,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10191,Detecting Critical Decision Points during Cognitive-Behavioral Therapy and Light Therapy for Winter Depression Nonremission and Recurrence,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A
+10194,The effectiveness of mindfulness-based cognitive therapy for reducing rumination and improving mindfulness and self-compassion in patients with treatment-resistant depression,OUT_OF_SCOPE,non-pharma,1,N,Unmatched in Screener A

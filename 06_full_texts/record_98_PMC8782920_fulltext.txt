@@ -1,0 +1,2749 @@
+J Am Acad Child Adolesc Psychiatry 
+. Author manuscript; available in PMC: 2023 May 1.
+
+ Published in final edited form as: J Am Acad Child Adolesc Psychiatry. 2021 Jul 22;61(5):647–661. doi: 10.1016/j.jaac.2021.07.005 
+
+ Search in PMC 
+
+ Search in PubMed 
+
+ View in NLM Catalog 
+
+ Add to search 
+
+Micronutrients for Attention-Deficit/Hyperactivity Disorder in Youth: A Placebo-Controlled Randomized Clinical Trial
+
+ Jeanette M Johnstone 
+
+ Jeanette M Johnstone , PhD 
+
+ 1 Oregon Health & Science University, Portland; National University of Natural Medicine, Helfgott Research Institute, Portland, Oregon.
+
+Find articles by Jeanette M Johnstone 
+
+ 1 , Irene Hatsu 
+
+ Irene Hatsu , PhD, RD 
+
+ 2 Ohio State University, Columbus.
+
+Find articles by Irene Hatsu 
+
+ 2 , Gabriella Tost 
+
+ Gabriella Tost , BA 
+
+ 3 Oregon Health & Science University, Portland
+
+Find articles by Gabriella Tost 
+
+ 3 , Priya Srikanth 
+
+ Priya Srikanth , MPH 
+
+ 4 OHSU-Portland State University School of Public Health, Oregon
+
+Find articles by Priya Srikanth 
+
+ 4 , Leanna P Eiterman 
+
+ Leanna P Eiterman , PhD 
+
+ 5 Ohio State University, Columbus.
+
+Find articles by Leanna P Eiterman 
+
+ 5 , Alisha Bruton 
+
+ Alisha Bruton , ND, MS 
+
+ 6 Oregon Health & Science University, Portland
+
+Find articles by Alisha Bruton 
+
+ 6 , Hayleigh K Ast 
+
+ Hayleigh K Ast , ND 
+
+ 7 Oregon Health & Science University, Portland
+
+Find articles by Hayleigh K Ast 
+
+ 7 , Lisa M Robinette 
+
+ Lisa M Robinette , MS 
+
+ 8 Ohio State University, Columbus.
+
+Find articles by Lisa M Robinette 
+
+ 8 , Madeline M Stern 
+
+ Madeline M Stern , MS 
+
+ 9 Ohio State University, Columbus.
+
+Find articles by Madeline M Stern 
+
+ 9 , Elizabeth G Millington 
+
+ Elizabeth G Millington , MC 
+
+ 10 University of Lethbridge, Alberta, Canada
+
+Find articles by Elizabeth G Millington 
+
+ 10 , Barbara Gracious 
+
+ Barbara Gracious , MD 
+
+ 11 Ohio State University, Columbus; Orange Park Medical Center, Florida, Edward Via College of Osteopathic Medicine, Spartanburg, South Carolina
+
+Find articles by Barbara Gracious 
+
+ 11 , Andrew J Hughes 
+
+ Andrew J Hughes , MD 
+
+ 12 Oregon Health & Science University, Portland
+
+Find articles by Andrew J Hughes 
+
+ 12 , Brenda MY Leung 
+
+ Brenda MY Leung , PhD 
+
+ 13 University of Lethbridge, Alberta, Canada
+
+Find articles by Brenda MY Leung 
+
+ 13 , L Eugene Arnold 
+
+ L Eugene Arnold , MD, Med 
+
+ 14 Ohio State University, Columbus
+
+Find articles by L Eugene Arnold 
+
+ 14 
+
+ Author information 
+
+ Article notes 
+
+ Copyright and License information 
+
+ 1 Oregon Health & Science University, Portland; National University of Natural Medicine, Helfgott Research Institute, Portland, Oregon.
+
+ 2 Ohio State University, Columbus.
+
+ 3 Oregon Health & Science University, Portland
+
+ 4 OHSU-Portland State University School of Public Health, Oregon
+
+ 5 Ohio State University, Columbus.
+
+ 6 Oregon Health & Science University, Portland
+
+ 7 Oregon Health & Science University, Portland
+
+ 8 Ohio State University, Columbus.
+
+ 9 Ohio State University, Columbus.
+
+ 10 University of Lethbridge, Alberta, Canada
+
+ 11 Ohio State University, Columbus; Orange Park Medical Center, Florida, Edward Via College of Osteopathic Medicine, Spartanburg, South Carolina
+
+ 12 Oregon Health & Science University, Portland
+
+ 13 University of Lethbridge, Alberta, Canada
+
+ 14 Ohio State University, Columbus
+
+ ✉ 
+Correspondence to Jeanette Johnstone, PhD, Oregon Health & Science University; 3818 SW Sam Jackson Park Road, Portland, OR 97219; jojeanet@ohsu.edu 
+
+Author Contributions
+
+ Conceptualization : Johnstone, Hatsu, Tost, Eiterman, Gracious, Hughes, Leung, Arnold
+
+ Data curation : Johnstone, Srikanth, Gracious, Leung, Arnold
+
+ Formal analysis : Johnstone, Srikanth, Robinette
+
+ Funding acquisition : Johnstone, Hatsu, Gracious, Leung
+
+ Investigation : Johnstone, Hatsu, Tost, Eiterman, Bruton, Ast, Robinette, Stern, Millington, Gracious, Hughes, Leung, Arnold
+
+ Methodology : Johnstone, Hatsu, Tost, Srikanth, Ast, Gracious, Leung
+
+ Project administration : Johnstone, Eiterman, Bruton, Arnold
+
+ Resources : Johnstone, Leung, Arnold
+
+ Software : Tost, Gracious, Hughes
+
+ Supervision : Johnstone, Hatsu, Tost, Eiterman, Gracious, Leung, Arnold
+
+ Validation : Gracious, Arnold
+
+ Visualization : Johnstone, Bruton, Arnold
+
+ Writing – original draft : Johnstone, Tost, Bruton, Robinette, Arnold
+
+ Writing – review and editing : Johnstone, Hatsu, Tost, Eiterman, Bruton, Ast, Robinette, Stern, Millington, Gracious, Hughes, Leung, Arnold
+
+Issue date 2022 May.
+
+ PMC Copyright notice 
+
+PMCID: PMC8782920  NIHMSID: NIHMS1735981  PMID: 34303786 
+
+The publisher's version of this article is available at J Am Acad Child Adolesc Psychiatry 
+
+See commentary " Dr. Johnstone et al . Reply to Dr.
+Hamilton " in volume 62 on page 1168.
+
+See commentary " Dr. Johnstone et al. Reply to Dr. Elmrayed " in volume 62 on page 1171.
+
+ This article has been corrected. See J Am Acad Child Adolesc Psychiatry. 2023 Aug 1 .
+
+See commentary " Dosages of Nutrient Supplements and Potential Long-term Toxicity in Attention-Deficit/Hyperactivity Disorder Micronutrient Study. " with doi: 10.1016/j.jaac.2023.01.027.
+
+See commentary " Blinding of Participants to Treatment and Implications for Assessments of Efficacy in Attention-Deficit/Hyperactivity Disorder Micronutrient Study. " with doi: 10.1016/j.jaac.2022.12.029.
+
+ This article has been corrected. See J Am Acad Child Adolesc Psychiatry. 2022 May 6 .
+
+See commentary " Editorial: Accumulating Evidence for the Benefit of Micronutrients for Children With Attention-Deficit/Hyperactivity Disorder. " with doi: 10.1016/j.jaac.2021.08.008.
+
+ This article has been corrected. See J Am Acad Child Adolesc Psychiatry. 2022 Dec 26 .
+
+Abstract
+
+Objective:
+
+To evaluate whether micronutrients (vitamins/minerals) benefit attention-deficit/hyperactivity disorder (ADHD) and irritability in a North American pediatric sample.
+
+Method:
+
+A three-site 8-week placebo-controlled randomized clinical trial of micronutrients was conducted in unmedicated children ages 6-12 with ADHD and at least one impairing irritability symptom by parent report on the Child and Adolescent Symptom Inventory-5 (CASI-5). A priori -defined primary outcomes were Clinical Global Impression-Improvement (CGI-I) (CGI-I of 1 or 2 = treatment responder) and parent-rated CASI-5 composite score of ADHD, oppositional defiant, disruptive mood dysregulation, and peer conflict symptoms, including impairment scores.
+
+Results:
+
+Of 135 randomized (mean age 9.8 years), 126 (93%) comprised the modified intention-to-treat population. Blinding was maintained. For the CGI-I, 54% of the micronutrient and 18% of the placebo group were responders (Risk Ratio=2.97, 97.5% CI: 1.50, 5.90, p <0.001). CASI-5 composite scores improved significantly for both groups ( p <0.01) with a mean change of −0.31 (95% CI: −0.39, −0.23) in the micronutrient group and a mean change of −0.28 (95% CI: −0.38, −0.19) in the placebo group. But the between group difference was not significant (mean change = −0.02; 97.5% CI: −0.16, 0.12, ES = 0.07, p =0.70). The micronutrient group grew six millimeters more than the placebo group ( p =0.002). No serious adverse events nor clinically significant changes from baseline in blood and urine tests occurred.
+
+Conclusion:
+
+Micronutrients showed global benefit over placebo by blinded clinician rating, but not by parent-report CASI-5 composite rating in a population with ADHD and irritability. Micronutrients showed greater height growth. Micronutrients were well tolerated and the majority adhered to the number of capsules prescribed. This RCT replicates safety and efficacy reported for ADHD in two smaller trials of a similar formula containing all vitamins and known essential minerals in amounts between the Recommended Dietary Allowance and Upper Tolerable Intake Level.
+
+Clinical trial registration information:
+
+Micronutrients for ADHD in Youth (MADDY) Study; https://clinicaltrials.gov ; NCT03252522 .
+
+ Keywords: attention-deficit/hyperactivity disorder, irritability, dysregulated mood, micronutrients
+
+Introduction
+
+Attention-deficit/hyperactivity disorder (ADHD) is a common impairing psychiatric condition affecting 5-7% of children. 1 It often persists into adulthood, with increased risk for poor educational achievements, substance abuse, incarceration, and ongoing psychiatric problems. 2 , 3 In addition to hyperactivity/impulsivity and inattention, emotional dysregulation is increasingly identified as a frequent feature and driver of impairment. 4 - 6 Pharmacologic treatment improves ADHD symptoms for many, but concern continues over side effects, stigma, and potential long-term health effects, including mild growth suppression. 7 - 11 In particular, the evidence for height suppression 12 has led to a call for non-pharmacological treatments. 13 
+
+Supplementation with single nutrients (e.g. zinc, magnesium) have shown mixed and modest benefit, 14 with omega-3 supplementation showing the most consistent benefit in three meta-analyses of blinded assessments; e.g., a meta-analysis of nine studies found that standardized mean difference (SMD)=0.17; 95% CI=0.01, 0.34. 15 Supplementation with broad-spectrum micronutrients has demonstrated benefit in open-label and blinded studies with small-to-medium effects in adults and children with ADHD and co-occurring mood issues or emotional dysregulation (irritability, aggression, and anger). 16 - 19 Scientific justification for supplementing with micronutrients is derived from their function in brain processes, including as cofactors in synthesizing essential neurotransmitters. 20 , 21 Replication of preliminary clinical studies is needed.
+
+We undertook a multisite trial testing benefit of a multinutrient formula consisting of vitamins, minerals, amino acids, and antioxidants in children age 6 to 12 specifically recruited for ADHD and irritable mood symptoms. We hypothesized a between-group difference favoring micronutrients on two validated primary-outcome scales: the clinician-rated Clinical Global Impression - Improvement (CGI-I) 22 and the parent-rated Child and Adolescent Symptom Inventory-5 (CASI-5). 23 We also hypothesized that a majority of the children would be able to take the required 9-12 capsules in three divided doses daily, with only transient, non-serious side effects (e.g. nausea, diarrhea).
+
+Method
+
+Trial design
+
+The Micronutrients for ADHD in Youth (MADDY) Study used an eight-week, fully-blinded [children, parents, study staff, primary investigators (PI)] design in which participants at three sites were randomized to multinutrient or placebo groups in a 3:2 ratio. This ratio, with greater likelihood of active treatment, was selected to encourage enrollment. The study was approved by Institutional Review Boards at Oregon Health & Science University (OHSU) (#16870) and The Ohio State University (OSU) (#2017H0188), the Conjoint Health Research Ethics Board at University of Calgary (#17-0325) for the University of Lethbridge; the US Food and Drug Administration (FDA IND#127832 to Dr. Gracious), and Health Canada (Control #207742). It was registered prospectively with the National Clinical Trials Registry: NCT03252522 . Further details are in the study design and rationale paper. 24 
+
+Participants
+
+Families were recruited at the three sites through children’s hospitals, referrals from pediatricians and mental health providers, social media websites (e.g. Facebook) and school districts ( Peachjar.com ). For inclusion, children had to: 1) be 6–12 years old; 2) be willing/able to swallow 9–12 capsules per day with food and attend all study appointments; 3) meet Diagnostic and Statistical Manual of Mental Disorders, 5 th Edition (DSM-5) criteria for ADHD as assessed by parent reports on the CASI-5 ADHD questions using a threshold of 6 or more symptoms scored 2 or 3, (“often” or “very often,”) (or sufficient “sometimes” responses, scored 0.5, to meet a count of 6), with symptoms present in more than one setting and significant functional impairment; 4) display at least one symptom of irritability or anger as assessed by a score of 2 or 3 (“often” or “very often”), or two “sometimes” responses from the CASI-5 Oppositional Defiant Disorder (ODD) or Disruptive Mood Dysregulation Disorder (DMDD) subscales; 5) be psychotropic medication-free for at least 2 weeks prior to in-person baseline assessment; and 6) be willing to give blood samples at baseline and week 8 at the two United States sites, see Table S1 , available online. Concomitant nutritional supplementation was permitted only if the supplement did not contain ingredients in the active intervention. Other treatments, such as occupational therapy or counselling, were permitted and recorded.
+
+Exclusion criteria were based on parent report of: 1) a neurological disorder involving central function (e.g., intellectual disability, autism spectrum disorder, epilepsy, narcolepsy) or another major psychiatric condition requiring hospitalization (e.g. significant mood disorder, active suicidal ideation, or psychosis); 2) any serious medical condition, such as inflammatory bowel disease, history of cancer, kidney or liver disease, hyperthyroidism, or diabetes; 3) known allergy to any ingredient in either intervention; 4) any known abnormality of mineral metabolism (Wilson’s disease, hemochromatosis); 5) currently taking any other medication with primary central nervous system activity, including stimulants, or having taken any within two weeks prior to enrollment; 6) severe anxiety preventing separation from parent to answer study questionnaires; 7) any disability that would interfere with participant answering questions verbally; 8) non- English-speaking; 9) being pregnant or sexually active.
+
+Parents completed a phone screen with a research assistant, who described the study purpose, procedures, risks and benefits; assessed willingness to participate, and determined eligibility. If eligible based on parent responses, the parent was emailed a REDCap link to complete the CASI-5 eligibility questions, comprised of the ADHD, ODD, and DMDD symptom and impairment subscales. Study PIs at each site reviewed and discussed phone screen data for questionable cases and reached consensus on eligibility by cross-site teleconference. At the baseline visit, parents provided written informed consent; children provided verbal and written assent.
+
+Interventions
+
+The active intervention (micronutrients) consisted of capsules containing a blend of ingredients comprised of all vitamins and known essential minerals, plus amino acids and antioxidants. Nine to 12 capsules/day accumulated to doses above the Recommended Dietary Allowance (RDA), but below the Upper Tolerable Intake Level (UL). The formula, Daily Essential Nutrients, was developed and provided without cost by Hardy Nutritionals (Raymond, Alberta, Canada; www.hardynutritionals.com ). Hardy Nutritionals also provided visually identical capsules for placebo containing cellulose filler and 0.1 mg of riboflavin per capsule to mimic the color of urine as when supplemented with B-vitamins. See Table S2 and S3 , available online, for complete ingredient list. To reduce the characteristic smell of vitamins and minerals, micronutrient bottles contained vanilla-scented desiccants, while the placebo bottles contained desiccants that had previously been stored with micronutrients, providing a mild vitamin/mineral scent in the bottle.
+
+Randomization
+
+Prior to study initiation, an OHSU statistician, not associated with the study or data analysis, generated the randomization sequence spreadsheet using R ( http://cran.r-project.org ), 25 arranged in permuted blocks of 5 to correspond with the 3:2 ratio of active to placebo. Unblinded site collaborators who had no contact with participants received the spreadsheet and prepared sequentially numbered capsule kits in accordance with the randomization sequence. The study team had no access to the randomization code.
+
+Blinding and dosing
+
+To maintain blinding, the sequentially numbered capsule kits were provided in a closed plain paper bag and included: A) a seven-day pill caddy, with each day divided into three sections, ramping up to the first week’s full dose, B) bottles with capsules sufficient for the rest of the four-week period, and C) five days’ extra capsules in case of a delayed 4-week visit. The parent was shown a sample pill caddy and instructed to give the child capsules with food, starting with one capsule three times daily (t.i.d.) on days one and two, two capsules t.i.d on days three and four, and three capsules t.i.d for the remaining four weeks. At four weeks, there was an option to escalate to 4 capsules t.i.d. for children over age 9, if there were neither side effects nor sufficient improvement. To stay within UL range, the maximum dosage was nine capsules for 6-to-9-year-olds. Those unable to tolerate nine capsules per day could decrease to six after study team review of reasons for intolerance (e.g., difficulty swallowing or possible transient side effects).
+
+At the end of the 8-week trial, parent, child, and study staff reported whether they thought the child was taking the active supplement or the matching placebo.
+
+Adherence
+
+Treatment adherence for per-protocol analyses was calculated from the number of pills returned at each visit, which were counted by research staff not associated with the study. The adherence calculation considered the number of returned capsules, the number dispensed, the number of days between visits, and the assigned dosage per day. Participants included in the per-protocol analysis met the following criteria: 1) completed eight weeks of treatment and attended all visits, 2) took ≥80% of the assigned capsules, 3) met full inclusion criteria, including not using medication during the study (e.g. antibiotics, known to alter gut absorption of micronutrients), and 4) had the same parent/caregiver informant at all visits.
+
+Outcome measures
+
+Of the two a priori primary outcome measures, one was the clinician-rated CGI; the other, the parent-rated CASI-5. 26 The CGI is a validated, standard clinical measure with two subcales, assessing symptom severity (CGI-S) and improvement (CGI-I). The CGI-S is rated 1-7 from “normal” to “among the most extremely ill,” and the CGI-I is rated 1-7 from “very much improved” to “very much worse.” 22 
+
+The dichotomous primary outcome was “treatment responder,” defined by a CGI-I of 1 or 2, “very much” or “much” improved. The week 8 CGI-I rating relied on all available data, including a range of behavioral scales and narrative comments from child and parents that were recorded at each visit. See Supplement 1 , available online, for a complete list of these scales. The CGI-I, rated only at week 8, along with CGI-S ratings at baseline and week 8, were recorded by trained study staff blinded to treatment allocation. CGI anchor points, as described in Dunlop et al., were used to guide and standardize ratings. 27 All CGIs were reviewed in weekly cross-site phone calls with senior staff, many of whom had no direct contact with the families.
+
+The CASI-5 composite score was derived from subscales measuring: 1) ADHD symptoms, 2) oppositional-defiant (ODD) and dysphoric mood dysregulation disorder (DMDD) symptoms to measure oppositionality/irritability, and 3) the Peer Conflict subscale to measure anger and aggression toward peers, plus 4) impairment for each syndrome. The composite score was the mean of item means of the symptom and impairment scores. 26 To assess response, the CGI-I was rated after the week 8 visit; the CASI-5 was completed at baseline and week 8 by a parent and a teacher or other adult who knew the child well and by the parent at week 4.
+
+Safety
+
+The Pediatric Adverse Events Rating Scale (PAERS) 28 established criteria for an adverse event (AE) based on parent responses to 43 symptom questions asked by study staff. If a symptom was present and new or increased in severity, the parent provided details including the level of severity and impairment, and staff completed an AE record to aid the site clinician in determining the symptom’s clinical or medical severity and whether it was related to the study’s treatment with options: “unrelated,” “unlikely,” “possibly,” “probably,” or “definitely” related; and what action, if any, needed to be taken. PAERS data were collected at baseline, week 4, and week 8, as requested by the FDA in the interest of standardizing reporting of AEs in pediatric clinical trials. A data safety monitoring board, comprised of one member from each institution who was not involved with the study, met via videoconference every three-to-six months to review recruitment, enrollment, and adverse events and ensure procedural consistency and participant safety. Stopping guidelines are described in Supplement 1 , available online.
+
+Biological samples:
+
+At baseline and week 8, participants in the US provided fasting blood and urine to identify contraindications to study participation or subsequent AEs. Safety labs included complete blood count, comprehensive metabolic panel, thyroid, iron, and urinalysis. Such tests were not required by Health Canada. Samples were also frozen for future mechanistic analyses. 24 
+
+Biometric data collection:
+
+Anthropometric measures were assessed for each participant while they wore light clothing without shoes. Height was measured to the nearest 0.1 centimeter using a stadiometer with an adjustable headpiece. Weight was measured to the nearest 0.1 kg using a calibrated digital scale. Body mass index (BMI) was calculated from the height and weight measures. Participants’ systolic and diastolic blood pressures were measured as follows: participants sat in a chair with back straight, legs and arms uncrossed, and feet flat on the floor for about 5 minutes; blood pressure was then measured via a digital wrist cuff for participants at OHSU, and a digital upper arm cuff for participants in Ohio and Canada.
+
+Data management:
+
+Data were collected and managed using the Research Electronic Data Capture (REDCap) software, 29 hosted at OHSU. REDCap provides a secure, web-based platform designed to support data capture for research studies.
+
+Sample size
+
+For power = 0.8, with a two-tailed α = 0.05 and a 3:2 randomization ratio, 123 participants were needed to detect an effect of d ≥0.6, based on the effect size from a similar RCT population and intervention 19 with a parent-rated primary outcome measure that is a composite of the CASI-5 subscale scores. Given three sites and two treatments in a 3:2 ratio, we needed a number divisible by 15. Assuming two dropouts per arm per site, based on a previous similar study, 19 135 participants (45 per site) needed to be randomized with 123 retained.
+
+Statistical methods
+
+To provide descriptive baseline comparisons between the micronutrient and placebo groups, we used two-sample t-tests with equal variances (or unequal variances if ratio of standard deviations >2) for continuous variables and Pearson’s chi-square or Fisher’s exact test (if expected counts <5) for categorical variables. We tested a site-by-visit-by-treatment interaction to determine whether there were significant site differences. We used log-binomial regression to estimate the risk ratio of CGI-I after adjusting for site. We used last observation carried forward from week 4, if week 8 data were missing, to inform CGI-I rating. We examined associations between groups and change in CGI-S by categorizing as ‘severity reduced’ (≥ 1 category lower), ‘remained the same,’ or ‘severity worsened’ (≥1 category higher). We used linear mixed-effects modeling to model the CASI composite score, safety labs, and biometric data to account for the within-subject correlation with a random effect for site (if the site-by-visit-by-treatment interaction was not significant), a visit-by-treatment interaction term, and an adjustment for the baseline value. A Bonferroni-corrected alpha of 0.025 was used for statistical significance for the two primary outcomes to maintain the overall Type I error rate of 0.05. 30 All analyses were conducted using STATA, Release 15, College Station, TX. 31 
+
+Results
+
+Of 384 participants screened, 135 were randomized; 126 (93%) had a post-baseline assessment and comprise the modified ITT population ( Fig. 1 ). Data are presented for total participants, as the site-by-time-by-treatment and sex-by-time-by-treatment interactions were not significant (p=0.32-0.80).
+
+Figure 1: CONSORT Diagram of MADDY Study Participants.
+
+ Open in a new tab 
+
+Note: a Participant met attention-deficit/hyperactivity disorder symptom scores criteria at initial screening, but no longer met required scores at baseline assessment.
+
+Recruitment
+
+Participants enrolled April 2018 through January 2020. At OHSU and Ohio, all visits were completed in person, prior to COVID-19. Because of COVID shutdown, seven Canadian participants completed their week 8 visits by telephone in April 2020.
+
+The demographic and baseline clinical characteristics of the participants were well matched between treatment groups ( Table 1 ); 72% had a formal ADHD diagnosis by a clinician prior to enrollment. Marginally more participants in the placebo group than in the micronutrient group had asthma (18% vs 7%, p =0.06). On the CGI-Severity (CGI-S) scale, 56% of the participants were rated “moderately ill” at baseline; 43% percent were rated “markedly” or “severely ill.”
+
+Table 1:
+
+Baseline Demographic and Clinical Characteristics of Participants by Treatment Arm
+
+ Total
+N=126
+
+ Micronutrients
+n=71
+
+ Placebo
+n=55
+
+ P 
+
+ Variable
+
+ Mean (SD)
+or n (%)
+
+ Mean (SD)
+or n (%)
+
+ Mean
+(SD) or n
+(%)
+
+ Age (years)
+
+ 9.8 (1.7)
+
+ 9.9 (1.6)
+
+ 9.7 (1.7)
+
+ 0.37
+
+ Sex: Male
+
+ 92 (73 )
+
+ 57 (79)
+
+ 35 (65)
+
+ 0.07
+
+ Race a , b , c 
+
+ 0.26
+
+  Asian
+
+ 3 (3)
+
+ 3 (4)
+
+ 0 (0)
+
+  African American/Black
+
+ 4 (3)
+
+ 1 (2)
+
+ 3 (6)
+
+  White
+
+ 105 (88)
+
+ 60 (90)
+
+ 45 (87)
+
+  Other d 
+
+ 7 (6)
+
+ 3 (4)
+
+ 4 (8)
+
+ Ethnicity a 
+
+ 0.18
+
+  Not Hispanic or Latino
+
+ 85 (85)
+
+ 45 (80)
+
+ 40 (91)
+
+  Hispanic or Latino
+
+ 8 (8)
+
+ 7 (13)
+
+ 1 (2)
+
+  Other d 
+
+ 7 (7)
+
+ 4 (7)
+
+ 3 (7)
+
+ Parent Marital Status
+
+ 0.87
+
+  Married
+
+ 100 (79)
+
+ 57 (79)
+
+ 43 (80)
+
+  Divorced
+
+ 15 (12)
+
+ 8 (11)
+
+ 7 (13)
+
+  Single
+
+ 11 (9)
+
+ 7 (10)
+
+ 4 (7)
+
+ Parent Education
+
+ 0.23
+
+  High school
+
+ 20 (16)
+
+ 8 (11)
+
+ 12 (22)
+
+  Technical college/trade school
+
+ 29 (23)
+
+ 17 (24)
+
+ 12 (22)
+
+  University or higher
+
+ 77 (61)
+
+ 47 (65)
+
+ 30 (56)
+
+ Family Household income a , b 
+
+ 0.62
+
+  <=30K
+
+ 12 (10)
+
+ 6 (8)
+
+ 6 (11)
+
+  >30K-<=60K
+
+ 27 (22)
+
+ 14 (19)
+
+ 13 (25)
+
+  >60K-<=80K
+
+ 14 (11)
+
+ 10 (14)
+
+ 4 (8)
+
+  >80K
+
+ 72 (58)
+
+ 42 (58)
+
+ 30 (57)
+
+ Previous ADHD Diagnosis
+
+ 91 (72)
+
+ 55 (77)
+
+ 36 (65)
+
+ 0.14
+
+ Asthma
+
+ 15 (12)
+
+ 5 (7)
+
+ 10 (18)
+
+ 0.06
+
+ Past Medication Use a , e 
+
+  Stimulant c 
+
+ 46 (39)
+
+ 30 (44)
+
+ 16 (32)
+
+ 0.18
+
+  Non-stimulant c 
+
+ 2 (2)
+
+ 0 (0)
+
+ 2 (4)
+
+ 0.18
+
+  Alpha-2 Agonist
+
+ 9 (8)
+
+ 6 (9)
+
+ 3 (6)
+
+ 0.57
+
+  Antidepressant c 
+
+ 3 (3)
+
+ 3 (4)
+
+ 0 (0)
+
+ 0.26
+
+ Clinical Global Impression-Severity (CGI-S) 
+ b , c 
+
+ 0.48
+
+  Mildly ill – 3
+
+ 3 (2)
+
+ 2 (3)
+
+ 1 (2)
+
+  Moderately ill – 4
+
+ 70 (56)
+
+ 36 (53)
+
+ 34 (59)
+
+  Markedly ill – 5
+
+ 41 (33)
+
+ 27 (36)
+
+ 14 (28)
+
+  Severely ill – 6
+
+ 12 (10)
+
+ 6 (8)
+
+ 6 (11)
+
+ Child and Adolescent Symptom Inventory-5 (CASI-5) Item Mean Scores 
+
+  Inattention f 
+
+ 2.24 (0.47)
+
+ 2.21 (0.48)
+
+ 2.28 (0.46)
+
+ 0.38
+
+  Hyperactivity f 
+
+ 1.77 (0.67)
+
+ 1.74 (0.69)
+
+ 1.80 (0.66)
+
+ 0.65
+
+  Oppositional Defiant Disorder (ODD) f 
+
+ 1.69 (0.68)
+
+ 1.61 (0.69)
+
+ 1.79 (0.67)
+
+ 0.16
+
+  Disruptive Mood Dysregulation Disorder (DMDD) f 
+
+ 1.26 (0.83)
+
+ 1.26 (0.83)
+
+ 1.25 (0.85)
+
+ 0.93
+
+  Peer Conflict f 
+
+ 0.56 (0.56)
+
+ 0.54 (0.56)
+
+ 0.57 (0.57)
+
+ 0.78
+
+  Impairment f 
+
+ 1.51 (0.66)
+
+ 1.49 (0.70)
+
+ 1.54 (0.60)
+
+ 0.68
+
+  CASI Composite g : Equal Subscale
+
+ 1.50 (0.47)
+
+ 1.48 (0.49)
+
+ 1.54 (0.45)
+
+ 0.47
+
+ CASI-5 T-scores (≥70) 
+
+  Inattention
+
+ 102 (81)
+
+ 57 (80)
+
+ 45 (82)
+
+ 0.83
+
+  Hyperactivity
+
+ 80 (63)
+
+ 43 (61)
+
+ 37 (67)
+
+ 0.44
+
+  Combined Hyperactivity/Inattention
+
+ 98 (78)
+
+ 53 (75)
+
+ 45 (82)
+
+ 0.34
+
+  Oppositional Defiant Disorder (ODD)
+
+ 80 (63)
+
+ 43 (61)
+
+ 37 (67)
+
+ 0.44
+
+ Co-occurring Conditions 
+ 
+ h 
+
+  Generalized Anxiety Disorder
+
+ 82 (65)
+
+ 50 (70)
+
+ 32 (58)
+
+ 0.15
+
+  Anxiety i 
+
+ 63 (50)
+
+ 35 (49)
+
+ 28 (51)
+
+ 0.86
+
+  Separation anxiety
+
+ 19 (15)
+
+ 9 (13)
+
+ 10 (18)
+
+ 0.39
+
+  Major Depressive Episode c 
+
+ 5 (4)
+
+ 3 (4)
+
+ 2 (4)
+
+ 1.00
+
+  Manic symptoms
+
+ 38 (30)
+
+ 22 (31)
+
+ 16 (29)
+
+ 0.82
+
+  Autism Spectrum
+
+ 37 (29)
+
+ 23 (32)
+
+ 14 (25)
+
+ 0.40
+
+  Nocturnal Enuresis
+
+ 21 (17)
+
+ 12 (17)
+
+ 9 (16)
+
+ 0.94
+
+  Enuresis, Encopresis
+
+ 23 (18)
+
+ 12 (17)
+
+ 11 (20)
+
+ 0.66
+
+ Open in a new tab 
+
+Note:
+
+ a 
+7 Missing race, 26 missing ethnicity, 1 missing income, 8 missing medication
+
+ b 
+Percentages add up to more than 100 due to rounding
+
+ c 
+Fisher's exact test
+
+ d 
+Includes American Indian/Native American or Alaska Native, Métis, Native Hawaiian/Pacific Islander or Other for Race; Jewish, Japanese, or Other for Ethnicity
+
+ e 
+Some participants took more than one medication prior to baseline
+
+ f 
+CASI questions for each subscale - Inattention: A1-A9; Hyperactivity: A10-A18; ODD: B19-B26; DMDD: RZ1-RZ2; Peer Conflict: Q133-Q142; Impairment: AX, BX, RZX, QX
+
+ g 
+CASI composite score = Inattention, Hyperactivity, ODD, DMDD, Peer Conflict plus impairment; measures symptom-induced impairment as a summary score pooling the impairment item response from each of the symptom subscales
+
+ h 
+>/= 70 t-score on CASI-5 subscale for the disorder
+
+ i 
+Includes specific phobia, panic disorder, obsessions, compulsions, posttraumatic stress, motor tics, vocal tics, somatic symptoms
+
+Blinding
+
+Correct guesses about treatment assignment were not significantly different from chance: children guessed correctly 51% of the time, parents 63%, and research assistants 67%.
+
+Outcomes
+
+Using ITT data with N=126 ( n =71 in micronutrient group, n =55 in placebo), participants in the micronutrient group were 3 times as likely to be treatment responders as those in the placebo group, 54% vs 18%, based on blinded CGI-I ratings (“Risk” Ratio: 2.97; 97.5% CI: 1.5, 5.9, p <0.001) after adjusting for (non-significant) site differences. No significant between-group differences were found on the parent-rated CASI-5 composite score (p=0.70); both groups improved in all subscales (p<0.01) ( Table 2 ). On individual CASI-5 subscales, a DMDD trend favored micronutrients (−0.42) over placebo (−0.22) in symptom reduction ( p =0.09). A sensitivity analysis of ODD questions specific to irritability/anger showed a non-significant tendency favoring micronutrients: −0.44 versus −0.28 ( p =0.11, data not shown). Per-protocol adherence criteria were met by 74% (N=93) of participants: 75% in placebo vs 73% in micronutrient group. CGI-I between-group differences remained significant in per-protocol analyses ( p =0.003), with no significant difference between groups for the CASI-5.
+
+Table 2:
+
+Primary and Secondary Outcomes: Clinical Global Impression (CGI) Improvement (CGI-I), and Severity (CGI-S) and Child and Adolescent Symptom Inventory-5 (CASI-5) Scores From 3 Raters
+
+ Micronutrients (N=71)
+
+ Placebo (N=55)
+
+ Baseline
+
+ Week 4
+
+ Week 8
+
+ Baseline
+
+ Week 4
+
+ Week 8
+
+ Mean (SE)
+
+ Mean (SE)
+
+ Mean (SE)
+or N (%)
+
+ Change a , b 
+
+ Mean (SE)
+
+ Mean (SE)
+
+ Mean (SE)
+or N (%)
+
+ Change a , b 
+
+ Difference (CI) c 
+
+ P 
+
+ Primary outcomes 
+
+  Clinician-rated CGI-I Responder
+
+ N/A
+
+ 38 (54%)
+
+ N/A
+
+ 10 (18%)
+
+ −0.36 (−0.54, −0.18)
+
+ <0.001
+
+  Parent-rated CASI-5 Composite: Equal Subscale
+
+ 1.49 (0.08)
+
+ 1.28 (0.08)
+
+ 1.18 (0.08)
+
+ −0.31 ** 
+
+ 1.52 (0.08)
+
+ 1.27 (0.08)
+
+ 1.23 (0.08)
+
+ −0.28 ** 
+
+ −0.02 (−0.16, 0.12)
+
+ 0.70
+
+ Secondary outcomes 
+
+ Clinician-rated d 
+
+  CGI-S e change: Severity worsened
+
+ 0 (0%)
+
+ 3 (5%)
+
+ <0.001
+
+  CGI-S change: No change
+
+ 31 (44%)
+
+ 40 (73%)
+
+  CGI-S change: Severity reduced
+
+ 39 (56%)
+
+ 12 (22%)
+
+ Parent-rated CASI-5 Subscales
+
+  Inattention
+
+ 2.22 (0.09)
+
+ 1.95 (0.09)
+
+ 1.85 (0.09)
+
+ −0.37 ** 
+
+ 2.24 (0.10)
+
+ 1.81 (0.10)
+
+ 1.78 (0.10)
+
+ −0.46 ** 
+
+ 0.09 (−0.08, 0.26)
+
+ 0.30
+
+  Hyperactivity
+
+ 1.77 (0.08)
+
+ 1.54 (0.09)
+
+ 1.55 (0.08)
+
+ −0.22 ** 
+
+ 1.77 (0.09)
+
+ 1.53 (0.10)
+
+ 1.53 (0.09)
+
+ −0.24 ** 
+
+ 0.02 (−0.15, 0.19)
+
+ 0.81
+
+  ODD
+
+ 1.63 (0.09)
+
+ 1.35 (0.09)
+
+ 1.25 (0.09)
+
+ −0.38 ** 
+
+ 1.76 (0.10)
+
+ 1.41 (0.10)
+
+ 1.43 (0.10)
+
+ −0.32 ** 
+
+ −0.06 (−0.23, 0.12)
+
+ 0.52
+
+  DMDD
+
+ 1.26 (0.10)
+
+ 0.98 (0.11)
+
+ 0.85 (0.10)
+
+ −0.42 ** 
+
+ 1.24 (0.11)
+
+ 1.04 (0.12)
+
+ 1.02 (0.11)
+
+ −0.22 ** 
+
+ −0.19 (−0.41, 0.03)
+
+ 0.09
+
+  Peer Conflict
+
+ 0.56 (0.06)
+
+ N/A
+
+ 0.41 (0.06)
+
+ −0.15 ** 
+
+ 0.55 (0.07)
+
+ N/A
+
+ 0.44 (0.07)
+
+ −0.11 ** 
+
+ −0.04 (−0.15, 0.07)
+
+ 0.46
+
+  Impairment
+
+ 1.48 (0.10)
+
+ 1.24 (0.10)
+
+ 1.17 (0.10)
+
+ −0.31 ** 
+
+ 1.54 (0.10)
+
+ 1.28 (0.10)
+
+ 1.21 (0.10)
+
+ −0.34 ** 
+
+ 0.03 (−0.17, 0.22)
+
+ 0.78
+
+ Other Adult-rated (e.g. teacher) e 
+
+  CASI Composite: Equal Subscale
+
+ 1.25 (0.08)
+
+ N/A
+
+ 1.03 (0.08)
+
+ −0.22 ** 
+
+ 1.15 (0.09)
+
+ N/A
+
+ 1.03 (0.09)
+
+ −0.13 * 
+
+ −0.09 (−0.26, 0.08)
+
+ 0.22
+
+  Inattention
+
+ 1.84 (0.08)
+
+ N/A
+
+ 1.70 (0.08)
+
+ −0.14 * 
+
+ 1.71 (0.09)
+
+ N/A
+
+ 1.55 (0.08)
+
+ −0.16 * 
+
+ 0.02 (−0.18, 0.23)
+
+ 0.82
+
+  Hyperactivity
+
+ 1.61 (0.11)
+
+ N/A
+
+ 1.33 (0.11)
+
+ −0.28 ** 
+
+ 1.38 (0.12)
+
+ N/A
+
+ 1.27 (0.12)
+
+ −0.11
+
+ −0.17 (−0.41, 0.06)
+
+ 0.15
+
+  ODD
+
+ 1.28 (0.11)
+
+ N/A
+
+ 1.04 (0.11)
+
+ −0.25 ** 
+
+ 1.28 (0.12)
+
+ N/A
+
+ 1.01 (0.13)
+
+ −0.27 ** 
+
+ 0.02 (−0.19, 0.23)
+
+ 0.85
+
+  DMDD
+
+ 0.91 (0.11)
+
+ N/A
+
+ 0.67 (0.11)
+
+ −0.23 ** 
+
+ 0.91 (0.12)
+
+ N/A
+
+ 0.69 (0.12)
+
+ −0.22 * 
+
+ −0.02 (−0.26, 0.23)
+
+ 0.90
+
+  Peer Conflict Scale
+
+ 0.58 (0.07)
+
+ N/A
+
+ 0.41 (0.07)
+
+ −0.16 ** 
+
+ 0.46 (0.08)
+
+ N/A
+
+ 0.43 (0.08)
+
+ −0.03
+
+ −0.13 (−0.26, −0.01)
+
+ 0.04 
+
+  Impairment
+
+ 1.29 (0.10)
+
+ N/A
+
+ 1.06 (0.10)
+
+ −0.23 ** 
+
+ 1.17 (0.11)
+
+ N/A
+
+ 1.11 (0.12)
+
+ −0.05
+
+ −0.17 (−0.39, 0.05)
+
+ 0.13
+
+ Open in a new tab 
+
+ Note: CGI-I = CGI-Improvement; CGI-S = CGI-Severity.
+
+ a 
+Random effect for subject and site
+
+ b 
+Adjusted for baseline and week 4
+
+ c 
+97.5% CI for CASI composite and CGI-I, 95% CI for individual subscales; negative numbers imply that the micronutrient group performed better
+
+ d 
+Fisher’s exact test;
+
+ e 
+Other Adults = 51% teachers, 42% family members, 7% family friends
+
+ * 
+ p < .05
+
+ ** 
+ p <.01.
+
+The illness severity of three participants who received placebo worsened by one category on the CGI-S, while none worsened in the micronutrient group; 56% percent of participants in the micronutrient group vs 22% in the placebo group had illness severity reduced by at least one category on the CGI-S, p <0.001.
+
+Based on other adult/teacher-rated CASI subscales, the only significant between-group difference was on the Peer Conflict subscale, which was 0.13 points lower for micronutrients than placebo (95% CI: −0.26, −0.01), p =0.04, d =0.16. Four other subscales showed significant improvement in both groups, p <0.05; all subscales were significantly improved in the micronutrient group: all p s<0.01 ( Table 2 ).
+
+No concerning blood or urine values were detected ( Table 3 ). One child on placebo had aspartate aminotransferase (AST) and alanine transaminase (AST) values above reference range at baseline that fell to within range after intervention; four children on micronutrients had elevated AST (48-58 U/L) and ALT (52-99 U/L) values after intervention (not clinically significant).
+
+Table 3:
+
+Blood Safety Measures From the 2 US Sites and Biometric Data From All 3 Sites: Baseline to Week 8
+
+ Micronutrients (N=50)
+
+ Placebo (N=38)
+
+ Both Interventions
+
+ Baseline
+
+ Week 8
+
+ Baseline
+
+ Week 8
+
+ Reference
+range
+
+ Range
+observed
+
+ Mean (SE)
+
+ Mean (SE)
+
+ Change a , b 
+
+ Mean (SE)
+
+ Mean (SE)
+
+ Change a , b 
+
+ p 
+ 
+ c 
+
+ N (%) out of
+range at
+baseline
+
+ N (%) out of
+range at W8
+
+ Blood values 
+
+ Sodium (mmol/L)
+
+ 133-145
+
+ 134-144
+
+ 139.13 (0.34)
+
+ 139.16 (0.34)
+
+ 3.03
+
+ 139.28 (0.36)
+
+ 139.42 (0.37)
+
+ 0.14
+
+ 0.80
+
+ 0
+
+ 0
+
+ Potassium (mmol/L)
+
+ 3.3-5.0
+
+ 3.5-5.6
+
+ 4.1 (0.10)
+
+ 4.06 (0.10)
+
+ −0.04
+
+ 4.09 (0.10)
+
+ 4.0 (0.10)
+
+ −0.10
+
+ 0.46
+
+ 2 (2.3)
+
+ 0
+
+ Chloride (mmol/L)
+
+ 97-112
+
+ 97-110
+
+ 105.07 (0.96)
+
+ 104.81 (0.97)
+
+ −0.26
+
+ 104.88 (0.97)
+
+ 105.28 (0.98)
+
+ 0.40
+
+ 0.14
+
+ 0
+
+ 0
+
+ Calcium (mg/dL)
+
+ 8.6-10.3
+
+ 8.6-10.3
+
+ 9.47 (0.20)
+
+ 9.49 (0.20)
+
+ 0.01
+
+ 9.47 (0.20)
+
+ 9.40 (0.20)
+
+ −0.08
+
+ 0.13
+
+ 0
+
+ 0
+
+ Carbon Dioxide (mmol/L)
+
+ 21-32
+
+ 22-30
+
+ 25.62 (0.21)
+
+ 25.64 (0.22)
+
+ 0.02
+
+ 25.97 (0.24)
+
+ 25.86 (0.25)
+
+ −0.12
+
+ 0.73
+
+ 0
+
+ 0
+
+ Anion Gap (mmol/L)
+
+ 4-17
+
+ 3-25
+
+ 10.30 (2.83)
+
+ 10.64 (2.83)
+
+ 0.36
+
+ 10.31 (2.83)
+
+ 10.15 (2.84)
+
+ −0.17
+
+ 0.32
+
+ 5 (5.7) d 
+
+ 3 (3.6) d 
+
+ BUN (mg/dL)
+
+ 6-22
+
+ 6-24
+
+ 12.48 (0.41)
+
+ 13.17 (0.42)
+
+ 0.69
+
+ 12.56 (0.46)
+
+ 12.13 (0.48)
+
+ −0.43
+
+ 0.11
+
+ 0
+
+ 1 (1.2)
+
+ Creatinine (mg/dL)
+
+ 0.60-1.10
+
+ 0.3-0.72
+
+ 0.46 (0.01)
+
+ 0.49 (0.01)
+
+ 0.02 * 
+
+ 0.46 (0.01)
+
+ 0.46 (0.01)
+
+ 0.004
+
+ 0.11
+
+ 0
+
+ 0
+
+ BUN/CREA Ratio
+
+ n/a
+
+ 13-53
+
+ 27.80 (1.06)
+
+ 27.69 (1.07)
+
+ −0.11
+
+ 28.0 (1.22)
+
+ 26.95 (1.26)
+
+ −1.05
+
+ 0.58
+
+ n/a
+
+ n/a
+
+ Glucose (mg/dL)
+
+ 60-99
+
+ 45-100
+
+ 82.15 (2.36)
+
+ 83.03 (2.39)
+
+ 0.88
+
+ 79.45 (2.44)
+
+ 80.0 (2.46)
+
+ 0.54
+
+ 0.85
+
+ 1 (1.2)
+
+ 0
+
+ Bilirubin Total (mg/dL)
+
+ <1.5
+
+ 0.2-1.2
+
+ 0.47 (0.03)
+
+ 0.45 (0.03)
+
+ −0.01
+
+ 0.49 (0.03)
+
+ 0.46 (0.03)
+
+ −0.03
+
+ 0.57
+
+ 0
+
+ 0
+
+ Albumin (g/dL)
+
+ 3.2-4.7
+
+ 3.5-5.3
+
+ 4.34 (0.17)
+
+ 4.34 (0.17)
+
+ −0.001
+
+ 4.29 (0.17)
+
+ 4.28 (0.17)
+
+ −0.008
+
+ 0.89
+
+ 8 (9.1)
+
+ 5 (6.0)
+
+ Total Protein (g/dL)
+
+ 5.7-8.5
+
+ 6.2-8.3
+
+ 7.15 (0.63)
+
+ 8.45 (0.65)
+
+ 1.30
+
+ 7.07 (0.73)
+
+ 7.06 (0.76)
+
+ −0.01
+
+ 0.34
+
+ 0
+
+ 0
+
+ AST (U/L)
+
+ ≤47
+
+ 15-89
+
+ 23.58 (1.26)
+
+ 27.28 (1.28)
+
+ 3.70 * 
+
+ 25.72 (1.42)
+
+ 22.79 (1.46)
+
+ −2.93 * 
+
+ 0.001 
+
+ 1 (1.1) e 
+
+ 4 (4.8) f 
+
+ ALT (U/L)
+
+ ≤60
+
+ 8-100
+
+ 18.67 (3.25)
+
+ 26.00 (3.27)
+
+ 7.33 * 
+
+ 20.40 (3.37)
+
+ 18.09 (3.41)
+
+ −2.31
+
+ 0.001 
+
+ 1 (1.1) e 
+
+ 3 (3.6) f 
+
+ Alkaline Phosphatase (U/L)
+
+ 86-445
+
+ 93-393
+
+ 255 (8.10)
+
+ 241.33 (8.15)
+
+ −13.67 * 
+
+ 252.21 (9.29)
+
+ 257.93 (9.41)
+
+ 5.72
+
+ 0.01 
+
+ 0
+
+ 0
+
+ RBC Count (M/uL)
+
+ 3.96-5.2
+
+ 3.93-5.21
+
+ 4.65 (0.08)
+
+ 4.65 (0.08)
+
+ 0.002
+
+ 4.60 (0.08)
+
+ 4.60 (0.09)
+
+ −0.0002
+
+ 0.96
+
+ 1 (1.1)
+
+ 0
+
+ Hemoglobin (g/dL)
+
+ 10.7-16.0
+
+ 10.9-14.7
+
+ 12.99 (0.17)
+
+ 12.96 (0.17)
+
+ −0.03
+
+ 12.99 (0.18)
+
+ 12.91 (0.18)
+
+ −0.07
+
+ 0.72
+
+ 0
+
+ 0
+
+ Hematocrit (%)
+
+ 32.2-46.0
+
+ 32-44.6
+
+ 38.40 (0.52)
+
+ 38.60 (0.52)
+
+ 0.20
+
+ 38.50 (0.55)
+
+ 38.60 (0.55)
+
+ 0.09
+
+ 0.79
+
+ 0
+
+ 0
+
+ Mean Cell Volume (fL)
+
+ 74.4-96.0
+
+ 76.3-89.5
+
+ 82.70 (0.44)
+
+ 83.00 (0.45)
+
+ 0.30
+
+ 83.74 (0.49)
+
+ 83.85 (0.50)
+
+ 0.12
+
+ 0.59
+
+ 0
+
+ 0
+
+ Mean Cell Hgb Conc (g/dL)
+
+ 32.2-35.5
+
+ 31.5-36.5
+
+ 33.82 (0.13)
+
+ 33.59 (0.13)
+
+ −0.24
+
+ 33.75 (0.15)
+
+ 33.47 (0.15)
+
+ −0.28
+
+ 0.82
+
+ 6 (6.8) d 
+
+ 5 (6.0) d 
+
+ RBC Distribution (%)
+
+ 12.3-14.1
+
+ 11.5-41.9
+
+ 25.03 (8.76)
+
+ 25.17 (8.76)
+
+ 0.13
+
+ 25.29 (8.76)
+
+ 25.02 (8.76)
+
+ −0.27
+
+ 0.11
+
+ 74 (81.8) d 
+
+ 53 (63.9) d 
+
+ WBC Count (K/uL)
+
+ 4.31-11.00
+
+ 2.85-15.82
+
+ 5.71 (0.22)
+
+ 5.73 (0.23)
+
+ 0.01
+
+ 6.08 (0.25)
+
+ 5.99 (0.26)
+
+ −0.08
+
+ 0.80
+
+ 13 (14.8) d 
+
+ 10 (12.0) d 
+
+ Immature Grans (%)
+
+ 0.00-1.0
+
+ 0-1.2
+
+ 0.20 (0.02)
+
+ 0.18 (0.02)
+
+ −0.02
+
+ 0.24 (0.02)
+
+ 0.19 (0.03)
+
+ −0.05
+
+ 0.46
+
+ 1 (1.1)
+
+ 0
+
+ Lymphocyte (%)
+
+ 18.0-42.0
+
+ 12.1-65
+
+ 43.63 (1.65)
+
+ 43.53 (1.66)
+
+ −0.10
+
+ 40.25 (1.80)
+
+ 40.65 (1.84)
+
+ 0.40
+
+ 0.81
+
+ 43 (48.9) d 
+
+ 46 (55.4) d 
+
+ Abs Mono (K/uL)
+
+ 0.10-0.90
+
+ 0.17-0.99
+
+ 0.46 (0.02)
+
+ 0.47 (0.02)
+
+ 0.01
+
+ 0.46 (0.02)
+
+ 0.48 (0.02)
+
+ 0.02
+
+ 0.80
+
+ 1 (1.1)
+
+ 1 (1.2)
+
+ Monocyte (%)
+
+ 3.5-9.0
+
+ 3.4-15.8
+
+ 8.03 (0.34)
+
+ 8.29 (0.34)
+
+ 0.27
+
+ 7.78 (0.38)
+
+ 8.35 (0.38)
+
+ 0.58 * 
+
+ 0.39
+
+ 23 (26.1) d 
+
+ 28 (33.7) d 
+
+ Abs Eos (K/uL)
+
+ 0.00-0.52
+
+ 0.04-2.1
+
+ 0.21 (0.04)
+
+ 0.23 (0.04)
+
+ 0.02
+
+ 0.39 (0.04)
+
+ 0.34 (0.05)
+
+ −0.05
+
+ 0.22
+
+ 12 (13.6)
+
+ 10 (12.0)
+
+ Eosinophil (%)
+
+ 1.0-3.0
+
+ 0.8-36.2
+
+ 3.82 (0.63)
+
+ 4.03 (0.64)
+
+ 0.21
+
+ 6.49 (0.73)
+
+ 5.71 (0.75)
+
+ −0.78
+
+ 0.31
+
+ 49 (55.7) d 
+
+ 47 (56.6) d 
+
+ Platelet Count (K/uL)
+
+ 150-400
+
+ 162-401
+
+ 289.97 (7.54)
+
+ 289.32 (7.57)
+
+ −0.65
+
+ 290.16 (8.62)
+
+ 295.90 (8.75)
+
+ 5.74
+
+ 0.39
+
+ 1 (1.1)
+
+ 0
+
+ Iron (mcg/dL)
+
+ 27-120
+
+ 19-176
+
+ 99.1 (4.65)
+
+ 90.7 (4.69)
+
+ −8.4
+
+ 100.5 (5.35)
+
+ 95.5 (5.49)
+
+ −5.0
+
+ 0.69
+
+ 25 (29)
+
+ 21 (25) d 
+
+ Biometric data
+
+ Micronutrients (N = 67)
+
+ Placebo (N = 55)
+
+ Baseline
+
+ Week 8
+
+ Baseline
+
+ Week 8
+
+ Mean (SE)
+
+ Mean (SE)
+
+ Change a , b 
+
+ Mean (SE)
+
+ Mean (SE)
+
+ Change a , b 
+
+ P 
+ 
+ c 
+
+ Height (cm)
+
+ 140.74 (1.40)
+
+ 142.06 (1.40)
+
+ 1.33 * 
+
+ 138.71 (1.58)
+
+ 139.45 (1.58)
+
+ 0.73 * 
+
+ 0.002 g 
+
+ Weight (kg)
+
+ 36.02 (1.40)
+
+ 37.14 (1.40)
+
+ 1.11 * 
+
+ 34.11 (1.58)
+
+ 35.24 (1.58)
+
+ 1.12 * 
+
+ 0.95
+
+ BMI
+
+ 17.77 (0.39)
+
+ 17.96 (0.39)
+
+ 0.19 * 
+
+ 17.31 (0.43)
+
+ 17.69 (0.44)
+
+ 0.38 * 
+
+ 0.08 g 
+
+ Micronutrient (N = 66)
+
+ Placebo (N = 53)
+
+ Systolic BP
+
+ 102.42 (1.78)
+
+ 100.03 (1.81)
+
+ −2.38
+
+ 103.35 (1.91)
+
+ 102.12 (1.97)
+
+ −1.20
+
+ 0.60
+
+ Diastolic BP
+
+ 64.17 (1.23)
+
+ 64.02 (1.27)
+
+ −0.15
+
+ 63.16 (1.38)
+
+ 62.84 (1.45)
+
+ −0.33
+
+ 0.94
+
+ Open in a new tab 
+
+ Note: AST = aspartate aminotransferase; ALT = alanine transaminase.
+
+ a 
+Results from a linear mixed-effects model, random effect for subject and site
+
+ b 
+Adjusted for baseline
+
+ c 
+ p value for change between groups
+
+ d 
+Number of participants below Reference Range at baseline and week 8 respectively: Anion Gap: 3/2; Mean Cell HGB Conc: 3/3; RBC (%) 15/9; WBC Count: 13/9; Lymphocyte (%): 1/2; Monocyte (%): 2/1; Eosinophil (%): 2/3; Iron: 1 at week 8
+
+ * 
+p<0.05 for within-group change
+
+ e 
+one participant was out of range at baseline for both AST and ALT in the placebo group
+
+ f 
+four participants were out of range on AST at week 8, all in the micronutrient group, and of those, three were also out of range on ALT at week 8 as well; between group difference for AST without out-of-range values = 2.90 and with all subjects = 6.63; between group difference for ALT without out-of-range values = 4.16 and with all subjects = 9.65
+
+ g 
+Cohen’s d : for height = 1.15; for BMI = 0.25
+
+During the 8 weeks, participants in the micronutrient group (N = 67) grew 6 millimeters more on average than those in the placebo group (N = 55) ( p =0.002), d =1.15. At baseline, height between the two intervention groups was not significantly different ( p =0.34). To rule out possible rebound from previous stimulant use as an explanation of the significant micronutrient height gain, we checked the triple interaction of treatment arm (micronutrient vs placebo)*visit (baseline vs week 8)*stimulant (used prior to study vs not used). This triple interaction was not significant ( p = 0.37). There was no between-group difference in weight change across time ( p =0.95), but the between-group difference in body mass index (BMI) was trending ( p =0.08) with the placebo group increasing in BMI by 0.19 ( Table 3 ).
+
+No between-group differences for treatment-emergent adverse events (AEs) were detected ( Table 4 ). Rated by the site clinician as possibly, probably, or likely attributable to the treatment, 32% in the micronutrient group reported at least one attributable AE compared to 45% in the placebo group ( p =0.13). No between-group differences for overall number of AEs were detected regardless of attribution: 72.5% of participants in the micronutrient group versus 71.7% in the placebo groups reported at least one AE ( p =0.93). See Table S4 , available online, for all reported AEs; none were serious. Of the 44 questions comprising the PAERS, which formed the basis for AE reporting, 38 were endorsed at least once.
+
+Table 4:
+
+Treatment-Emergent Adverse Events a Based on the Pediatric Adverse Events Rating Scale
+
+ Adverse event question
+
+ Micronutrient
+N (%)
+
+ Placebo
+N (%)
+
+ Total
+N (%)
+
+ Irritability
+
+ 1 (1.6)
+
+ 1 (3.0)
+
+ 2 (2.1)
+
+ Angry or hostile
+
+ 3 (4.7)
+
+ 1 (3.0)
+
+ 4 (4.1)
+
+ Sad or low mood
+
+ 2 (3.1)
+
+ 0 (0.0)
+
+ 2 (2.1)
+
+ Lack of interest
+
+ 2 (3.1)
+
+ 0 (0.0)
+
+ 2 (2.1)
+
+ Mood swings
+
+ 2 (3.1)
+
+ 1 (3.0)
+
+ 3 (3.1)
+
+ Anxious, tense or uptight
+
+ 3 (4.7)
+
+ 1 (3.0)
+
+ 4 (4.1)
+
+ Lack of self-control/impulsive
+
+ 3 (4.7)
+
+ 2 (6.1)
+
+ 5 (5.2)
+
+ Trouble paying attention or concentrating
+
+ 2 (3.1)
+
+ 0 (0.0)
+
+ 2 (2.1)
+
+ Racing thoughts
+
+ 1 (1.6)
+
+ 1 (3.0)
+
+ 2 (2.1)
+
+ Can't sit or stand still
+
+ 3 (4.7)
+
+ 1 (3.0)
+
+ 4 (4.1)
+
+ Tired/fatigued
+
+ 2 (3.1)
+
+ 1 (3.0)
+
+ 3 (3.1)
+
+ Trouble falling asleep
+
+ 4 (6.3)
+
+ 1 (3.0)
+
+ 5 (5.2)
+
+ Tried to hurt him/herself
+
+ 1 (1.6)
+
+ 0 (0.0)
+
+ 1 (1.0)
+
+ Hurt someone or something
+
+ 1 (1.6)
+
+ 1 (3.0)
+
+ 2 (2.1)
+
+ Less hungry
+
+ 4 (6.3)
+
+ 1 (3.0)
+
+ 5 (5.2)
+
+ Lost weight
+
+ 0 (0.0)
+
+ 1 (3.0)
+
+ 1 (1.0)
+
+ Dry mouth
+
+ 1 (1.6)
+
+ 0 (0.0)
+
+ 1 (1.0)
+
+ Gained weight
+
+ 0 (0.0)
+
+ 1 (3.0)
+
+ 1 (1.0)
+
+ Muscle shaking, stiffness or cramps
+
+ 0 (0.0)
+
+ 1 (3.0)
+
+ 1 (1.0)
+
+ Tics
+
+ 0 (0.0)
+
+ 1 (3.0)
+
+ 1 (1.0)
+
+ Unusually good mood or super happy
+
+ 1 (1.6)
+
+ 1 (3.0)
+
+ 2 (2.1)
+
+ Skin rash or irritation
+
+ 1 (1.6)
+
+ 0 (0.0)
+
+ 1 (1.0)
+
+ Heart racing or skipping beats
+
+ 0 (0.0)
+
+ 1 (3.0)
+
+ 1 (1.0)
+
+ GI Symptoms b 
+
+ 17 (26.6) c 
+
+ 8 (24.2) c 
+
+ 25 (25.8)
+
+  Stomach ache or cramps
+
+ 7 (10.9)
+
+ 6 (18.2)
+
+ 13 (13.4)
+
+  Nausea/sick to stomach
+
+ 3 (4.7)
+
+ 1 (3.0)
+
+ 4 (4.1)
+
+  Throwing up/vomiting
+
+ 4 (6.3)
+
+ 0 (0.0)
+
+ 4 (4.1)
+
+  Diarrhea
+
+ 7 (10.9)
+
+ 1 (3.0)
+
+ 8 (8.2)
+
+ Headache
+
+ 1 (1.6)
+
+ 2 (6.1)
+
+ 3 (3.1)
+
+ Other
+
+ 5 (7.8)
+
+ 5 (15.2)
+
+ 10 (10.3)
+
+ Open in a new tab 
+
+Note:
+
+ a 
+AEs rated as “possibly,” “probably,” or “likely” attributable to the intervention. Number and percentages refer to participants having the AE, not number of AEs
+
+ b 
+GI = Gastrointestinal; symptoms are a combination of discrete participants experiencing stomach ache or cramps, nausea/sick to stomach, throwing up/vomiting, and diarrhea
+
+ c 
+ p = 0.80
+
+Discussion
+
+This eight-week study of supplemental micronutrients in 126 children with ADHD and irritable mood aligns with previous studies showing global improvement. With 54% of participants in the micronutrient group rated as treatment responders per blinded CGI-I, compared to 18% in the placebo group, the a priori primary outcome of change in CGI-I replicates two previous RCTs, 18 , 19 which also demonstrated a higher percentage of responders in the intervention groups via the CGI-I. The two previous ADHD RCTs used a similar micronutrient formula. In both studies, those in the micronutrient group were more likely to be treatment responders on the CGI-I compared to those in the placebo group; in adults 18 (48% vs 21%), and in children 19 (47% vs 28%), respectively.
+
+The second primary outcome measure, parent report on the newly-devised CASI-5 composite score, 26 did not show significant between-group differences. Instead, both groups showed significant improvement in item means on all subscales ( p <0.01). Lack of intervention group differences on the CASI-5 aligns with similar results using non-clinician ratings in previous micronutrient RCTs: in children on the Conners’ parent reports, 19 and in adults with other informant reports. 18 Another pediatric ADHD treatment RCT, of a novel digital intervention, found significant between-group differences on an objective measure of improvement (Test of Variables of Attention), but not on parent reports, 32 raising questions about sensitivity of parent ratings. However, on the CASI-5 DMDD subscale, parent-reported improvement in the micronutrient group, nearly twice as much as placebo, constituted a trend (−.42 vs −.22, p =0.09) suggesting that irritability, an enrollment criteria, might have differentially diminished, and contributed to the CGI-I improvement rating.
+
+The absence of between-group differences on parent reports of their child’s behavior in this study might be explained in two ways. First, the non-specific effect of treatment “placebo response” is known to be robust on parent ratings of novel interventions with significant parental involvement. 33 The treatment in this study qualifies as novel and requires high parental involvement (insuring the child took 3-4 capsules three times daily), and as such, parents may have given their child increased attention and praise, providing non-specific rewards that improved behavior regardless of treatment received. 33 Second, parental retrospective reporting may be subject to biases including temporal sequence of events, recency effects, and saliency of behavior. 34 As observed during the study visits, some parents’ initial qualitative response of “no change” regarding behavior was followed by quantitative responses to frequency, duration, and impairment questions about their child’s target symptom that showed objective improvement. In this case, we speculate that as parents retrospectively report on their child’s behavior, they may fail to notice or report gradual daily improvements, as they adjust their expectations over time to a more stringent level. In contrast, using the CGI-I, clinicians are trained to objectively compare baseline to end-of-treatment symptoms and functioning.
+
+The consistency and strength of the clinician-rated CGI-I to detect between-group differences across studies was found in a meta-analysis of two ADHD RCTs. 35 The CGI-I, developed for NIH-funded clinical trials, 22 is a sensitive and valid measure of clinician-reported symptom change using all available information. In this case, it was based on comprehensive data from several questionnaires, narrative information from parent and child, and in-lab experience with the participant. Although findings did not demonstrate between group differences on core symptoms of ADHD in this study, micronutrient supplementation was associated with global improvements that factored in a range of life domains including anxiety, anger, and sleep. The global assessment included structured questions regarding a parent-identified target problem, and parents’ PAERS responses. Details of the elements that most account for global improvement based on parent reports will be in forthcoming analyses.
+
+The secondary finding that other adult/teacher ratings on the CASI-5 Peer Conflict subscale (measuring aggression towards peers) showed a significant between-group difference favoring micronutrients aligns with research on aggression in prison populations. 36 - 38 The finding also confirms two studies using a similar formula, showing that other reporters (spouse/parent/teacher) noted improvements in anger and irritability, but not necessarily in ADHD symptoms. 18 , 19 
+
+The micronutrient treatment was both acceptable and well tolerated, with a 93% retention rate and 74% of participants meeting per-protocol adherence criteria, despite a relatively large number of capsules taken throughout the day. Taking capsules thrice daily may be impractical for some families, so once the active phase of the study finished, families were welcome to adjust the dose frequency to a schedule convenient for them. This micronutrient intervention also proved to be safe, with AEs equally distributed between randomization groups, and none serious. This finding is consistent with previous micronutrient studies. 39 - 41 Biometric data showed that participants who received micronutrients grew six millimeters more on average over the eight weeks than those taking placebo, compatible with a 3.6 millimeter growth trend seen in another child RCT using the same formula, ( p =0.06, ES=0.40). 19 Of the participants in this study, 44% had taken stimulant medication previously. The growth finding contrasts with stimulants’ long-term negative impact on growth trajectory, 11 , 12 , 42 and highlights micronutrients’ potentially positive effect on height velocity. In a study of growth recovery treatment for children taking stimulants who experienced growth suppression, a daily 150-calorie drink improved weight gain, but not height gain. 12 In comparison, eight weeks taking broad spectrum micronutrients containing all vitamins and known essential minerals demonstrated improved height growth compared to placebo, suggesting that micronutrients, rather than calories, may support height growth velocity.
+
+This study’s strengths include excellent retention, with 126/135 of participants providing post-baseline data, demonstrating feasibility and treatment acceptability. Blinding was maintained. The study findings replicate a smaller RCT in similar-aged children using similar micronutrient formula. 19 Reporting of AEs via the PAERS was structured and comprehensive. Blood values did not reveal any concerning clinical effects of micronutrient supplementation, a finding replicated in longer-term safety studies (up to 5 years) using similar formulas. 39 The effect sizes in this study (range: 0.16-1.14) match or exceed those of other non-pharmacological treatments including elimination diets SMD=0.21-0.46, omega-3 fatty acids SMD=0.16-0.21, artificial food color removal SMD=0.32-0.42; psychological SMD=0.40-0.64) 15 as well as two RCTs using a similar formula SMD=0.49. 35 
+
+One study limitation was the use of the CASI-5 composite score as a primary outcome measure. Although this composite score showed sensitivity in secondary analyses of another data set, 26 the population and treatment in the previous study may have been too dissimilar from ours, as those children had greater impairment with severe physical aggression at baseline and were treated with an antipsychotic. 43 Considering parent responses, using retrospective reports may have reduced detection of between-group differences, if they existed. In future studies, using real-time data reporting methods such as ecological momentary assessment 44 may increase specificity and sensitivity of parent reports of their child’s behavior by enabling direct assessment of change, rather than estimation. Due to funding constraints, we relied on parent reports of ADHD and irritability symptoms for study inclusion, rather than a diagnostic clinical interview. On the positive side, through this less sensitive assessment, we enrolled a heterogeneous sample more typical of a real-world clinical setting. Indeed, after study completion, two children were found to have previously undiagnosed fetal alcohol spectrum disorder, and another was later diagnosed with autism. All three were in the micronutrient group (at different sites), and were rated as responders on the CGI-I.
+
+Another future direction is to investigate the micronutrients’ mechanisms of action. Targets that would build upon previous micronutrient studies include changes in gut microbiota, 45 and methylation. 46 The role of inflammatory cytokines also merits exploration given their association with infant negative affect when maternal cytokines levels are high in the last trimester of pregnancy. 47 Considering dietary quality and intake is important, as poor diet quality is linked with mental health issues. 48 , 49 In this study, parents completed the VioScreen Food Frequency Questionnaire 50 at baseline and week 8, with data analyses planned. Two future studies are warranted. Given the modest and consistent benefit of omega-3 supplementation in ADHD, combining it with micronutrients may increase effect. Finally, given the percentage of children taking stimulant medications and the risk of side effects, examining the use of micronutrients in populations taking stimulants in order to determine safety, tolerability and the possibility of tapering medication dose, is appropriate.
+
+This fully-blinded RCT of micronutrients addresses several concerns related to existing ADHD treatment, including the possibility of counteracting height suppression and treating associated irritable mood, emotional dysregulation, and aggression. Based on blood and urine tests, and systematic adverse event reporting, micronutrients given at doses between the Recommended Dietary Allowance and Upper Tolerable Intake Level appear safe and may be developed into an alternative or complementary treatment for ADHD.
+
+Supplementary Material
+
+ 1 
+
+ NIHMS1735981-supplement-1.docx (35.8KB, docx) 
+
+ Table S1 
+
+ NIHMS1735981-supplement-Table_S1.jpg (1MB, jpg) 
+
+ Table S2 
+
+ NIHMS1735981-supplement-Table_S2.docx (90.3KB, docx) 
+
+ Table S3 
+
+ NIHMS1735981-supplement-Table_S3.docx (20.5KB, docx) 
+
+ Table S4 
+
+ NIHMS1735981-supplement-Table_S4.docx (33.6KB, docx) 
+
+Acknowledgments
+
+The study was funded through private donations to the Nutrition and Mental Health Research Fund, managed by the Foundation for Excellence in Mental Health Care (FEMHC), plus a direct grant from FEMHC, and from the Gratis Foundation. Authors also received support from the National Institutes of Health (NIH) National Center for Complementary and Integrative Health (NCCIH) 5R90AT00892403 to the National University for Natural Medicine, NIH-NCCIH T32 AT002688 to Oregon Health & Science University (OHSU); the National Center for Advancing Translational Sciences of the NIH, UL1TR000128, UL1TR002369; 8UL1TR000090-05 at OHSU and Ohio State University; OHSU’s Department of Child and Adolescent Psychiatry; the Department of Behavioral Health and Psychiatry and the Research Institute at Nationwide Children’s Hospital, the Department of Psychiatry and Behavioral Health as well as the Department of Human Sciences at Ohio State University. Dr. Gracious received support from the Jeffrey Fellowship. In Canada, funding was received through the Nutrition and Mental Health Fund, administered by the Calgary Foundation. Dr. Leung is supported by the Emmy Droog Chair in Complementary and Alternative Healthcare. The study funders had no role in the design or reporting of the study.
+
+The research was performed with permission from the Oregon Health & Science University (OHSU; #16870) and the Ohio State University (OSU; #2017H0188) Institutional Review Boards and the Conjoint Health Research Ethics Board at the University of Calgary.
+
+Ms. Srikanth served as the statistical expert for this research.
+
+The authors additionally thank Sarah Feldstein-Ewing, PhD, of OHSU, Robert Kowatch, MD, of the Ohio State University, Darren Christensen, PhD, of the University of Lethbridge, for their roles on the Data Safety Monitoring Board, and Kenneth Gadow, PhD, of Stony Brook University, for provision and guidance regarding usage of the Child and Adolescent Symptom Inventory-5. Other important contributors: Libby Nousen, BA, of OSHU, for valuable input in relation to the REDCap database; Mike Lasarev, MS, of OHSU, for early statistical input and the randomization scheme; Hardy Nutritionals for the donation of the intervention and placebo capsules and the nutrient analyses needed for the Investigational New Drug application; the physicians who provided medical oversight: Joseph Thoits, MD, of OHSU, Craig Williams, MD, of the Ohio State University, and Megan Rodway, MD, of the University of Lethbridge, and research assistants Heather Gilliam, of OHSU, and Stacy Lu, of the Ohio State University.
+
+Footnotes
+
+ Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Disclosure: Dr. Gracious has been or is a consultant to AstraZeneca, Otsuka, and Novo Nordisk. Dr. Arnold has received research funding from Forest, Eli Lilly and Co., Noven, Shire (a Takeda company), Supernus, Roche, YoungLiving, NIH, and Autism Speaks; has consulted with Pfizer, Tris Pharma, and Waypoint; and has been on advisory boards for Arbor, Ironshore, Otsuka, Pfizer, Roche, Seaside Therapeutics, and Shire. Drs. Johnstone, Hatsu, Eiterman, Bruton, Ast, Hughes, Leung and Mss. Tost, Srikanth, Robinette, Stern, Millington have reported no biomedical financial interests or potential conflicts of interest.
+
+Contributor Information
+
+Jeanette M. Johnstone, Oregon Health & Science University, Portland; National University of Natural Medicine, Helfgott Research Institute, Portland, Oregon..
+
+Irene Hatsu, Ohio State University, Columbus..
+
+Gabriella Tost, Oregon Health & Science University, Portland.
+
+Priya Srikanth, OHSU-Portland State University School of Public Health, Oregon.
+
+Leanna P. Eiterman, Ohio State University, Columbus..
+
+Alisha Bruton, Oregon Health & Science University, Portland.
+
+Hayleigh K. Ast, Oregon Health & Science University, Portland.
+
+Lisa M. Robinette, Ohio State University, Columbus..
+
+Madeline M. Stern, Ohio State University, Columbus..
+
+Elizabeth G. Millington, University of Lethbridge, Alberta, Canada.
+
+Barbara Gracious, Ohio State University, Columbus; Orange Park Medical Center, Florida, Edward Via College of Osteopathic Medicine, Spartanburg, South Carolina.
+
+Andrew J. Hughes, Oregon Health & Science University, Portland.
+
+Brenda MY Leung, University of Lethbridge, Alberta, Canada.
+
+L. Eugene Arnold, Ohio State University, Columbus.
+
+References
+
+ 1. APA. Diagnostic and Statistical Manual of Mental Disorders DSM-5. American Psychiatric Association. 2013; Arlington, VA: American Psychiatric Publishing. [ Google Scholar ]
+
+ 2. Kessler RC, Adler L, Barkley R, et al. 
+The prevalence and correlates of adult ADHD in the United States: results from the national comorbidity survey replication. Am J Psychiatry. Apr
+2006; 163(4):716–23. doi: 163/4/716 [pii] 10.1176/appi.ajp.163.4.716 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 3. Klein RG, Mannuzza S, Olazagasti MAR, et al. 
+Clinical and functional outcome of childhood attention-deficit/hyperactivity disorder 33 years later. Archives of general psychiatry. 2012;69(12): 1295–1303. doi: 10.1001/archgenpsychiatry.2012.271 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 4. Faraone SV, Rostain AL, Blader J, et al. 
+Practitioner Review: Emotional dysregulation in attention-deficit/hyperactivity disorder–implications for clinical recognition and intervention. Journal of Child Psychology and Psychiatry. 2019;60(2):133–150. doi: 10.1111/jcpp.12899 [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 5. Bunford N, Evans SW, Becker SP, Langberg JM. Attention-Deficit/Hyperactivity Disorder and Social Skills in Youth: A Moderated Mediation Model of Emotion Dysregulation and Depression. J Abnorm Child Psychol. Jul
+20
+2014; doi: 10.1007/s10802-014-9909-2 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 6. Fernández de la Cruz L, Simonoff E, McGough JJ, Halperin JM, Arnold LE, Stringaris A. Treatment of Children With Attention-Deficit/Hyperactivity Disorder (ADHD) and Irritability: Results From the Multimodal Treatment Study of Children With ADHD (MTA). Journal of the American Academy of Child and Adolescent Psychiatry. 10/17/accepted 2015;54(1):62–70.e3. doi: 10.1016/j.jaac.2014.10.006 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 7. Cortese S, Holtmann M, Banaschewski T, et al. 
+Practitioner review: current best practice in the management of adverse events during treatment with ADHD medications in children and adolescents. Journal of Child Psychology and Psychiatry. 2013;54(3):227–246. doi: 10.1111/jcpp.12036. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 8. Hennissen L, Bakker MJ, Banaschewski T, et al. 
+Cardiovascular effects of stimulant and non-stimulant medication for children and adolescents with ADHD: a systematic review and meta-analysis of trials of methylphenidate, amphetamines and atomoxetine. CNS drugs. 2017;31(3):199–215. doi: 10.1007/s40263-017-0410-7. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 9. Lofthouse N, Hurt E, Arnold LE. Complementary and alternative treatments for pediatric and adult ADHD. Attention-Deficit Hyperactivity Disorder in Adults and Children. 2015:307. doi: 10.4088/JCP.15r10601. [ DOI ] [ Google Scholar ]
+
+ 10. Stuckelman ZD, Mulqueen JM, Ferracioli-Oda E, et al. 
+Risk of irritability with psychostimulant treatment in children with ADHD: a meta-analysis. The Journal of clinical psychiatry. 2017;78(6):648–655. doi: 10.4088/JCP.15r10601. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 11. Greenhill LL, Swanson JM, Hechtman L, et al. 
+Trajectories of growth associated with long-term stimulant medication in the multimodal treatment study of attention-deficit/hyperactivity disorder. Journal of the American Academy of Child & Adolescent Psychiatry. 2020;59(8):978–989. doi: 10.1016/j.jaac.2019.06.019. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 12. Waxmonsky JG, Pelham WE, Campa A, et al. 
+A randomized controlled trial of interventions for growth suppression in children with attention-deficit/hyperactivity disorder treated with central nervous system stimulants. Journal of the American Academy of Child & Adolescent Psychiatry. 2020;59(12):1330–1341. doi: 10.1016/j.jaac.2019.08.472. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 13. Charach A
+Time for a New Conversation on Stimulant Use. Journal of the American Academy of Child and Adolescent Psychiatry. 2019;59(8):929–930. doi: 10.1016/j.jaac.2019.10.004. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 14. Bilici M, Yildirim F, Kandil S, et al. 
+Double-blind, placebo-controlled study of zinc sulfate in the treatment of attention deficit hyperactivity disorder. Progress in Neuro-Psychopharmacology and Biological Psychiatry. 2004;28(1): 181–190. doi: 10.1016/j.pnpbp.2003.09.034. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 15. Sonuga-Barke EJ, Brandeis D, Cortese S, et al. 
+Nonpharmacological interventions for ADHD: systematic review and meta-analyses of randomized controlled trials of dietary and psychological treatments. American Journal of Psychiatry. 2013;170(3):275–289. doi: 10.1176/appi.ajp.2012.12070991. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 16. Gordon HA, Rucklidge JJ, Blampied NM, Johnstone JM. Clinically significant symptom reduction in children with attention-deficit/hyperactivity disorder treated with micronutrients: an open-label reversal design study. Journal of child and adolescent psychopharmacology. 2015;25(10):783–798. doi: 10.1089/cap.2015.0105 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 17. Rucklidge J, Taylor M, Whitehead K. Effect of micronutrients on behavior and mood in adults with ADHD: Evidence from an 8-week open label trial with natural extension. Journal of Attention Disorders. 2011;15(1):79–91. doi: 10.1177/1087054709356173. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 18. Rucklidge JJ, Frampton CM, Gorman B, Boggis A. Vitamin-mineral treatment of attention-deficit hyperactivity disorder in adults: double-blind randomised placebo-controlled trial. The British Journal of Psychiatry. 2014;204(4):306–315. doi: 10.1192/bjp.bp.113.132126. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 19. Rucklidge JJ, Eggleston MJ, Johnstone JM, Darling K, Frampton CM. Vitamin-mineral treatment improves aggression and emotional regulation in children with ADHD: a fully blinded, randomized, placebo-controlled trial. Journal of Child Psychology and Psychiatry. 2018;59(3):232–246. doi: 10.1111/jcpp.12817. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 20. Ames BN, Elson-Schwab I, Silver EA. High-dose vitamin therapy stimulates variant enzymes with decreased coenzyme binding affinity (increased Km): relevance to genetic disease and polymorphisms. The American journal of clinical nutrition. 2002;75(4):616–658. doi: 10.1093/ajcn/75/4/616 [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 21. Ames BN. A role for supplements in optimizing health: the metabolic tune-up. Archives of biochemistry and biophysics. 2004;423(1):227–234. doi: 10.1016/j.abb.2003.11.002. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 22. Guy W
+Clinical global impression. Assessment manual for Psychopharmacology. 1976:217–222. [ Google Scholar ]
+
+ 23. Gadow K, Sprafkin J. Child and Adolescent Symptom Inventory-5. Checkmate Plus; 2015. [ Google Scholar ]
+
+ 24. Johnstone JM, Leung B, Gracious B, et al. 
+Rationale and design of an international randomized placebo-controlled trial of a 36-ingredient micronutrient supplement for children with ADHD and irritable mood: The Micronutrients for ADHD in Youth (MADDY) study. Contemporary clinical trials communications. 2019;16:100478. DOI: 10.1016/j.conctc.2019.100478 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 25. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing. 2017. https://www.R-project.org [ Google Scholar ]
+
+ 26. Johnstone JM, Leung BM, Srikanth P, et al. 
+Development of a composite primary outcome score for children with attention-deficit/hyperactivity disorder and emotional dysregulation. Journal of child and adolescent psychopharmacology. 2020;30(3):166–172. doi: 10.1089/cap.2019.0179. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 27. Dunlop BW, Gray J, Rapaport MH. Transdiagnostic clinical global impression scoring for routine clinical settings. Behavioral Sciences. 2017;7(3):40. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 28. March J, Karayal O, Chrisman A. CAPTN: The pediatric adverse event rating scale. Boston; 2007:23–28. [ Google Scholar ]
+
+ 29. Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. Research electronic data capture (REDCap)—a metadata-driven methodology and workflow process for providing translational research informatics support. Journal of biomedical informatics. 2009;42(2):377–381. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 30. Vickerstaff V, Omar R, Ambler G. Methods to adjust for multiple comparisons in the analysis and sample size calculation of randomised controlled trials with multiple primary outcomes. BMC medical research methodology. 2019;19(1):129. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 31. StataCorp. Stata Statistical Software: Release 15. College Station, TX: StataCorp LLC; 2017. [ Google Scholar ]
+
+ 32. Kollins SH, DeLoss DJ, Cañadas E, et al. 
+A novel digital intervention for actively reducing severity of paediatric ADHD (STARS-ADHD): a randomised controlled trial. The Lancet Digital Health. 2020; [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 33. Clark D, Arnold L, Crowl L, et al. 
+Vestibular stimulation for attention-deficit/hyperactivity disorder (ADHD): Randomized controlled trial of comprehensive motion apparatus. J Attention Disorders
+2008;11(5):599–611. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 34. Piasecki T, Hufford M, Solhan M, Trull T. Assessing clients in their natural environments with electronic diaries: Rationale, benefits, limitations, and barriers. Psychological assessment. 2007;19(1) [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 35. Johnstone J, Hughes A, Goldenberg JZ, Romijn AR, JJ R. Multinutrients for the Treatment of Psychiatric Symptoms in Clinical Samples: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Nutrients. 2020;12(11):3394–3431. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 36. Zaalberg A, Nijman H, Bulten E, Stroosma L, van der Staak C. Effects of nutritional supplements on aggression, rule-breaking, and psychopathology among young adult prisoners. Aggressive Behavior. 2010;36(2):117–126. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 37. Schoenthaler SJ, Amos SP, Doraz WE, Kelly MA, Muedeking GD, Wakefield JA. The effect of randomized vitamin-mineral supplementation on violent and non-violent antisocial behavior among incarcerated juveniles. Journal of Nutritional and Environmental Medicine. 1997;7:343–352. [ Google Scholar ]
+
+ 38. Gesch CB, Hammond SM, Hampson SE, Eves A, Crowder MJ. Influence of supplementary vitamins, minerals and essential fatty acids on the antisocial behaviour of young adult prisoners Randomised, placebo-controlled trial. The British Journal of Psychiatry. 2002;181(1):22–28. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 39. Rucklidge JJ, Eggleston MJ, Ealam B, Beaglehole B, Mulder RT. An observational preliminary study on the safety of long-term consumption of micronutrients for the treatment of psychiatric symptoms. The Journal of Alternative and Complementary Medicine. 2019;25(6):613–622. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 40. Frazier EA, Gracious B, Arnold LE, et al. 
+Nutritional and safety outcomes from an open-label micronutrient intervention for pediatric bipolar spectrum disorders. Journal of child and adolescent psychopharmacology. 2013;23(8):558–567. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 41. Simpson JS, Crawford S, Goldstein E, Field C, Burgess E, Kaplan B. Systematic review of safety and tolerability of a complex micronutrient formula used in mental health. BMC Psychiatry. 2011;11(1):62. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 42. Carucci S, Balia C, Gagliano A, et al. 
+Long term methylphenidate exposure and growth in children and adolescents with ADHD. A systematic review and meta-analysis. Neuroscience & Biobehavioral Reviews. 2020; [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 43. Aman MG, Bukstein OG, Gadow KD, et al. 
+What does risperidone add to parent training and stimulant for severe aggression in child attention-deficit/hyperactivity disorder?
+Journal of the American Academy of Child & Adolescent Psychiatry. 2014;53(1):47–60. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 44. Rosen P, Factor P. Emotional impulsivity and emotional and behavioral difficulties among children with ADHD: An ecological momentary assessment study. Journal of Attention Disorders. 2015;19(9):779–793. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 45. Stevens AJ, Purcell RV, Darling KA, Eggleston MJ, Kennedy MA, Rucklidge JJ. Human gut microbiome changes during a 10 week randomised control trial for micronutrient supplementation in children with attention deficit hyperactivity disorder. Scientific reports. 2019;9(1):1–12. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 46. Stevens AJ, Rucklidge JJ, Darling KA, Eggleston MJ, Pearson JF, Kennedy MA. Methylomic changes in response to micronutrient supplementation and MTHFR genotype
+Epigenomics. 2018;10(9):1201–1214. [ DOI ] [ PubMed ] [ Google Scholar ]
+
+ 47. Gustafsson HC, Sullivan EL, Nousen EK, et al. 
+Maternal prenatal depression predicts infant negative affect via maternal inflammatory cytokine levels. Brain, behavior, and immunity. 2018;73:470–481. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 48. Jacka FN, Kremer PJ, Berk M, et al. 
+A Prospective Study of Diet Quality and Mental Health in Adolescents. PLoS ONE. 2011;6(9):e24805. doi: 10.1371/journal.pone.0024805 [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 49. Arnold LE, Lofthouse N, Hurt E. Artificial food colors and attention-deficit/hyperactivity symptoms: conclusions to dye for. Neurotherapeutics. 2012;9(3):599–609. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+ 50. Kristal AR, Kolar AS, Fisher JL, et al. 
+Evaluation of web-based, self-administered, graphical food frequency questionnaire. Journal of the Academy of Nutrition and Dietetics. 2014;114(4):613–621. doi: 10.1016/j.jand.2013.11.017. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+
+Associated Data
+
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+
+Supplementary Materials
+
+ 1 
+
+ NIHMS1735981-supplement-1.docx (35.8KB, docx) 
+
+ Table S1 
+
+ NIHMS1735981-supplement-Table_S1.jpg (1MB, jpg) 
+
+ Table S2 
+
+ NIHMS1735981-supplement-Table_S2.docx (90.3KB, docx) 
+
+ Table S3 
+
+ NIHMS1735981-supplement-Table_S3.docx (20.5KB, docx) 
+
+ Table S4 
+
+ NIHMS1735981-supplement-Table_S4.docx (33.6KB, docx)

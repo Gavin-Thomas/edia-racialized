@@ -1,0 +1,1554 @@
+article [ref_113]
+ link "Go to Psychiatry Research on ScienceDirect" [ref_114] href="/journal/psychiatry-research"
+  image "Elsevier" [ref_115]
+ heading "Psychiatry Research" [ref_116]
+  link "Go to Psychiatry Research on ScienceDirect" [ref_117] href="/journal/psychiatry-research"
+   generic "Psychiatry Research" [ref_118]
+ generic ", March 2019, Pages 467-474" [ref_119]
+  link "Go to table of contents for this volume/issue" [ref_120] href="/journal/psychiatry-research/vol/273/suppl/C"
+   generic "Volume 273" [ref_121]
+ link "Homepage for Psychiatry Research" [ref_122] href="/journal/psychiatry-research/vol/273/suppl/C"
+  image "Psychiatry Research" [ref_123]
+ heading "A randomized comparison of long acting methylphenidate and cognitive behavioral therapy in the treat" [ref_124]
+  generic "A randomized comparison of long acting methylphenidate and cognitive behavioral therapy in the treat" [ref_125]
+ generic ", , , ," [ref_126]
+  generic "Author links open overlay panel" [ref_127]
+  link [ref_128] href="/author/7801522474/lena-catherine-quilty"
+   generic "Lena C." [ref_129]
+   generic "Quilty" [ref_130]
+  button [ref_131] type="button"
+   generic "Correspondence author icon" [ref_132]
+   generic "Author email or social media contact details icon" [ref_133]
+  button [ref_134] type="button"
+   generic "Timothy A." [ref_135]
+   generic "Allen" [ref_136]
+  link [ref_137] href="/author/7404360729/caroline-a-davis"
+   generic "Caroline" [ref_138]
+   generic "Davis" [ref_139]
+  button [ref_140] type="button"
+   generic "Yuliya" [ref_141]
+   generic "Knyahnytska" [ref_142]
+  link [ref_143] href="/author/7402502039/allan-s-kaplan"
+   generic "Allan S." [ref_144]
+   generic "Kaplan" [ref_145]
+ button [ref_146] type="button"
+  generic "Show more" [ref_147]
+ button [ref_148] type="button"
+  generic "Outline" [ref_149]
+ button [ref_150] type="button"
+  generic "Add to Mendeley" [ref_151]
+ button [ref_152] type="button"
+  generic "Share" [ref_153]
+ button [ref_154] type="button"
+  generic "Cite" [ref_155]
+ link "Persistent link using digital object identifier" [ref_156] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.psychres.2019.01.066"
+  generic "https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.psychres.2019.01.066" [ref_157]
+  generic "Opens in new window" [ref_158]
+ link [ref_159] href="https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0165178118320365&orderBeanReset=true"
+  generic "Get rights and content" [ref_160]
+  generic "Opens in new window" [ref_161]
+ generic "Full text access" [ref_162]
+ region [ref_163]
+ region [ref_164]
+ heading "Highlights" [ref_165]
+ list [ref_166]
+  listitem [ref_167]
+   generic "Both long acting and" [ref_168]
+    link "methylphenidate" [ref_169] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/methylphenidate"
+   link "cognitive behavioral therapy" [ref_170] href="/topics/neuroscience/cognitive-behavioral-therapy"
+   generic "were associated with significant improvement in clinical outcomes in adult women with ." [ref_171]
+    link "binge eating disorder" [ref_172] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/binge-eating-disorder"
+  listitem [ref_173]
+   generic "Methylphenidate was associated with greater decrease in over treatment than CBT; however, the durab." [ref_174]
+    link "body mass index" [ref_175] href="/topics/psychology/body-mass-index"
+  listitem [ref_176]
+   generic "Two traits of impulsivity were predictive of clinical outcomes." [ref_177]
+ heading "Abstract" [ref_178]
+ generic "= 22) or CBT (" [ref_179]
+  generic "Cognitive behavioral therapy (CBT) is a well-established treatment for" [ref_180]
+   link "binge eating disorder" [ref_181] href="/topics/psychology/binge-eating-disorder"
+   generic "(BED); however, this treatment is underutilized, highlighting the need for additional treatment alte" [ref_182]
+    link "methylphenidate" [ref_183] href="/topics/psychology/methylphenidate"
+    generic "versus CBT for BED. The secondary objective was to evaluate the ability of impulsivity to predict tr" [ref_184]
+     link "methylphenidate" [ref_185] href="/topics/neuroscience/methylphenidate"
+  generic "= 27) for 12 weeks. The primary outcome was objective binge episode frequency; secondary outcomes in" [ref_186]
+   link "body mass index" [ref_187] href="/topics/neuroscience/body-mass-index"
+ list [ref_188]
+  listitem [ref_189]
+   link [ref_190] href="/science/article/pii/S0165178118307820"
+    generic "Previous" [ref_191]
+     generic "article" [ref_192]
+     generic "in issue" [ref_193]
+  listitem [ref_194]
+   link [ref_195] href="/science/article/pii/S0165178118311004"
+    generic "Next" [ref_196]
+     generic "article" [ref_197]
+     generic "in issue" [ref_198]
+ heading "Keywords" [ref_199]
+ generic "Binge eating disorder" [ref_200]
+ generic "Methylphenidate" [ref_201]
+ generic "CBT" [ref_202]
+ generic "Treatment" [ref_203]
+ generic "Impulsivity" [ref_204]
+ region [ref_205]
+  heading "1. Introduction" [ref_206]
+  generic ", ) and substantial personal and societal cost (). BED commonly co-occurs with a broad range of psyc" [ref_207]
+   link "Binge eating disorder" [ref_208] href="/topics/neuroscience/binge-eating-disorder"
+   generic "(BED) is the most prevalent , with an estimated rate of 3% in the United States (" [ref_209]
+    link "eating disorder" [ref_210] href="/topics/psychology/eating-disorder"
+   link [ref_211] href="#bib0026"
+    generic "Hudson et al., 2012" [ref_212]
+   link [ref_213] href="#bib0011"
+    generic "Duncan et al., 2017" [ref_214]
+   link [ref_215] href="#bib0034"
+    generic "Ling et al., 2017" [ref_216]
+   link [ref_217] href="#bib0002"
+    generic "Becker and Grilo, 2015" [ref_218]
+   link [ref_219] href="#bib0027"
+    generic "Hudson et al., 2007" [ref_220]
+   link [ref_221] href="#bib0047"
+    generic "Ulfvebrand et al., 2015" [ref_222]
+   generic "). Numerous promising interventions have been developed for the treatment of BED; yet, even the most" [ref_223]
+    link "cognitive behavioral therapy" [ref_224] href="/topics/neuroscience/cognitive-behavioral-therapy"
+   link [ref_225] href="#bib0048"
+    generic "Vocks et al., 2010" [ref_226]
+   generic "). Moreover, these specialized interventions are not widely available to, and/or utilized by those w" [ref_227]
+    link "Psychostimulant" [ref_228] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/psychostimulant"
+    generic "medications targeting such as" [ref_229]
+     link "dopaminergic transmission" [ref_230] href="/topics/neuroscience/dopaminergic-transmission"
+   link "methylphenidate" [ref_231] href="/topics/psychology/methylphenidate"
+   generic "may be one such alternative, given previous research implicating the dopamine system in and weight ." [ref_232]
+    link "eating behaviors" [ref_233] href="/topics/neuroscience/eating-behavior"
+   link [ref_234] href="#bib0001"
+    generic "Avena and Bocarsly, 2012" [ref_235]
+   link [ref_236] href="#bib0036"
+    generic "McElroy et al., 2012" [ref_237]
+   generic "). The current investigation describes a preliminary study of" [ref_238]
+    link "methylphenidate" [ref_239] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/methylphenidate"
+    generic "in the treatment of BED, using a randomized trial design to compare the effects of long acting to i." [ref_240]
+     link "methylphenidate" [ref_241] href="/topics/neuroscience/methylphenidate"
+  region [ref_242]
+   heading "1.1. Cognitive behavioral therapy for BED is effective but infrequently utilized" [ref_243]
+   generic "CBT has accumulated evidence for efficacy in the reduction of binge eating episodes in patients with" [ref_244]
+    link [ref_245] href="#bib0033"
+     generic "Linardon et al., 2017" [ref_246]
+    link [ref_247] href="#bib0042"
+     generic "Peat et al., 2017" [ref_248]
+    link [ref_249] href="#bib0048"
+     generic "Vocks et al., 2010" [ref_250]
+    generic "). Binge eating episodes are predictive of weight and (BMI; kg/m" [ref_251]
+     link "body mass index" [ref_252] href="/topics/neuroscience/body-mass-index"
+    link [ref_253] href="#bib0024"
+     generic "Grilo et al., 2011" [ref_254]
+   generic ", , ). Patients with BED utilize health care services at a level comparable to those with other psyc" [ref_255]
+    generic "concerns present for treatment, rarely have the time or training to provide specialized, empirically" [ref_256]
+     generic "Regrettably, CBT for BED is rarely administered outside of academic or tertiary care settings. Indee" [ref_257]
+      link "health care" [ref_258] href="/topics/psychology/healthcare"
+     link "mental health" [ref_259] href="/topics/psychology/mental-health"
+    link [ref_260] href="#bib0018"
+     generic "Fursland and Watson, 2014" [ref_261]
+    link [ref_262] href="#bib0029"
+     generic "Kazdin et al., 2017" [ref_263]
+    link [ref_264] href="#bib0050"
+     generic "Weissman and Rosselli, 2017" [ref_265]
+    link [ref_266] href="#bib0041"
+     generic "Mond and Hay, 2008" [ref_267]
+    link [ref_268] href="#bib0046"
+     generic "Striegel‐Moore et al., 2004" [ref_269]
+    link [ref_270] href="#bib0045"
+     generic "2008" [ref_271]
+  region [ref_272]
+   heading "1.2. Psychostimulants target the dopamine system and reduce binge eating and weight" [ref_273]
+   generic ", , , , , , ); this effect was more pronounced in women in one study ()." [ref_274]
+    generic "Dopamine is strongly implicated in eating and its dysfunction (" [ref_275]
+     link "behavior" [ref_276] href="/topics/neuroscience/behavior-neuroscience"
+    link [ref_277] href="#bib0035"
+     generic "Mathes et al., 2009" [ref_278]
+    generic "). Empirical work has implicated disrupted dopamine in the development and/or maintenance of binge ." [ref_279]
+     link "neurotransmission" [ref_280] href="/topics/psychology/neurotransmission"
+    link [ref_281] href="#bib0049"
+     generic "Wang et al., 2011" [ref_282]
+    generic "). that target dopamine therefore have the potential to directly impact perceived food reward, crav." [ref_283]
+     link "Pharmacological treatments" [ref_284] href="/topics/psychology/pharmacological-treatment"
+    link [ref_285] href="#bib0036"
+     generic "McElroy et al., 2012" [ref_286]
+    link [ref_287] href="#bib0028"
+     generic "Kaplan et al., 2009" [ref_288]
+    link [ref_289] href="#bib0003"
+     generic "Bello and Hajnal, 2010" [ref_290]
+    link [ref_291] href="#bib0012"
+     generic "Epstein et al., 2007" [ref_292]
+    generic "(ADHD) – have been associated with decreased food cravings and intake in adults with obesity and BED" [ref_293]
+     generic "). Single-dose administrations of methylphenidate – a blocker frequently utilized in the treatment ." [ref_294]
+      link "dopamine transporter" [ref_295] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/dopamine-transporter"
+     link "attention deficit hyperactivity disorder" [ref_296] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/attention-deficit-disorder"
+    link [ref_297] href="#bib0020"
+     generic "Goldfield et al., 2007" [ref_298]
+    link [ref_299] href="#bib0031"
+     generic "Leddy et al., 2004" [ref_300]
+    link "Psychostimulant" [ref_301] href="/topics/neuroscience/psychostimulant"
+    generic "medications have resolved symptoms of , including binge eating episodes, in clinical reports of pati" [ref_302]
+     link "bulimia nervosa" [ref_303] href="/topics/psychology/bulimia"
+    link [ref_304] href="#bib0010"
+     generic "Dukarm, 2005" [ref_305]
+    generic "). Similarly, administered to obese patients with ADHD have been effective in the reduction of BED ." [ref_306]
+     link "stimulants" [ref_307] href="/topics/neuroscience/analeptic"
+    link [ref_308] href="#bib0028"
+     generic "Kaplan et al., 2009" [ref_309]
+    link [ref_310] href="#bib0032"
+     generic "Levy et al., 2009" [ref_311]
+    generic "). Double-blind drug-placebo studies have demonstrated that a moderate single dose of methylphenidat" [ref_312]
+     link "decreased appetite" [ref_313] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/decreased-appetite"
+    link [ref_314] href="#bib0009"
+     generic "Davis et al., 2016" [ref_315]
+    link [ref_316] href="#bib0020"
+     generic "Goldfield et al., 2007" [ref_317]
+    link [ref_318] href="#bib0031"
+     generic "Leddy et al., 2004" [ref_319]
+   generic ", , ). The extension of this line of research to other psychostimulant medications, particularly tho" [ref_320]
+    generic "in the reduction of binge eating, as well as the safety of this medication in patients with BED (" [ref_321]
+     generic "Recently, psychostimulant medications have received growing empirical attention and placebo-controll" [ref_322]
+      link "clinical trials" [ref_323] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/clinical-trial"
+     link "lisdexamfetamine" [ref_324] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/lisdexamfetamine"
+    link [ref_325] href="#bib0037"
+     generic "McElroy et al., 2015" [ref_326]
+    link [ref_327] href="#bib0038"
+     generic "McElroy et al., 2016a" [ref_328]
+    link [ref_329] href="#bib0039"
+     generic "McElroy et al., 2016b" [ref_330]
+    generic "). Lisdexamfetamine was associated with decreased binge episode frequency and BED symptoms compared " [ref_331]
+     link "systematic review" [ref_332] href="/topics/psychology/systematic-review"
+    link [ref_333] href="#bib0004"
+     generic "Citrome, 2015" [ref_334]
+  region [ref_335]
+   heading "1.3. The current investigation" [ref_336]
+   generic "). The primary objective of the current investigation was to evaluate the therapeutic effect of meth" [ref_337]
+    generic "The current investigation is a randomized trial of methylphenidate versus CBT for BED in adult women" [ref_338]
+     link "dopamine transporter" [ref_339] href="/topics/neuroscience/dopamine-transporter"
+    link [ref_340] href="#bib0053"
+     generic "Zhou et al., 2002" [ref_341]
+    link [ref_342] href="#bib0006"
+     generic "Cortese et al., 2007" [ref_343]
+    link [ref_344] href="#bib0008"
+     generic "Davis, 2010" [ref_345]
+    link [ref_346] href="#bib0017"
+     generic "Fischer et al., 2008" [ref_347]
+    link [ref_348] href="#bib0028"
+     generic "Kaplan et al., 2009" [ref_349]
+    link [ref_350] href="#bib0022"
+     generic "Grilo et al., 2012" [ref_351]
+ region [ref_352]
+  heading "2. Method" [ref_353]
+  region [ref_354]
+   heading "2.1. Participants" [ref_355]
+   generic "= 32.78, = 8.62). Using Statistics Canada racial groupings, the majority of participants identified." [ref_356]
+    generic "The sample consisted of 49 adult women meeting DSM-5 criteria for . Participants ranged in age from " [ref_357]
+     link "BED" [ref_358] href="/topics/neuroscience/binge-eating-disorder"
+    generic "n =" [ref_359]
+    generic "38); the remaining participants identified as (2.0%;" [ref_360]
+     link "South Asian" [ref_361] href="/topics/psychology/south-asians"
+    generic "n =" [ref_362]
+    generic "n =" [ref_363]
+    generic "n =" [ref_364]
+    generic "Structured Clinical Interview for DSM-IV, Axis" [ref_365]
+    link "Learn more about I Disorders from ScienceDirect's AI-generated Topic Pages" [ref_366] href="/topics/psychology/i-disorder"
+    generic ", Patient Form" [ref_367]
+    link [ref_368] href="#bib0016"
+     generic "First et al., 1995" [ref_369]
+   generic "All participants met the following inclusion criteria: (1) exhibited DSM-5 criteria for based on th." [ref_370]
+    link "BED" [ref_371] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/binge-eating-disorder"
+   link [ref_372] href="#bib0016"
+    generic "First et al., 1995" [ref_373]
+   generic ") applying DSM-5 criteria for (" [ref_374]
+    link "BED" [ref_375] href="/topics/psychology/binge-eating-disorder"
+   link [ref_376] href="#bib0054"
+    generic "APA, 2013" [ref_377]
+   generic "for eating or weight initiated during the past month; (3)" [ref_378]
+    generic "); (2) ≥ 25; and (3) (a) 18–50 years of age, (b) fluency in reading English and (c) capacity to giv." [ref_379]
+     link "BMI" [ref_380] href="/topics/neuroscience/body-mass-index"
+    link "behavioral treatment" [ref_381] href="/topics/neuroscience/behavioral-treatment"
+   link "psychotropic" [ref_382] href="/topics/neuroscience/psychoactive-drug"
+   generic "or investigational medication changes during past three months; (4) current" [ref_383]
+    link "psychostimulant" [ref_384] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/psychostimulant"
+    generic "use, or use of psychostimulants during the past six months to manage eating or weight; (5) current ." [ref_385]
+     link "mental disorders" [ref_386] href="/topics/neuroscience/mental-disorder"
+   link "methylphenidate" [ref_387] href="/topics/psychology/methylphenidate"
+   generic "; (8) other serious medical illnesses or events such as or stroke during the past six months; (9) h." [ref_388]
+    link "acute myocardial infarction" [ref_389] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/acute-heart-infarction"
+   link "tics" [ref_390] href="/topics/neuroscience/tic-disorder"
+   generic "in past year, diagnosis or family history of" [ref_391]
+    link "Tourette's syndrome" [ref_392] href="/topics/neuroscience/tourette-syndrome"
+    generic "or conduction abnormalities as indicated by electrocardiogram (ECG), abnormal laboratory results inc" [ref_393]
+     generic "; (10) uncontrolled or clinically relevant hypertension (>140/90), (heart rate > 110)," [ref_394]
+      link "tachycardia" [ref_395] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/tachycardia"
+     link "arrhythmias" [ref_396] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/heart-arrhythmia"
+    link "hypokalemia" [ref_397] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/hypokalemia"
+    generic "; (11) current medications that affect weight or that are contraindicated for ." [ref_398]
+     link "methylphenidate" [ref_399] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/methylphenidate"
+  region [ref_400]
+   heading "2.2. Measures" [ref_401]
+   generic "The primary outcome measure was frequency of objective binge episodes per week, as assessed by a dai" [ref_402]
+    link [ref_403] href="#bib0023"
+     generic "Grilo et al., 2006" [ref_404]
+    generic "). Subjective binge episodes comprised eating episodes (meals or snacks) characterized by a lack of " [ref_405]
+     link "BMI" [ref_406] href="/topics/psychology/body-mass-index"
+    link "quality of life" [ref_407] href="/topics/psychology/quality-of-life"
+    generic ". Dimensional measures included the Examination-Interview (EDE-I;" [ref_408]
+     link "Eating Disorder" [ref_409] href="/topics/psychology/eating-disorder"
+    link [ref_410] href="#bib0013"
+     generic "Fairburn and Cooper, 1993" [ref_411]
+    link [ref_412] href="#bib0021"
+     generic "Gormally et al., 1982" [ref_413]
+    link [ref_414] href="#bib0019"
+     generic "Frisch, 1994" [ref_415]
+    generic "). The EDE-I and BES provided interviewer-rated and self-reported measures of eating disorder psycho" [ref_416]
+     link "eating behaviors" [ref_417] href="/topics/neuroscience/eating-behavior"
+     generic ", whereas the BES is a 16-item questionnaire assessing thoughts, emotions, and associated with bing." [ref_418]
+      link "behaviors" [ref_419] href="/topics/neuroscience/behavior-neuroscience"
+    generic "UPPS-P Impulsive Behavior Scale (" [ref_420]
+    link [ref_421] href="#bib0007"
+     generic "Cyders et al., 2007" [ref_422]
+    link [ref_423] href="#bib0051"
+     generic "Whiteside and Lynam, 2001" [ref_424]
+    link [ref_425] href="#bib0017"
+     generic "Fischer et al., 2008" [ref_426]
+    generic "). Notably, two of the subscales are labeled as the of either reflection or focus (i.e., lack of Pr." [ref_427]
+     link "absence" [ref_428] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/epileptic-absence"
+  region [ref_429]
+   heading "2.3. Procedure" [ref_430]
+   generic "Ham-D ≥ 14; ; for additional details regarding participant flow. Participant attrition was most com." [ref_431]
+    generic "Participants were recruited using a multi-faceted approach including local physician referral as wel" [ref_432]
+     link "liver function tests" [ref_433] href="/topics/neuroscience/liver-function-test"
+     generic ", creatinine, BUN, fasting" [ref_434]
+      link "blood glucose" [ref_435] href="/topics/psychology/blood-glucose"
+      generic ", fasting lipids and cholesterol, pregnancy test), ECG, and urinalysis. Randomization of eligible pa" [ref_436]
+       link "Hamilton Rating Scale for Depression" [ref_437] href="/topics/neuroscience/hamilton-rating-scale-for-depression"
+    link [ref_438] href="#bib0025"
+     generic "Hamilton, 1960" [ref_439]
+    generic ") and" [ref_440]
+     link "ADHD" [ref_441] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/attention-deficit-disorder"
+     generic "symptom severity (assessed with the Conner's" [ref_442]
+      link "Adult ADHD" [ref_443] href="/topics/psychology/adult-attention-deficit-hyperactivity-disorder"
+      generic "Rating Scale Index > 65" [ref_444]
+       link "ADHD" [ref_445] href="/topics/neuroscience/attention-deficit-hyperactivity-disorder"
+    link [ref_446] href="#bib0005"
+     generic "Conners et al., 1999" [ref_447]
+    generic "). Of the 922 individuals who contacted the laboratory, 384 expressed interest and completed a brief" [ref_448]
+     link "CBT" [ref_449] href="/topics/neuroscience/cognitive-behavioral-therapy"
+    link [ref_450] href="#fig0001"
+     generic "Fig. 1" [ref_451]
+    generic "= 0.84). The research protocol (NCT01921582) was reviewed and approved by the Centre for Addiction a" [ref_452]
+     link "Mental Health" [ref_453] href="/topics/psychology/mental-health"
+   image "Fig. 1." [ref_454]
+   list [ref_455]
+    listitem [ref_456]
+     link "Download high-res image (417KB)" [ref_457] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S0165178118320365-gr1_lrg.jpg"
+      generic "Download:" [ref_458]
+       generic "Download high-res image (417KB)" [ref_459]
+    listitem [ref_460]
+     link "Download full-size image" [ref_461] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S0165178118320365-gr1.jpg"
+      generic "Download:" [ref_462]
+       generic "Download full-size image" [ref_463]
+   generic ". Participant flow chart." [ref_464]
+    generic "Fig. 1" [ref_465]
+   region [ref_466]
+    heading "2.3.1. CBT treatment" [ref_467]
+    generic ") and longer CBT protocols show that most improvements occur over the first six to eight weeks ()." [ref_468]
+     generic "Participants randomly assigned to receive individual attended 12 50-min appointments over the cours." [ref_469]
+      link "CBT" [ref_470] href="/topics/psychology/cognitive-behavioral-therapy"
+     link [ref_471] href="#bib0014"
+      generic "Fairburn et al. (1993)" [ref_472]
+     generic "and included three phases. Phase 1 undertakes to eliminate binge episodes and introduce a ‘regular’ " [ref_473]
+      link "relapse prevention" [ref_474] href="/topics/neuroscience/relapse-prevention"
+     link [ref_475] href="#bib0052"
+      generic "Wilson et al., 2010" [ref_476]
+     link [ref_477] href="#bib0023"
+      generic "Grilo et al., 2006" [ref_478]
+   region [ref_479]
+    heading "2.3.2. Psychostimulant treatment" [ref_480]
+    generic "). Dosage levels were maintained or decreased to manage medication side effects. After 12 weeks, par" [ref_481]
+     generic ", and general medical status) as well as supporting ongoing medication compliance using compliance e" [ref_482]
+      generic "Participants randomly assigned to receive long acting attended weekly appointments with study psych." [ref_483]
+       link "methylphenidate" [ref_484] href="/topics/neuroscience/methylphenidate"
+      link "side effects" [ref_485] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/side-effect"
+     link [ref_486] href="#bib0015"
+      generic "Fawcett et al., 1987" [ref_487]
+     generic "and weight (" [ref_488]
+      generic "). Initial dosage of methylphenidate was 18 mg/day, increased to 36 mg/day at Week 2, 54 mg/day at W" [ref_489]
+       link "ADHD" [ref_490] href="/topics/psychology/attention-deficit-hyperactivity-disorder"
+      link "decreased appetite" [ref_491] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/decreased-appetite"
+     link [ref_492] href="#bib0040"
+      generic "Medori et al., 2008" [ref_493]
+  region [ref_494]
+   heading "2.4. Statistical analyses" [ref_495]
+   region [ref_496]
+    heading "2.4.1. Effect of treatment condition on study outcomes" [ref_497]
+    generic "Analyses were conducted using an intent-to-treat approach in which all randomized participants were " [ref_498]
+     link "dependent variable" [ref_499] href="/topics/psychology/dependent-variable"
+     generic "of interest (covariates were grand-mean centered). Models also included fixed effects for treatment " [ref_500]
+      link "analyses of covariance" [ref_501] href="/topics/psychology/analysis-of-covariance"
+   region [ref_502]
+    heading "2.4.2. Effect of impulsivity on study outcomes" [ref_503]
+    generic "Analyses were again conducted using an intent-to-treat approach in which all randomized participants" [ref_504]
+    generic "Notably, given the association between race/ethnicity with BMI, all analyses were conducted with par" [ref_505]
+ region [ref_506]
+  heading "3. Results" [ref_507]
+  region [ref_508]
+   heading "3.1. Effect of treatment condition on study outcomes" [ref_509]
+   generic "Descriptive statistics for primary and secondary outcome variables at pre- and post-treatment are pr" [ref_510]
+    link [ref_511] href="#tbl0001"
+     generic "Table 1" [ref_512]
+    generic ", p" [ref_513]
+    generic ", p" [ref_514]
+   generic ". Outcomes variables across treatment groups at baseline and post-treatment." [ref_515]
+    generic "Table 1" [ref_516]
+   table [ref_517]
+    generic "Empty Cell" [ref_518]
+    generic "Baseline" [ref_519]
+    generic "Empty Cell" [ref_520]
+    generic "Post-treatment" [ref_521]
+    generic "Empty Cell" [ref_522]
+    generic "Empty Cell" [ref_523]
+    generic "CBT" [ref_524]
+    generic "MPH" [ref_525]
+    generic "Empty Cell" [ref_526]
+    generic "CBT" [ref_527]
+    generic "MPH" [ref_528]
+    generic "Empty Cell" [ref_529]
+    generic "Empty Cell" [ref_530]
+    generic "OBE" [ref_531]
+    generic "2.26" [ref_532]
+    generic "1.89" [ref_533]
+    generic "2.19" [ref_534]
+    generic "1.47" [ref_535]
+    generic "0.14 (0.89)" [ref_536]
+    generic "0.11" [ref_537]
+    generic "0.32" [ref_538]
+    generic "0.69" [ref_539]
+    generic "1.49" [ref_540]
+    generic "1.53 (0.14)" [ref_541]
+    generic "SBE" [ref_542]
+    generic "5.59" [ref_543]
+    generic "5.92" [ref_544]
+    generic "4.62" [ref_545]
+    generic "4.65" [ref_546]
+    generic "0.62 (0.54)" [ref_547]
+    generic "0.26" [ref_548]
+    generic "0.45" [ref_549]
+    generic "1.38" [ref_550]
+    generic "3.18" [ref_551]
+    generic "1.51 (0.14)" [ref_552]
+    generic "BMI" [ref_553]
+    generic "39.26" [ref_554]
+    generic "8.80" [ref_555]
+    generic "36.53" [ref_556]
+    generic "6.55" [ref_557]
+    generic "1.20 (0.23)" [ref_558]
+    generic "40.16" [ref_559]
+    generic "9.45" [ref_560]
+    generic "34.38" [ref_561]
+    generic "6.22" [ref_562]
+    generic "2.16 (0.04)" [ref_563]
+    generic "EDE-I" [ref_564]
+    generic "3.42" [ref_565]
+    generic "1.11" [ref_566]
+    generic "3.53" [ref_567]
+    generic "0.71" [ref_568]
+    generic "0.44 (0.66)" [ref_569]
+    generic "2.32" [ref_570]
+    generic "1.06" [ref_571]
+    generic "2.39" [ref_572]
+    generic "1.06" [ref_573]
+    generic "0.23 (0.82)" [ref_574]
+    generic "BES" [ref_575]
+    generic "30.70" [ref_576]
+    generic "5.84" [ref_577]
+    generic "30.05" [ref_578]
+    generic "6.28" [ref_579]
+    generic "0.38 (0.71)" [ref_580]
+    generic "16.30" [ref_581]
+    generic "7.95" [ref_582]
+    generic "18.41" [ref_583]
+    generic "9.80" [ref_584]
+    generic "0.72 (0.47)" [ref_585]
+    generic "QOLI" [ref_586]
+    generic "0.48" [ref_587]
+    generic "1.95" [ref_588]
+    generic "0.70" [ref_589]
+    generic "1.63" [ref_590]
+    generic "0.42 (0.67)" [ref_591]
+    generic "1.78" [ref_592]
+    generic "1.29" [ref_593]
+    generic "1.21" [ref_594]
+    generic "1.31" [ref_595]
+    generic "1.30 (0.20)" [ref_596]
+   generic "Note: OBE = Objective binge episode frequency; SBE = Subjective binge episode frequency; BMI = Body " [ref_597]
+   generic "A mixed model examining BMI over the course of treatment revealed main effects of both time and cond" [ref_598]
+    link [ref_599] href="#fig0002"
+     generic "Fig. 2" [ref_600]
+   image "Fig. 2." [ref_601]
+   list [ref_602]
+    listitem [ref_603]
+     link "Download high-res image (90KB)" [ref_604] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S0165178118320365-gr2_lrg.jpg"
+      generic "Download:" [ref_605]
+       generic "Download high-res image (90KB)" [ref_606]
+    listitem [ref_607]
+     link "Download full-size image" [ref_608] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S0165178118320365-gr2.jpg"
+      generic "Download:" [ref_609]
+       generic "Download full-size image" [ref_610]
+   generic ". Time × Treatment condition interaction: BMI." [ref_611]
+    generic "Fig. 2" [ref_612]
+   generic "Linear regressions examining the effect of treatment condition on the three secondary outcome variab" [ref_613]
+    link [ref_614] href="#tbl0002"
+     generic "Table 2" [ref_615]
+   generic ". Linear regressions predicting outcomes from treatment condition and trait subscale scores." [ref_616]
+    generic "Table 2" [ref_617]
+   table [ref_618]
+    generic "Empty Cell" [ref_619]
+    generic "BES" [ref_620]
+    generic "EDE-I" [ref_621]
+    generic "QOLI" [ref_622]
+    generic "Variable" [ref_623]
+    generic "1. Age" [ref_624]
+    generic "−0.03" [ref_625]
+    generic "0.18" [ref_626]
+    generic "0.87" [ref_627]
+    generic "−0.22" [ref_628]
+    generic "0.16" [ref_629]
+    generic "0.17" [ref_630]
+    generic "0.05" [ref_631]
+    generic "0.12" [ref_632]
+    generic "0.71" [ref_633]
+    generic "2. Outcome at Baseline" [ref_634]
+    generic "0.15" [ref_635]
+    generic "0.17" [ref_636]
+    generic "0.38" [ref_637]
+    generic "0.42" [ref_638]
+    generic "0.14" [ref_639]
+    generic "<0.01" [ref_640]
+    generic "0.72" [ref_641]
+    generic "0.08" [ref_642]
+    generic "< 0.01" [ref_643]
+    generic "3. Condition" [ref_644]
+    generic "−0.14" [ref_645]
+    generic "0.17" [ref_646]
+    generic "0.43" [ref_647]
+    generic "0.11" [ref_648]
+    generic "0.16" [ref_649]
+    generic "0.50" [ref_650]
+    generic "0.17" [ref_651]
+    generic "0.12" [ref_652]
+    generic "0.16" [ref_653]
+    generic "Variable" [ref_654]
+    generic "1. Age" [ref_655]
+    generic "0.04" [ref_656]
+    generic "0.18" [ref_657]
+    generic "0.83" [ref_658]
+    generic "−0.17" [ref_659]
+    generic "0.16" [ref_660]
+    generic "0.29" [ref_661]
+    generic "0.12" [ref_662]
+    generic "0.13" [ref_663]
+    generic "0.36" [ref_664]
+    generic "2. Baseline Outcome" [ref_665]
+    generic "0.05" [ref_666]
+    generic "0.18" [ref_667]
+    generic "0.79" [ref_668]
+    generic "0.46" [ref_669]
+    generic "0.15" [ref_670]
+    generic "< 0.01" [ref_671]
+    generic "0.73" [ref_672]
+    generic "0.09" [ref_673]
+    generic "< 0.01" [ref_674]
+    generic "3. (lack) Premeditation" [ref_675]
+    generic "−0.20" [ref_676]
+    generic "0.21" [ref_677]
+    generic "0.34" [ref_678]
+    generic "0.16" [ref_679]
+    generic "0.20" [ref_680]
+    generic "0.43" [ref_681]
+    generic "0.17" [ref_682]
+    generic "0.15" [ref_683]
+    generic "0.26" [ref_684]
+    generic "4. (lack) Perseverance" [ref_685]
+    generic "0.37" [ref_686]
+    generic "0.19" [ref_687]
+    generic "0.06" [ref_688]
+    generic "0.00" [ref_689]
+    generic "0.18" [ref_690]
+    generic "0.98" [ref_691]
+    generic "−0.01" [ref_692]
+    generic "0.14" [ref_693]
+    generic "0.96" [ref_694]
+    generic "5. Sensation Seeking" [ref_695]
+    generic "−0.07" [ref_696]
+    generic "0.23" [ref_697]
+    generic "0.77" [ref_698]
+    generic "0.28" [ref_699]
+    generic "0.19" [ref_700]
+    generic "0.15" [ref_701]
+    generic "−0.07" [ref_702]
+    generic "0.15" [ref_703]
+    generic "0.65" [ref_704]
+    generic "6. Positive Urgency" [ref_705]
+    generic "0.20" [ref_706]
+    generic "0.23" [ref_707]
+    generic "0.38" [ref_708]
+    generic "−0.29" [ref_709]
+    generic "0.22" [ref_710]
+    generic "0.17" [ref_711]
+    generic "−0.03" [ref_712]
+    generic "0.18" [ref_713]
+    generic "0.86" [ref_714]
+    generic "7. Negative Urgency" [ref_715]
+    generic "−0.02" [ref_716]
+    generic "0.21" [ref_717]
+    generic "0.91" [ref_718]
+    generic "−0.09" [ref_719]
+    generic "0.22" [ref_720]
+    generic "0.67" [ref_721]
+    generic "0.02" [ref_722]
+    generic "0.17" [ref_723]
+    generic "0.93" [ref_724]
+   generic "Note: OBE = Objective binge episode frequency; SBE = Subjective binge episode frequency; BMI = Body " [ref_725]
+   generic "Primary and secondary outcomes did not change from Week 12 to Week 24 (all s < 1.95, all s ). There " [ref_726]
+  region [ref_727]
+   heading "3.2. Effect of impulsivity on study outcomes" [ref_728]
+   generic "A mixed model examining the effect of the five UPPS impulsivity facets on the frequency of objective" [ref_729]
+    generic ", p" [ref_730]
+    generic ", p" [ref_731]
+    link [ref_732] href="#fig0003"
+     generic "Fig. 3" [ref_733]
+   image "Fig. 3." [ref_734]
+   list [ref_735]
+    listitem [ref_736]
+     link "Download high-res image (158KB)" [ref_737] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S0165178118320365-gr3_lrg.jpg"
+      generic "Download:" [ref_738]
+       generic "Download high-res image (158KB)" [ref_739]
+    listitem [ref_740]
+     link "Download full-size image" [ref_741] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S0165178118320365-gr3.jpg"
+      generic "Download:" [ref_742]
+       generic "Download full-size image" [ref_743]
+   generic ". Time × Perseverance interaction: objective binge episode frequency." [ref_744]
+    generic "Fig. 3" [ref_745]
+   generic "In the model examining the effect of the five UPPS facets on the frequency of subjective binge episo" [ref_746]
+    generic ", p" [ref_747]
+    generic "< 0.001, but no significant interactions between time and any of the five UPPS facets. However, eval" [ref_748]
+     link "negative urgency" [ref_749] href="/topics/psychology/negative-urgency"
+    generic ", p" [ref_750]
+    link [ref_751] href="#fig0004"
+     generic "Fig. 4" [ref_752]
+   image "Fig. 4." [ref_753]
+   list [ref_754]
+    listitem [ref_755]
+     link "Download high-res image (153KB)" [ref_756] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S0165178118320365-gr4_lrg.jpg"
+      generic "Download:" [ref_757]
+       generic "Download high-res image (153KB)" [ref_758]
+    listitem [ref_759]
+     link "Download full-size image" [ref_760] href="https://ars-els-cdn-com.ezproxy.lib.ucalgary.ca/content/image/1-s2.0-S0165178118320365-gr4.jpg"
+      generic "Download:" [ref_761]
+       generic "Download full-size image" [ref_762]
+   generic ". Time × Negative urgency: subjective binge episode frequency." [ref_763]
+    generic "Fig. 4" [ref_764]
+   generic "A mixed model examining the effect of the five UPPS facets on participant BMI over the course of tre" [ref_765]
+    generic ", p" [ref_766]
+    link [ref_767] href="#tbl0002"
+     generic "Table 2" [ref_768]
+ region [ref_769]
+  heading "4. Discussion" [ref_770]
+  generic "Results supported the therapeutic benefits of both long acting methylphenidate and CBT for adult wom" [ref_771]
+  generic "This preliminary investigation therefore provides initial support for the therapeutic benefit of met" [ref_772]
+  generic "Results further supported the prognostic utility of impulsivity in BED; however, one of these result" [ref_773]
+   link [ref_774] href="#bib0030"
+    generic "Lammers et al., 2015" [ref_775]
+  generic "The current research highlights several other areas for future investigation. The comparison of psyc" [ref_776]
+   link "lisdexamfetamine dimesylate" [ref_777] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/lisdexamfetamine"
+   generic "has now demonstrated efficacy in the reduction of binge eating in BED in industry-sponsored trials, " [ref_778]
+    link "monotherapy" [ref_779] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/monotherapy"
+  generic "). Resolution of depression symptoms may be an indirect effect of decreases in binge episodes and we" [ref_780]
+   generic "Concurrent depression and ADHD were permitted within this investigation, although randomization was " [ref_781]
+    link "clinical features" [ref_782] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/clinical-feature"
+   link [ref_783] href="#bib0043"
+    generic "Ricca et al., 2010" [ref_784]
+  generic "). BED also occurs more frequently in women than men, further supporting the focus upon women in thi" [ref_785]
+   generic "medications (" [ref_786]
+    generic "The current investigation was restricted to women due to the impact of female sex hormones on syste." [ref_787]
+     link "neurotransmitter" [ref_788] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/neurotransmitter"
+    link "stimulant" [ref_789] href="/topics/neuroscience/analeptic"
+   link [ref_790] href="#bib0053"
+    generic "Zhou et al., 2002" [ref_791]
+   link [ref_792] href="#bib0026"
+    generic "Hudson et al., 2012" [ref_793]
+   link [ref_794] href="#bib0009"
+    generic "Davis et al., 2016" [ref_795]
+ region [ref_796]
+  heading "5. Conclusion" [ref_797]
+  generic "and attrition, and reduced risk of misuse in its extended release form. The current study provides a" [ref_798]
+   generic "The of BED are associated with dysregulated dopamine functioning – a neural target of psychostimula." [ref_799]
+    link "clinical features" [ref_800] href="/topics/pharmacology-toxicology-and-pharmaceutical-science/clinical-feature"
+   link "adverse effects" [ref_801] href="/topics/neuroscience/adverse-effect"
+ region [ref_802]
+  heading "Funding" [ref_803]
+  generic "This study was supported by a Type A operating grant awarded by the Ontario Mental Health Foundation" [ref_804]
+ region [ref_805]
+  heading "Conflicts of interest" [ref_806]
+  generic "None." [ref_807]
+ button [ref_808] type="button"
+  generic "Recommended articles" [ref_809]
+ region [ref_810]
+  heading "References" [ref_811]
+  region [ref_812]
+   list [ref_813]
+    listitem [ref_814]
+     link [ref_815] href="#bbib0054"
+      generic "APA, 2013" [ref_816]
+     generic "American Psychiatric Association" [ref_817]
+     generic "Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition), American Psychiatric Associat" [ref_818]
+    listitem [ref_819]
+     link [ref_820] href="#bbib0001"
+      generic "Avena and Bocarsly, 2012" [ref_821]
+     generic "N.M. Avena, M.E. Bocarsly" [ref_822]
+     generic "Dysregulation of brain reward systems in eating disorders: neurochemical information from animal mod" [ref_823]
+     generic "Neuropharmacology, 63 (2012), pp. 87-96," [ref_824]
+      link [ref_825] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.neuropharm.2011.11.010"
+       generic "10.1016/j.neuropharm.2011.11.010" [ref_826]
+       generic "Opens in new window" [ref_827]
+     link [ref_828] href="/science/article/pii/S0028390811004898/pdfft?md5=7cc6dd8c595bb314517748d9bcb16890&pid=1-s2.0-S0028390811004898-main.pdf"
+      generic "View PDF" [ref_829]
+     link [ref_830] href="/science/article/pii/S0028390811004898"
+      generic "View article" [ref_831]
+     link [ref_832] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84862152872&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_833]
+      generic "Opens in new window" [ref_834]
+     link [ref_835] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Dysregulation%20of%20brain%20reward%20systems%20in%20eating%20disorders%3A%20neurochemical%20information%20from%20animal%20models%20of%20binge%20eating%2C%20bulimia%20nervosa%2C%20and%20anorexia%20nervosa&publication_year=2012&author=N.M.%20Avena&author=M.E.%20Bocarsly"
+      generic "Google Scholar" [ref_836]
+      generic "Opens in new window" [ref_837]
+    listitem [ref_838]
+     link [ref_839] href="#bbib0002"
+      generic "Becker and Grilo, 2015" [ref_840]
+     generic "D.F. Becker, C.M. Grilo" [ref_841]
+     generic "Comorbidity of mood and substance use disorders in patients with binge-eating disorder: associations" [ref_842]
+     generic "J. Psychosom. Res., 79 (2015), pp. 159-164," [ref_843]
+      link [ref_844] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jpsychores.2015.01.016"
+       generic "10.1016/j.jpsychores.2015.01.016" [ref_845]
+       generic "Opens in new window" [ref_846]
+     link [ref_847] href="/science/article/pii/S0022399915000318/pdfft?md5=43f3a58f386060fff29e91bdbb2d15b7&pid=1-s2.0-S0022399915000318-main.pdf"
+      generic "View PDF" [ref_848]
+     link [ref_849] href="/science/article/pii/S0022399915000318"
+      generic "View article" [ref_850]
+     link [ref_851] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84937524641&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_852]
+      generic "Opens in new window" [ref_853]
+     link [ref_854] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Comorbidity%20of%20mood%20and%20substance%20use%20disorders%20in%20patients%20with%20binge-eating%20disorder%3A%20associations%20with%20personality%20disorder%20and%20eating%20disorder%20pathology&publication_year=2015&author=D.F.%20Becker&author=C.M.%20Grilo"
+      generic "Google Scholar" [ref_855]
+      generic "Opens in new window" [ref_856]
+    listitem [ref_857]
+     link [ref_858] href="#bbib0003"
+      generic "Bello and Hajnal, 2010" [ref_859]
+     generic "N.T. Bello, A. Hajnal" [ref_860]
+     generic "Dopamine and binge eating behaviors" [ref_861]
+     generic "Pharmacol. Biochem. Behav., 97 (2010), pp. 25-33," [ref_862]
+      link [ref_863] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.pbb.2010.04.016"
+       generic "10.1016/j.pbb.2010.04.016" [ref_864]
+       generic "Opens in new window" [ref_865]
+     link [ref_866] href="/science/article/pii/S0091305710001115/pdfft?md5=349e7f370586c0a6f1f3df2f0adc209d&pid=1-s2.0-S0091305710001115-main.pdf"
+      generic "View PDF" [ref_867]
+     link [ref_868] href="/science/article/pii/S0091305710001115"
+      generic "View article" [ref_869]
+     link [ref_870] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-77957752536&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_871]
+      generic "Opens in new window" [ref_872]
+     link [ref_873] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Dopamine%20and%20binge%20eating%20behaviors&publication_year=2010&author=N.T.%20Bello&author=A.%20Hajnal"
+      generic "Google Scholar" [ref_874]
+      generic "Opens in new window" [ref_875]
+    listitem [ref_876]
+     link [ref_877] href="#bbib0004"
+      generic "Citrome, 2015" [ref_878]
+     generic "L. Citrome" [ref_879]
+     generic "Lisdexamfetamine for binge eating disorder in adults: a systematic review of the efficacy and safety" [ref_880]
+     generic "Int. J. Clin. Pract., 69 (2015), pp. 410-421," [ref_881]
+      link [ref_882] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/ijcp.12639"
+       generic "10.1111/ijcp.12639" [ref_883]
+       generic "Opens in new window" [ref_884]
+     link [ref_885] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84925879951&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_886]
+      generic "Opens in new window" [ref_887]
+     link [ref_888] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Lisdexamfetamine%20for%20binge%20eating%20disorder%20in%20adults%3A%20a%20systematic%20review%20of%20the%20efficacy%20and%20safety%20profile%20for%20this%20newly%20approved%20indication%20%20what%20is%20the%20number%20needed%20to%20treat%2C%20number%20needed%20to%20harm%20and%20likelihood%20to%20be%20helped%20or%20harmed&publication_year=2015&author=L.%20Citrome"
+      generic "Google Scholar" [ref_889]
+      generic "Opens in new window" [ref_890]
+    listitem [ref_891]
+     link [ref_892] href="#bbib0005"
+      generic "Conners et al., 1999" [ref_893]
+     generic "C.K. Conners, D. Erhardt, E. Sparrow" [ref_894]
+     generic "CAARS: Conner's Adult ADHD Rating Scales" [ref_895]
+     generic "Multi-Health Systems Incorporated (MHS) (1999)" [ref_896]
+     link [ref_897] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=CAARS%3A%20Conners%20Adult%20ADHD%20Rating%20Scales&publication_year=1999&author=C.K.%20Conners&author=D.%20Erhardt&author=E.%20Sparrow"
+      generic "Google Scholar" [ref_898]
+      generic "Opens in new window" [ref_899]
+    listitem [ref_900]
+     link [ref_901] href="#bbib0006"
+      generic "Cortese et al., 2007" [ref_902]
+     generic "S. Cortese, B.D. Bernardina, M.C. Mouren" [ref_903]
+     generic "Attention‐deficit/hyperactivity disorder (ADHD) and binge eating" [ref_904]
+     generic "Nutr. Rev., 65 (2007), pp. 404-411" [ref_905]
+     link [ref_906] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1301/nr.2007.sept.404-411"
+      generic "Crossref" [ref_907]
+      generic "Opens in new window" [ref_908]
+     link [ref_909] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-38449089678&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_910]
+      generic "Opens in new window" [ref_911]
+     link [ref_912] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Attentiondeficithyperactivity%20disorder%20%20and%20binge%20eating&publication_year=2007&author=S.%20Cortese&author=B.D.%20Bernardina&author=M.C.%20Mouren"
+      generic "Google Scholar" [ref_913]
+      generic "Opens in new window" [ref_914]
+    listitem [ref_915]
+     link [ref_916] href="#bbib0007"
+      generic "Cyders et al., 2007" [ref_917]
+     generic "M.A. Cyders, G.T. Smith, N.S. Spillane, S. Fischer, A.M. Annus, C. Peterson" [ref_918]
+     generic "Integration of impulsivity and positive mood to predict risky behavior: development and validation o" [ref_919]
+     generic "Psychol. Assess., 19 (2007), pp. 107-118," [ref_920]
+      link [ref_921] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1037/1040-3590.19.1.107"
+       generic "10.1037/1040-3590.19.1.107" [ref_922]
+       generic "Opens in new window" [ref_923]
+     link [ref_924] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-33947321006&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_925]
+      generic "Opens in new window" [ref_926]
+     link [ref_927] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Integration%20of%20impulsivity%20and%20positive%20mood%20to%20predict%20risky%20behavior%3A%20development%20and%20validation%20of%20a%20measure%20of%20positive%20urgency&publication_year=2007&author=M.A.%20Cyders&author=G.T.%20Smith&author=N.S.%20Spillane&author=S.%20Fischer&author=A.M.%20Annus&author=C.%20Peterson"
+      generic "Google Scholar" [ref_928]
+      generic "Opens in new window" [ref_929]
+    listitem [ref_930]
+     link [ref_931] href="#bbib0008"
+      generic "Davis, 2010" [ref_932]
+     generic "C. Davis" [ref_933]
+     generic "Attention-deficit/hyperactivity disorder: associations with overeating and obesity" [ref_934]
+     generic "Curr. Psychiatry. Rep., 12 (2010), pp. 389-395," [ref_935]
+      link [ref_936] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1007/s11920-010-0133-7"
+       generic "10.1007/s11920-010-0133-7" [ref_937]
+       generic "Opens in new window" [ref_938]
+     link [ref_939] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-77958156782&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_940]
+      generic "Opens in new window" [ref_941]
+     link [ref_942] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Attention-deficithyperactivity%20disorder%3A%20associations%20with%20overeating%20and%20obesity&publication_year=2010&author=C.%20Davis"
+      generic "Google Scholar" [ref_943]
+      generic "Opens in new window" [ref_944]
+    listitem [ref_945]
+     link [ref_946] href="#bbib0009"
+      generic "Davis et al., 2016" [ref_947]
+     generic "C. Davis, R.D. Levitan, A.S. Kaplan, J.C. Carter‐Major, J.L. Kennedy" [ref_948]
+     generic "Sex differences in subjective and objective responses to a stimulant medication (methylphenidate): c" [ref_949]
+     generic "Int. J. Eat. Disord., 49 (2016), pp. 473-481," [ref_950]
+      link [ref_951] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/eat.22493"
+       generic "10.1002/eat.22493" [ref_952]
+       generic "Opens in new window" [ref_953]
+     link [ref_954] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84952332994&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_955]
+      generic "Opens in new window" [ref_956]
+     link [ref_957] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Sex%20differences%20in%20subjective%20and%20objective%20responses%20to%20a%20stimulant%20medication%20%3A%20comparisons%20between%20overweightobese%20adults%20with%20and%20without%20bingeeating%20disorder&publication_year=2016&author=C.%20Davis&author=R.D.%20Levitan&author=A.S.%20Kaplan&author=J.C.%20Carter%E2%80%90Major&author=J.L.%20Kennedy"
+      generic "Google Scholar" [ref_958]
+      generic "Opens in new window" [ref_959]
+    listitem [ref_960]
+     link [ref_961] href="#bbib0010"
+      generic "Dukarm, 2005" [ref_962]
+     generic "C.P. Dukarm" [ref_963]
+     generic "Bulimia nervosa and attention deficit hyperactivity disorder: a possible role for stimulant medicati" [ref_964]
+     generic "J. Womens Health, 14 (2005), pp. 345-350," [ref_965]
+      link [ref_966] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1089/jwh.2005.14.345"
+       generic "10.1089/jwh.2005.14.345" [ref_967]
+       generic "Opens in new window" [ref_968]
+     link [ref_969] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-21044446963&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_970]
+      generic "Opens in new window" [ref_971]
+     link [ref_972] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Bulimia%20nervosa%20and%20attention%20deficit%20hyperactivity%20disorder%3A%20a%20possible%20role%20for%20stimulant%20medication&publication_year=2005&author=C.P.%20Dukarm"
+      generic "Google Scholar" [ref_973]
+      generic "Opens in new window" [ref_974]
+    listitem [ref_975]
+     link [ref_976] href="#bbib0011"
+      generic "Duncan et al., 2017" [ref_977]
+     generic "A.E. Duncan, H.N. Ziobrowski, G. Nicol" [ref_978]
+     generic "The prevalence of past 12‐month and lifetime DSM‐IV eating disorders by BMI category in US men and w" [ref_979]
+     generic "Eur. Eat. Disord. Rev., 25 (2017), pp. 165-171," [ref_980]
+      link [ref_981] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/erv.2503"
+       generic "10.1002/erv.2503" [ref_982]
+       generic "Opens in new window" [ref_983]
+     link [ref_984] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-85011629997&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_985]
+      generic "Opens in new window" [ref_986]
+     link [ref_987] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20prevalence%20of%20past%2012month%20and%20lifetime%20DSMIV%20eating%20disorders%20by%20BMI%20category%20in%20US%20men%20and%20women&publication_year=2017&author=A.E.%20Duncan&author=H.N.%20Ziobrowski&author=G.%20Nicol"
+      generic "Google Scholar" [ref_988]
+      generic "Opens in new window" [ref_989]
+    listitem [ref_990]
+     link [ref_991] href="#bbib0012"
+      generic "Epstein et al., 2007" [ref_992]
+     generic "L.H. Epstein, J.J. Leddy, J.L. Temple, M.S. Faith" [ref_993]
+     generic "Food reinforcement and eating: a multilevel analysis" [ref_994]
+     generic "Psychol. Bull., 133 (2007), pp. 884-906," [ref_995]
+      link [ref_996] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1037/0033-2909.133.5.884"
+       generic "10.1037/0033-2909.133.5.884" [ref_997]
+       generic "Opens in new window" [ref_998]
+     link [ref_999] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-34548825641&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1000]
+      generic "Opens in new window" [ref_1001]
+     link [ref_1002] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Food%20reinforcement%20and%20eating%3A%20a%20multilevel%20analysis&publication_year=2007&author=L.H.%20Epstein&author=J.J.%20Leddy&author=J.L.%20Temple&author=M.S.%20Faith"
+      generic "Google Scholar" [ref_1003]
+      generic "Opens in new window" [ref_1004]
+    listitem [ref_1005]
+     link [ref_1006] href="#bbib0013"
+      generic "Fairburn and Cooper, 1993" [ref_1007]
+     generic "C.G. Fairburn, Z. Cooper" [ref_1008]
+     generic "The eating disorder examination (12th edition)" [ref_1009]
+     generic "C.G. Fairburn, G.T. Wilson (Eds.), Binge Eating: Nature, Assessment, and Treatment, Guilford Press (" [ref_1010]
+     link [ref_1011] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20eating%20disorder%20examination%20&publication_year=1993&author=C.G.%20Fairburn&author=Z.%20Cooper"
+      generic "Google Scholar" [ref_1012]
+      generic "Opens in new window" [ref_1013]
+    listitem [ref_1014]
+     link [ref_1015] href="#bbib0014"
+      generic "Fairburn et al., 1993" [ref_1016]
+     generic "C.G. Fairburn, M.D. Marcus, G.T. Wilson" [ref_1017]
+     generic "Cognitive behavioral therapy for binge eating and bulimia nervosa: a comprehensive treatment manual" [ref_1018]
+     generic "C.G. Fairburn, G.T. Wilson (Eds.), Binge Eating: Nature, Assessment, and Treatment, Guilford Press (" [ref_1019]
+     link [ref_1020] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Cognitive%20behavioral%20therapy%20for%20binge%20eating%20and%20bulimia%20nervosa%3A%20a%20comprehensive%20treatment%20manual&publication_year=1993&author=C.G.%20Fairburn&author=M.D.%20Marcus&author=G.T.%20Wilson"
+      generic "Google Scholar" [ref_1021]
+      generic "Opens in new window" [ref_1022]
+    listitem [ref_1023]
+     link [ref_1024] href="#bbib0015"
+      generic "Fawcett et al., 1987" [ref_1025]
+     generic "J. Fawcett, P. Epstein, S.J. Fiester, I. Elkin, J.H. Autry" [ref_1026]
+     generic "Clinical management-imipramine/placebo administration manual" [ref_1027]
+     generic "Psychopharmacol. Bull., 23 (1987), pp. 309-324" [ref_1028]
+     link [ref_1029] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0023549532&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1030]
+      generic "Opens in new window" [ref_1031]
+     link [ref_1032] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Clinical%20management-imipramineplacebo%20administration%20manual&publication_year=1987&author=J.%20Fawcett&author=P.%20Epstein&author=S.J.%20Fiester&author=I.%20Elkin&author=J.H.%20Autry"
+      generic "Google Scholar" [ref_1033]
+      generic "Opens in new window" [ref_1034]
+    listitem [ref_1035]
+     link [ref_1036] href="#bbib0016"
+      generic "First et al., 1995" [ref_1037]
+     generic "M.B. First, R.L. Spitzer, M. Gibbon, J.B.W. Williams" [ref_1038]
+     generic "Structured Clinical Interview for DSM-IV Axis I Disorders–Patient Edition (SCID-I/P; version 2.0)" [ref_1039]
+     generic "Biometrics Research Department, New York (1995)" [ref_1040]
+     link [ref_1041] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Structured%20Clinical%20Interview%20for%20DSM-IV%20Axis%20I%20DisordersPatient%20Edition%20&publication_year=1995&author=M.B.%20First&author=R.L.%20Spitzer&author=M.%20Gibbon&author=J.B.W.%20Williams"
+      generic "Google Scholar" [ref_1042]
+      generic "Opens in new window" [ref_1043]
+    listitem [ref_1044]
+     link [ref_1045] href="#bbib0017"
+      generic "Fischer et al., 2008" [ref_1046]
+     generic "S. Fischer, G.T. Smith, M.A. Cyders" [ref_1047]
+     generic "Another look at impulsivity: a meta-analytic review comparing specific dispositions to rash action i" [ref_1048]
+     generic "Clin. Psychol. Rev., 28 (2008), pp. 1413-1425," [ref_1049]
+      link [ref_1050] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.cpr.2008.09.001"
+       generic "10.1016/j.cpr.2008.09.001" [ref_1051]
+       generic "Opens in new window" [ref_1052]
+     link [ref_1053] href="/science/article/pii/S0272735808001281/pdfft?md5=888ee22af8446a90e1fb2fc336e9bb1d&pid=1-s2.0-S0272735808001281-main.pdf"
+      generic "View PDF" [ref_1054]
+     link [ref_1055] href="/science/article/pii/S0272735808001281"
+      generic "View article" [ref_1056]
+     link [ref_1057] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-55649100056&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1058]
+      generic "Opens in new window" [ref_1059]
+     link [ref_1060] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Another%20look%20at%20impulsivity%3A%20a%20meta-analytic%20review%20comparing%20specific%20dispositions%20to%20rash%20action%20in%20their%20relationship%20to%20bulimic%20symptoms&publication_year=2008&author=S.%20Fischer&author=G.T.%20Smith&author=M.A.%20Cyders"
+      generic "Google Scholar" [ref_1061]
+      generic "Opens in new window" [ref_1062]
+    listitem [ref_1063]
+     link [ref_1064] href="#bbib0018"
+      generic "Fursland and Watson, 2014" [ref_1065]
+     generic "A. Fursland, H.J. Watson" [ref_1066]
+     generic "Eating disorders: a hidden phenomenon in outpatient mental health?" [ref_1067]
+     generic "Int. J. Eat. Disord., 47 (2014), pp. 422-425," [ref_1068]
+      link [ref_1069] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/eat.22205"
+       generic "10.1002/eat.22205" [ref_1070]
+       generic "Opens in new window" [ref_1071]
+     link [ref_1072] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84898827980&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1073]
+      generic "Opens in new window" [ref_1074]
+     link [ref_1075] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Eating%20disorders%3A%20a%20hidden%20phenomenon%20in%20outpatient%20mental%20health&publication_year=2014&author=A.%20Fursland&author=H.J.%20Watson"
+      generic "Google Scholar" [ref_1076]
+      generic "Opens in new window" [ref_1077]
+    listitem [ref_1078]
+     link [ref_1079] href="#bbib0019"
+      generic "Frisch, 1994" [ref_1080]
+     generic "M.B. Frisch" [ref_1081]
+     generic "Quality of Life Inventory: Manual and treatment guide" [ref_1082]
+     generic "National Computer Systems (NCS) (1994)" [ref_1083]
+     link [ref_1084] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Quality%20of%20Life%20Inventory%3A%20Manual%20and%20treatment%20guide&publication_year=1994&author=M.B.%20Frisch"
+      generic "Google Scholar" [ref_1085]
+      generic "Opens in new window" [ref_1086]
+    listitem [ref_1087]
+     link [ref_1088] href="#bbib0020"
+      generic "Goldfield et al., 2007" [ref_1089]
+     generic "G.S. Goldfield, C. Lorello, É Doucet" [ref_1090]
+     generic "Methylphenidate reduces energy intake and dietary fat intake in adults: a mechanism of reduced reinf" [ref_1091]
+     generic "Am. J. Clin. Nutr., 86 (2007), pp. 308-315," [ref_1092]
+      link [ref_1093] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1093/ajcn/86.2.308"
+       generic "10.1093/ajcn/86.2.308" [ref_1094]
+       generic "Opens in new window" [ref_1095]
+     link [ref_1096] href="/science/article/pii/S0002916523132990/pdfft?md5=2d1951dfa7e62949e21f9e741f7d9e4e&pid=1-s2.0-S0002916523132990-main.pdf"
+      generic "View PDF" [ref_1097]
+     link [ref_1098] href="/science/article/pii/S0002916523132990"
+      generic "View article" [ref_1099]
+     link [ref_1100] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-34547896683&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1101]
+      generic "Opens in new window" [ref_1102]
+     link [ref_1103] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Methylphenidate%20reduces%20energy%20intake%20and%20dietary%20fat%20intake%20in%20adults%3A%20a%20mechanism%20of%20reduced%20reinforcing%20value%20of%20food&publication_year=2007&author=G.S.%20Goldfield&author=C.%20Lorello&author=%C3%89%20Doucet"
+      generic "Google Scholar" [ref_1104]
+      generic "Opens in new window" [ref_1105]
+    listitem [ref_1106]
+     link [ref_1107] href="#bbib0021"
+      generic "Gormally et al., 1982" [ref_1108]
+     generic "J. Gormally, S. Black, S. Daston, D. Rardin" [ref_1109]
+     generic "The assessment of binge eating severity among obese persons" [ref_1110]
+     generic "Addict. Behav., 7 (1982), pp. 47-55" [ref_1111]
+     link [ref_1112] href="/science/article/pii/0306460382900247/pdf?md5=914cbf1d26e5870bd10f93fb751fb15b&pid=1-s2.0-0306460382900247-main.pdf"
+      generic "View PDF" [ref_1113]
+     link [ref_1114] href="/science/article/pii/0306460382900247"
+      generic "View article" [ref_1115]
+     link [ref_1116] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0020030844&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1117]
+      generic "Opens in new window" [ref_1118]
+     link [ref_1119] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20assessment%20of%20binge%20eating%20severity%20among%20obese%20persons&publication_year=1982&author=J.%20Gormally&author=S.%20Black&author=S.%20Daston&author=D.%20Rardin"
+      generic "Google Scholar" [ref_1120]
+      generic "Opens in new window" [ref_1121]
+    listitem [ref_1122]
+     link [ref_1123] href="#bbib0022"
+      generic "Grilo et al., 2012" [ref_1124]
+     generic "C.M. Grilo, R.M. Masheb, R.D. Crosby" [ref_1125]
+     generic "Predictors and moderators of response to cognitive behavioral therapy and medication for the treatme" [ref_1126]
+     generic "J. Consult. Clin. Psychol., 80 (2012), pp. 897-906," [ref_1127]
+      link [ref_1128] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1037/a0027001"
+       generic "10.1037/a0027001" [ref_1129]
+       generic "Opens in new window" [ref_1130]
+     link [ref_1131] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84865645369&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1132]
+      generic "Opens in new window" [ref_1133]
+     link [ref_1134] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Predictors%20and%20moderators%20of%20response%20to%20cognitive%20behavioral%20therapy%20and%20medication%20for%20the%20treatment%20of%20binge%20eating%20disorder&publication_year=2012&author=C.M.%20Grilo&author=R.M.%20Masheb&author=R.D.%20Crosby"
+      generic "Google Scholar" [ref_1135]
+      generic "Opens in new window" [ref_1136]
+    listitem [ref_1137]
+     link [ref_1138] href="#bbib0023"
+      generic "Grilo et al., 2006" [ref_1139]
+     generic "C.M. Grilo, R.M. Masheb, G.T. Wilson" [ref_1140]
+     generic "Rapid response to treatment for binge eating disorder" [ref_1141]
+     generic "J. Consult. Clin. Psychol., 74 (2006), pp. 602-613," [ref_1142]
+      link [ref_1143] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1037/0022-006X.74.3.602"
+       generic "10.1037/0022-006X.74.3.602" [ref_1144]
+       generic "Opens in new window" [ref_1145]
+     link [ref_1146] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-33746413828&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1147]
+      generic "Opens in new window" [ref_1148]
+     link [ref_1149] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Rapid%20response%20to%20treatment%20for%20binge%20eating%20disorder&publication_year=2006&author=C.M.%20Grilo&author=R.M.%20Masheb&author=G.T.%20Wilson"
+      generic "Google Scholar" [ref_1150]
+      generic "Opens in new window" [ref_1151]
+    listitem [ref_1152]
+     link [ref_1153] href="#bbib0024"
+      generic "Grilo et al., 2011" [ref_1154]
+     generic "C.M. Grilo, R.M. Masheb, G.T. Wilson, R. Gueorguieva, M.A. White" [ref_1155]
+     generic "Cognitive-behavioral therapy, behavioral weight loss, and sequential treatment for obese patients wi" [ref_1156]
+     generic "J. Consult. Clin. Psychol., 79 (2011), pp. 675-685," [ref_1157]
+      link [ref_1158] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1037/a0025049"
+       generic "10.1037/a0025049" [ref_1159]
+       generic "Opens in new window" [ref_1160]
+     link [ref_1161] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-80053979693&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1162]
+      generic "Opens in new window" [ref_1163]
+     link [ref_1164] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Cognitive-behavioral%20therapy%2C%20behavioral%20weight%20loss%2C%20and%20sequential%20treatment%20for%20obese%20patients%20with%20binge-eating%20disorder%3A%20a%20randomized%20controlled%20trial&publication_year=2011&author=C.M.%20Grilo&author=R.M.%20Masheb&author=G.T.%20Wilson&author=R.%20Gueorguieva&author=M.A.%20White"
+      generic "Google Scholar" [ref_1165]
+      generic "Opens in new window" [ref_1166]
+    listitem [ref_1167]
+     link [ref_1168] href="#bbib0025"
+      generic "Hamilton, 1960" [ref_1169]
+     generic "M. Hamilton" [ref_1170]
+     generic "A rating scale for depression" [ref_1171]
+     generic "J. Neurol. Neurosurg. Psychiatry, 23 (1960), pp. 56-62" [ref_1172]
+     link [ref_1173] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1136/jnnp.23.1.56"
+      generic "Crossref" [ref_1174]
+      generic "Opens in new window" [ref_1175]
+     link [ref_1176] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-72949151592&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1177]
+      generic "Opens in new window" [ref_1178]
+     link [ref_1179] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A%20rating%20scale%20for%20depression&publication_year=1960&author=M.%20Hamilton"
+      generic "Google Scholar" [ref_1180]
+      generic "Opens in new window" [ref_1181]
+    listitem [ref_1182]
+     link [ref_1183] href="#bbib0026"
+      generic "Hudson et al., 2012" [ref_1184]
+     generic "J.I. Hudson, C.E. Coit, J.K. Lalonde, H.G. Pope" [ref_1185]
+     generic "By how much will the proposed new DSM‐5 criteria increase the prevalence of binge eating disorder?" [ref_1186]
+     generic "Int. J. Eat. Disord., 45 (2012), pp. 139-141," [ref_1187]
+      link [ref_1188] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/eat.20890"
+       generic "10.1002/eat.20890" [ref_1189]
+       generic "Opens in new window" [ref_1190]
+     link [ref_1191] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-83755220978&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1192]
+      generic "Opens in new window" [ref_1193]
+     link [ref_1194] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=By%20how%20much%20will%20the%20proposed%20new%20DSM5%20criteria%20increase%20the%20prevalence%20of%20binge%20eating%20disorder&publication_year=2012&author=J.I.%20Hudson&author=C.E.%20Coit&author=J.K.%20Lalonde&author=H.G.%20Pope"
+      generic "Google Scholar" [ref_1195]
+      generic "Opens in new window" [ref_1196]
+    listitem [ref_1197]
+     link [ref_1198] href="#bbib0027"
+      generic "Hudson et al., 2007" [ref_1199]
+     generic "J.I. Hudson, E. Hiripi, H.G. Pope, R.C. Kessler" [ref_1200]
+     generic "The prevalence and correlates of eating disorders in the National Comorbidity Survey Replication" [ref_1201]
+     generic "Biol. Psychiatry, 61 (2007), pp. 348-358," [ref_1202]
+      link [ref_1203] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.biopsych.2006.03.040"
+       generic "10.1016/j.biopsych.2006.03.040" [ref_1204]
+       generic "Opens in new window" [ref_1205]
+     link [ref_1206] href="/science/article/pii/S0006322306004744/pdfft?md5=6b4b5eef95199b997bedf1c772d8ea41&pid=1-s2.0-S0006322306004744-main.pdf"
+      generic "View PDF" [ref_1207]
+     link [ref_1208] href="/science/article/pii/S0006322306004744"
+      generic "View article" [ref_1209]
+     link [ref_1210] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-33846255478&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1211]
+      generic "Opens in new window" [ref_1212]
+     link [ref_1213] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20prevalence%20and%20correlates%20of%20eating%20disorders%20in%20the%20National%20Comorbidity%20Survey%20Replication&publication_year=2007&author=J.I.%20Hudson&author=E.%20Hiripi&author=H.G.%20Pope&author=R.C.%20Kessler"
+      generic "Google Scholar" [ref_1214]
+      generic "Opens in new window" [ref_1215]
+    listitem [ref_1216]
+     link [ref_1217] href="#bbib0028"
+      generic "Kaplan et al., 2009" [ref_1218]
+     generic "A.S. Kaplan, A.L. Howlett, Z. Yilmaz, R. Levitan" [ref_1219]
+     generic "Attention deficit hyperactivity disorder and binge eating: shared phenomenology, genetics and respon" [ref_1220]
+     generic "Int. J. Child. Adol. Health., 2 (2009), pp. 165-174" [ref_1221]
+     link [ref_1222] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Attention%20deficit%20hyperactivity%20disorder%20and%20binge%20eating%3A%20shared%20phenomenology%2C%20genetics%20and%20response%20to%20treatment&publication_year=2009&author=A.S.%20Kaplan&author=A.L.%20Howlett&author=Z.%20Yilmaz&author=R.%20Levitan"
+      generic "Google Scholar" [ref_1223]
+      generic "Opens in new window" [ref_1224]
+    listitem [ref_1225]
+     link [ref_1226] href="#bbib0029"
+      generic "Kazdin et al., 2017" [ref_1227]
+     generic "A.E. Kazdin, E.E. Fitzsimmons‐Craft, D.E. Wilfley" [ref_1228]
+     generic "Addressing critical gaps in the treatment of eating disorders" [ref_1229]
+     generic "Int. J. Eat. Disord., 50 (2017), pp. 170-189," [ref_1230]
+      link [ref_1231] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/eat.22670"
+       generic "10.1002/eat.22670" [ref_1232]
+       generic "Opens in new window" [ref_1233]
+     link [ref_1234] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-85010285113&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1235]
+      generic "Opens in new window" [ref_1236]
+     link [ref_1237] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Addressing%20critical%20gaps%20in%20the%20treatment%20of%20eating%20disorders&publication_year=2017&author=A.E.%20Kazdin&author=E.E.%20Fitzsimmons%E2%80%90Craft&author=D.E.%20Wilfley"
+      generic "Google Scholar" [ref_1238]
+      generic "Opens in new window" [ref_1239]
+    listitem [ref_1240]
+     link [ref_1241] href="#bbib0030"
+      generic "Lammers et al., 2015" [ref_1242]
+     generic "M.W. Lammers, M.S. Vroling, M.A. Ouwens, R.C. Engels, T. Strien" [ref_1243]
+     generic "Predictors of outcome for cognitive behaviour therapy in binge eating disorder" [ref_1244]
+     generic "Eur. Eat. Disord. Rev., 23 (2015), pp. 219-228," [ref_1245]
+      link [ref_1246] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/erv.2356"
+       generic "10.1002/erv.2356" [ref_1247]
+       generic "Opens in new window" [ref_1248]
+     link [ref_1249] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84927912208&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1250]
+      generic "Opens in new window" [ref_1251]
+     link [ref_1252] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Predictors%20of%20outcome%20for%20cognitive%20behaviour%20therapy%20in%20binge%20eating%20disorder&publication_year=2015&author=M.W.%20Lammers&author=M.S.%20Vroling&author=M.A.%20Ouwens&author=R.C.%20Engels&author=T.%20Strien"
+      generic "Google Scholar" [ref_1253]
+      generic "Opens in new window" [ref_1254]
+    listitem [ref_1255]
+     link [ref_1256] href="#bbib0031"
+      generic "Leddy et al., 2004" [ref_1257]
+     generic "J.J. Leddy, L.H. Epstein, J.L. Jaroni, J.N. Roemmich, R.A. Paluch, G.S. Goldfield, C. Lerman" [ref_1258]
+     generic "Influence of methylphenidate on eating in obese men" [ref_1259]
+     generic "Obes. Res., 12 (2004), pp. 224-232," [ref_1260]
+      link [ref_1261] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1038/oby.2004.29"
+       generic "10.1038/oby.2004.29" [ref_1262]
+       generic "Opens in new window" [ref_1263]
+     link [ref_1264] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-4444308453&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1265]
+      generic "Opens in new window" [ref_1266]
+     link [ref_1267] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Influence%20of%20methylphenidate%20on%20eating%20in%20obese%20men&publication_year=2004&author=J.J.%20Leddy&author=L.H.%20Epstein&author=J.L.%20Jaroni&author=J.N.%20Roemmich&author=R.A.%20Paluch&author=G.S.%20Goldfield&author=C.%20Lerman"
+      generic "Google Scholar" [ref_1268]
+      generic "Opens in new window" [ref_1269]
+    listitem [ref_1270]
+     link [ref_1271] href="#bbib0032"
+      generic "Levy et al., 2009" [ref_1272]
+     generic "L.D. Levy, J.P. Fleming, D. Klar" [ref_1273]
+     generic "Treatment of refractory obesity in severely obese adults following management of newly diagnosed att" [ref_1274]
+     generic "Int. J. Obes., 33 (2009), pp. 326-334," [ref_1275]
+      link [ref_1276] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1038/ijo.2009.5"
+       generic "10.1038/ijo.2009.5" [ref_1277]
+       generic "Opens in new window" [ref_1278]
+     link [ref_1279] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-62349119325&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1280]
+      generic "Opens in new window" [ref_1281]
+     link [ref_1282] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Treatment%20of%20refractory%20obesity%20in%20severely%20obese%20adults%20following%20management%20of%20newly%20diagnosed%20attention%20deficit%20hyperactivity%20disorder&publication_year=2009&author=L.D.%20Levy&author=J.P.%20Fleming&author=D.%20Klar"
+      generic "Google Scholar" [ref_1283]
+      generic "Opens in new window" [ref_1284]
+    listitem [ref_1285]
+     link [ref_1286] href="#bbib0033"
+      generic "Linardon et al., 2017" [ref_1287]
+     generic "J. Linardon, T.D. Wade, X. de la Piedad Garcia, L. Brennan" [ref_1288]
+     generic "The efficacy of cognitive-behavioral therapy for eating disorders: a systematic review and meta-anal" [ref_1289]
+     generic "J. Consult. Clin. Psychol., 85 (2017), pp. 1080-1094," [ref_1290]
+      link [ref_1291] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1037/ccp0000245"
+       generic "10.1037/ccp0000245" [ref_1292]
+       generic "Opens in new window" [ref_1293]
+     link [ref_1294] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-85032578720&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1295]
+      generic "Opens in new window" [ref_1296]
+     link [ref_1297] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20efficacy%20of%20cognitive-behavioral%20therapy%20for%20eating%20disorders%3A%20a%20systematic%20review%20and%20meta-analysis&publication_year=2017&author=J.%20Linardon&author=T.D.%20Wade&author=X.%20de%20la%20Piedad%20Garcia&author=L.%20Brennan"
+      generic "Google Scholar" [ref_1298]
+      generic "Opens in new window" [ref_1299]
+    listitem [ref_1300]
+     link [ref_1301] href="#bbib0034"
+      generic "Ling et al., 2017" [ref_1302]
+     generic "Ling Y.L., K.L. Rascati, M. Pawaskar" [ref_1303]
+     generic "Direct and indirect costs among patients with binge‐eating disorder in the United States" [ref_1304]
+     generic "Int. J. Eat. Disord., 50 (2017), pp. 523-532," [ref_1305]
+      link [ref_1306] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/eat.22631"
+       generic "10.1002/eat.22631" [ref_1307]
+       generic "Opens in new window" [ref_1308]
+     link [ref_1309] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-85006056367&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1310]
+      generic "Opens in new window" [ref_1311]
+     link [ref_1312] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Direct%20and%20indirect%20costs%20among%20patients%20with%20bingeeating%20disorder%20in%20the%20United%20States&publication_year=2017&author=Y.L.%20Ling&author=K.L.%20Rascati&author=M.%20Pawaskar"
+      generic "Google Scholar" [ref_1313]
+      generic "Opens in new window" [ref_1314]
+    listitem [ref_1315]
+     link [ref_1316] href="#bbib0035"
+      generic "Mathes et al., 2009" [ref_1317]
+     generic "W.F. Mathes, K.A. Brownley, X. Mo, C.M. Bulik" [ref_1318]
+     generic "The biology of binge eating" [ref_1319]
+     generic "Appetite, 52 (2009), pp. 545-553," [ref_1320]
+      link [ref_1321] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.appet.2009.03.005"
+       generic "10.1016/j.appet.2009.03.005" [ref_1322]
+       generic "Opens in new window" [ref_1323]
+     link [ref_1324] href="/science/article/pii/S0195666309000506/pdfft?md5=a2a4bcaa91656f5cead9f21384cdabab&pid=1-s2.0-S0195666309000506-main.pdf"
+      generic "View PDF" [ref_1325]
+     link [ref_1326] href="/science/article/pii/S0195666309000506"
+      generic "View article" [ref_1327]
+     link [ref_1328] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-67349231948&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1329]
+      generic "Opens in new window" [ref_1330]
+     link [ref_1331] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20biology%20of%20binge%20eating&publication_year=2009&author=W.F.%20Mathes&author=K.A.%20Brownley&author=X.%20Mo&author=C.M.%20Bulik"
+      generic "Google Scholar" [ref_1332]
+      generic "Opens in new window" [ref_1333]
+    listitem [ref_1334]
+     link [ref_1335] href="#bbib0036"
+      generic "McElroy et al., 2012" [ref_1336]
+     generic "S.L. McElroy, A.I. Guerdjikova, N. Mori, A.M. O'Melia" [ref_1337]
+     generic "Pharmacological management of binge eating disorder: current and emerging treatment options" [ref_1338]
+     generic "Ther. Clin. Risk. Manag., 8 (2012), pp. 219-241," [ref_1339]
+      link [ref_1340] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.2147/TCRM.S25574"
+       generic "10.2147/TCRM.S25574" [ref_1341]
+       generic "Opens in new window" [ref_1342]
+     link [ref_1343] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84866236471&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1344]
+      generic "Opens in new window" [ref_1345]
+     link [ref_1346] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Pharmacological%20management%20of%20binge%20eating%20disorder%3A%20current%20and%20emerging%20treatment%20options&publication_year=2012&author=S.L.%20McElroy&author=A.I.%20Guerdjikova&author=N.%20Mori&author=A.M.%20O'Melia"
+      generic "Google Scholar" [ref_1347]
+      generic "Opens in new window" [ref_1348]
+    listitem [ref_1349]
+     link [ref_1350] href="#bbib0037"
+      generic "McElroy et al., 2015" [ref_1351]
+     generic "S.L. McElroy, J.I. Hudson, J.E. Mitchell, D. Wilfley, M.C. Ferreira-Cornwell, Gao J., Wang J., T. Wh" [ref_1352]
+     generic "Efficacy and safety of lisdexamfetamine for treatment of adults with moderate to severe binge-eating" [ref_1353]
+     generic "JAMA Psychiatry, 72 (2015), pp. 235-246," [ref_1354]
+      link [ref_1355] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/jamapsychiatry.2014.2162"
+       generic "10.1001/jamapsychiatry.2014.2162" [ref_1356]
+       generic "Opens in new window" [ref_1357]
+     link [ref_1358] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84925354914&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1359]
+      generic "Opens in new window" [ref_1360]
+     link [ref_1361] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Efficacy%20and%20safety%20of%20lisdexamfetamine%20for%20treatment%20of%20adults%20with%20moderate%20to%20severe%20binge-eating%20disorder%3A%20a%20randomized%20clinical%20trial&publication_year=2015&author=S.L.%20McElroy&author=J.I.%20Hudson&author=J.E.%20Mitchell&author=D.%20Wilfley&author=M.C.%20Ferreira-Cornwell&author=J.%20Gao&author=J.%20Wang&author=T.%20Whitaker&author=J.%20Jonas&author=M.%20Gasior"
+      generic "Google Scholar" [ref_1362]
+      generic "Opens in new window" [ref_1363]
+    listitem [ref_1364]
+     link [ref_1365] href="#bbib0038"
+      generic "McElroy et al., 2016a" [ref_1366]
+     generic "S.L. McElroy, J. Hudson, M.C. Ferreira-Cornwell, J. Radewonuk, T. Whitaker, M. Gasior" [ref_1367]
+     generic "Lisdexamfetamine dimesylate for adults with moderate to severe binge eating disorder: results of two" [ref_1368]
+     generic "Neuropsychopharmacology, 41 (2016), pp. 1251-1260," [ref_1369]
+      link [ref_1370] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1038/npp.2015.275"
+       generic "10.1038/npp.2015.275" [ref_1371]
+       generic "Opens in new window" [ref_1372]
+     link [ref_1373] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84960868987&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1374]
+      generic "Opens in new window" [ref_1375]
+     link [ref_1376] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Lisdexamfetamine%20dimesylate%20for%20adults%20with%20moderate%20to%20severe%20binge%20eating%20disorder%3A%20results%20of%20two%20pivotal%20phase%203%20randomized%20controlled%20trials&publication_year=2016&author=S.L.%20McElroy&author=J.%20Hudson&author=M.C.%20Ferreira-Cornwell&author=J.%20Radewonuk&author=T.%20Whitaker&author=M.%20Gasior"
+      generic "Google Scholar" [ref_1377]
+      generic "Opens in new window" [ref_1378]
+    listitem [ref_1379]
+     link [ref_1380] href="#bbib0039"
+      generic "McElroy et al., 2016b" [ref_1381]
+     generic "S.L. McElroy, J.E. Mitchell, D. Wilfley, M. Gasior, M.C. Ferreira‐Cornwell, M. McKay, Wang J., T. Wh" [ref_1382]
+     generic "Lisdexamfetamine dimesylate effects on binge eating behaviour and obsessive–compulsive and impulsive" [ref_1383]
+     generic "Eur. Eat. Disord. Rev., 24 (2016), pp. 223-231," [ref_1384]
+      link [ref_1385] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/erv.2418"
+       generic "10.1002/erv.2418" [ref_1386]
+       generic "Opens in new window" [ref_1387]
+     link [ref_1388] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84949496472&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1389]
+      generic "Opens in new window" [ref_1390]
+     link [ref_1391] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Lisdexamfetamine%20dimesylate%20effects%20on%20binge%20eating%20behaviour%20and%20obsessivecompulsive%20and%20impulsive%20features%20in%20adults%20with%20binge%20eating%20disorder&publication_year=2016&author=S.L.%20McElroy&author=J.E.%20Mitchell&author=D.%20Wilfley&author=M.%20Gasior&author=M.C.%20Ferreira%E2%80%90Cornwell&author=M.%20McKay&author=J.%20Wang&author=T.%20Whitaker&author=J.I.%20Hudson"
+      generic "Google Scholar" [ref_1392]
+      generic "Opens in new window" [ref_1393]
+    listitem [ref_1394]
+     link [ref_1395] href="#bbib0040"
+      generic "Medori et al., 2008" [ref_1396]
+     generic "R. Medori, J.A. Ramos-Quiroga, M. Casas, J.J.S. Kooij, A. Niemelä, G.E. Trott, Lee E., J.K. Buitelaa" [ref_1397]
+     generic "A randomized, placebo-controlled trial of three fixed dosages of prolonged-release OROS methylphenid" [ref_1398]
+     generic "Biol. Psychiatry, 63 (2008), pp. 981-989," [ref_1399]
+      link [ref_1400] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.biopsych.2007.11.008"
+       generic "10.1016/j.biopsych.2007.11.008" [ref_1401]
+       generic "Opens in new window" [ref_1402]
+     link [ref_1403] href="/science/article/pii/S000632230701102X/pdfft?md5=7fc650b2b341e8b968ffc8445a4cd9c3&pid=1-s2.0-S000632230701102X-main.pdf"
+      generic "View PDF" [ref_1404]
+     link [ref_1405] href="/science/article/pii/S000632230701102X"
+      generic "View article" [ref_1406]
+     link [ref_1407] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-42649133116&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1408]
+      generic "Opens in new window" [ref_1409]
+     link [ref_1410] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A%20randomized%2C%20placebo-controlled%20trial%20of%20three%20fixed%20dosages%20of%20prolonged-release%20OROS%20methylphenidate%20in%20adults%20with%20attention-deficithyperactivity%20disorder&publication_year=2008&author=R.%20Medori&author=J.A.%20Ramos-Quiroga&author=M.%20Casas&author=J.J.S.%20Kooij&author=A.%20Niemel%C3%A4&author=G.E.%20Trott&author=E.%20Lee&author=J.K.%20Buitelaar"
+      generic "Google Scholar" [ref_1411]
+      generic "Opens in new window" [ref_1412]
+    listitem [ref_1413]
+     link [ref_1414] href="#bbib0041"
+      generic "Mond and Hay, 2008" [ref_1415]
+     generic "J.M. Mond, P.J. Hay" [ref_1416]
+     generic "Public perceptions of binge eating and its treatment" [ref_1417]
+     generic "Int. J. Eat. Disord., 41 (2008), pp. 419-426" [ref_1418]
+     link [ref_1419] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/eat.20512"
+      generic "Crossref" [ref_1420]
+      generic "Opens in new window" [ref_1421]
+     link [ref_1422] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-45749108292&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1423]
+      generic "Opens in new window" [ref_1424]
+     link [ref_1425] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Public%20perceptions%20of%20binge%20eating%20and%20its%20treatment&publication_year=2008&author=J.M.%20Mond&author=P.J.%20Hay"
+      generic "Google Scholar" [ref_1426]
+      generic "Opens in new window" [ref_1427]
+    listitem [ref_1428]
+     link [ref_1429] href="#bbib0042"
+      generic "Peat et al., 2017" [ref_1430]
+     generic "C.M. Peat, N.D. Berkman, K.N. Lohr, K.A. Brownley, C.M. Bann, K. Cullen, M.J. Quattlebaum, C.M. Buli" [ref_1431]
+     generic "Comparative effectiveness of treatments for binge‐eating disorder: systematic review and network met" [ref_1432]
+     generic "Eur. Eat. Disord. Rev., 25 (2017), pp. 317-328," [ref_1433]
+      link [ref_1434] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/erv.2517"
+       generic "10.1002/erv.2517" [ref_1435]
+       generic "Opens in new window" [ref_1436]
+     link [ref_1437] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-85018939148&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1438]
+      generic "Opens in new window" [ref_1439]
+     link [ref_1440] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Comparative%20effectiveness%20of%20treatments%20for%20bingeeating%20disorder%3A%20systematic%20review%20and%20network%20metaanalysis&publication_year=2017&author=C.M.%20Peat&author=N.D.%20Berkman&author=K.N.%20Lohr&author=K.A.%20Brownley&author=C.M.%20Bann&author=K.%20Cullen&author=M.J.%20Quattlebaum&author=C.M.%20Bulik"
+      generic "Google Scholar" [ref_1441]
+      generic "Opens in new window" [ref_1442]
+    listitem [ref_1443]
+     link [ref_1444] href="#bbib0043"
+      generic "Ricca et al., 2010" [ref_1445]
+     generic "V. Ricca, G. Castellini, E. Mannucci, C.L. Sauro, C. Ravaldi, C.M. Rotella, C. Faravelli" [ref_1446]
+     generic "Comparison of individual and group cognitive behavioral therapy for binge eating disorder. A randomi" [ref_1447]
+     generic "Appetite, 55 (2010), pp. 656-665," [ref_1448]
+      link [ref_1449] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.appet.2010.09.019"
+       generic "10.1016/j.appet.2010.09.019" [ref_1450]
+       generic "Opens in new window" [ref_1451]
+     link [ref_1452] href="/science/article/pii/S0195666310005179/pdfft?md5=8bb0584916969fef5bb1f98610c8f7c2&pid=1-s2.0-S0195666310005179-main.pdf"
+      generic "View PDF" [ref_1453]
+     link [ref_1454] href="/science/article/pii/S0195666310005179"
+      generic "View article" [ref_1455]
+     link [ref_1456] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-78649447413&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1457]
+      generic "Opens in new window" [ref_1458]
+     link [ref_1459] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Comparison%20of%20individual%20and%20group%20cognitive%20behavioral%20therapy%20for%20binge%20eating%20disorder.%20A%20randomized%2C%20three-year%20follow-up%20study&publication_year=2010&author=V.%20Ricca&author=G.%20Castellini&author=E.%20Mannucci&author=C.L.%20Sauro&author=C.%20Ravaldi&author=C.M.%20Rotella&author=C.%20Faravelli"
+      generic "Google Scholar" [ref_1460]
+      generic "Opens in new window" [ref_1461]
+    listitem [ref_1462]
+     link [ref_1463] href="#bbib0045"
+      generic "Striegel-Moore et al., 2008" [ref_1464]
+     generic "R.H. Striegel-Moore, L. DeBar, G.T. Wilson, J. Dickerson, F. Rosselli, N. Perrin, F. Lynch, H.C. Kra" [ref_1465]
+     generic "Health services use in eating disorders" [ref_1466]
+     generic "Psychol. Med., 38 (2008), pp. 1465-1474," [ref_1467]
+      link [ref_1468] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1017/S0033291707001833"
+       generic "10.1017/S0033291707001833" [ref_1469]
+       generic "Opens in new window" [ref_1470]
+     link [ref_1471] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-51049115564&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1472]
+      generic "Opens in new window" [ref_1473]
+     link [ref_1474] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Health%20services%20use%20in%20eating%20disorders&publication_year=2008&author=R.H.%20Striegel-Moore&author=L.%20DeBar&author=G.T.%20Wilson&author=J.%20Dickerson&author=F.%20Rosselli&author=N.%20Perrin&author=F.%20Lynch&author=H.C.%20Kraemer"
+      generic "Google Scholar" [ref_1475]
+      generic "Opens in new window" [ref_1476]
+    listitem [ref_1477]
+     link [ref_1478] href="#bbib0046"
+      generic "Striegel‐Moore et al., 2004" [ref_1479]
+     generic "R.H. Striegel‐Moore, F.A. Dohm, D.E. Wilfley, K.M. Pike, N.L. Bray, H.C. Kraemer, C.G. Fairburn" [ref_1480]
+     generic "Toward an understanding of health services use in women with binge eating disorder" [ref_1481]
+     generic "Obesity, 12 (2004), pp. 799-806," [ref_1482]
+      link [ref_1483] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1038/oby.2004.96"
+       generic "10.1038/oby.2004.96" [ref_1484]
+       generic "Opens in new window" [ref_1485]
+     link [ref_1486] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-4644271338&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1487]
+      generic "Opens in new window" [ref_1488]
+     link [ref_1489] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Toward%20an%20understanding%20of%20health%20services%20use%20in%20women%20with%20binge%20eating%20disorder&publication_year=2004&author=R.H.%20Striegel%E2%80%90Moore&author=F.A.%20Dohm&author=D.E.%20Wilfley&author=K.M.%20Pike&author=N.L.%20Bray&author=H.C.%20Kraemer&author=C.G.%20Fairburn"
+      generic "Google Scholar" [ref_1490]
+      generic "Opens in new window" [ref_1491]
+    listitem [ref_1492]
+     link [ref_1493] href="#bbib0047"
+      generic "Ulfvebrand et al., 2015" [ref_1494]
+     generic "S. Ulfvebrand, A. Birgegård, C. Norring, L. Högdahl, Y. von Hausswolff-Juhlin" [ref_1495]
+     generic "Psychiatric comorbidity in women and men with eating disorders results from a large clinical databas" [ref_1496]
+     generic "Psychiatry. Res., 230 (2015), pp. 294-299," [ref_1497]
+      link [ref_1498] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.psychres.2015.09.008"
+       generic "10.1016/j.psychres.2015.09.008" [ref_1499]
+       generic "Opens in new window" [ref_1500]
+     link [ref_1501] href="/science/article/pii/S0165178115302924/pdfft?md5=f5c7b9336e83662767d3112210f0ffe5&pid=1-s2.0-S0165178115302924-main.pdf"
+      generic "View PDF" [ref_1502]
+     link [ref_1503] href="/science/article/pii/S0165178115302924"
+      generic "View article" [ref_1504]
+     link [ref_1505] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-84945588585&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1506]
+      generic "Opens in new window" [ref_1507]
+     link [ref_1508] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Psychiatric%20comorbidity%20in%20women%20and%20men%20with%20eating%20disorders%20results%20from%20a%20large%20clinical%20database&publication_year=2015&author=S.%20Ulfvebrand&author=A.%20Birgeg%C3%A5rd&author=C.%20Norring&author=L.%20H%C3%B6gdahl&author=Y.%20von%20Hausswolff-Juhlin"
+      generic "Google Scholar" [ref_1509]
+      generic "Opens in new window" [ref_1510]
+    listitem [ref_1511]
+     link [ref_1512] href="#bbib0048"
+      generic "Vocks et al., 2010" [ref_1513]
+     generic "S. Vocks, B. Tuschen‐Caffier, R. Pietrowsky, S.J. Rustenbach, A. Kersting, S. Herpertz" [ref_1514]
+     generic "Meta‐analysis of the effectiveness of psychological and pharmacological treatments for binge eating " [ref_1515]
+     generic "Int. J. Eat. Disord., 43 (2010), pp. 205-217," [ref_1516]
+      link [ref_1517] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/eat.20696"
+       generic "10.1002/eat.20696" [ref_1518]
+       generic "Opens in new window" [ref_1519]
+     link [ref_1520] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-77949383399&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1521]
+      generic "Opens in new window" [ref_1522]
+     link [ref_1523] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Metaanalysis%20of%20the%20effectiveness%20of%20psychological%20and%20pharmacological%20treatments%20for%20binge%20eating%20disorder&publication_year=2010&author=S.%20Vocks&author=B.%20Tuschen%E2%80%90Caffier&author=R.%20Pietrowsky&author=S.J.%20Rustenbach&author=A.%20Kersting&author=S.%20Herpertz"
+      generic "Google Scholar" [ref_1524]
+      generic "Opens in new window" [ref_1525]
+    listitem [ref_1526]
+     link [ref_1527] href="#bbib0049"
+      generic "Wang et al., 2011" [ref_1528]
+     generic "G.J. Wang, A. Geliebter, N.D. Volkow, F.W. Telang, J. Logan, M.C. Jayne, K. Galanti, P.A. Selig, Han" [ref_1529]
+     generic "Enhanced striatal dopamine release during food stimulation in binge eating disorder" [ref_1530]
+     generic "Obesity, 19 (2011), pp. 1601-1608," [ref_1531]
+      link [ref_1532] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1038/oby.2011.27"
+       generic "10.1038/oby.2011.27" [ref_1533]
+       generic "Opens in new window" [ref_1534]
+     link [ref_1535] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-79960847597&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1536]
+      generic "Opens in new window" [ref_1537]
+     link [ref_1538] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Enhanced%20striatal%20dopamine%20release%20during%20food%20stimulation%20in%20binge%20eating%20disorder&publication_year=2011&author=G.J.%20Wang&author=A.%20Geliebter&author=N.D.%20Volkow&author=F.W.%20Telang&author=J.%20Logan&author=M.C.%20Jayne&author=K.%20Galanti&author=P.A.%20Selig&author=H.%20Han&author=W.%20Zhu&author=C.T.%20Wong&author=J.S.%20Fowler"
+      generic "Google Scholar" [ref_1539]
+      generic "Opens in new window" [ref_1540]
+    listitem [ref_1541]
+     link [ref_1542] href="#bbib0050"
+      generic "Weissman and Rosselli, 2017" [ref_1543]
+     generic "R.S. Weissman, F. Rosselli" [ref_1544]
+     generic "Reducing the burden of suffering from eating disorders: unmet treatment needs, cost of illness, and " [ref_1545]
+     generic "Behav. Res. Ther., 88 (2017), pp. 49-64," [ref_1546]
+      link [ref_1547] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.brat.2016.09.006"
+       generic "10.1016/j.brat.2016.09.006" [ref_1548]
+       generic "Opens in new window" [ref_1549]
+     link [ref_1550] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Reducing%20the%20burden%20of%20suffering%20from%20eating%20disorders%3A%20unmet%20treatment%20needs%2C%20cost%20of%20illness%2C%20and%20the%20quest%20for%20cost-effectiveness&publication_year=2017&author=R.S.%20Weissman&author=F.%20Rosselli"
+      generic "Google Scholar" [ref_1551]
+      generic "Opens in new window" [ref_1552]
+    listitem [ref_1553]
+     link [ref_1554] href="#bbib0051"
+      generic "Whiteside and Lynam, 2001" [ref_1555]
+     generic "S.P. Whiteside, D.R. Lynam" [ref_1556]
+     generic "The five factor model and impulsivity: using a structural model of personality to understand impulsi" [ref_1557]
+     generic "Pers. Indiv. Diff., 30 (2001), pp. 669-689" [ref_1558]
+     link [ref_1559] href="/science/article/pii/S0191886900000647/pdfft?md5=880e4bc78b64e92e2de21a8bfbc41836&pid=1-s2.0-S0191886900000647-main.pdf"
+      generic "View PDF" [ref_1560]
+     link [ref_1561] href="/science/article/pii/S0191886900000647"
+      generic "View article" [ref_1562]
+     link [ref_1563] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0035285442&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1564]
+      generic "Opens in new window" [ref_1565]
+     link [ref_1566] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20five%20factor%20model%20and%20impulsivity%3A%20using%20a%20structural%20model%20of%20personality%20to%20understand%20impulsivity&publication_year=2001&author=S.P.%20Whiteside&author=D.R.%20Lynam"
+      generic "Google Scholar" [ref_1567]
+      generic "Opens in new window" [ref_1568]
+    listitem [ref_1569]
+     link [ref_1570] href="#bbib0052"
+      generic "Wilson et al., 2010" [ref_1571]
+     generic "G.T. Wilson, D.E. Wilfley, S. Agras, S.W. Bryson" [ref_1572]
+     generic "Psychological treatments of binge eating disorder.Arch" [ref_1573]
+     generic "Gen. Psychiatry, 67 (2010), pp. 94-101," [ref_1574]
+      link [ref_1575] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archgenpsychiatry.2009.170"
+       generic "10.1001/archgenpsychiatry.2009.170" [ref_1576]
+       generic "Opens in new window" [ref_1577]
+     link [ref_1578] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-73649126912&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1579]
+      generic "Opens in new window" [ref_1580]
+     link [ref_1581] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Psychological%20treatments%20of%20binge%20eating%20disorder.Arch&publication_year=2010&author=G.T.%20Wilson&author=D.E.%20Wilfley&author=S.%20Agras&author=S.W.%20Bryson"
+      generic "Google Scholar" [ref_1582]
+      generic "Opens in new window" [ref_1583]
+    listitem [ref_1584]
+     link [ref_1585] href="#bbib0053"
+      generic "Zhou et al., 2002" [ref_1586]
+     generic "Zhou W., K.A. Cunningham, M.L. Thomas" [ref_1587]
+     generic "Estrogen regulation of gene expression in the brain: a possible mechanism altering the response to p" [ref_1588]
+     generic "Mol. Brain. Res., 100 (2002), pp. 75-83" [ref_1589]
+     link [ref_1590] href="/science/article/pii/S0169328X02001341/pdfft?md5=a92514e47f760502db5021bd1845d2ed&pid=1-s2.0-S0169328X02001341-main.pdf"
+      generic "View PDF" [ref_1591]
+     link [ref_1592] href="/science/article/pii/S0169328X02001341"
+      generic "View article" [ref_1593]
+     link [ref_1594] href="https://www-scopus-com.ezproxy.lib.ucalgary.ca/inward/record.url?eid=2-s2.0-0037197728&partnerID=10&rel=R3.0.0"
+      generic "View in Scopus" [ref_1595]
+      generic "Opens in new window" [ref_1596]
+     link [ref_1597] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Estrogen%20regulation%20of%20gene%20expression%20in%20the%20brain%3A%20a%20possible%20mechanism%20altering%20the%20response%20to%20psychostimulants%20in%20female%20rats&publication_year=2002&author=W.%20Zhou&author=K.A.%20Cunningham&author=M.L.%20Thomas"
+      generic "Google Scholar" [ref_1598]
+      generic "Opens in new window" [ref_1599]
+ region "Cited by" [ref_1600]
+  banner [ref_1601]
+   heading "Cited by (40)" [ref_1602]
+  list [ref_1603]
+   listitem [ref_1604]
+    heading "The efficacy of ehealth interventions for the treatment of adults diagnosed with full or subthreshol" [ref_1605]
+     link [ref_1606] href="/science/article/pii/S1438887121007457"
+      generic "The efficacy of ehealth interventions for the treatment of adults diagnosed with full or subthreshol" [ref_1607]
+    generic "2021, Journal of Medical Internet Research" [ref_1608]
+    button [ref_1609] type="button"
+     generic "Show abstract" [ref_1610]
+    generic "There has been a recent rise in the use of eHealth treatments for a variety of psychological disorde" [ref_1611]
+    generic "This meta-analysis of randomized controlled trials is the first to evaluate the efficacy of eHealth " [ref_1612]
+    generic "A search on the electronic databases PubMed, Web of Science, Embase, MEDLINE, and CINAHL was conduct" [ref_1613]
+    generic "From the databases searched, 3 studies (298 participants in total) met the inclusion criteria. All i" [ref_1614]
+    generic "These findings provide promising results for the use of internet-based cognitive behavioral therapy " [ref_1615]
+   listitem [ref_1616]
+    heading "Pharmacotherapy, alternative and adjunctive therapies for eating disorders: findings from a rapid re" [ref_1617]
+     link [ref_1618] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1186/s40337-023-00833-9"
+      generic "Pharmacotherapy, alternative and adjunctive therapies for eating disorders: findings from a rapid re" [ref_1619]
+      generic "Opens in new window" [ref_1620]
+    generic "2023, Journal of Eating Disorders" [ref_1621]
+    button [ref_1622] type="button"
+     generic "Show abstract" [ref_1623]
+    generic "The current review broadly summarises the evidence base for pharmacotherapies and adjunctive and alt" [ref_1624]
+    generic "This paper forms part of a Rapid Review series examining the evidence base in the field of eating di" [ref_1625]
+    generic "A total of 121 studies were identified, relating to pharmacotherapy (n = 90), adjunctive therapies (" [ref_1626]
+    generic "Despite widespread use of medications, this Rapid Review has identified a lack of effective medicati" [ref_1627]
+    generic "The online version contains supplementary material available at 10.1186/s40337-023-00833-9." [ref_1628]
+   listitem [ref_1629]
+    heading "Binge-Eating Disorder Interventions: Review, Current Status, and Implications" [ref_1630]
+     link [ref_1631] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1007/s13679-023-00517-0"
+      generic "Binge-Eating Disorder Interventions: Review, Current Status, and Implications" [ref_1632]
+      generic "Opens in new window" [ref_1633]
+    generic "2023, Current Obesity Reports" [ref_1634]
+   listitem [ref_1635]
+    heading "World Federation of Societies of Biological Psychiatry (WFSBP) guidelines update 2023 on the pharmac" [ref_1636]
+     link [ref_1637] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1080/15622975.2023.2179663"
+      generic "World Federation of Societies of Biological Psychiatry (WFSBP) guidelines update 2023 on the pharmac" [ref_1638]
+      generic "Opens in new window" [ref_1639]
+    generic "2023, World Journal of Biological Psychiatry" [ref_1640]
+   listitem [ref_1641]
+    heading "Binge eating disorder" [ref_1642]
+     link [ref_1643] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1038/s41572-022-00344-y"
+      generic "Binge eating disorder" [ref_1644]
+      generic "Opens in new window" [ref_1645]
+    generic "2022, Nature Reviews Disease Primers" [ref_1646]
+   listitem [ref_1647]
+    heading "Can we change binge eating behaviour by interventions addressing food-related impulsivity? A systema" [ref_1648]
+     link [ref_1649] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1186/s40337-021-00384-x"
+      generic "Can we change binge eating behaviour by interventions addressing food-related impulsivity? A systema" [ref_1650]
+      generic "Opens in new window" [ref_1651]
+    generic "2021, Journal of Eating Disorders" [ref_1652]
+  link [ref_1653] href="http://www-scopus-com.ezproxy.lib.ucalgary.ca/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85060328259&md5=ef3daa29b6674a4c8eddee855f6556b"
+   generic "View all citing articles on Scopus" [ref_1654]
+   generic "Opens in new window" [ref_1655]
+ link [ref_1656] href="/science/article/abs/pii/S0165178118320365"
+  generic "View Abstract" [ref_1657]
+ generic "© 2019 Elsevier B.V. All rights reserved." [ref_1658]
+
+Viewport: 1134x672
+
+
+Tab Context:
+- Executed on tabId: 1159646026
+- Available tabs:
+  • tabId 1159646026: "A randomized comparison of long acting methylphenidate and cognitive behavioral therapy in the treatment of binge eating disorder - ScienceDirect" (https://www-sciencedirect-com.ezproxy.lib.ucalgary.ca/science/article/pii/S0165178118320365)

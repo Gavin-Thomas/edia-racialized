@@ -1,0 +1,1413 @@
+region [ref_142]
+ link [ref_143]
+ link [ref_144] href="#"
+ navigation "Breadcrumb" [ref_145]
+  list [ref_146]
+   listitem [ref_147]
+    link "Navigate to Home" [ref_148] href="/"
+   listitem [ref_149]
+    link "Navigate to JAMA Psychiatry" [ref_150] href="../"
+   listitem [ref_151]
+    link "Navigate to Vol. 73, No. 1" [ref_152] href="../issue/73/1"
+ menuitem "Sections" [ref_153] href="javascript:;"
+  generic "Sections" [ref_154]
+ generic "Close" [ref_155]
+ link "Top of Article" [ref_156] href="#top"
+ link "Abstract" [ref_157] href="#112956002"
+ link "Introduction" [ref_158] href="#112956007"
+ link "Methods" [ref_159] href="#112956011"
+ link "Results" [ref_160] href="#112956031"
+ link "Discussion" [ref_161] href="#112956049"
+ link "Conclusions" [ref_162] href="#112956060"
+ link "Article Information" [ref_163] href="#112956062"
+ link "References" [ref_164] href="#112956063"
+ button "Download PDF" [ref_165] href="javascript:;"
+  generic "PDF" [ref_166]
+ menuitem [ref_167] href="javascript:;"
+  generic "Share" [ref_168]
+ generic "Close" [ref_169]
+ menuitem "Share on linkedin" [ref_170] href="javascript:;"
+ menuitem "Share on X" [ref_171] href="javascript:;"
+ menuitem "Share on whatsapp" [ref_172] href="javascript:;"
+ menuitem "Share on facebook" [ref_173] href="javascript:;"
+ menuitem "Share on threads" [ref_174] href="javascript:;"
+ menuitem "Share on bluesky" [ref_175] href="javascript:;"
+ menuitem "Share on wechat" [ref_176] href="javascript:;"
+ menuitem "button, Copy URL" [ref_177] href="#"
+ menuitem "Share via email" [ref_178] href="javascript:;"
+ link "View Correction" [ref_179] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2480313"
+ generic "Original Investigation" [ref_180]
+ heading "Efficacy of Bright Light Treatment, Fluoxetine, and the Combination in Patients With Nonseasonal Maj" [ref_181]
+  generic "A Randomized Clinical Trial" [ref_182]
+ none [ref_183]
+  list [ref_184]
+   listitem [ref_185]
+    link "Raymond W. Lam, MD" [ref_186] href="/searchresults?author=Raymond+W.+Lam&q=Raymond+W.+Lam"
+     generic "1,2" [ref_187]
+    link "Anthony J. Levitt, MBBS" [ref_188] href="/searchresults?author=Anthony+J.+Levitt&q=Anthony+J.+Levitt"
+     generic "3,4" [ref_189]
+    link "Robert D. Levitan, MD, MSc" [ref_190] href="/searchresults?author=Robert+D.+Levitan&q=Robert+D.+Levitan"
+     generic "3,5" [ref_191]
+   listitem [ref_192]
+    link "et al" [ref_193]
+     generic "et al" [ref_194]
+ link "Erin E. Michalak, PhD" [ref_195] href="/searchresults?author=Erin+E.+Michalak&q=Erin+E.+Michalak"
+  generic "1,2" [ref_196]
+ link "Amy H. Cheung, MD" [ref_197] href="/searchresults?author=Amy+H.+Cheung&q=Amy+H.+Cheung"
+  generic "3,4" [ref_198]
+ link "Rachel Morehouse, MD" [ref_199] href="/searchresults?author=Rachel+Morehouse&q=Rachel+Morehouse"
+ link "Rajamannar Ramasubbu, MD" [ref_200] href="/searchresults?author=Rajamannar+Ramasubbu&q=Rajamannar+Ramasubbu"
+ link "Lakshmi N. Yatham, MBBS, MBA" [ref_201] href="/searchresults?author=Lakshmi+N.+Yatham&q=Lakshmi+N.+Yatham"
+  generic "1,2" [ref_202]
+ link "Edwin M. Tam, MDCM" [ref_203] href="/searchresults?author=Edwin+M.+Tam&q=Edwin+M.+Tam"
+  generic "1,2" [ref_204]
+ none [ref_205]
+  list [ref_206]
+   listitem [ref_207]
+    link "Author Affiliations" [ref_208] href="javascript:;"
+   listitem [ref_209]
+    link "Article Information" [ref_210] href="#112956062"
+ list [ref_211]
+  listitem [ref_212]
+   generic "Department of Psychiatry, University of British Columbia, Vancouver, British Columbia, Canada" [ref_213]
+  listitem [ref_214]
+   generic "Mood Disorders Centre, Djavad Mowafaghian Centre for Brain Health, Vancouver, British Columbia, Cana" [ref_215]
+  listitem [ref_216]
+   generic "Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada" [ref_217]
+  listitem [ref_218]
+   generic "Mood Disorders Program, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada" [ref_219]
+  listitem [ref_220]
+   generic "Mood and Anxiety Disorders Program, Centre for Addiction and Mental Health, Toronto, Ontario, Canada" [ref_221]
+  listitem [ref_222]
+   generic "Department of Psychiatry, Dalhousie University, Saint John, New Brunswick, Canada" [ref_223]
+  listitem [ref_224]
+   generic "Department of Psychiatry, University of Calgary, Calgary, Alberta, Canada" [ref_225]
+ presentation [ref_226]
+  none [ref_227]
+   button "View article citation" [ref_228] href="javascript:;"
+    generic "Cite" [ref_229]
+    generic "This" [ref_230]
+   generic "Citation" [ref_231]
+    heading "Citation" [ref_232]
+    generic "Lam RWLevitt AJLevitan RD, et al. Efficacy of Bright Light Treatment, Fluoxetine, and the Combinatio" [ref_233]
+     generic "A Randomized Clinical Trial" [ref_234]
+     generic "JAMA Psychiatry." [ref_235]
+    heading "Manage citations:" [ref_236]
+    label "Select Format" [ref_237]
+    combobox "Select format" [ref_238]
+     option "Select format" (selected)
+     option "Ris (Zotero)" value="/Citation/Download?resourceId=2470681&resourceType=3&citationFormat=0"
+     option "EndNote" value="/Citation/Download?resourceId=2470681&resourceType=3&citationFormat=1"
+     option "BibTex" value="/Citation/Download?resourceId=2470681&resourceType=3&citationFormat=2"
+     option "RefWorks" value="/Citation/Download?resourceId=2470681&resourceType=3&citationFormat=3"
+     option "Reference Manager" value="/Citation/Download?resourceId=2470681&resourceType=3&citationFormat=0"
+     option "Mendeley" value="/Citation/Download?resourceId=2470681&resourceType=3&citationFormat=0"
+     option "Papers" value="/Citation/Download?resourceId=2470681&resourceType=3&citationFormat=0"
+     generic "Select format" [ref_239]
+     option "Ris (Zotero)" [ref_240]
+     option "EndNote" [ref_241]
+     option "BibTex" [ref_242]
+     option "RefWorks" [ref_243]
+     option "Reference Manager" [ref_244]
+     option "Mendeley" [ref_245]
+     option "Papers" [ref_246]
+    button "Download citation" [ref_247] type="submit"
+    button "Copy citation" [ref_248]
+    link "Close" [ref_249] href="javascript:;"
+  none [ref_250]
+   button "Go to Permissions page" [ref_251] href="http://s100.copyright.com/AppDispatchServlet?publisherName=AMA&publication=2168-622X&title=Efficacy+of+Bright+Light+Treatment%2c+Fluoxetine%2c+and+the+Combination+in+Patients+With+Nonseasonal+Major+Depressive+Disorder%3a+A+Randomized+Clinical+Trial&publicationDate=2016-01-01&volumeNum=73&issueNum=1&author=Lam%2c+Raymond+W.%3b+Levitt%2c+Anthony+J.&startPage=56&endPage=63&contentId=10.1001%2fjamapsychiatry.2015.2235&oa=&orderBeanReset=True"
+    generic "Permissions" [ref_252]
+  none [ref_253]
+   button "View article metrics" [ref_254] href="javascript:;"
+    generic "Metrics" [ref_255]
+     generic "View" [ref_256]
+ link "Depression Guidelines Website" [ref_257] href="http://sites.jamanetwork.com.ezproxy.lib.ucalgary.ca/depression-screening/"
+ generic "JAMA Psychiatry" [ref_258]
+ generic "Published Online:" [ref_259]
+  generic "January" [ref_260]
+  generic "2016" [ref_261]
+ generic "2016;73;(1):56-63." [ref_262]
+  generic "doi:10.1001/jamapsychiatry.2015.2235" [ref_263]
+ link "Depression Guidelines Website" [ref_264] href="http://sites.jamanetwork.com.ezproxy.lib.ucalgary.ca/depression-screening/"
+ tablist [ref_265]
+  tab "Related articles tab not selected" [ref_266] href="#related-tab"
+   generic "related icon" [ref_267]
+   generic "Related Articles" [ref_268]
+  tab "Media tab not selected" [ref_269] href="#multimedia-tab"
+   generic "multimedia icon" [ref_270]
+   generic "Media" [ref_271]
+  tab "figures content tab not selected" [ref_272] href="#figure-table-tab"
+   generic "figure icon" [ref_273]
+   generic "Figures" [ref_274]
+  tab "supplemental content tab not selected" [ref_275] href="#supplemental-tab"
+   generic "attach icon" [ref_276]
+   generic "Supplemental Content" [ref_277]
+ tabpanel [ref_278]
+  link [ref_279] href="javascript:;"
+   generic "Close" [ref_280]
+  textbox "Related_Articles_Sticky_Menu_Self_Serve_Box_1" [ref_281] type="hidden"
+  textbox "0" [ref_282] type="hidden"
+  generic "Related Articles" [ref_283]
+  list [ref_284]
+   listitem [ref_285]
+    link [ref_286] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2480313"
+     generic "Correction" [ref_287]
+     generic "Omission in Byline and Errors in Affiliation and Table" [ref_288]
+    generic "JAMA Psychiatry" [ref_289]
+  link "Depression Guidelines Website" [ref_290] href="http://sites.jamanetwork.com.ezproxy.lib.ucalgary.ca/depression-screening/"
+  heading "See More About" [ref_291]
+  link "Depressive Disorders" [ref_292] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/collections/5595/depressive-disorders"
+  link "Psychiatry and Behavioral Health" [ref_293] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/collections/5871/psychiatry-and-behavioral-health"
+  textbox "Related_Articles_Sticky_Menu_Self_Serve_Box_2" [ref_294] type="hidden"
+  textbox "0" [ref_295] type="hidden"
+  heading "More for You" [ref_296]
+  list [ref_297]
+   listitem [ref_298]
+    link "Long-Term Outcomes of Internet-Based Cognitive Behavior Therapy Intervention for Tinnitus" [ref_299] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamaotolaryngology/fullarticle/2846030?widget=personalizedcontent&previousarticle=2470681"
+    generic "JAMA Otolaryngology–Head & Neck Surgery" [ref_300]
+    generic "Research" [ref_301]
+    generic "March 19, 2026" [ref_302]
+   listitem [ref_303]
+    link "Machine Learning Model for Response to Internet-Delivered CBT vs Antidepressants" [ref_304] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamanetworkopen/fullarticle/2841041?widget=personalizedcontent&previousarticle=2470681"
+    generic "JAMA Network Open" [ref_305]
+    generic "Research" [ref_306]
+    generic "November 6, 2025" [ref_307]
+   listitem [ref_308]
+    link "Willingness of Older Adults to Travel for Medical Care" [ref_309] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamanetworkopen/fullarticle/2845337?widget=personalizedcontent&previousarticle=2470681"
+    generic "JAMA Network Open" [ref_310]
+    generic "Research" [ref_311]
+    generic "February 23, 2026" [ref_312]
+  textbox "Related_Articles_Sticky_Menu_Self_Serve_Box_3" [ref_313] type="hidden"
+  textbox "0" [ref_314] type="hidden"
+ tabpanel [ref_315]
+  link [ref_316] href="javascript:;"
+   generic "Close" [ref_317]
+  textbox "Media_Sticky_Menu_Self_Serve_Box_4" [ref_318] type="hidden"
+  textbox "0" [ref_319] type="hidden"
+  textbox "Media_Sticky_Menu_Self_Serve_Box_5" [ref_320] type="hidden"
+  textbox "0" [ref_321] type="hidden"
+ tabpanel [ref_322]
+  link [ref_323] href="javascript:;"
+   generic "Close" [ref_324]
+  link [ref_325] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068supp1_prod.pdf?Expires=1778256603&Signature=M4jx7qIz2xkaEFTHwZHSJrLXBVF6P-Mgc-3~ZKXAFO7HUq5NQGDeli4BX6cPnnRS9SkC19NBBf7mJSjFwf2rOvLZrEo~bAojHYeU8J81Qh2-FsJwXIT0gqAclf-SpAKoe8CagP532dqjcwEee9iP55O-zFBhVv6qsd45oKH8qjRaA4bQtqROmeZFx-QEO3ZkQNH3ayIFVw~GK8d~vDSR2aRL3sT1Ll5LM5TuO3J09D0ONjqThKESzNMeIllamoJuw6GTg4-aOm3xXfbxEL~8ZXOeJ0LoyDwQ-SgwQ-cJRfWorDlfFfLDMocP6YNc9NAz2jzra91N-7-sMor-NtLFCA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "pdf" [ref_326]
+  generic "Supplement 1." [ref_327]
+  generic "Eligibility Criteria for Study" [ref_328]
+   generic "eTable 1." [ref_329]
+  generic "Assessments Used in Study" [ref_330]
+   generic "eTable 2." [ref_331]
+  generic "Results of Per Protocol Analysis for Completed Patients" [ref_332]
+   generic "eTable 3." [ref_333]
+  generic "Results of Season of Treatment Analysis" [ref_334]
+   generic "eTable 4." [ref_335]
+  generic "Spectral Emission at 10,000 lux for Carex Day-Light Classic Model" [ref_336]
+   generic "eFigure." [ref_337]
+  generic "eReferences" [ref_338]
+  link [ref_339] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068supp2_prod.pdf?Expires=1778256603&Signature=cHB4t5BEc7Z67RzlJSoKy~yiT9RskA~pIJxq6akMCqM6~8EO2xvYiKgEcuZDb3GC-XdBYq~xfDzpDkgRNxs9jRNQ03Nx93XV6wZMGX8Yj7vmHeZ2BpY9leiF1VP0HIysphpn9gJS-jNKM6MiZrjJiA8H1NGp11YkhNQ4TwwHbdzE4KrJEwOUH8GDwvi-dTdRUBm3cdcOAUKxAenusKMLwhB5G-dYVCPAAafCkxBnnPxCx09vdPy3NJWrpuV-PBDQMQoYNVzvIL5ZAZF70j-7mGrf8WZcBWwKtb5Jt8sd2Db7NxXgTBhJtIg5KPyB~2ljphs28TdCQ6IQQJS1FVR8MA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "pdf" [ref_340]
+  generic "Supplement 2." [ref_341]
+  generic "Trial Protocol" [ref_342]
+ tabpanel [ref_343]
+  link [ref_344] href="javascript:;"
+   generic "Close" [ref_345]
+  generic "Figure 1. CONSORT Flow Diagram" [ref_346]
+  link [ref_347]
+  link "view large CONSORT Flow Diagram" [ref_348] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f1.png?Expires=1778256604&Signature=zJRAa329BcenZ39K1Yq6gGgzoL6ILjigJ48Ic0Fro-FHhB4r7e0qv0fNgA50YTaBphEa2AI63ZyawgJAgL~TP342y~s0HR7SdVqX~EpnKze-2IgKMDIF6KsJGV0LvaxOH1iwBLqkwrwcepW9K3~4eFqp20SeyPKl8OSIiyNu6yuhYn~11fmMviw6K8Yeqnwo8qqOn2DNmbXOopy~xQ8ZqgerKUWnA1YazChVi9-IDRx5CvNBAxM-abwQ358hqSuORUC2PhcyP4B3yE6qxZP5zv-D1bKoi216C3qsEN~trlahp1NvfZm6in~gdKNk4LFDW3a2j7wgb0tT0VvMWQ9hbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_349]
+  link "download graphic as ppt" [ref_350] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f1.png?Expires=1778256604&Signature=zJRAa329BcenZ39K1Yq6gGgzoL6ILjigJ48Ic0Fro-FHhB4r7e0qv0fNgA50YTaBphEa2AI63ZyawgJAgL~TP342y~s0HR7SdVqX~EpnKze-2IgKMDIF6KsJGV0LvaxOH1iwBLqkwrwcepW9K3~4eFqp20SeyPKl8OSIiyNu6yuhYn~11fmMviw6K8Yeqnwo8qqOn2DNmbXOopy~xQ8ZqgerKUWnA1YazChVi9-IDRx5CvNBAxM-abwQ358hqSuORUC2PhcyP4B3yE6qxZP5zv-D1bKoi216C3qsEN~trlahp1NvfZm6in~gdKNk4LFDW3a2j7wgb0tT0VvMWQ9hbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956034&ar=2470681&imagename=&siteId=14"
+   generic "Download" [ref_351]
+  link [ref_352]
+  link [ref_353]
+  link [ref_354] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f1.png?Expires=1778256604&Signature=zJRAa329BcenZ39K1Yq6gGgzoL6ILjigJ48Ic0Fro-FHhB4r7e0qv0fNgA50YTaBphEa2AI63ZyawgJAgL~TP342y~s0HR7SdVqX~EpnKze-2IgKMDIF6KsJGV0LvaxOH1iwBLqkwrwcepW9K3~4eFqp20SeyPKl8OSIiyNu6yuhYn~11fmMviw6K8Yeqnwo8qqOn2DNmbXOopy~xQ8ZqgerKUWnA1YazChVi9-IDRx5CvNBAxM-abwQ358hqSuORUC2PhcyP4B3yE6qxZP5zv-D1bKoi216C3qsEN~trlahp1NvfZm6in~gdKNk4LFDW3a2j7wgb0tT0VvMWQ9hbw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "CONSORT Flow Diagram" [ref_355]
+   generic "(opens in new tab)" [ref_356]
+  link [ref_357] href="#yoi150068f1"
+   generic "Go to Figure in Article" [ref_358]
+  generic "Patient moved out of town." [ref_359]
+  generic "Figure 2. Change Scores on the Montgomery-Åsberg Depression Rating Scale (MADRS) From Baseline to E." [ref_360]
+  link [ref_361]
+  link "view large Change Scores on the Montgomery-Åsberg Depression Rating Scale (MADRS) From Baseline to E" [ref_362] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f2.png?Expires=1778256604&Signature=tOGxiDK23rh8SN1S-EDkxbR26YzSd7ckzTeMeIYIxrM~3A7YBvCLjOPn8UgTVnATWM0yvt1A2Ng0UgRBzcR6oxzlVB-l6uMKUloki2TCaLE9f-ELcKNPPNM5tu8gO6MM1F3FN~mEHp6AXAtmGN7E4p6q8nbEb9DA9JJw5MRP2dCa3InDvfzNxt0j1xAFD5XZL9OxrafMfFJa841YrPrhzUSnX3s2C5QMVP~jbuODuWxkxL7iPiWV~Gd8MaKI4t4PTXk0orbPh-~7R5FvVQmVurulHJ2HumymcieSqz1PrCWAlb9kouAcaXUsLuV27yUMIz5sQ21jfosrlGxjeJi7~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_363]
+  link "download graphic as ppt" [ref_364] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f2.png?Expires=1778256604&Signature=tOGxiDK23rh8SN1S-EDkxbR26YzSd7ckzTeMeIYIxrM~3A7YBvCLjOPn8UgTVnATWM0yvt1A2Ng0UgRBzcR6oxzlVB-l6uMKUloki2TCaLE9f-ELcKNPPNM5tu8gO6MM1F3FN~mEHp6AXAtmGN7E4p6q8nbEb9DA9JJw5MRP2dCa3InDvfzNxt0j1xAFD5XZL9OxrafMfFJa841YrPrhzUSnX3s2C5QMVP~jbuODuWxkxL7iPiWV~Gd8MaKI4t4PTXk0orbPh-~7R5FvVQmVurulHJ2HumymcieSqz1PrCWAlb9kouAcaXUsLuV27yUMIz5sQ21jfosrlGxjeJi7~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956043&ar=2470681&imagename=&siteId=14"
+   generic "Download" [ref_365]
+  link [ref_366]
+  link [ref_367]
+  link [ref_368] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f2.png?Expires=1778256604&Signature=tOGxiDK23rh8SN1S-EDkxbR26YzSd7ckzTeMeIYIxrM~3A7YBvCLjOPn8UgTVnATWM0yvt1A2Ng0UgRBzcR6oxzlVB-l6uMKUloki2TCaLE9f-ELcKNPPNM5tu8gO6MM1F3FN~mEHp6AXAtmGN7E4p6q8nbEb9DA9JJw5MRP2dCa3InDvfzNxt0j1xAFD5XZL9OxrafMfFJa841YrPrhzUSnX3s2C5QMVP~jbuODuWxkxL7iPiWV~Gd8MaKI4t4PTXk0orbPh-~7R5FvVQmVurulHJ2HumymcieSqz1PrCWAlb9kouAcaXUsLuV27yUMIz5sQ21jfosrlGxjeJi7~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "Change Scores on the Montgomery-Åsberg Depression Rating Scale (MADRS) From Baseline to End Point Wi" [ref_369]
+   generic "(opens in new tab)" [ref_370]
+  link [ref_371] href="#yoi150068f2"
+   generic "Go to Figure in Article" [ref_372]
+  generic "Error bars indicate standard error." [ref_373]
+  generic "< .01 vs placebo and < .01 vs fluoxetine." [ref_374]
+  generic "< .005 vs placebo and < .005 vs fluoxetine." [ref_375]
+  generic "< .05 vs placebo." [ref_376]
+  generic "Table 1. Clinical Information for Participants" [ref_377]
+  link [ref_378]
+  link "view large Clinical Information for Participantsa" [ref_379] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t1.png?Expires=1778256604&Signature=xP5VnN9WnQjkqsXGiFcWg4r7ZK883zhO-d4aFYEtd6KpsMyfMEsLPf~-1uGCjIRIazZZy93m2dF0WsPSTEWyRzlVLEXRuGCpwkLKcb3v4ySuxOE9xZh4sTZdMMVzxokByxfjn2P-~KEIf-kCmDGMbBUKJffZsL2w2FjA50WeWJn9mTGJh46pRBOKpRHrDAgZXDuj2zGkH8iJ-NWz5-uDfgW5RpcgrCY8qBJsVWkb5~IS-0pGZah5Zk~CzrPSIl0fEQjDzc7iGsZ2BYqGHUBoNg1EODD-QyHaToTUNQ19TO0xCFlVruqmmngbgxMkyupI~BFiMZxU4W0qSTfSEi09Qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_380]
+  link "download graphic as ppt" [ref_381] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t1.png?Expires=1778256604&Signature=xP5VnN9WnQjkqsXGiFcWg4r7ZK883zhO-d4aFYEtd6KpsMyfMEsLPf~-1uGCjIRIazZZy93m2dF0WsPSTEWyRzlVLEXRuGCpwkLKcb3v4ySuxOE9xZh4sTZdMMVzxokByxfjn2P-~KEIf-kCmDGMbBUKJffZsL2w2FjA50WeWJn9mTGJh46pRBOKpRHrDAgZXDuj2zGkH8iJ-NWz5-uDfgW5RpcgrCY8qBJsVWkb5~IS-0pGZah5Zk~CzrPSIl0fEQjDzc7iGsZ2BYqGHUBoNg1EODD-QyHaToTUNQ19TO0xCFlVruqmmngbgxMkyupI~BFiMZxU4W0qSTfSEi09Qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956035&ar=2470681&imagename=&siteId=14"
+   generic "Download" [ref_382]
+  link [ref_383]
+  link [ref_384]
+  link [ref_385] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t1.png?Expires=1778256604&Signature=xP5VnN9WnQjkqsXGiFcWg4r7ZK883zhO-d4aFYEtd6KpsMyfMEsLPf~-1uGCjIRIazZZy93m2dF0WsPSTEWyRzlVLEXRuGCpwkLKcb3v4ySuxOE9xZh4sTZdMMVzxokByxfjn2P-~KEIf-kCmDGMbBUKJffZsL2w2FjA50WeWJn9mTGJh46pRBOKpRHrDAgZXDuj2zGkH8iJ-NWz5-uDfgW5RpcgrCY8qBJsVWkb5~IS-0pGZah5Zk~CzrPSIl0fEQjDzc7iGsZ2BYqGHUBoNg1EODD-QyHaToTUNQ19TO0xCFlVruqmmngbgxMkyupI~BFiMZxU4W0qSTfSEi09Qw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "Clinical Information for Participantsa" [ref_386]
+   generic "(opens in new tab)" [ref_387]
+  link [ref_388] href="#yoi150068t1"
+   generic "Go to Figure in Article" [ref_389]
+  table [ref_390]
+   generic "Characteristic" [ref_391]
+   generic "Total(N = 122)" [ref_392]
+   generic "Treatment Group" [ref_393]
+   generic "Placebo(n = 30)" [ref_394]
+   generic "Fluoxetine Monotherapy(n = 31)" [ref_395]
+   generic "Light Monotherapy(n = 32)" [ref_396]
+   generic "Combination Therapy(n = 29)" [ref_397]
+   generic "Female, No. (%)" [ref_398]
+   generic "76 (62.3)" [ref_399]
+   generic "22 (73.3)" [ref_400]
+   generic "22 (71.0)" [ref_401]
+   generic "17 (53.1)" [ref_402]
+   generic "15 (51.7)" [ref_403]
+   generic "Married or cohabiting, No. (%)" [ref_404]
+   generic "35 (28.7)" [ref_405]
+   generic "6 (20.0)" [ref_406]
+   generic "5 (16.1)" [ref_407]
+   generic "12 (37.5)" [ref_408]
+   generic "12 (41.4)" [ref_409]
+   generic "Age, mean (SD), y" [ref_410]
+   generic "36.8 (11.2)" [ref_411]
+   generic "36.2 (11.5)" [ref_412]
+   generic "37.3 (11.2)" [ref_413]
+   generic "35.1 (9.6)" [ref_414]
+   generic "38.9 (12.6)" [ref_415]
+   generic "Duration of current MDD episode, wk" [ref_416]
+   generic "Mean (SD)" [ref_417]
+   generic "75.6 (115.0)" [ref_418]
+   generic "45.0 (50.9)" [ref_419]
+   generic "88.9 (162.5)" [ref_420]
+   generic "79.5 (90.2)" [ref_421]
+   generic "90.0 (130.3)" [ref_422]
+   generic "Median (range)" [ref_423]
+   generic "31 (2-728)" [ref_424]
+   generic "24 (2-207)" [ref_425]
+   generic "24 (2-728)" [ref_426]
+   generic "36 (5-270)" [ref_427]
+   generic "38 (2-520)" [ref_428]
+   generic "Past MDD episodes, mean (SD), No." [ref_429]
+   generic "1.8 (1.9)" [ref_430]
+   generic "2.5 (2.3)" [ref_431]
+   generic "1.3 (1.3)" [ref_432]
+   generic "2.0 (2.0)" [ref_433]
+   generic "1.3 (1.7)" [ref_434]
+   generic "Score at wk 0, mean (SD)" [ref_435]
+   generic "HAM-D" [ref_436]
+   generic "22.4 (2.8)" [ref_437]
+   generic "22.2 (2.3)" [ref_438]
+   generic "23.2 (3.2)" [ref_439]
+   generic "22.2 (3.0)" [ref_440]
+   generic "22.0 (2.8)" [ref_441]
+   generic "MADRS" [ref_442]
+   generic "26.6 (4.8)" [ref_443]
+   generic "25.8 (4.5)" [ref_444]
+   generic "26.6 (4.7)" [ref_445]
+   generic "27.0 (5.8)" [ref_446]
+   generic "26.9 (4.1)" [ref_447]
+   generic "CGI severity subscale" [ref_448]
+   generic "4.5 (0.7)" [ref_449]
+   generic "4.3 (1.0)" [ref_450]
+   generic "4.5 (0.6)" [ref_451]
+   generic "4.5 (0.6)" [ref_452]
+   generic "4.4 (0.7)" [ref_453]
+   generic "QIDS-SR" [ref_454]
+   generic "15.1 (3.5)" [ref_455]
+   generic "15.7 (3.9)" [ref_456]
+   generic "15.2 (2.9)" [ref_457]
+   generic "14.8 (3.7)" [ref_458]
+   generic "14.5 (3.5)" [ref_459]
+   generic "Expectation rating" [ref_460]
+   generic "10.7 (2.7)" [ref_461]
+   generic "11.0 (3.0)" [ref_462]
+   generic "10.0 (2.8)" [ref_463]
+   generic "10.9 (2.8)" [ref_464]
+   generic "10.7 (2.3)" [ref_465]
+  generic "Table 2. Outcome Measures" [ref_466]
+  link [ref_467]
+  link "view large Outcome Measuresa" [ref_468] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t2.png?Expires=1778256604&Signature=RmZJkY9eEzPTatxTAm5igCNB1mczC0QjLCaKcrwcy87BmkS21nky8FZBnm7FO9rcFy58CL0C~A8OZKsLghI1q9SAObLO8hhlYNo38~Cg1GcatAkE5HjGE0o0WrMyaQ0z6aJVRr33ZJWQ9vTEwl8QhH8TbIhL~sRnHkiiIeGUxTuPzqASXQ7eQFu4H4a4o49srimGsrWmLM8EVwU33j0OKMll0~vItmyRSav8H3qSHc~yHgHG7QqejD1MIAExLzLTVmumTJwuikKgAqg8AWbZ47j2heVIXx7EP8y5PAOWV-MhV9dLGHx8bPzKuuUAqRiWNvJ8K6tM2KnFuctfnz8dLw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_469]
+  link "download graphic as ppt" [ref_470] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t2.png?Expires=1778256604&Signature=RmZJkY9eEzPTatxTAm5igCNB1mczC0QjLCaKcrwcy87BmkS21nky8FZBnm7FO9rcFy58CL0C~A8OZKsLghI1q9SAObLO8hhlYNo38~Cg1GcatAkE5HjGE0o0WrMyaQ0z6aJVRr33ZJWQ9vTEwl8QhH8TbIhL~sRnHkiiIeGUxTuPzqASXQ7eQFu4H4a4o49srimGsrWmLM8EVwU33j0OKMll0~vItmyRSav8H3qSHc~yHgHG7QqejD1MIAExLzLTVmumTJwuikKgAqg8AWbZ47j2heVIXx7EP8y5PAOWV-MhV9dLGHx8bPzKuuUAqRiWNvJ8K6tM2KnFuctfnz8dLw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956038&ar=2470681&imagename=&siteId=14"
+   generic "Download" [ref_471]
+  link [ref_472]
+  link [ref_473]
+  link [ref_474] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t2.png?Expires=1778256604&Signature=RmZJkY9eEzPTatxTAm5igCNB1mczC0QjLCaKcrwcy87BmkS21nky8FZBnm7FO9rcFy58CL0C~A8OZKsLghI1q9SAObLO8hhlYNo38~Cg1GcatAkE5HjGE0o0WrMyaQ0z6aJVRr33ZJWQ9vTEwl8QhH8TbIhL~sRnHkiiIeGUxTuPzqASXQ7eQFu4H4a4o49srimGsrWmLM8EVwU33j0OKMll0~vItmyRSav8H3qSHc~yHgHG7QqejD1MIAExLzLTVmumTJwuikKgAqg8AWbZ47j2heVIXx7EP8y5PAOWV-MhV9dLGHx8bPzKuuUAqRiWNvJ8K6tM2KnFuctfnz8dLw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "Outcome Measuresa" [ref_475]
+   generic "(opens in new tab)" [ref_476]
+  link [ref_477] href="#yoi150068t2"
+   generic "Go to Figure in Article" [ref_478]
+  table [ref_479]
+   generic "Measure" [ref_480]
+   generic "Treatment Group" [ref_481]
+   generic "Significant Comparisons" [ref_482]
+   generic "Placebo(n = 30)" [ref_483]
+   generic "Fluoxetine Monotherapy(n = 31)" [ref_484]
+   generic "Light Monotherapy(n = 32)" [ref_485]
+   generic "Combination Therapy(n = 29)" [ref_486]
+   generic "Change in MADRS score from wk 0 to end point, mean (SD)" [ref_487]
+   generic "6.5 (9.6)" [ref_488]
+   generic "8.8 (9.9)" [ref_489]
+   generic "13.4 (7.5)" [ref_490]
+   generic "16.9 (9.2)" [ref_491]
+   generic "Light > placebo ( = .006); combination > placebo ( < .001); combination > fluoxetine ( = .02)" [ref_492]
+   generic "MADRS response at end point, No. (%)" [ref_493]
+   generic "10 (33.3)" [ref_494]
+   generic "9 (29.0)" [ref_495]
+   generic "16 (50.0)" [ref_496]
+   generic "22 (75.9)" [ref_497]
+   generic "Combination > placebo ( = .005)" [ref_498]
+   generic "MADRS remission at end point, No. (%)" [ref_499]
+   generic "9 (30.0)" [ref_500]
+   generic "6 (19.4)" [ref_501]
+   generic "14 (43.8)" [ref_502]
+   generic "17 (58.6)" [ref_503]
+   generic "Combination > placebo ( = .02)" [ref_504]
+   generic "CGI improvement at end point, mean (SD)" [ref_505]
+   generic "3.30 (1.69)" [ref_506]
+   generic "2.94 (1.12)" [ref_507]
+   generic "2.47 (1.14)" [ref_508]
+   generic "1.97 (1.24)" [ref_509]
+   generic "Light > placebo ( = .01); combination > placebo ( < .001)" [ref_510]
+   generic "Change in QIDS-SR score from wk 0 to end point, mean (SD)" [ref_511]
+   generic "3.7 (5.1)" [ref_512]
+   generic "4.0 (4.6)" [ref_513]
+   generic "5.1 (3.9)" [ref_514]
+   generic "7.1 (5.6)" [ref_515]
+   generic "Combination > placebo ( = .004)" [ref_516]
+  generic "Table 3. Treatment-Emergent Adverse Events" [ref_517]
+  link [ref_518]
+  link "view large Treatment-Emergent Adverse Eventsa" [ref_519] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t3.png?Expires=1778256604&Signature=VmYQc9mOGDSr0V1zHK3iV-3kGFMSx1pCotyrwl6rtZvqBY7XYvZ5XpI6SIMz7E2DVhasSz1nfEGHT1bdRDHoVZ3v0uR59qXPfRX0SdnbwYXRrXyfLlP8K6dObCA5dtrRczdq8eW8NG~VrSnZD4g5l~2KtdFQ-ilfJhjYz1EP0aSrW9aFzyY-yfoy6AE1fvyEJpvCcYqKlPLeR2FsmLYuEPNY6uhD3RKvBxLlBQqWdYvS0jdt6vjnXWQW2muJjFqBWzpbK3lxq6SwpqfNKZfBNCuUjLGCEEO79hSbzfCsvXK2xhb3Q-iwjBYkr9-iizOSJ1GL3jzvy6PF12MzZGStLg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_520]
+  link "download graphic as ppt" [ref_521] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t3.png?Expires=1778256604&Signature=VmYQc9mOGDSr0V1zHK3iV-3kGFMSx1pCotyrwl6rtZvqBY7XYvZ5XpI6SIMz7E2DVhasSz1nfEGHT1bdRDHoVZ3v0uR59qXPfRX0SdnbwYXRrXyfLlP8K6dObCA5dtrRczdq8eW8NG~VrSnZD4g5l~2KtdFQ-ilfJhjYz1EP0aSrW9aFzyY-yfoy6AE1fvyEJpvCcYqKlPLeR2FsmLYuEPNY6uhD3RKvBxLlBQqWdYvS0jdt6vjnXWQW2muJjFqBWzpbK3lxq6SwpqfNKZfBNCuUjLGCEEO79hSbzfCsvXK2xhb3Q-iwjBYkr9-iizOSJ1GL3jzvy6PF12MzZGStLg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956048&ar=2470681&imagename=&siteId=14"
+   generic "Download" [ref_522]
+  link [ref_523]
+  link [ref_524]
+  link [ref_525] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t3.png?Expires=1778256604&Signature=VmYQc9mOGDSr0V1zHK3iV-3kGFMSx1pCotyrwl6rtZvqBY7XYvZ5XpI6SIMz7E2DVhasSz1nfEGHT1bdRDHoVZ3v0uR59qXPfRX0SdnbwYXRrXyfLlP8K6dObCA5dtrRczdq8eW8NG~VrSnZD4g5l~2KtdFQ-ilfJhjYz1EP0aSrW9aFzyY-yfoy6AE1fvyEJpvCcYqKlPLeR2FsmLYuEPNY6uhD3RKvBxLlBQqWdYvS0jdt6vjnXWQW2muJjFqBWzpbK3lxq6SwpqfNKZfBNCuUjLGCEEO79hSbzfCsvXK2xhb3Q-iwjBYkr9-iizOSJ1GL3jzvy6PF12MzZGStLg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "Treatment-Emergent Adverse Eventsa" [ref_526]
+   generic "(opens in new tab)" [ref_527]
+  link [ref_528] href="#yoi150068t3"
+   generic "Go to Figure in Article" [ref_529]
+  table [ref_530]
+   generic "Treatment-Emergent Adverse Event" [ref_531]
+   generic "Patients by Treatment Group, %" [ref_532]
+   generic "Placebo(n = 30)" [ref_533]
+   generic "Fluoxetine Monotherapy(n = 31)" [ref_534]
+   generic "Light Monotherapy(n = 32)" [ref_535]
+   generic "Combination Therapy(n = 29)" [ref_536]
+   generic "Gastrointestinal" [ref_537]
+   generic "Nausea" [ref_538]
+   generic "8.0" [ref_539]
+   generic "20.8" [ref_540]
+   generic "3.2" [ref_541]
+   generic "3.6" [ref_542]
+   generic "Diarrhea" [ref_543]
+   generic "0.0" [ref_544]
+   generic "0.0" [ref_545]
+   generic "23.1" [ref_546]
+   generic "7.4" [ref_547]
+   generic "Heartburn" [ref_548]
+   generic "0.0" [ref_549]
+   generic "7.7" [ref_550]
+   generic "6.7" [ref_551]
+   generic "3.6" [ref_552]
+   generic "Decreased appetite" [ref_553]
+   generic "12.5" [ref_554]
+   generic "8.0" [ref_555]
+   generic "10.7" [ref_556]
+   generic "7.4" [ref_557]
+   generic "Increased appetite" [ref_558]
+   generic "4.0" [ref_559]
+   generic "16.7" [ref_560]
+   generic "23.1" [ref_561]
+   generic "0.0" [ref_562]
+   generic "Weight gain" [ref_563]
+   generic "0.0" [ref_564]
+   generic "3.7" [ref_565]
+   generic "6.9" [ref_566]
+   generic "0.0" [ref_567]
+   generic "Central nervous system" [ref_568]
+   generic "Anxiety" [ref_569]
+   generic "8.0" [ref_570]
+   generic "8.7" [ref_571]
+   generic "6.7" [ref_572]
+   generic "11.5" [ref_573]
+   generic "Agitation" [ref_574]
+   generic "8.0" [ref_575]
+   generic "11.5" [ref_576]
+   generic "6.7" [ref_577]
+   generic "0.0" [ref_578]
+   generic "Headache" [ref_579]
+   generic "0.0" [ref_580]
+   generic "3.6" [ref_581]
+   generic "7.1" [ref_582]
+   generic "3.6" [ref_583]
+   generic "Irritability" [ref_584]
+   generic "3.8" [ref_585]
+   generic "12.0" [ref_586]
+   generic "7.1" [ref_587]
+   generic "3.6" [ref_588]
+   generic "Sleepiness" [ref_589]
+   generic "8.0" [ref_590]
+   generic "42.1" [ref_591]
+   generic "6.7" [ref_592]
+   generic "17.4" [ref_593]
+   generic "Increased sleep" [ref_594]
+   generic "3.8" [ref_595]
+   generic "26.1" [ref_596]
+   generic "18.5" [ref_597]
+   generic "11.5" [ref_598]
+   generic "Decreased sleep" [ref_599]
+   generic "8.0" [ref_600]
+   generic "31.8" [ref_601]
+   generic "10.3" [ref_602]
+   generic "3.7" [ref_603]
+   generic "Sleep disturbance" [ref_604]
+   generic "8.0" [ref_605]
+   generic "20.8" [ref_606]
+   generic "10.7" [ref_607]
+   generic "21.7" [ref_608]
+   generic "Sexual dysfunction" [ref_609]
+   generic "Decreased sex drive" [ref_610]
+   generic "3.8" [ref_611]
+   generic "12.5" [ref_612]
+   generic "6.7" [ref_613]
+   generic "16.7" [ref_614]
+   generic "Delayed orgasm" [ref_615]
+   generic "0.0" [ref_616]
+   generic "17.4" [ref_617]
+   generic "0.0" [ref_618]
+   generic "3.7" [ref_619]
+   generic "Male erection problem" [ref_620]
+   generic "0.0" [ref_621]
+   generic "4.2" [ref_622]
+   generic "7.4" [ref_623]
+   generic "0.0" [ref_624]
+   generic "Delayed ejaculation" [ref_625]
+   generic "4.0" [ref_626]
+   generic "9.1" [ref_627]
+   generic "3.6" [ref_628]
+   generic "3.8" [ref_629]
+   generic "Other" [ref_630]
+   generic "Dizziness" [ref_631]
+   generic "4.2" [ref_632]
+   generic "7.4" [ref_633]
+   generic "14.3" [ref_634]
+   generic "3.6" [ref_635]
+   generic "Palpitations" [ref_636]
+   generic "4.0" [ref_637]
+   generic "7.7" [ref_638]
+   generic "3.3" [ref_639]
+   generic "0.0" [ref_640]
+   generic "Tremor" [ref_641]
+   generic "3.8" [ref_642]
+   generic "7.4" [ref_643]
+   generic "0.0" [ref_644]
+   generic "3.6" [ref_645]
+   generic "Twitching" [ref_646]
+   generic "0.0" [ref_647]
+   generic "3.6" [ref_648]
+   generic "0.0" [ref_649]
+   generic "11.5" [ref_650]
+   generic "Muscle pain" [ref_651]
+   generic "0.0" [ref_652]
+   generic "3.6" [ref_653]
+   generic "11.5" [ref_654]
+   generic "3.6" [ref_655]
+   generic "Weakness or fatigue" [ref_656]
+   generic "8.0" [ref_657]
+   generic "36.8" [ref_658]
+   generic "7.1" [ref_659]
+   generic "11.5" [ref_660]
+   generic "Dry mouth" [ref_661]
+   generic "8.0" [ref_662]
+   generic "11.5" [ref_663]
+   generic "6.7" [ref_664]
+   generic "3.6" [ref_665]
+   generic "Rash" [ref_666]
+   generic "0.0" [ref_667]
+   generic "7.4" [ref_668]
+   generic "0.0" [ref_669]
+   generic "3.6" [ref_670]
+ link [ref_671]
+ generic "Abstract" [ref_672]
+ generic "Importance" [ref_673]
+ generic "Bright light therapy is an evidence-based treatment for seasonal depression, but there is limited ev" [ref_674]
+ generic "Objective" [ref_675]
+ generic "To determine the efficacy of light treatment, in monotherapy and in combination with fluoxetine hydr" [ref_676]
+ generic "Design, Setting, and Participants" [ref_677]
+ generic "Randomized, double-blind, placebo- and sham-controlled, 8-week trial in adults (aged 19-60 years) wi" [ref_678]
+ generic "Interventions" [ref_679]
+ generic "Patients were randomly assigned to (1) light monotherapy (active 10 000-lux fluorescent white light " [ref_680]
+ generic "Main Outcomes and Measures" [ref_681]
+ generic "Change score on the Montgomery-Åsberg Depression Rating Scale (MADRS) from baseline to the 8-week en" [ref_682]
+ generic "Results" [ref_683]
+ generic "A total of 122 patients were randomized (light monotherapy, 32; fluoxetine monotherapy, 31; combinat" [ref_684]
+ generic "Conclusions and Relevance" [ref_685]
+ generic "Bright light treatment, both as monotherapy and in combination with fluoxetine, was efficacious and " [ref_686]
+ generic "Trial Registration" [ref_687]
+ generic "clinicaltrials.gov Identifier:" [ref_688]
+  link "NCT00958204" [ref_689] href="http://clinicaltrials.gov/show/NCT00958204"
+ textbox "Article_BelowTheAbstract_SS" [ref_690] type="hidden"
+ textbox "0" [ref_691] type="hidden"
+ link [ref_692]
+ generic "Introduction" [ref_693]
+ link [ref_694]
+ generic "Major depressive disorder (MDD) affects at least 5% of the population, with a lifetime prevalence es" [ref_695]
+  link "1" [ref_696] href="#yoi150068r1"
+  link "2" [ref_697] href="#yoi150068r2"
+  link "3" [ref_698] href="#yoi150068r3"
+  link "4" [ref_699] href="#yoi150068r4"
+  link "5" [ref_700] href="#yoi150068r5"
+  link "6" [ref_701] href="#yoi150068r6"
+  link "7" [ref_702] href="#yoi150068r7"
+  link "8" [ref_703] href="#yoi150068r8"
+ link [ref_704]
+ generic "Light therapy, an effective treatment for seasonal affective disorder (SAD), may also be appropriate" [ref_705]
+  link "9" [ref_706] href="#yoi150068r9"
+  link "10" [ref_707] href="#yoi150068r10"
+  link "11" [ref_708] href="#yoi150068r11"
+  link "12" [ref_709] href="#yoi150068r12"
+  link "13" [ref_710] href="#yoi150068r13"
+  link "14" [ref_711] href="#yoi150068r14"
+  link "15" [ref_712] href="#yoi150068r15"
+  link "15" [ref_713] href="#yoi150068r15"
+ link [ref_714]
+ generic "In summary, these systematic reviews indicate that the evidence for benefits of bright light therapy" [ref_715]
+ link [ref_716]
+ generic "Methods" [ref_717]
+ link [ref_718]
+ generic "Setting" [ref_719]
+ link [ref_720]
+ generic "This randomized, double-blind study was mainly conducted in 3 psychiatric outpatient clinics (1 clin" [ref_721]
+ link [ref_722]
+ generic "Participants" [ref_723]
+ link [ref_724]
+ generic "Participants were recruited by referral and advertisements and provided written informed consent. eT" [ref_725]
+  link "Supplement 1" [ref_726] href="#note-YOI150068-1"
+  generic "DSM-IV-TR" [ref_727]
+  link "16" [ref_728] href="#yoi150068r16"
+  link "17" [ref_729] href="#yoi150068r17"
+  link "18" [ref_730] href="#yoi150068r18"
+ link [ref_731]
+ generic "Protocol and Randomization" [ref_732]
+ link [ref_733]
+ link [ref_734]
+  generic "Quiz Ref ID" [ref_735]
+ generic "The full trial protocol is available in . Eligible patients after the screening visit (week −1) ente" [ref_736]
+  link "Supplement 2" [ref_737] href="#note-YOI150068-1"
+ link [ref_738]
+ generic "Interventions" [ref_739]
+ link [ref_740]
+ generic "Device Treatments" [ref_741]
+ link [ref_742]
+ generic "The active treatment device consisted of daily exposure to a fluorescent light box for 30 minutes as" [ref_743]
+  link "Supplement 1" [ref_744] href="#note-YOI150068-1"
+ link [ref_745]
+ generic "The sham treatment device was a negative ion generator (SphereOne Inc) modified to emit an audible q" [ref_746]
+ link [ref_747]
+ generic "Deception was used, as approved by the instititional review boards, to enhance the plausibility of t" [ref_748]
+  link "Supplement 1" [ref_749] href="#note-YOI150068-1"
+  link "19" [ref_750] href="#yoi150068r19"
+ link [ref_751]
+ generic "Medication Treatments" [ref_752]
+ link [ref_753]
+ generic "The active medication treatment was a daily, fixed dose of fluoxetine hydrochloride, 20 mg, taken in" [ref_754]
+ link [ref_755]
+ generic "Assessments" [ref_756]
+ link [ref_757]
+ generic "To preserve treatment blinding, patients were evaluated by telephone at each visit by independent ev" [ref_758]
+  link "20" [ref_759] href="#yoi150068r20"
+  link "21" [ref_760] href="#yoi150068r21"
+ link [ref_761]
+ generic "Study psychiatrists blinded to treatment condition evaluated patients at each visit using the Clinic" [ref_762]
+  link "22" [ref_763] href="#yoi150068r22"
+  link "23" [ref_764] href="#yoi150068r23"
+  link "24" [ref_765] href="#yoi150068r24"
+  link "25" [ref_766] href="#yoi150068r25"
+  link "Supplement 1" [ref_767] href="#note-YOI150068-1"
+ link [ref_768]
+ generic "Statistical Analysis" [ref_769]
+ link [ref_770]
+ generic "All randomized patients were included in the analysis based on modified intent to treat, defined as " [ref_771]
+  link "26" [ref_772] href="#yoi150068r26"
+ link [ref_773]
+ generic "All treatment variables remained coded and the investigators were blinded to variable identity durin" [ref_774]
+  link "26" [ref_775] href="#yoi150068r26"
+ link [ref_776]
+ generic "Results" [ref_777]
+ link [ref_778]
+ generic "Sample" [ref_779]
+ link [ref_780]
+ generic "shows the participant flow through the phases of the study. A total of 131 eligible participants ent" [ref_781]
+  link "Figure 1" [ref_782] href="#yoi150068f1"
+  link "Table 1" [ref_783] href="#yoi150068t1"
+  generic "3,116" [ref_784]
+ link [ref_785]
+ link [ref_786]
+ generic "Figure 1. CONSORT Flow Diagram" [ref_787]
+ link [ref_788]
+ link "view large CONSORT Flow Diagram" [ref_789] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f1.png?Expires=1778277483&Signature=UHKMhuVpVIkwTM4yGB8YNbC-2Mx3-oYMYxrGNT7UrB6xSyKhOnys~x9ZwIOG4GjLyrGnYvfBPTs8mrMaIU9BK4IUiNx0h~PlFnb-83yCDVE-ON79V7YWRJ0MEC0RCCVpWBm0XLXmP0DC-ivNfytX2omrx3MfjY5CNXn6nT011puQZ86zYyeeAQdMlcEmtd1OuNXtpOxkJwdQdpgMnsPxIhsokPxfNJWRmlo4O0BdYTGidE28tmM1OO1~FIstOBioXSZO1LAxOpFfLupVH3qRBbY22KYPDaf55b8QVDsCjyY~0tPCE6MYBe1tRa4xqj3TR2mECXX5oYrlh~U-rB-XFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_790]
+ link "download graphic as ppt" [ref_791] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f1.png?Expires=1778277483&Signature=UHKMhuVpVIkwTM4yGB8YNbC-2Mx3-oYMYxrGNT7UrB6xSyKhOnys~x9ZwIOG4GjLyrGnYvfBPTs8mrMaIU9BK4IUiNx0h~PlFnb-83yCDVE-ON79V7YWRJ0MEC0RCCVpWBm0XLXmP0DC-ivNfytX2omrx3MfjY5CNXn6nT011puQZ86zYyeeAQdMlcEmtd1OuNXtpOxkJwdQdpgMnsPxIhsokPxfNJWRmlo4O0BdYTGidE28tmM1OO1~FIstOBioXSZO1LAxOpFfLupVH3qRBbY22KYPDaf55b8QVDsCjyY~0tPCE6MYBe1tRa4xqj3TR2mECXX5oYrlh~U-rB-XFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956034&ar=2470681&imagename=&siteId=14"
+  generic "Download" [ref_792]
+ link [ref_793]
+ link [ref_794]
+ link [ref_795] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f1.png?Expires=1778277483&Signature=UHKMhuVpVIkwTM4yGB8YNbC-2Mx3-oYMYxrGNT7UrB6xSyKhOnys~x9ZwIOG4GjLyrGnYvfBPTs8mrMaIU9BK4IUiNx0h~PlFnb-83yCDVE-ON79V7YWRJ0MEC0RCCVpWBm0XLXmP0DC-ivNfytX2omrx3MfjY5CNXn6nT011puQZ86zYyeeAQdMlcEmtd1OuNXtpOxkJwdQdpgMnsPxIhsokPxfNJWRmlo4O0BdYTGidE28tmM1OO1~FIstOBioXSZO1LAxOpFfLupVH3qRBbY22KYPDaf55b8QVDsCjyY~0tPCE6MYBe1tRa4xqj3TR2mECXX5oYrlh~U-rB-XFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "CONSORT Flow Diagram" [ref_796]
+  generic "(opens in new tab)" [ref_797]
+ link [ref_798] href="#yoi150068f1"
+  generic "Go to Figure in Article" [ref_799]
+ generic "Patient moved out of town." [ref_800]
+ link [ref_801]
+ generic "Table 1. Clinical Information for Participants" [ref_802]
+ link [ref_803]
+ link "view large Clinical Information for Participantsa" [ref_804] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t1.png?Expires=1778277483&Signature=3yd7~wOx8Ygipuumw3iXU9QXH086VQ3kzEnkiXjREs~6e6j74cReUXLQ76jFolhSIRTXH32YmePZ9W50e2Ui3oJ5qhcrGM3sbphL01st6fNGIfi7uVmuqJuR1vCaL9ff7cbXC86fFEsH18AXEWuJ3Ac1HLyltheZ5Vdi9fSW81d82KvmoaOHWBuMoqNyWI4aRQ8Q84MNTT59aZtqFz2lPisC5eIKnjFqub~hMyWWvpBxTEoRe-AEFoUM55lz6HzFT9geKY6g-CkFpcl7VUR--au3aanRDFHgSOHHiUoCP--dWYV5IAcOoYRwSKaWHJp2BgmIo3O1h7m13qJAX8TuAg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_805]
+ link "download graphic as ppt" [ref_806] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t1.png?Expires=1778277483&Signature=3yd7~wOx8Ygipuumw3iXU9QXH086VQ3kzEnkiXjREs~6e6j74cReUXLQ76jFolhSIRTXH32YmePZ9W50e2Ui3oJ5qhcrGM3sbphL01st6fNGIfi7uVmuqJuR1vCaL9ff7cbXC86fFEsH18AXEWuJ3Ac1HLyltheZ5Vdi9fSW81d82KvmoaOHWBuMoqNyWI4aRQ8Q84MNTT59aZtqFz2lPisC5eIKnjFqub~hMyWWvpBxTEoRe-AEFoUM55lz6HzFT9geKY6g-CkFpcl7VUR--au3aanRDFHgSOHHiUoCP--dWYV5IAcOoYRwSKaWHJp2BgmIo3O1h7m13qJAX8TuAg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956035&ar=2470681&imagename=&siteId=14"
+  generic "Download" [ref_807]
+ link [ref_808]
+ link [ref_809]
+ link [ref_810] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t1.png?Expires=1778277483&Signature=3yd7~wOx8Ygipuumw3iXU9QXH086VQ3kzEnkiXjREs~6e6j74cReUXLQ76jFolhSIRTXH32YmePZ9W50e2Ui3oJ5qhcrGM3sbphL01st6fNGIfi7uVmuqJuR1vCaL9ff7cbXC86fFEsH18AXEWuJ3Ac1HLyltheZ5Vdi9fSW81d82KvmoaOHWBuMoqNyWI4aRQ8Q84MNTT59aZtqFz2lPisC5eIKnjFqub~hMyWWvpBxTEoRe-AEFoUM55lz6HzFT9geKY6g-CkFpcl7VUR--au3aanRDFHgSOHHiUoCP--dWYV5IAcOoYRwSKaWHJp2BgmIo3O1h7m13qJAX8TuAg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "Clinical Information for Participantsa" [ref_811]
+  generic "(opens in new tab)" [ref_812]
+ link [ref_813] href="#yoi150068t1"
+  generic "Go to Figure in Article" [ref_814]
+ table [ref_815]
+  generic "Characteristic" [ref_816]
+  generic "Total(N = 122)" [ref_817]
+  generic "Treatment Group" [ref_818]
+  generic "Placebo(n = 30)" [ref_819]
+  generic "Fluoxetine Monotherapy(n = 31)" [ref_820]
+  generic "Light Monotherapy(n = 32)" [ref_821]
+  generic "Combination Therapy(n = 29)" [ref_822]
+  generic "Female, No. (%)" [ref_823]
+  generic "76 (62.3)" [ref_824]
+  generic "22 (73.3)" [ref_825]
+  generic "22 (71.0)" [ref_826]
+  generic "17 (53.1)" [ref_827]
+  generic "15 (51.7)" [ref_828]
+  generic "Married or cohabiting, No. (%)" [ref_829]
+  generic "35 (28.7)" [ref_830]
+  generic "6 (20.0)" [ref_831]
+  generic "5 (16.1)" [ref_832]
+  generic "12 (37.5)" [ref_833]
+  generic "12 (41.4)" [ref_834]
+  generic "Age, mean (SD), y" [ref_835]
+  generic "36.8 (11.2)" [ref_836]
+  generic "36.2 (11.5)" [ref_837]
+  generic "37.3 (11.2)" [ref_838]
+  generic "35.1 (9.6)" [ref_839]
+  generic "38.9 (12.6)" [ref_840]
+  generic "Duration of current MDD episode, wk" [ref_841]
+  generic "Mean (SD)" [ref_842]
+  generic "75.6 (115.0)" [ref_843]
+  generic "45.0 (50.9)" [ref_844]
+  generic "88.9 (162.5)" [ref_845]
+  generic "79.5 (90.2)" [ref_846]
+  generic "90.0 (130.3)" [ref_847]
+  generic "Median (range)" [ref_848]
+  generic "31 (2-728)" [ref_849]
+  generic "24 (2-207)" [ref_850]
+  generic "24 (2-728)" [ref_851]
+  generic "36 (5-270)" [ref_852]
+  generic "38 (2-520)" [ref_853]
+  generic "Past MDD episodes, mean (SD), No." [ref_854]
+  generic "1.8 (1.9)" [ref_855]
+  generic "2.5 (2.3)" [ref_856]
+  generic "1.3 (1.3)" [ref_857]
+  generic "2.0 (2.0)" [ref_858]
+  generic "1.3 (1.7)" [ref_859]
+  generic "Score at wk 0, mean (SD)" [ref_860]
+  generic "HAM-D" [ref_861]
+  generic "22.4 (2.8)" [ref_862]
+  generic "22.2 (2.3)" [ref_863]
+  generic "23.2 (3.2)" [ref_864]
+  generic "22.2 (3.0)" [ref_865]
+  generic "22.0 (2.8)" [ref_866]
+  generic "MADRS" [ref_867]
+  generic "26.6 (4.8)" [ref_868]
+  generic "25.8 (4.5)" [ref_869]
+  generic "26.6 (4.7)" [ref_870]
+  generic "27.0 (5.8)" [ref_871]
+  generic "26.9 (4.1)" [ref_872]
+  generic "CGI severity subscale" [ref_873]
+  generic "4.5 (0.7)" [ref_874]
+  generic "4.3 (1.0)" [ref_875]
+  generic "4.5 (0.6)" [ref_876]
+  generic "4.5 (0.6)" [ref_877]
+  generic "4.4 (0.7)" [ref_878]
+  generic "QIDS-SR" [ref_879]
+  generic "15.1 (3.5)" [ref_880]
+  generic "15.7 (3.9)" [ref_881]
+  generic "15.2 (2.9)" [ref_882]
+  generic "14.8 (3.7)" [ref_883]
+  generic "14.5 (3.5)" [ref_884]
+  generic "Expectation rating" [ref_885]
+  generic "10.7 (2.7)" [ref_886]
+  generic "11.0 (3.0)" [ref_887]
+  generic "10.0 (2.8)" [ref_888]
+  generic "10.9 (2.8)" [ref_889]
+  generic "10.7 (2.3)" [ref_890]
+ link [ref_891]
+ generic "Primary Outcome" [ref_892]
+ link [ref_893]
+ link [ref_894]
+  generic "Quiz Ref ID" [ref_895]
+ generic "The mean (SD) change in MADRS score from baseline to the 8-week end point was 16.9 (9.2) in those wh" [ref_896]
+  link "Table 2" [ref_897] href="#yoi150068t2"
+  generic "6,115" [ref_898]
+  generic "3,115" [ref_899]
+  link "Supplement 1" [ref_900] href="#note-YOI150068-1"
+ link [ref_901]
+ generic "Table 2. Outcome Measures" [ref_902]
+ link [ref_903]
+ link "view large Outcome Measuresa" [ref_904] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t2.png?Expires=1778277483&Signature=Z3ESA~FzQcJwEy0gtlY4OmZZCNENLmTWKOrlR429nzymOKAcztPgWx3WyN2K5oADQbMaIT1~hhypR55hsv80Xt6CVJwKjckhtKqSCECDVNlmhw9L8Wwxu2hE86Et5aacKCIhoIFopsVDXDdtVInb39m4BpIGghgYF8QNojjDbbsZ3bGZK1HH~jrGRX3sFlzs5wDbggH5LAB3h2LAWREpVZ0aevJ~XJDSIep7Wj0laWRWIYZKozSKt0r4DJ72BbjZ5uSVaP8png4nGdmuGipqrzqIoduYIe9Q46KUcETcMX03EzuRLSYHmiU2dSo23ExZEgqTiv-Eu9fmu4A77e4pnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_905]
+ link "download graphic as ppt" [ref_906] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t2.png?Expires=1778277483&Signature=Z3ESA~FzQcJwEy0gtlY4OmZZCNENLmTWKOrlR429nzymOKAcztPgWx3WyN2K5oADQbMaIT1~hhypR55hsv80Xt6CVJwKjckhtKqSCECDVNlmhw9L8Wwxu2hE86Et5aacKCIhoIFopsVDXDdtVInb39m4BpIGghgYF8QNojjDbbsZ3bGZK1HH~jrGRX3sFlzs5wDbggH5LAB3h2LAWREpVZ0aevJ~XJDSIep7Wj0laWRWIYZKozSKt0r4DJ72BbjZ5uSVaP8png4nGdmuGipqrzqIoduYIe9Q46KUcETcMX03EzuRLSYHmiU2dSo23ExZEgqTiv-Eu9fmu4A77e4pnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956038&ar=2470681&imagename=&siteId=14"
+  generic "Download" [ref_907]
+ link [ref_908]
+ link [ref_909]
+ link [ref_910] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t2.png?Expires=1778277483&Signature=Z3ESA~FzQcJwEy0gtlY4OmZZCNENLmTWKOrlR429nzymOKAcztPgWx3WyN2K5oADQbMaIT1~hhypR55hsv80Xt6CVJwKjckhtKqSCECDVNlmhw9L8Wwxu2hE86Et5aacKCIhoIFopsVDXDdtVInb39m4BpIGghgYF8QNojjDbbsZ3bGZK1HH~jrGRX3sFlzs5wDbggH5LAB3h2LAWREpVZ0aevJ~XJDSIep7Wj0laWRWIYZKozSKt0r4DJ72BbjZ5uSVaP8png4nGdmuGipqrzqIoduYIe9Q46KUcETcMX03EzuRLSYHmiU2dSo23ExZEgqTiv-Eu9fmu4A77e4pnA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "Outcome Measuresa" [ref_911]
+  generic "(opens in new tab)" [ref_912]
+ link [ref_913] href="#yoi150068t2"
+  generic "Go to Figure in Article" [ref_914]
+ table [ref_915]
+  generic "Measure" [ref_916]
+  generic "Treatment Group" [ref_917]
+  generic "Significant Comparisons" [ref_918]
+  generic "Placebo(n = 30)" [ref_919]
+  generic "Fluoxetine Monotherapy(n = 31)" [ref_920]
+  generic "Light Monotherapy(n = 32)" [ref_921]
+  generic "Combination Therapy(n = 29)" [ref_922]
+  generic "Change in MADRS score from wk 0 to end point, mean (SD)" [ref_923]
+  generic "6.5 (9.6)" [ref_924]
+  generic "8.8 (9.9)" [ref_925]
+  generic "13.4 (7.5)" [ref_926]
+  generic "16.9 (9.2)" [ref_927]
+  generic "Light > placebo ( = .006); combination > placebo ( < .001); combination > fluoxetine ( = .02)" [ref_928]
+  generic "MADRS response at end point, No. (%)" [ref_929]
+  generic "10 (33.3)" [ref_930]
+  generic "9 (29.0)" [ref_931]
+  generic "16 (50.0)" [ref_932]
+  generic "22 (75.9)" [ref_933]
+  generic "Combination > placebo ( = .005)" [ref_934]
+  generic "MADRS remission at end point, No. (%)" [ref_935]
+  generic "9 (30.0)" [ref_936]
+  generic "6 (19.4)" [ref_937]
+  generic "14 (43.8)" [ref_938]
+  generic "17 (58.6)" [ref_939]
+  generic "Combination > placebo ( = .02)" [ref_940]
+  generic "CGI improvement at end point, mean (SD)" [ref_941]
+  generic "3.30 (1.69)" [ref_942]
+  generic "2.94 (1.12)" [ref_943]
+  generic "2.47 (1.14)" [ref_944]
+  generic "1.97 (1.24)" [ref_945]
+  generic "Light > placebo ( = .01); combination > placebo ( < .001)" [ref_946]
+  generic "Change in QIDS-SR score from wk 0 to end point, mean (SD)" [ref_947]
+  generic "3.7 (5.1)" [ref_948]
+  generic "4.0 (4.6)" [ref_949]
+  generic "5.1 (3.9)" [ref_950]
+  generic "7.1 (5.6)" [ref_951]
+  generic "Combination > placebo ( = .004)" [ref_952]
+ link [ref_953]
+ generic "Secondary Outcomes" [ref_954]
+ link [ref_955]
+ generic "shows results for other outcomes. At the 8-week end point for the placebo, fluoxetine monotherapy, l" [ref_956]
+  link "Table 2" [ref_957] href="#yoi150068t2"
+ link [ref_958]
+ generic "For other outcomes, the ANOVA for the change in CGI improvement scores () showed a significant overa" [ref_959]
+  link "Table 2" [ref_960] href="#yoi150068t2"
+  generic "5,116" [ref_961]
+  generic "3,116" [ref_962]
+  link [ref_963]
+   generic "Quiz Ref ID" [ref_964]
+  generic "Similarly, the ANOVA for change in QIDS-SR score was significant in overall effect ( = 2.72; = .02)." [ref_965]
+   generic "6,115" [ref_966]
+   generic "3,115" [ref_967]
+ link [ref_968]
+ link [ref_969]
+  generic "Quiz Ref ID" [ref_970]
+ generic "shows the mean MADRS change scores from baseline at each treatment visit. Post hoc Bonferroni tests " [ref_971]
+  link "Figure 2" [ref_972] href="#yoi150068f2"
+ link [ref_973]
+ link [ref_974]
+ generic "Figure 2. Change Scores on the Montgomery-Åsberg Depression Rating Scale (MADRS) From Baseline to E." [ref_975]
+ link [ref_976]
+ link "view large Change Scores on the Montgomery-Åsberg Depression Rating Scale (MADRS) From Baseline to E" [ref_977] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f2.png?Expires=1778277483&Signature=wPdP2A2tNGl-B22YK1j6QSsy9qVCirHcrlis21wsUo-d2L7s02gmKOvNcSlx6tSAUq7CppXpZo37GjAPafd34QKIHyYUu62AlOBDJWF7EQYMzRdfExJjjYayFNWbDatppdO2K6Aws3jzPWPfkmRzx1fsv59LG4dgaMYtA8ErQMHG6RjfDsD8d0VEt-qAScvvVNrd8SGX5Ux2wOv-vNtzy0Nq2sY3ueFHwrumIiiW6pjEAwLqVDlLUEEUne2m6CkbSLzBGSqF23y9XryWr93aJwVkxdEFOWVk5ebFK9BSTEpUOo8vm-e5QPtOc0aRVkbQopoFPfyd-UjJFpk6xUcYRA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_978]
+ link "download graphic as ppt" [ref_979] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f2.png?Expires=1778277483&Signature=wPdP2A2tNGl-B22YK1j6QSsy9qVCirHcrlis21wsUo-d2L7s02gmKOvNcSlx6tSAUq7CppXpZo37GjAPafd34QKIHyYUu62AlOBDJWF7EQYMzRdfExJjjYayFNWbDatppdO2K6Aws3jzPWPfkmRzx1fsv59LG4dgaMYtA8ErQMHG6RjfDsD8d0VEt-qAScvvVNrd8SGX5Ux2wOv-vNtzy0Nq2sY3ueFHwrumIiiW6pjEAwLqVDlLUEEUne2m6CkbSLzBGSqF23y9XryWr93aJwVkxdEFOWVk5ebFK9BSTEpUOo8vm-e5QPtOc0aRVkbQopoFPfyd-UjJFpk6xUcYRA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956043&ar=2470681&imagename=&siteId=14"
+  generic "Download" [ref_980]
+ link [ref_981]
+ link [ref_982]
+ link [ref_983] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068f2.png?Expires=1778277483&Signature=wPdP2A2tNGl-B22YK1j6QSsy9qVCirHcrlis21wsUo-d2L7s02gmKOvNcSlx6tSAUq7CppXpZo37GjAPafd34QKIHyYUu62AlOBDJWF7EQYMzRdfExJjjYayFNWbDatppdO2K6Aws3jzPWPfkmRzx1fsv59LG4dgaMYtA8ErQMHG6RjfDsD8d0VEt-qAScvvVNrd8SGX5Ux2wOv-vNtzy0Nq2sY3ueFHwrumIiiW6pjEAwLqVDlLUEEUne2m6CkbSLzBGSqF23y9XryWr93aJwVkxdEFOWVk5ebFK9BSTEpUOo8vm-e5QPtOc0aRVkbQopoFPfyd-UjJFpk6xUcYRA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "Change Scores on the Montgomery-Åsberg Depression Rating Scale (MADRS) From Baseline to End Point Wi" [ref_984]
+  generic "(opens in new tab)" [ref_985]
+ link [ref_986] href="#yoi150068f2"
+  generic "Go to Figure in Article" [ref_987]
+ generic "Error bars indicate standard error." [ref_988]
+ generic "< .01 vs placebo and < .01 vs fluoxetine." [ref_989]
+ generic "< .005 vs placebo and < .005 vs fluoxetine." [ref_990]
+ generic "< .05 vs placebo." [ref_991]
+ link [ref_992]
+ link [ref_993]
+  generic "Quiz Ref ID" [ref_994]
+ generic "An exploratory ANOVA was conducted to examine whether time of year affected outcomes (eTable 4 in )." [ref_995]
+  link "Supplement 1" [ref_996] href="#note-YOI150068-1"
+ link [ref_997]
+ generic "Treatment-Emergent Adverse Events" [ref_998]
+ link [ref_999]
+ generic "There was a single serious adverse event during the trial: a participant in the combination treatmen" [ref_1000]
+ link [ref_1001]
+ generic "The percentage of patients reporting at least 1 TEAE was not significantly different between conditi" [ref_1002]
+  link "Table 3" [ref_1003] href="#yoi150068t3"
+ link [ref_1004]
+ generic "Table 3. Treatment-Emergent Adverse Events" [ref_1005]
+ link [ref_1006]
+ link "view large Treatment-Emergent Adverse Eventsa" [ref_1007] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t3.png?Expires=1778277483&Signature=BGItxAs8Dq9k86UgE0H3z93PGG85xXTC1kaZsKm5Pp2lZmen2DZ-N2q7-vPiZ1uqp1UwH5uvQv-~rfGyicgHCDoNlfaUrJBc-PQWJ-~lajj8fI2nVp0e342rP-0gcqFu-QibzkjE9BbIeOWT83CT2fb4eSNBCGqqS4KqXlz3C45QEpEjsKUwu289TkHfYDbOjHggn0dZnrmYeCWS0BbXjrUUfj1izhBH2Kh4IXFx4ecYlnl5LuKL5CVD7yAfPNRj-lN1G81ftx4Bc6PDa9NyT5WaCSFgCTLFmhyrZXxkccAt9QVcQGlzLWJGeZZyxMNZeIrgsfF8SAcQOhqxy5VJ~g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_1008]
+ link "download graphic as ppt" [ref_1009] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t3.png?Expires=1778277483&Signature=BGItxAs8Dq9k86UgE0H3z93PGG85xXTC1kaZsKm5Pp2lZmen2DZ-N2q7-vPiZ1uqp1UwH5uvQv-~rfGyicgHCDoNlfaUrJBc-PQWJ-~lajj8fI2nVp0e342rP-0gcqFu-QibzkjE9BbIeOWT83CT2fb4eSNBCGqqS4KqXlz3C45QEpEjsKUwu289TkHfYDbOjHggn0dZnrmYeCWS0BbXjrUUfj1izhBH2Kh4IXFx4ecYlnl5LuKL5CVD7yAfPNRj-lN1G81ftx4Bc6PDa9NyT5WaCSFgCTLFmhyrZXxkccAt9QVcQGlzLWJGeZZyxMNZeIrgsfF8SAcQOhqxy5VJ~g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=112956048&ar=2470681&imagename=&siteId=14"
+  generic "Download" [ref_1010]
+ link [ref_1011]
+ link [ref_1012]
+ link [ref_1013] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/934825/yoi150068t3.png?Expires=1778277483&Signature=BGItxAs8Dq9k86UgE0H3z93PGG85xXTC1kaZsKm5Pp2lZmen2DZ-N2q7-vPiZ1uqp1UwH5uvQv-~rfGyicgHCDoNlfaUrJBc-PQWJ-~lajj8fI2nVp0e342rP-0gcqFu-QibzkjE9BbIeOWT83CT2fb4eSNBCGqqS4KqXlz3C45QEpEjsKUwu289TkHfYDbOjHggn0dZnrmYeCWS0BbXjrUUfj1izhBH2Kh4IXFx4ecYlnl5LuKL5CVD7yAfPNRj-lN1G81ftx4Bc6PDa9NyT5WaCSFgCTLFmhyrZXxkccAt9QVcQGlzLWJGeZZyxMNZeIrgsfF8SAcQOhqxy5VJ~g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "Treatment-Emergent Adverse Eventsa" [ref_1014]
+  generic "(opens in new tab)" [ref_1015]
+ link [ref_1016] href="#yoi150068t3"
+  generic "Go to Figure in Article" [ref_1017]
+ table [ref_1018]
+  generic "Treatment-Emergent Adverse Event" [ref_1019]
+  generic "Patients by Treatment Group, %" [ref_1020]
+  generic "Placebo(n = 30)" [ref_1021]
+  generic "Fluoxetine Monotherapy(n = 31)" [ref_1022]
+  generic "Light Monotherapy(n = 32)" [ref_1023]
+  generic "Combination Therapy(n = 29)" [ref_1024]
+  generic "Gastrointestinal" [ref_1025]
+  generic "Nausea" [ref_1026]
+  generic "8.0" [ref_1027]
+  generic "20.8" [ref_1028]
+  generic "3.2" [ref_1029]
+  generic "3.6" [ref_1030]
+  generic "Diarrhea" [ref_1031]
+  generic "0.0" [ref_1032]
+  generic "0.0" [ref_1033]
+  generic "23.1" [ref_1034]
+  generic "7.4" [ref_1035]
+  generic "Heartburn" [ref_1036]
+  generic "0.0" [ref_1037]
+  generic "7.7" [ref_1038]
+  generic "6.7" [ref_1039]
+  generic "3.6" [ref_1040]
+  generic "Decreased appetite" [ref_1041]
+  generic "12.5" [ref_1042]
+  generic "8.0" [ref_1043]
+  generic "10.7" [ref_1044]
+  generic "7.4" [ref_1045]
+  generic "Increased appetite" [ref_1046]
+  generic "4.0" [ref_1047]
+  generic "16.7" [ref_1048]
+  generic "23.1" [ref_1049]
+  generic "0.0" [ref_1050]
+  generic "Weight gain" [ref_1051]
+  generic "0.0" [ref_1052]
+  generic "3.7" [ref_1053]
+  generic "6.9" [ref_1054]
+  generic "0.0" [ref_1055]
+  generic "Central nervous system" [ref_1056]
+  generic "Anxiety" [ref_1057]
+  generic "8.0" [ref_1058]
+  generic "8.7" [ref_1059]
+  generic "6.7" [ref_1060]
+  generic "11.5" [ref_1061]
+  generic "Agitation" [ref_1062]
+  generic "8.0" [ref_1063]
+  generic "11.5" [ref_1064]
+  generic "6.7" [ref_1065]
+  generic "0.0" [ref_1066]
+  generic "Headache" [ref_1067]
+  generic "0.0" [ref_1068]
+  generic "3.6" [ref_1069]
+  generic "7.1" [ref_1070]
+  generic "3.6" [ref_1071]
+  generic "Irritability" [ref_1072]
+  generic "3.8" [ref_1073]
+  generic "12.0" [ref_1074]
+  generic "7.1" [ref_1075]
+  generic "3.6" [ref_1076]
+  generic "Sleepiness" [ref_1077]
+  generic "8.0" [ref_1078]
+  generic "42.1" [ref_1079]
+  generic "6.7" [ref_1080]
+  generic "17.4" [ref_1081]
+  generic "Increased sleep" [ref_1082]
+  generic "3.8" [ref_1083]
+  generic "26.1" [ref_1084]
+  generic "18.5" [ref_1085]
+  generic "11.5" [ref_1086]
+  generic "Decreased sleep" [ref_1087]
+  generic "8.0" [ref_1088]
+  generic "31.8" [ref_1089]
+  generic "10.3" [ref_1090]
+  generic "3.7" [ref_1091]
+  generic "Sleep disturbance" [ref_1092]
+  generic "8.0" [ref_1093]
+  generic "20.8" [ref_1094]
+  generic "10.7" [ref_1095]
+  generic "21.7" [ref_1096]
+  generic "Sexual dysfunction" [ref_1097]
+  generic "Decreased sex drive" [ref_1098]
+  generic "3.8" [ref_1099]
+  generic "12.5" [ref_1100]
+  generic "6.7" [ref_1101]
+  generic "16.7" [ref_1102]
+  generic "Delayed orgasm" [ref_1103]
+  generic "0.0" [ref_1104]
+  generic "17.4" [ref_1105]
+  generic "0.0" [ref_1106]
+  generic "3.7" [ref_1107]
+  generic "Male erection problem" [ref_1108]
+  generic "0.0" [ref_1109]
+  generic "4.2" [ref_1110]
+  generic "7.4" [ref_1111]
+  generic "0.0" [ref_1112]
+  generic "Delayed ejaculation" [ref_1113]
+  generic "4.0" [ref_1114]
+  generic "9.1" [ref_1115]
+  generic "3.6" [ref_1116]
+  generic "3.8" [ref_1117]
+  generic "Other" [ref_1118]
+  generic "Dizziness" [ref_1119]
+  generic "4.2" [ref_1120]
+  generic "7.4" [ref_1121]
+  generic "14.3" [ref_1122]
+  generic "3.6" [ref_1123]
+  generic "Palpitations" [ref_1124]
+  generic "4.0" [ref_1125]
+  generic "7.7" [ref_1126]
+  generic "3.3" [ref_1127]
+  generic "0.0" [ref_1128]
+  generic "Tremor" [ref_1129]
+  generic "3.8" [ref_1130]
+  generic "7.4" [ref_1131]
+  generic "0.0" [ref_1132]
+  generic "3.6" [ref_1133]
+  generic "Twitching" [ref_1134]
+  generic "0.0" [ref_1135]
+  generic "3.6" [ref_1136]
+  generic "0.0" [ref_1137]
+  generic "11.5" [ref_1138]
+  generic "Muscle pain" [ref_1139]
+  generic "0.0" [ref_1140]
+  generic "3.6" [ref_1141]
+  generic "11.5" [ref_1142]
+  generic "3.6" [ref_1143]
+  generic "Weakness or fatigue" [ref_1144]
+  generic "8.0" [ref_1145]
+  generic "36.8" [ref_1146]
+  generic "7.1" [ref_1147]
+  generic "11.5" [ref_1148]
+  generic "Dry mouth" [ref_1149]
+  generic "8.0" [ref_1150]
+  generic "11.5" [ref_1151]
+  generic "6.7" [ref_1152]
+  generic "3.6" [ref_1153]
+  generic "Rash" [ref_1154]
+  generic "0.0" [ref_1155]
+  generic "7.4" [ref_1156]
+  generic "0.0" [ref_1157]
+  generic "3.6" [ref_1158]
+ link [ref_1159]
+ generic "Discussion" [ref_1160]
+ link [ref_1161]
+ generic "The main result of this study was that both light monotherapy and the combination treatment had sign" [ref_1162]
+ link [ref_1163]
+ generic "This trial represents, to our knowledge, the first adequate-duration, placebo-controlled comparison " [ref_1164]
+  link "27" [ref_1165] href="#yoi150068r27"
+  link "28" [ref_1166] href="#yoi150068r28"
+  link "27" [ref_1167] href="#yoi150068r27"
+ link [ref_1168]
+ generic "In post hoc exploratory analyses, the combination treatment was also significantly superior to fluox" [ref_1169]
+  link "29" [ref_1170] href="#yoi150068r29"
+ link [ref_1171]
+ generic "All treatments were generally well tolerated with low rates of withdrawals owing to adverse events a" [ref_1172]
+ link [ref_1173]
+ generic "The mechanism of action of light therapy is still unknown, but major hypotheses in SAD involve resyn" [ref_1174]
+  link "30" [ref_1175] href="#yoi150068r30"
+  link "32" [ref_1176] href="#yoi150068r30"
+  link "11" [ref_1177] href="#yoi150068r11"
+  link "33" [ref_1178] href="#yoi150068r33"
+  link "34" [ref_1179] href="#yoi150068r34"
+  link "31" [ref_1180] href="#yoi150068r31"
+  link "35" [ref_1181] href="#yoi150068r35"
+  link "36" [ref_1182] href="#yoi150068r36"
+  link "37" [ref_1183] href="#yoi150068r37"
+  link "38" [ref_1184] href="#yoi150068r38"
+  link "39" [ref_1185] href="#yoi150068r39"
+ link [ref_1186]
+ generic "Limitations" [ref_1187]
+ link [ref_1188]
+ generic "The study used a double-dummy design in which patients used a treatment device and took a pill each " [ref_1189]
+  link "40" [ref_1190] href="#yoi150068r40"
+  link "41" [ref_1191] href="#yoi150068r41"
+  link "42" [ref_1192] href="#yoi150068r42"
+  link "43" [ref_1193] href="#yoi150068r43"
+  link "44" [ref_1194] href="#yoi150068r44"
+ link [ref_1195]
+ generic "Because the preplanned sample size was not attained, the study had limited power to detect clinicall" [ref_1196]
+  link "45" [ref_1197] href="#yoi150068r45"
+  link "46" [ref_1198] href="#yoi150068r46"
+ link [ref_1199]
+ generic "Generalizability" [ref_1200]
+ link [ref_1201]
+ generic "The study was conducted in outpatient psychiatry clinics and excluded significant psychiatric and me" [ref_1202]
+ link [ref_1203]
+ generic "Conclusions" [ref_1204]
+ link [ref_1205]
+ generic "Light treatment, whether in monotherapy or particularly in combination with fluoxetine, is efficacio" [ref_1206]
+ link [ref_1207]
+ link "Back to top" [ref_1208] href="#top"
+ generic "Article Information" [ref_1209]
+ generic "Raymond W. Lam, MD, Department of Psychiatry, University of British Columbia, 2255 Wesbrook Mall, Va" [ref_1210]
+  generic "Corresponding Author:" [ref_1211]
+  link "r.lam@ubc.ca" [ref_1212] href="mailto:r.lam@ubc.ca"
+ generic "June 18, 2015; final revision received September 15, 2015; accepted September 24, 2015." [ref_1213]
+  generic "Submitted for Publication:" [ref_1214]
+ generic "This article was corrected to add an author to the byline, along with affiliations and author contri" [ref_1215]
+  generic "Correction:" [ref_1216]
+ generic "November 18, 2015. doi:10.1001/jamapsychiatry.2015.2235." [ref_1217]
+  generic "Published Online:" [ref_1218]
+ generic "Dr Lam had full access to all of the data in the study and takes responsibility for the integrity of" [ref_1219]
+  generic "Author Contributions:" [ref_1220]
+ generic "Lam, Levitt, Levitan, Michalak, Cheung, Yatham." [ref_1221]
+  generic "Study concept and design:" [ref_1222]
+ generic "All authors." [ref_1223]
+  generic "Acquisition, analysis, or interpretation of data:" [ref_1224]
+ generic "Lam, Levitt, Levitan, Michalak, Cheung." [ref_1225]
+  generic "Drafting of the manuscript:" [ref_1226]
+ generic "Lam, Levitt, Levitan, Morehouse, Ramasubbu, Yatham, Tam." [ref_1227]
+  generic "Critical revision of the manuscript for important intellectual content:" [ref_1228]
+ generic "Lam, Levitt." [ref_1229]
+  generic "Statistical analysis:" [ref_1230]
+ generic "Lam, Levitt, Cheung." [ref_1231]
+  generic "Obtained funding:" [ref_1232]
+ generic "Lam, Levitt, Levitan, Michalak, Cheung, Ramasubbu, Tam." [ref_1233]
+  generic "Administrative, technical, or material support:" [ref_1234]
+ generic "Lam, Levitan, Michalak, Ramasubbu." [ref_1235]
+  generic "Study supervision:" [ref_1236]
+ generic "Dr Lam reported receiving research funds from Brain Canada, Bristol-Myers Squibb, Canadian Institute" [ref_1237]
+  generic "Conflict of Interest Disclosures:" [ref_1238]
+ generic "This study was supported by grant MCT-94832 from the Canadian Institutes of Health Research." [ref_1239]
+  generic "Funding/Support:" [ref_1240]
+ generic "The funder had no role in the design and conduct of the study; collection, management, analysis, and" [ref_1241]
+  generic "Role of the Funder/Sponsor:" [ref_1242]
+ generic "Cindy Woo, BA, and Tanya Poitras, BA, University of British Columbia, Vancouver, British Columbia, C" [ref_1243]
+  generic "Additional Contributions:" [ref_1244]
+ link [ref_1245]
+ generic "References" [ref_1246]
+ link "1." [ref_1247]
+ generic "Waraich P, Goldner EM, Somers JM, Hsu L. Prevalence and inciden..." [ref_1248]
+  generic "Can J Psychiatry" [ref_1249]
+  link "PubMed" [ref_1250] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/15065747"
+  link "Google Scholar" [ref_1251] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Prevalence%20and%20incidence%20studies%20of%20mood%20disorders%3A%20a%20systematic%20review%20of%20the%20literature.&author=P%20Waraich&author=EM%20Goldner&author=JM%20Somers&author=L%20Hsu&publication_year=2004&journal=Can%20J%20Psychiatry&volume=49&pages=124-138"
+ link "2." [ref_1252]
+ generic "Ferrari AJ, Charlson FJ, Norman RE, et al. Burden of depressive di..." [ref_1253]
+  generic "PLoS Med" [ref_1254]
+  link "PubMed" [ref_1255] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/24223526"
+  link "Google Scholar" [ref_1256] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Burden%20of%20depressive%20disorders%20by%20country%2C%20sex%2C%20age%2C%20and%20year%3A%20findings%20from%20the%20Global%20Burden%20of%20Disease%20Study%202010.&author=AJ%20Ferrari&author=FJ%20Charlson&author=RE%20Norman&publication_year=2013&journal=PLoS%20Med&volume=10&pages=e1001547"
+  link "Crossref" [ref_1257] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1371/journal.pmed.1001547"
+ link "3." [ref_1258]
+ generic "IsHak WW, Greenberg JM, Balayan K, et al. Quality of life: the ult..." [ref_1259]
+  generic "Harv Rev Psychiatry" [ref_1260]
+  link "PubMed" [ref_1261] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/21916825"
+  link "Google Scholar" [ref_1262] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Quality%20of%20life%3A%20the%20ultimate%20outcome%20measure%20of%20interventions%20in%20major%20depressive%20disorder.&author=WW%20IsHak&author=JM%20Greenberg&author=K%20Balayan&publication_year=2011&journal=Harv%20Rev%20Psychiatry&volume=19&pages=229-239"
+  link "Crossref" [ref_1263] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.3109/10673229.2011.614099"
+ link "4." [ref_1264]
+ generic "Cuijpers P, Smit F. Excess mortality in depression: a meta-analysis of community ..." [ref_1265]
+  generic "J Affect Disord" [ref_1266]
+  link "PubMed" [ref_1267] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/12450639"
+  link "Google Scholar" [ref_1268] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Excess%20mortality%20in%20depression%3A%20a%20meta-analysis%20of%20community%20studies.&author=P%20Cuijpers&author=F%20Smit&publication_year=2002&journal=J%20Affect%20Disord&volume=72&pages=227-236"
+  link "Crossref" [ref_1269] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/S0165-0327(01)00413-X"
+ link "5." [ref_1270]
+ generic "Greenberg PE, Fournier AA, Sisitsky T, Pike CT, Kessler ..." [ref_1271]
+  generic "J Clin Psychiatry" [ref_1272]
+  link "PubMed" [ref_1273] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/25742202"
+  link "Google Scholar" [ref_1274] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20economic%20burden%20of%20adults%20with%20major%20depressive%20disorder%20in%20the%20United%20States%20%282005%20and%202010%29.&author=PE%20Greenberg&author=AA%20Fournier&author=T%20Sisitsky&author=CT%20Pike&author=RC%20Kessler&publication_year=2015&journal=J%20Clin%20Psychiatry&volume=76&pages=155-162"
+  link "Crossref" [ref_1275] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.4088/JCP.14m09298"
+ link "6." [ref_1276]
+ generic "Lam RW, Kennedy SH, Grigoriadis S, et al; Canadian Network for Mood..." [ref_1277]
+  generic "J Affect Disord" [ref_1278]
+  link "PubMed" [ref_1279] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/19674794"
+  link "Google Scholar" [ref_1280] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Canadian%20Network%20for%20Mood%20and%20Anxiety%20Treatments%20%28CANMAT%29%20clinical%20guidelines%20for%20the%20management%20of%20major%20depressive%20disorder%20in%20adults%2C%20III%3A%20pharmacotherapy.&author=RW%20Lam&author=SH%20Kennedy&author=S%20Grigoriadis&publication_year=2009&journal=J%20Affect%20Disord&volume=117&pages=S26-S43"
+  link "Crossref" [ref_1281] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2009.06.041"
+ link "7." [ref_1282]
+ generic "Parikh SV, Segal ZV, Grigoriadis S, et al; Canadian Network for Moo..." [ref_1283]
+  generic "J Affect Disord" [ref_1284]
+  link "PubMed" [ref_1285] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/19682749"
+  link "Google Scholar" [ref_1286] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Canadian%20Network%20for%20Mood%20and%20Anxiety%20Treatments%20%28CANMAT%29%20clinical%20guidelines%20for%20the%20management%20of%20major%20depressive%20disorder%20in%20adults%2C%20II%3A%20psychotherapy%20alone%20or%20in%20combination%20with%20antidepressant%20medication.&author=SV%20Parikh&author=ZV%20Segal&author=S%20Grigoriadis&publication_year=2009&journal=J%20Affect%20Disord&volume=117&pages=S15-S25"
+  link "Crossref" [ref_1287] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2009.06.042"
+ link "8." [ref_1288]
+ generic "Rush AJ, Trivedi MH, Wisniewski SR, et al. Acute and longer-term o..." [ref_1289]
+  generic "Am J Psychiatry" [ref_1290]
+  link "PubMed" [ref_1291] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/17074942"
+  link "Google Scholar" [ref_1292] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Acute%20and%20longer-term%20outcomes%20in%20depressed%20outpatients%20requiring%20one%20or%20several%20treatment%20steps%3A%20a%20STAR%2AD%20report.&author=AJ%20Rush&author=MH%20Trivedi&author=SR%20Wisniewski&publication_year=2006&journal=Am%20J%20Psychiatry&volume=163&pages=1905-1917"
+  link "Crossref" [ref_1293] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1176/ajp.2006.163.11.1905"
+ link "9." [ref_1294]
+ generic "Westrin A, Lam RW. Seasonal affective disorder: a clinical update. . 2007;19(4):2..." [ref_1295]
+  generic "Ann Clin Psychiatry" [ref_1296]
+  link "PubMed" [ref_1297] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/18058281"
+  link "Google Scholar" [ref_1298] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Seasonal%20affective%20disorder%3A%20a%20clinical%20update.&author=A%20Westrin&author=RW%20Lam&publication_year=2007&journal=Ann%20Clin%20Psychiatry&volume=19&pages=239-246"
+  link "Crossref" [ref_1299] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1080/10401230701653476"
+ link "10." [ref_1300]
+ generic "Terman M, Terman JS. Light therapy for seasonal and nonseasonal depression: effic..." [ref_1301]
+  generic "CNS Spectr" [ref_1302]
+  link "PubMed" [ref_1303] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16041296"
+  link "Google Scholar" [ref_1304] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Light%20therapy%20for%20seasonal%20and%20nonseasonal%20depression%3A%20efficacy%2C%20protocol%2C%20safety%2C%20and%20side%20effects.&author=M%20Terman&author=JS%20Terman&publication_year=2005&journal=CNS%20Spectr&volume=10&pages=647-663"
+  link "Crossref" [ref_1305] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1017/S1092852900019611"
+ link "11." [ref_1306]
+ generic "McClung CA. Circadian rhythms and mood regulation: insights from pre-clinical models. . 20..." [ref_1307]
+  generic "Eur Neuropsychopharmacol" [ref_1308]
+  link "PubMed" [ref_1309] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/21835596"
+  link "Google Scholar" [ref_1310] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Circadian%20rhythms%20and%20mood%20regulation%3A%20insights%20from%20pre-clinical%20models.&author=CA%20McClung&publication_year=2011&journal=Eur%20Neuropsychopharmacol&volume=21&pages=S683-S693"
+  link "Crossref" [ref_1311] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.euroneuro.2011.07.008"
+ link "12." [ref_1312]
+ generic "Golden RN, Gaynes BN, Ekstrom RD, et al. The efficacy of light the..." [ref_1313]
+  generic "Am J Psychiatry" [ref_1314]
+  link "PubMed" [ref_1315] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/15800134"
+  link "Google Scholar" [ref_1316] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20efficacy%20of%20light%20therapy%20in%20the%20treatment%20of%20mood%20disorders%3A%20a%20review%20and%20meta-analysis%20of%20the%20evidence.&author=RN%20Golden&author=BN%20Gaynes&author=RD%20Ekstrom&publication_year=2005&journal=Am%20J%20Psychiatry&volume=162&pages=656-662"
+  link "Crossref" [ref_1317] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1176/appi.ajp.162.4.656"
+ link "13." [ref_1318]
+ generic "Tuunainen A, Kripke DF, Endo T. Light therapy for non-seasonal depressio..." [ref_1319]
+  generic "Cochrane Database Syst Rev" [ref_1320]
+  link "PubMed" [ref_1321] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/15106233"
+  link "Google Scholar" [ref_1322] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Light%20therapy%20for%20non-seasonal%20depression.&author=A%20Tuunainen&author=DF%20Kripke&author=T%20Endo&publication_year=2004&journal=Cochrane%20Database%20Syst%20Rev&volume=&pages=CD004050"
+ link "14." [ref_1323]
+ generic "Mårtensson B, Pettersson A, Berglund L, Ekselius L. Bright whit..." [ref_1324]
+  generic "J Affect Disord" [ref_1325]
+  link "PubMed" [ref_1326] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/25942575"
+  link "Google Scholar" [ref_1327] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Bright%20white%20light%20therapy%20in%20depression%3A%20a%20critical%20review%20of%20the%20evidence.&author=B%20Mårtensson&author=A%20Pettersson&author=L%20Berglund&author=L%20Ekselius&publication_year=2015&journal=J%20Affect%20Disord&volume=182&pages=1-7"
+  link "Crossref" [ref_1328] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2015.04.013"
+ link "15." [ref_1329]
+ generic "Even C, Schröder CM, Friedman S, Rouillon F. Efficacy of light ..." [ref_1330]
+  generic "J Affect Disord" [ref_1331]
+  link "PubMed" [ref_1332] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/17950467"
+  link "Google Scholar" [ref_1333] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Efficacy%20of%20light%20therapy%20in%20nonseasonal%20depression%3A%20a%20systematic%20review.&author=C%20Even&author=CM%20Schröder&author=S%20Friedman&author=F%20Rouillon&publication_year=2008&journal=J%20Affect%20Disord&volume=108&pages=11-23"
+  link "Crossref" [ref_1334] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2007.09.008"
+ link "16." [ref_1335]
+ generic "American Psychiatric Association. 4th ed, text revision. Washington, DC: American Psychiatric Asso.." [ref_1336]
+  generic "Diagnostic and Statistical Manual of Mental Disorders." [ref_1337]
+ link "17." [ref_1338]
+ generic "Sheehan DV, Lecrubier Y, Sheehan KH, et al. The Mini-International..." [ref_1339]
+  generic "DSM-IV" [ref_1340]
+  generic "ICD-10" [ref_1341]
+  generic "J Clin Psychiatry" [ref_1342]
+  link "PubMed" [ref_1343] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/9881538"
+  link "Google Scholar" [ref_1344] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20Mini-International%20Neuropsychiatric%20Interview%20%28MINI%29%3A%20the%20development%20and%20validation%20of%20a%20structured%20diagnostic%20psychiatric%20interview%20for%20DSM-IV%20and%20ICD-10.&author=DV%20Sheehan&author=Y%20Lecrubier&author=KH%20Sheehan&publication_year=1998&journal=J%20Clin%20Psychiatry&volume=59&pages=22-33"
+ link "18." [ref_1345]
+ generic "Hamilton M. Development of a rating scale for primary depressive illness. . 1967;6(4):278-..." [ref_1346]
+  generic "Br J Soc Clin Psychol" [ref_1347]
+  link "PubMed" [ref_1348] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/6080235"
+  link "Google Scholar" [ref_1349] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Development%20of%20a%20rating%20scale%20for%20primary%20depressive%20illness.&author=M%20Hamilton&publication_year=1967&journal=Br%20J%20Soc%20Clin%20Psychol&volume=6&pages=278-296"
+  link "Crossref" [ref_1350] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/bjc.1967.6.issue-4"
+ link "19." [ref_1351]
+ generic "Borkovec TD, Nau SD. Credibility of analogue therapy rationales. . 1972;3(4):257-..." [ref_1352]
+  generic "J Behav Ther Exp Psychiatry" [ref_1353]
+  link "10.1016/0005-7916(72)90045-6" [ref_1354] href="http://dx.doi.org.ezproxy.lib.ucalgary.ca/10.1016/0005-7916(72)90045-6"
+  link "Google Scholar" [ref_1355] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Credibility%20of%20analogue%20therapy%20rationales.&author=TD%20Borkovec&author=SD%20Nau&publication_year=1972&journal=J%20Behav%20Ther%20Exp%20Psychiatry&volume=3&pages=257-260"
+  link "Crossref" [ref_1356] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/0005-7916(72)90045-6"
+ link "20." [ref_1357]
+ generic "Montgomery SA, Åsberg M. A new depression scale designed to be sensitive to chang..." [ref_1358]
+  generic "Br J Psychiatry" [ref_1359]
+  link "PubMed" [ref_1360] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/444788"
+  link "Google Scholar" [ref_1361] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A%20new%20depression%20scale%20designed%20to%20be%20sensitive%20to%20change.&author=SA%20Montgomery&author=M%20Åsberg&publication_year=1979&journal=Br%20J%20Psychiatry&volume=134&pages=382-389"
+  link "Crossref" [ref_1362] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1192/bjp.134.4.382"
+ link "21." [ref_1363]
+ generic "Williams JB, Kobak KA. Development and reliability of a structured interview guid..." [ref_1364]
+  generic "Br J Psychiatry" [ref_1365]
+  link "PubMed" [ref_1366] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/18174510"
+  link "Google Scholar" [ref_1367] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Development%20and%20reliability%20of%20a%20structured%20interview%20guide%20for%20the%20Montgomery%20Asberg%20Depression%20Rating%20Scale%20%28SIGMA%29.&author=JB%20Williams&author=KA%20Kobak&publication_year=2008&journal=Br%20J%20Psychiatry&volume=192&pages=52-58"
+  link "Crossref" [ref_1368] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1192/bjp.bp.106.032532"
+ link "22." [ref_1369]
+ generic "Guy W. Rockville, MD: US Department of Health, Education & Welfare; 1976." [ref_1370]
+  generic "ECDEU Assessment Manual for Psychopharmacology." [ref_1371]
+ link "23." [ref_1372]
+ generic "Rush AJ, Trivedi MH, Ibrahim HM, et al. The 16-Item Quick Inventor..." [ref_1373]
+  generic "Biol Psychiatry" [ref_1374]
+  link "PubMed" [ref_1375] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/12946886"
+  link "Google Scholar" [ref_1376] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%2016-Item%20Quick%20Inventory%20of%20Depressive%20Symptomatology%20%28QIDS%29%2C%20clinician%20rating%20%28QIDS-C%29%2C%20and%20self-report%20%28QIDS-SR%29%3A%20a%20psychometric%20evaluation%20in%20patients%20with%20chronic%20major%20depression.&author=AJ%20Rush&author=MH%20Trivedi&author=HM%20Ibrahim&publication_year=2003&journal=Biol%20Psychiatry&volume=54&pages=573-583"
+  link "Crossref" [ref_1377] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/S0006-3223(02)01866-8"
+ link "24." [ref_1378]
+ generic "Canadian Network for Mood and Anxiety Treatments. . Toronto, ON: Canadian Network for Mood & Anxie.." [ref_1379]
+  generic "Adverse Events Scale" [ref_1380]
+ link "25." [ref_1381]
+ generic "Lam RW, Levitt AJ, Levitan RD, et al. The Can-SAD study: a randomi..." [ref_1382]
+  generic "Am J Psychiatry" [ref_1383]
+  link "PubMed" [ref_1384] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16648320"
+  link "Google Scholar" [ref_1385] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20Can-SAD%20study%3A%20a%20randomized%20controlled%20trial%20of%20the%20effectiveness%20of%20light%20therapy%20and%20fluoxetine%20in%20patients%20with%20winter%20seasonal%20affective%20disorder.&author=RW%20Lam&author=AJ%20Levitt&author=RD%20Levitan&publication_year=2006&journal=Am%20J%20Psychiatry&volume=163&pages=805-812"
+  link "Crossref" [ref_1386] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1176/ajp.2006.163.5.805"
+ link "26." [ref_1387]
+ generic "Cohen J. A power primer. . 1992;112(1):155-159." [ref_1388]
+  generic "Psychol Bull" [ref_1389]
+  link "PubMed" [ref_1390] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/19565683"
+  link "Google Scholar" [ref_1391] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A%20power%20primer.&author=J%20Cohen&publication_year=1992&journal=Psychol%20Bull&volume=112&pages=155-159"
+  link "Crossref" [ref_1392] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1037/0033-2909.112.1.155"
+ link "27." [ref_1393]
+ generic "Martiny K. Adjunctive bright light in non-seasonal major depression. . 2004;(425):7-28." [ref_1394]
+  generic "Acta Psychiatr Scand Suppl" [ref_1395]
+  link "PubMed" [ref_1396] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/15527426"
+  link "Google Scholar" [ref_1397] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Adjunctive%20bright%20light%20in%20non-seasonal%20major%20depression.&author=K%20Martiny&publication_year=2004&journal=Acta%20Psychiatr%20Scand%20Suppl&volume=&pages=7-28"
+ link "28." [ref_1398]
+ generic "Martiny K, Lunde M, Undén M, Dam H, Bech P. Adjunctive..." [ref_1399]
+  generic "Acta Psychiatr Scand" [ref_1400]
+  link "PubMed" [ref_1401] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/15992393"
+  link "Google Scholar" [ref_1402] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Adjunctive%20bright%20light%20in%20non-seasonal%20major%20depression%3A%20results%20from%20clinician-rated%20depression%20scales.&author=K%20Martiny&author=M%20Lunde&author=M%20Undén&author=H%20Dam&author=P%20Bech&publication_year=2005&journal=Acta%20Psychiatr%20Scand&volume=112&pages=117-125"
+  link "Crossref" [ref_1403] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/acp.2005.112.issue-2"
+ link "29." [ref_1404]
+ generic "Cipriani A, Brambilla P, Furukawa T, et al. Fluoxetine versus othe..." [ref_1405]
+  generic "Cochrane Database Syst Rev" [ref_1406]
+  link "PubMed" [ref_1407] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16235353"
+  link "Google Scholar" [ref_1408] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Fluoxetine%20versus%20other%20types%20of%20pharmacotherapy%20for%20depression.&author=A%20Cipriani&author=P%20Brambilla&author=T%20Furukawa&publication_year=2005&journal=Cochrane%20Database%20Syst%20Rev&volume=&pages=CD004185"
+ link "30." [ref_1409]
+ generic "Levitan RD. The chronobiology and neurobiology of winter seasonal affective disorder. . 20..." [ref_1410]
+  generic "Dialogues Clin Neurosci" [ref_1411]
+  link "PubMed" [ref_1412] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/17969868"
+  link "Google Scholar" [ref_1413] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20chronobiology%20and%20neurobiology%20of%20winter%20seasonal%20affective%20disorder.&author=RD%20Levitan&publication_year=2007&journal=Dialogues%20Clin%20Neurosci&volume=9&pages=315-324"
+ link "31." [ref_1414]
+ generic "Lewy AJ, Lefler BJ, Emens JS, Bauer VK. The circadian basis of ..." [ref_1415]
+  generic "Proc Natl Acad Sci U S A" [ref_1416]
+  link "PubMed" [ref_1417] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16648247"
+  link "Google Scholar" [ref_1418] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20circadian%20basis%20of%20winter%20depression.&author=AJ%20Lewy&author=BJ%20Lefler&author=JS%20Emens&author=VK%20Bauer&publication_year=2006&journal=Proc%20Natl%20Acad%20Sci%20U%20S%20A&volume=103&pages=7414-7419"
+  link "Crossref" [ref_1419] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1073/pnas.0602425103"
+ link "32." [ref_1420]
+ generic "Sohn CH, Lam RW. Update on the biology of seasonal affective disorder. . 2005;10(..." [ref_1421]
+  generic "CNS Spectr" [ref_1422]
+  link "PubMed" [ref_1423] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16041295"
+  link "Google Scholar" [ref_1424] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Update%20on%20the%20biology%20of%20seasonal%20affective%20disorder.&author=CH%20Sohn&author=RW%20Lam&publication_year=2005&journal=CNS%20Spectr&volume=10&pages=635-646"
+ link "33." [ref_1425]
+ generic "Germain A, Kupfer DJ. Circadian rhythm disturbances in depression. . 2008;23(7):5..." [ref_1426]
+  generic "Hum Psychopharmacol" [ref_1427]
+  link "PubMed" [ref_1428] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/18680211"
+  link "Google Scholar" [ref_1429] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Circadian%20rhythm%20disturbances%20in%20depression.&author=A%20Germain&author=DJ%20Kupfer&publication_year=2008&journal=Hum%20Psychopharmacol&volume=23&pages=571-585"
+  link "Crossref" [ref_1430] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/hup.v23:7"
+ link "34." [ref_1431]
+ generic "Skene DJ, Arendt J. Human circadian rhythms: physiological and therapeutic releva..." [ref_1432]
+  generic "Ann Clin Biochem" [ref_1433]
+  link "PubMed" [ref_1434] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/17022876"
+  link "Google Scholar" [ref_1435] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Human%20circadian%20rhythms%3A%20physiological%20and%20therapeutic%20relevance%20of%20light%20and%20melatonin.&author=DJ%20Skene&author=J%20Arendt&publication_year=2006&journal=Ann%20Clin%20Biochem&volume=43&pages=344-353"
+  link "Crossref" [ref_1436] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1258/000456306778520142"
+ link "35." [ref_1437]
+ generic "Burgess HJ, Fogg LF, Young MA, Eastman CI. Bright light therapy..." [ref_1438]
+  generic "Chronobiol Int" [ref_1439]
+  link "PubMed" [ref_1440] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/15470966"
+  link "Google Scholar" [ref_1441] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Bright%20light%20therapy%20for%20winter%20depression%3A%20is%20phase%20advancing%20beneficial%3F&author=HJ%20Burgess&author=LF%20Fogg&author=MA%20Young&author=CI%20Eastman&publication_year=2004&journal=Chronobiol%20Int&volume=21&pages=759-775"
+  link "Crossref" [ref_1442] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1081/CBI-200025979"
+ link "36." [ref_1443]
+ generic "Lam RW, Zis AP, Grewal A, Delgado PL, Charney DS, Kryst..." [ref_1444]
+  generic "Arch Gen Psychiatry" [ref_1445]
+  link "Article" [ref_1446] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/497520"
+  link "PubMed" [ref_1447] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/8540776"
+  link "Google Scholar" [ref_1448] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Effects%20of%20rapid%20tryptophan%20depletion%20in%20patients%20with%20seasonal%20affective%20disorder%20in%20remission%20after%20light%20therapy.&author=RW%20Lam&author=AP%20Zis&author=A%20Grewal&author=PL%20Delgado&author=DS%20Charney&author=JH%20Krystal&publication_year=1996&journal=Arch%20Gen%20Psychiatry&volume=53&pages=41-44"
+  link "Crossref" [ref_1449] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archpsyc.1996.01830010043007"
+ link "37." [ref_1450]
+ generic "Neumeister A, Praschak-Rieder N, Besselmann B, Rao ML, Glück ..." [ref_1451]
+  generic "Arch Gen Psychiatry" [ref_1452]
+  link "Article" [ref_1453] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/497746"
+  link "PubMed" [ref_1454] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/9040281"
+  link "Google Scholar" [ref_1455] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Effects%20of%20tryptophan%20depletion%20on%20drug-free%20patients%20with%20seasonal%20affective%20disorder%20during%20a%20stable%20response%20to%20bright%20light%20therapy.&author=A%20Neumeister&author=N%20Praschak-Rieder&author=B%20Besselmann&author=ML%20Rao&author=J%20Glück&author=S%20Kasper&publication_year=1997&journal=Arch%20Gen%20Psychiatry&volume=54&pages=133-138"
+  link "Crossref" [ref_1456] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archpsyc.1997.01830140043008"
+ link "38." [ref_1457]
+ generic "Neumeister A, Turner EH, Matthews JR, et al. Effects of tryptophan..." [ref_1458]
+  generic "Arch Gen Psychiatry" [ref_1459]
+  link "Article" [ref_1460] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/203973"
+  link "PubMed" [ref_1461] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/9633671"
+  link "Google Scholar" [ref_1462] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Effects%20of%20tryptophan%20depletion%20vs%20catecholamine%20depletion%20in%20patients%20with%20seasonal%20affective%20disorder%20in%20remission%20with%20light%20therapy.&author=A%20Neumeister&author=EH%20Turner&author=JR%20Matthews&publication_year=1998&journal=Arch%20Gen%20Psychiatry&volume=55&pages=524-530"
+  link "Crossref" [ref_1463] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archpsyc.55.6.524"
+ link "39." [ref_1464]
+ generic "Neumeister A. Tryptophan depletion, serotonin, and depression: where do we stand? . 2003;3..." [ref_1465]
+  generic "Psychopharmacol Bull" [ref_1466]
+  link "PubMed" [ref_1467] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/15131521"
+  link "Google Scholar" [ref_1468] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Tryptophan%20depletion%2C%20serotonin%2C%20and%20depression%3A%20where%20do%20we%20stand%3F&author=A%20Neumeister&publication_year=2003&journal=Psychopharmacol%20Bull&volume=37&pages=99-115"
+ link "40." [ref_1469]
+ generic "Eastman CI. What the placebo literature can tell us about light therapy for SAD. . 1990;26..." [ref_1470]
+  generic "Psychopharmacol Bull" [ref_1471]
+  link "PubMed" [ref_1472] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/2087542"
+  link "Google Scholar" [ref_1473] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=What%20the%20placebo%20literature%20can%20tell%20us%20about%20light%20therapy%20for%20SAD.&author=CI%20Eastman&publication_year=1990&journal=Psychopharmacol%20Bull&volume=26&pages=495-504"
+ link "41." [ref_1474]
+ generic "Desan PH, Weinstein AJ, Michalak EE, et al. A controlled trial of ..." [ref_1475]
+  generic "BMC Psychiatry" [ref_1476]
+  link "PubMed" [ref_1477] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/17683643"
+  link "Google Scholar" [ref_1478] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A%20controlled%20trial%20of%20the%20Litebook%20light-emitting%20diode%20%28LED%29%20light%20therapy%20device%20for%20treatment%20of%20seasonal%20affective%20disorder%20%28SAD%29.&author=PH%20Desan&author=AJ%20Weinstein&author=EE%20Michalak&publication_year=2007&journal=BMC%20Psychiatry&volume=7&pages=38"
+  link "Crossref" [ref_1479] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1186/1471-244X-7-38"
+ link "42." [ref_1480]
+ generic "Eastman CI, Young MA, Fogg LF, Liu L, Meaden PM. Brigh..." [ref_1481]
+  generic "Arch Gen Psychiatry" [ref_1482]
+  link "Article" [ref_1483] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/204290"
+  link "PubMed" [ref_1484] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/9783558"
+  link "Google Scholar" [ref_1485] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Bright%20light%20treatment%20of%20winter%20depression%3A%20a%20placebo-controlled%20trial.&author=CI%20Eastman&author=MA%20Young&author=LF%20Fogg&author=L%20Liu&author=PM%20Meaden&publication_year=1998&journal=Arch%20Gen%20Psychiatry&volume=55&pages=883-889"
+  link "Crossref" [ref_1486] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archpsyc.55.10.883"
+ link "43." [ref_1487]
+ generic "Terman M, Terman JS. Controlled trial of naturalistic dawn simulation and negativ..." [ref_1488]
+  generic "Am J Psychiatry" [ref_1489]
+  link "PubMed" [ref_1490] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/17151164"
+  link "Google Scholar" [ref_1491] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Controlled%20trial%20of%20naturalistic%20dawn%20simulation%20and%20negative%20air%20ionization%20for%20seasonal%20affective%20disorder.&author=M%20Terman&author=JS%20Terman&publication_year=2006&journal=Am%20J%20Psychiatry&volume=163&pages=2126-2133"
+  link "Crossref" [ref_1492] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1176/ajp.2006.163.12.2126"
+ link "44." [ref_1493]
+ generic "Goel N, Terman M, Terman JS, Macchi MM, Stewart JW. Co..." [ref_1494]
+  generic "Psychol Med" [ref_1495]
+  link "PubMed" [ref_1496] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16045061"
+  link "Google Scholar" [ref_1497] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Controlled%20trial%20of%20bright%20light%20and%20negative%20air%20ions%20for%20chronic%20depression.&author=N%20Goel&author=M%20Terman&author=JS%20Terman&author=MM%20Macchi&author=JW%20Stewart&publication_year=2005&journal=Psychol%20Med&volume=35&pages=945-955"
+  link "Crossref" [ref_1498] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1017/S0033291705005027"
+ link "45." [ref_1499]
+ generic "Beasley CM Jr, Bosomworth JC, Wernicke JF. Fluoxetine: relation..." [ref_1500]
+  generic "Psychopharmacol Bull" [ref_1501]
+  link "PubMed" [ref_1502] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/2196623"
+  link "Google Scholar" [ref_1503] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Fluoxetine%3A%20relationships%20among%20dose%2C%20response%2C%20adverse%20events%2C%20and%20plasma%20concentrations%20in%20the%20treatment%20of%20depression.&author=CM%20Beasley&author=JC%20Bosomworth&author=JF%20Wernicke&publication_year=1990&journal=Psychopharmacol%20Bull&volume=26&pages=18-24"
+ link "46." [ref_1504]
+ generic "Altamura AC, Montgomery SA, Wernicke JF. The evidence for 20mg a day of ..." [ref_1505]
+  generic "Br J Psychiatry Suppl" [ref_1506]
+  link "PubMed" [ref_1507] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/3074862"
+  link "Google Scholar" [ref_1508] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20evidence%20for%2020mg%20a%20day%20of%20fluoxetine%20as%20the%20optimal%20dose%20in%20the%20treatment%20of%20depression.&author=AC%20Altamura&author=SA%20Montgomery&author=JF%20Wernicke&publication_year=1988&journal=Br%20J%20Psychiatry%20Suppl&volume=3&pages=109-112"
+ link [ref_1509]
+ textbox "Alert_RR_CDP" [ref_1510] type="hidden"
+ textbox "0" [ref_1511] type="hidden"
+ textbox "Article_RR_CDP" [ref_1512] type="hidden"
+ textbox "0" [ref_1513] type="hidden"
+ heading "More for You" [ref_1514]
+ list [ref_1515]
+  listitem [ref_1516]
+   generic "Research" [ref_1517]
+   link "GH001 vs Placebo in Treatment-Resistant Depression" [ref_1518] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2846834?widget=personalizedcontent&previousarticle=0"
+   generic "March 25, 2026" [ref_1519]
+  listitem [ref_1520]
+   generic "Research" [ref_1521]
+   generic "is learning" [ref_1522]
+   generic "has multimedia" [ref_1523]
+   link "Psychedelic Therapy vs Antidepressants for the Treatment of Depression Under Equal Unblinding Condit" [ref_1524] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2846479?widget=personalizedcontent&previousarticle=0"
+   generic "March 18, 2026" [ref_1525]
+  listitem [ref_1526]
+   generic "Research" [ref_1527]
+   link "Psilocybin in Treatment-Resistant Major Depression" [ref_1528] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2846478?widget=personalizedcontent&previousarticle=0"
+   generic "March 18, 2026" [ref_1529]
+ heading "See More About" [ref_1530]
+ link "Depressive Disorders" [ref_1531] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/collections/5595/depressive-disorders"
+ link "Psychiatry and Behavioral Health" [ref_1532] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/collections/5871/psychiatry-and-behavioral-health"
+ textbox "CDP_JAMA_Career_Center" [ref_1533] type="hidden"
+ textbox "0" [ref_1534] type="hidden"
+ link "View Full Text" [ref_1535] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2470681"
+ link "Download PDF" [ref_1536] href="/journals/jamapsychiatry/articlepdf/2470681/yoi150068.pdf"
+ link [ref_1537] href="javascript:;"
+  generic "Button To Top" [ref_1538]
+
+Viewport: 1134x672
+
+
+Tab Context:
+- Executed on tabId: 1159646026
+- Available tabs:
+  • tabId 1159646026: "Efficacy of Bright Light Treatment, Fluoxetine, and the Combination in Patients With Nonseasonal Major Depressive Disorder: A Randomized Clinical Trial | Depressive Disorders | JAMA Psychiatry | JAMA Network" (https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2470681)

@@ -1,0 +1,39 @@
+RECORD: #41
+PMID: 37689680
+PMCID: PMC10493009
+TITLE: A small clinical trial of vaporized cannabis for PTSD: suggestive results and directions for future study
+AUTHORS AND AFFILIATIONS:
+- Zach Walsh - Department of Psychology, The University of British Columbia, Kelowna, BC, Canada
+- Ian Mitchell - Department of Emergency Medicine, The University of British Columbia, Vancouver, BC, Canada
+- Kim Crosby - Department of Psychology, The University of British Columbia, Kelowna, BC, Canada
+- Michelle St. Pierre - Department of Psychology, The University of British Columbia, Kelowna, BC, Canada
+- Drew DeClerck - Department of Psychology, The University of British Columbia, Kelowna, BC, Canada
+- Kaye Ong - Tilray, Nanaimo, BC, Canada; BC Cancer, Vancouver, BC, Canada
+- Philippe Lucas - Tilray, Nanaimo, BC, Canada; Social Dimensions of Health, The University of Victoria, Victoria, BC, Canada; SABI Mind, Calgary, AB, Canada
+TRIAL REGISTRATION: NCT02517424
+FUNDING: Tilray (Nanaimo, BC, Canada) through a Clinical Trial Agreement with the University of British Columbia
+
+METHODS:
+This trial was registered on ClinicalTrials.gov (NCT02517424) and approved by the Clinical Research Ethics Board at the University of British Columbia (H16-01026). Participants provided written informed consent prior to participating. The study was designed as a randomized blinded placebo-controlled cross-over study with three conditions: placebo cannabis (< 1% THC and < 1% CBD), cannabis with 10 +/- 2% THC and 10 +/- 2% CBD, and cannabis with 10 +/- 2% THC and < 1% CBD. These chemovars were selected to allow for a proposed comparison between a psychoactively inert product and cannabis products that varied in CBD but were equivalent in THC. The cross-over design was selected in an attempt to efficiently allow comparisons of all three groups while providing access to one of the two active study drug conditions for all participants. Participants were provided a portable cannabis vaporizer and two grams of cannabis per day for three weeks of ad lib use. Target recruitment was for 42 participants.
+
+Thirty-two individuals were assessed for eligibility; 24 did not meet inclusion criteria and two declined to participate. Failure to meet the recruitment target resulted in the study terminating with only six participants (age range 35-65; 1 female) enrolled of whom five completed the entire protocol. Due to low power, the analysis was revised to aggregate active conditions and test within-subject change from baseline to the end of active treatment. The primary outcome was a change in scores on the Clinician Administered PTSD Scale (CAPS-5), and the secondary outcome measure was scores on the PTSD Checklist for DSM-5 (PCL-5). Total PCL-5 scores were prorated for two participants missing one item. Random assignment placed five participants in an active condition for Phase 1; four received balanced THC/CBD cannabis and one received the THC dominant chemovar. Baseline measures for these participants were compared to the end of week three. One participant received placebo in Phase 1 and THC cannabis in week six; for this participant, baseline was week five and outcome was week eight. All analyses used paired samples t-tests, with a significance level p < 0.05.
+
+RESULTS:
+Comparison of CAPS scores pre and post treatment identified a trend toward reduction in PTSD symptoms (M = 39.00, SD = 5.90 vs M = 30.67, SD = 11.17); t(5) = 1.95, two-tailed p = 0.11; one-tailed p = 0.06; d = 0.80. Supplementary analyses of PCL identified a similar effect that more closely approached significance (M = 63.93, SD = 10.91 vs M = 50.61, SD = 19.84); t(5) = 2.50, two-tailed p = 0.05; one-tailed p = 0.03; d = 1.02.
+
+Note: This was a very small pilot study with only 6 participants enrolled, severely underpowered relative to the target of 42. The study acknowledges significant recruitment challenges.
+
+EDIA/EQUITY REPORTING:
+Sex: 1 female among 6 participants (remaining 5 male)
+Age: Age range 35-65
+Race/Ethnicity: NOT REPORTED
+SES/Education: NOT REPORTED
+Other PROGRESS-Plus: NOT REPORTED (no reporting on Indigenous status, sexual orientation, gender identity, disability, rural/urban, immigration, language, religion)
+Note: The article discusses Canadian context of legal non-medical adult access to cannabis and government-subsidized access for veterans as factors affecting recruitment.
+
+CANADIAN INVOLVEMENT:
+Canadian Sites: All study activities based in British Columbia and Alberta, Canada (entirely Canadian trial)
+Canadian Institutions: University of British Columbia (Kelowna and Vancouver); University of Victoria; BC Cancer
+Canadian Funding: Tilray (Canadian company, Nanaimo, BC) through Clinical Trial Agreement with UBC
+Canadian Ethics: Clinical Research Ethics Board at the University of British Columbia (H16-01026)
+Canadian Context: Study notes Canadian regulatory context of legal non-medical adult access to cannabis and government-subsidized access for veterans

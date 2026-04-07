@@ -1,0 +1,69 @@
+RECORD: #11
+PMID: 34570180
+PMCID: PMC8477302
+TITLE: Effect of Methylphenidate on Apathy in Patients With Alzheimer Disease: The ADMET 2 Randomized Clinical Trial
+AUTHORS AND AFFILIATIONS:
+- Jacobo Mintzer, MD, MBA - Ralph H. Johnson VA Medical Center, Medical University of South Carolina, Charleston
+- Krista L Lanctot, PhD - Sunnybrook Research Institute, University of Toronto, Toronto, Ontario, Canada
+- Roberta W Scherer, PhD - Johns Hopkins University Bloomberg School of Public Health, Baltimore, Maryland
+- Paul B Rosenberg, MD - Johns Hopkins University School of Medicine, Baltimore, Maryland
+- Nathan Herrmann, MD - Sunnybrook Research Institute, University of Toronto, Toronto, Ontario, Canada
+- Christopher H van Dyck, MD - Yale School of Medicine, New Haven, Connecticut
+- Prasad R Padala, MD - Central Arkansas Veterans Healthcare System, University of Arkansas for Medical Sciences, Little Rock
+- Olga Brawman-Mintzer, MD - Ralph H. Johnson VA Medical Center, Medical University of South Carolina, Charleston
+- Anton P Porsteinsson, MD - University of Rochester School of Medicine and Dentistry, Rochester, New York
+- Alan J Lerner, MD - University Hospitals Cleveland Medical Center, Case Western Reserve University School of Medicine, Cleveland, Ohio
+- Suzanne Craft, PhD - Wake Forest University, Winston-Salem, North Carolina
+- Allan I Levey, MD, PhD - Emory Goizueta Alzheimer's Disease Research Center, Atlanta, Georgia
+- William Burke, MD - Banner Alzheimer's Institute, Phoenix, Arizona
+- Jamie Perin, PhD - Johns Hopkins University Bloomberg School of Public Health, Baltimore, Maryland
+- David Shade, JD - Johns Hopkins University Bloomberg School of Public Health, Baltimore, Maryland
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02346201
+FUNDING: National Institute on Aging (grant R01 AG046543)
+
+METHODS:
+Participants: The trial protocol is available in Supplement 1. Participants were recruited at 10 clinical centers (9 US clinics and 1 Canadian clinic) specializing in dementia care where they or their legally authorized representatives and the primary caregiver for the participant provided informed consent. The study adhered to the Declaration of Helsinki and was approved by the ethical review boards of each site. Participants were enrolled from May 2016 to December 2019 with the final visit in July 2020.
+
+Participants included individuals of all race and ethnic groups as self-defined by the participant or their study partner. As required by National Institutes of Health policy, we conducted valid subgroup analyses of the primary and adverse event outcomes by sex and race and ethnicity to determine if there are possible differences (ie, interactions) in treatment effects.
+
+Inclusion criteria included (1) diagnosis of possible or probable AD, using criteria from the National Institute of Neurological and Communicative Disorders and Stroke and the Alzheimer Disease and Related Disorders Association; (2) Mini-Mental State Examination scores between 10 and 28; (3) clinically significant apathy very frequently or frequently/often with a severity of moderate or marked for at least 4 weeks on the Neuropsychiatric Inventory (NPI); and (4) availability of a caregiver, who spent more than 10 hours a week with the potential participant.
+
+Exclusion criteria were (1) individuals experiencing a current or previously diagnosed major depressive episode; (2) clinically significant agitation/aggression, delusions, or hallucinations; (3) change in AD medication within the preceding 30 days; (4) change in use of antidepressants, lorazepam, or benzodiazepines within preceding 30 days or within 5 half-lives of drug; (5) past failure of methylphenidate treatment; (6) current medication precluding safe use of methylphenidate; (7) current uncontrolled medical condition for which methylphenidate is contraindicated; and (8) significant unintentional weight loss within previous 3 months.
+
+Participants were randomized to methylphenidate or placebo in a 1:1 ratio using a randomization schedule stratified by clinical center with permuted length blocks and generated using SAS. Clinic staff obtained treatment assignments centrally using a web-based data system.
+
+Intervention: Study drug was supplied as identical-appearing capsules containing either 5 mg of generic methylphenidate or placebo (cellulose) and dosed as 1 capsule twice a day (10 mg/d) for 3 days, followed by 2 capsules twice a day (20 mg/d) for the remainder of the study. Study physicians could reduce the dose in the event of adverse events. Participants continued receiving all concomitant medications. All study partners and participants received a standardized psychosocial intervention, composed of a 20- to 30-minute counseling session at each visit, educational materials, and 24-hour availability of study staff for crisis management. In-person follow-up visits took place monthly for 6 months. Telephone contacts occurred at days 15, 45, and 75 after randomization. Virtual or telephone visits were allowed when COVID-19 precluded safe in-person visits.
+
+Outcomes: Two coprimary outcomes were prespecified: (1) mean change in the NPI apathy score from baseline to 6 months and (2) odds of improved rating on the Alzheimer's Disease Cooperative Study Clinical Global Impression of Change (ADCS-CGIC) between baseline and 6 months. Secondary outcomes included change in Dementia Apathy Interview and Rating, adverse events, change in cognition and quality of life. Cognitive tests performed at baseline and at 2, 4, and 6 months included MMSE, Hopkins Verbal Learning Test, Wechsler Adult Intelligence Scale-Revised Digit Span, Trail Making Test parts A and B, action verbal fluency, Category Fluency Task-Animal Naming, and Short Boston Naming. Other outcomes included ADL Scale, Dependence Scale, EuroQol 5-dimension 5-level, and Resource Utilization in Dementia-Lite.
+
+Statistical Methods: Sample size of 200 provided >90% power to detect a difference of 1.8 points in change on the NPI apathy subscale with 15% loss of participants. Type I error rate of 0.025 to preserve overall type I error rate of 0.05 over both primary comparisons. Assessment of efficacy based on intention-to-treat analysis. Primary comparison for first coprimary outcome evaluated longitudinally using a linear mixed-effects model with random intercept, adjusted for clinic, age, sex, and diabetes. Primary comparison for second coprimary outcome was proportional odds logistic regression. Prespecified subgroup analyses included comparison of clinics located in the United States vs Canada and valid analyses by sex and race and ethnicity as required by NIH policy.
+
+RESULTS:
+Of 307 persons screened, 52 did not pass the screen and 55 were not eligible following the baseline eligibility visit. Of the 200 individuals randomized, 99 were assigned to methylphenidate and 101 to placebo. Ten study participants in the methylphenidate group and 7 in the placebo group withdrew from the study. The intention-to-treat analysis at month 6 included 89 participants in the methylphenidate and 92 in the placebo group.
+
+By participant/caregiver self-report, 69 participants (78%) in the methylphenidate group and 81 (88%) in the placebo group reported using drugs most of the time or always. Of those who received treatment, 72 (85.8%) in the methylphenidate group and 80 (90.7%) in the placebo group received the full 20-mg dosage across all visits.
+
+Baseline Characteristics: Median (IQR) age was 76 (71-81) years. Most participants were male (131 [66%]), non-Hispanic (197 [99%]), White (181 [90%]), and had been diagnosed with dementia for about 3 years. Dementia was moderately severe with mean (SD) MMSE scores of 19.2 (5) in the methylphenidate group and 18.5 (5) in the placebo group. Majority (157 [79%]) were being treated with dementia medications.
+
+Apathy Outcomes: At 6 months, significant difference between treatment groups in change in the NPI apathy score from baseline (mean difference = -1.25; 95% CI, -2.03 to -0.47; P = .002), equivalent to Cohen d of 0.365. At month 6, 27% (24 of 89) of participants in the methylphenidate group had an NPI apathy score of 0 compared with 14% (13 of 90) in the placebo group. HR for first 100 days was 2.16 (95% CI, 1.19-3.91; P = .01).
+
+At 6 months, 43.8% (39 of 89) in methylphenidate showed improvement vs 35.2% (32 of 91) in placebo on ADCS-CGIC. Odds ratio 1.90 (95% CI, 0.95-3.84; P = .07) favoring methylphenidate. There were no significant treatment interactions by sex or race other than White.
+
+Adverse Events: 17 serious adverse events in the methylphenidate group and 10 in the placebo group, all hospitalizations for nonrelated events. More participants in methylphenidate group lost >7% body weight (10 vs 6).
+
+EDIA/EQUITY REPORTING:
+Race/Ethnicity: Participants included individuals of all race and ethnic groups as self-defined. Black/African American 12 (6%), Hispanic/Latino 1 (0.5%), White 181 (90%), Other 5 (2.5%), Unknown/not reported 1 (0.5%). Valid subgroup analyses by race/ethnicity conducted as required by NIH policy. No significant treatment interactions by race other than White.
+Sex/Gender: Female 68 (34%), Male 131 (66%). No significant treatment interactions by sex.
+Age: Median (IQR) age 76 (71-81) years. Models adjusted for age.
+Education: <High school 10 (5%), High school diploma/GED 39 (20%), Some college/associate degree 40 (20%), College degree 58 (29%), Postgraduate degree 52 (26%)
+Marital Status: Married 171 (86%), Single 28 (14%)
+Smoking Status: Never 111 (56%), Ever 82 (41%), Current 5 (3%)
+Medical Conditions: Hypertension 117 (59%), Diabetes 31 (16%)
+SES/Income: NOT REPORTED
+Other PROGRESS-Plus: NOT REPORTED (no reporting on Indigenous status, SOGI, disability, rural/urban, immigration, language, religion)
+
+CANADIAN INVOLVEMENT:
+Canadian Sites: 1 Canadian clinic (of 10 total clinical centers) - Sunnybrook Research Institute, University of Toronto
+Canadian Authors: Krista L Lanctot, PhD and Nathan Herrmann, MD - both Sunnybrook Research Institute, University of Toronto, Toronto, Ontario, Canada
+Canadian Funding: No Canadian funding agencies mentioned. Funded by US National Institute on Aging.
+Subgroup Analysis: Prespecified subgroup analyses included comparison of US vs Canadian clinics.

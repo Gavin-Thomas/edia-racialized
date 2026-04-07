@@ -1,0 +1,151 @@
+id,title,decision,category,confidence,notes
+6609,Predicting CBT modality treatment participation and reliable improvements for individuals with anxiety and depression,OUT_OF_SCOPE,observational,high,Retrospective cohort study not RCT; non-pharma (CBT); Canadian but not interventional RCT
+6610,Social-Emotional Outcomes in Refugee Children: A Pilot RCT of School-Based Mindfulness,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological intervention (mindfulness); Turkey not Canada
+6611,Development and Validation of the EBBQ-GID,OUT_OF_SCOPE,non_interventional,high,Questionnaire validation study not RCT; no pharmacological intervention
+6612,The Relationship Between Early Onset Bipolar I Disorder with Clinical Features and Alexithymia,OUT_OF_SCOPE,observational,high,Cross-sectional study not RCT; no pharmacological intervention; Turkey
+6613,Intermittent theta burst stimulation for negative symptoms in schizophrenia,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological intervention (brain stimulation); not Canadian
+6614,Facilitation of working memory capacity by tDCS,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological intervention (tDCS); not Canadian; older adults without dementia
+6615,MRI Radiomics Nomogram for Predicting Disease Transition in Preclinical AD,OUT_OF_SCOPE,observational,high,Observational/prognostic study not RCT; no pharmacological intervention
+6616,Effect of combined tDCS and cognitive training on brain microstructure in late-life depression,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological intervention (tDCS + cognitive training); not Canadian
+6617,Risk factors associated with severe progression of Parkinsons disease,OUT_OF_SCOPE,observational,high,Retrospective observational study not RCT; no pharmacological intervention
+6618,From Coping to Resilience: Youth with Lived Experience of Homelessness,OUT_OF_SCOPE,non_pharma,high,Qualitative study from RCT on Housing First; non-pharmacological; no MH pharma intervention
+6619,Impact of bright light therapy on Parkinsons disease,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological intervention (light therapy); not Canadian; PD not primary MH disorder
+6620,Developing a Core Outcome Set for Pain Extended Reality Trials,OUT_OF_SCOPE,non_interventional,high,Delphi consensus/methodology study not RCT; non-pharma (extended reality); pain not MH
+6621,Traditional Chinese medicine Jianpi Fuzheng formula for ischemic stroke,OUT_OF_SCOPE,non_canadian,high,RCT but Chinese medicine for stroke not MH; not Canadian
+6622,Genetically determined AD research advances conference report,OUT_OF_SCOPE,review,high,Conference synthesis review not RCT
+6623,Inform and do no harm: Nocebo education reduces false self-diagnosis,OUT_OF_SCOPE,non_pharma,high,RCT but non-pharmacological intervention (educational workshop); healthy participants not diagnosed MH disorder; Canadian authors but no Canadian site stated
+6624,Metformin-improved cognitive impairment in patients with schizophrenia,UNCERTAIN,potential_match,medium,RCT of metformin (pharmacological) add-on for schizophrenia (diagnosed MH disorder); however conducted in China not Canada; Chinese trial registry
+6625,Effectiveness of Transcranial Stimulation on Cognitive Abilities of Older Adults with MCI,OUT_OF_SCOPE,review,high,Systematic review and meta-analysis not primary RCT
+6626,Effect of 4-week pulmonary telerehabilitation for respiratory PASC of COVID-19,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (exercise/rehab); respiratory condition not MH; not Canadian
+6627,Cerebral Small Vessel Disease: Current and Emerging Therapeutic Strategies,OUT_OF_SCOPE,review,high,Narrative review not RCT
+6628,Time-restricted eating in early-stage Huntingtons disease protocol,OUT_OF_SCOPE,protocol,high,Protocol without results; non-pharmacological (dietary intervention)
+6629,Psychometric properties of Taiwan version of Emotion Dysregulation Inventory in ASD,OUT_OF_SCOPE,non_interventional,high,Psychometric validation study not RCT; Taiwan
+6630,Concurrent delivery of WET for PTSD in intensive eating disorder program,OUT_OF_SCOPE,non_pharma,high,Case series not RCT; non-pharmacological (psychotherapy); Canadian but no pharma
+6631,Consensus on core domains for hand eczema trials,OUT_OF_SCOPE,non_interventional,high,Delphi consensus study not RCT; dermatology not MH
+6632,Complex intervention to reduce hospital admissions for dementia in Germany,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological intervention; Germany not Canada
+6633,ADL+: Digital Toolkit for Multidomain Cognitive Interventions,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (digital toolkit); quasi-experimental not RCT; not Canadian
+6634,Positive Social Autobiographical Memory Recall Enhances Positive Affect,OUT_OF_SCOPE,non_pharma,high,Experimental psychology study; non-pharmacological; undergraduate sample not diagnosed MH
+6635,Behavioral activation to prevent depression in at-risk adolescents,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (behavioral activation); pilot pre-post design; Canadian but no pharma
+6636,Integrated multifocal tDCS-EEG protocol for MCI and early dementia,OUT_OF_SCOPE,protocol,high,Study protocol not results; non-pharmacological (tDCS); not Canadian
+6637,Self-Reported Depression in Collegiate Athletes: Effect of Privacy,OUT_OF_SCOPE,non_interventional,high,Survey study not therapeutic RCT; no pharmacological intervention
+6638,Nature Relatedness Usefully Links Well-Being the Environment and Sustainability,OUT_OF_SCOPE,review,high,Review article not RCT
+6639,Efficacy and safety of taVNS for treatment-resistant schizophrenia,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological intervention (vagus nerve stimulation); Chinese trial
+6640,The evolving therapeutic landscape of dementia with Lewy bodies,OUT_OF_SCOPE,review,high,Narrative review not RCT
+6641,Joint Anatomical Histological and Imaging Investigation of Midbrain Target Region for DBS,OUT_OF_SCOPE,non_interventional,high,Anatomical/histological investigation not therapeutic RCT
+6642,Assessing Whether Household Pets Buffer Responses to Stress,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological experimental psychology study; no MH diagnosis; no pharma
+6643,Five-factor personality and antidepressant response to iTBS for MDD,MAP,pharma_rct_canadian,medium,RCT of iTBS + D-Cycloserine (pharmacological agent) for MDD; Canadian PI (McGirr - Calgary); D-Cycloserine is pharmacological augmentation; MDD diagnosed; NCT03937596; secondary analysis examining personality predictors
+6644,A Decision-Support System to Personalize Antidepressant Treatment in MDD,MAP,pharma_rct_canadian,high,Multicenter RCT; MDD (diagnosed MH); pharmacological (antidepressant personalization tool PETRUSHKA); Canada is one of 3 countries; 2022-2025; Mulsant BH (Canadian PI)
+6645,Moderating Role of Cigarette Smoking on Efficacy of tDCS in Schizophrenia,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological intervention (tDCS); Italian study
+6646,Sex differences in dynamic cerebral autoregulation responses to exercise training,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (exercise); not MH disorder; healthy adults
+6647,Group music therapy for proactive management of stress and anxiety,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (music therapy); Canadian but no diagnosed MH disorder; no pharma
+6648,Digital memory assessments and plasma pTau217 enable efficient preclinical AD trials,OUT_OF_SCOPE,observational,high,Secondary analysis of A4 Study; observational/methodological; not therapeutic RCT
+6649,Pulsed Field Ablation vs Standard Radiofrequency Ablation for Atrial Flutter,OUT_OF_SCOPE,non_mh,high,Cardiac ablation study not MH
+6650,Multinutrient Supplementation in Children With ADHD MADDY RCT,UNCERTAIN,potential_match,medium,RCT; ADHD (diagnosed MH); multinutrient supplementation (vitamins+minerals+amino acids); includes Canadian author (Leung BMY) but trial conducted primarily in US (Oregon State)
+6651,Cognitive and emotional effects of bilateral prefrontal tDCS and tRNS in schizophrenia,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (brain stimulation); Iran; includes Canadian author Blumberger but not Canadian site
+6652,Durability of benefit of VNS in markedly treatment-resistant major depression,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (vagus nerve stimulation device); open-label extension; US study
+6653,Efficacy and safety of daridorexant for insomnia in menopausal women,OUT_OF_SCOPE,non_mh,high,Insomnia disorder is MH but multi-country trial; no evidence of Canadian site; pharma RCT but 10 countries unspecified
+6654,Anticoagulation to prevent ischemic stroke and neurocognitive impairment in AF: BRAIN-AF,UNCERTAIN,potential_match,medium,RCT of rivaroxaban (pharmacological); cognitive decline as primary outcome; Canadian-led (Rivard Montreal); multicenter Canadian trial; but AF is cardiac not primary MH diagnosis; cognitive decline not diagnosed MH disorder per DSM/ICD
+6655,Phase 3 RCTs of simufilam in mild-to-moderate Alzheimers disease,OUT_OF_SCOPE,non_mh,high,AD is neurodegenerative not primary MH disorder per inclusion criteria; multinational pharma trial
+6656,Indirect effects of Seeking Safety plus sertraline on alcohol use,UNCERTAIN,potential_match,medium,RCT with sertraline (pharma) for PTSD+AUD (diagnosed MH); secondary analysis; US-based study primarily; multiple sites but no Canadian site evident
+6657,GLP-1 medicines in neurological and psychiatric disorders,OUT_OF_SCOPE,review,high,Review article not RCT
+6658,Interaction effect of physical activity and sleep on cognitive function in stroke,OUT_OF_SCOPE,observational,high,Cross-sectional study using baseline data from RCT; Canadian (Liu-Ambrose) but observational analysis; no pharma; stroke not primary MH
+6659,Evaluating Plasma p-tau217 as an Endpoint for AD Clinical Trials,OUT_OF_SCOPE,observational,high,Retrospective observational study not therapeutic RCT
+6660,Are Difficult Inpatients Also Difficult Primary Care Patients,OUT_OF_SCOPE,observational,high,Prospective cohort study not RCT; no pharma intervention
+6661,CSF alpha-Synuclein SAA and AD Biomarkers in Dementia With Lewy Bodies,OUT_OF_SCOPE,observational,high,Cross-sectional biomarker study not therapeutic RCT
+6662,Comparing Mulligan Movement vs PNF in Rotator Cuff Syndrome,OUT_OF_SCOPE,non_mh,high,Musculoskeletal rehabilitation not MH; non-pharmacological
+6663,Herbal medicine and acupuncture for mild cognitive impairment in Korea,OUT_OF_SCOPE,observational,high,Retrospective cohort not RCT; South Korea not Canada
+6664,Identifying biomarkers to predict treatment response to nabilone for agitation in AD,MAP,pharma_rct_canadian,high,Post hoc analysis of RCT of nabilone (pharmacological) for AD-associated agitation (MH symptom); Canadian trial (Lanctot Krista L - Sunnybrook Toronto); published 2025
+6665,Propofol for sedation during colonoscopy,OUT_OF_SCOPE,non_mh,high,Cochrane review of sedation for colonoscopy; not MH disorder
+6666,ML-based stratification of MCI in Parkinsons disease,OUT_OF_SCOPE,observational,high,Cross-sectional ML study not therapeutic RCT; China
+6667,Effects of Intradialytic Exercises on Erectile Dysfunction,OUT_OF_SCOPE,non_mh,high,Exercise for ED in hemodialysis; not MH; non-pharmacological
+6668,Effects of rTMS on quality of life in younger and older adults with MDD,UNCERTAIN,potential_match,medium,Secondary analysis of TWO RCTs (THREE-D and FOUR-D); non-pharmacological (rTMS) but Canadian (Blumberger Downar Vila-Rodriguez); MDD diagnosed; however primary intervention is rTMS not pharma
+6669,Supporting Individuals on ED Waitlists Through App-Based Motivational Interviewing,OUT_OF_SCOPE,non_pharma,high,Qualitative study not RCT; non-pharmacological (app-based MI)
+6670,Pharmacotherapies for cannabis use disorder,OUT_OF_SCOPE,review,high,Cochrane systematic review not primary RCT
+6671,Clinical Efficacy of Oral Valiltramiprosate in APOE4 homozygotes with Early AD,OUT_OF_SCOPE,non_mh,high,Phase III RCT for AD (neurodegenerative) not primary MH disorder; multinational
+6672,Changes in Pain Catastrophizing Following Empowered Relief in Workers with Low Back Pain,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (single-session psychoeducation); pain not MH; Canadian (French-Canadian) but uncontrolled pilot
+6673,Comprehensive Review of Nutritional Influences on the Serotonergic System,OUT_OF_SCOPE,review,high,Literature review not RCT
+6674,Lavender-Neroli Aromatherapy for Dental Anxiety in Children,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (aromatherapy); dental anxiety not diagnosed MH disorder
+6675,Effect of VR Interventions on Executive Functions in Children with ADHD,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (virtual reality); not Canadian
+6676,Unveiling potential of Digits-in-Noise test for hearing screening in cognitive impairment,OUT_OF_SCOPE,non_interventional,high,Diagnostic validation study not therapeutic RCT; hearing not MH
+6677,SMILE: nitrous oxide for treatment-resistant depression,MAP,pharma_rct_canadian,high,RCT; TRD (diagnosed MH); nitrous oxide (pharmacological inhalation agent); Canadian (Ladha Karim S Bhat Venkat - Toronto); 2025
+6678,Sensitivity of PHQ-9 items to change in three clinical trials in LMICs,OUT_OF_SCOPE,secondary_analysis,high,Secondary psychometric analysis not primary RCT; LMICs not Canada
+6679,Evolution of RCT Designs to Assess Therapeutics in AD,OUT_OF_SCOPE,review,high,Methodological review of RCT designs not a primary RCT
+6680,Evaluating Effect of Sleep Prehabilitation Intervention protocol,OUT_OF_SCOPE,protocol,high,Protocol without results; non-pharmacological (sleep intervention); surgical context
+6681,APOE4-dependent associations between carotenoids and cognitive decline MIND trial,OUT_OF_SCOPE,non_pharma,high,Dietary intervention trial (MIND diet); not pharmacological; US-based
+6682,Sociodemographic and clinical characteristics among individuals with BD in Pakistan,OUT_OF_SCOPE,observational,high,Secondary analysis of baseline screening data; Pakistan not Canada; no primary intervention results
+6683,Aberrant anterior insula underlies interoceptive deficits in alexithymia in schizophrenia,OUT_OF_SCOPE,observational,high,fMRI task study not therapeutic RCT; China
+6684,Feasibility of ultra-brief group CBT skills workshops for university students protocol,OUT_OF_SCOPE,protocol,high,Protocol without results; non-pharmacological (CBT); Canadian
+6685,Follow-Up of Children Born to Mothers in Folic Acid Clinical Trial FACT 4 Child,OUT_OF_SCOPE,non_mh,high,Follow-up of obstetric RCT; folic acid for preeclampsia prevention; child neurodevelopmental outcomes; Canadian but not MH pharma intervention for MH disorder
+6686,ACTIVATE: Pilot RCT of Family-Partnered Delirium Prevention in ICU,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (family intervention for delirium); Canadian ICUs; delirium prevention not primary MH disorder treatment
+6687,Effect of lemborexant on sleep parameters in obstructive sleep apnea,OUT_OF_SCOPE,non_mh,high,Pharmacological (lemborexant) but for OSA not diagnosed MH disorder; Canadian author but multinational
+6688,Behavioral Activation for Perinatal Suicide Ideation secondary analysis,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (behavioral activation psychotherapy); secondary analysis; Canadian site (Toronto) but intervention is psychotherapy not pharma
+6689,Moderators of digital CBT for youth with sickle cell disease pain,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (digital CBT); secondary analysis; pain not MH primary; includes Canadian author but US-based
+6690,New comorbidity index for CAR-T therapy for large B-cell lymphoma,OUT_OF_SCOPE,non_mh,high,Oncology/hematology not MH
+6691,Accelerating precision exercise medicine in cancer patients POLARIS,OUT_OF_SCOPE,non_pharma,high,Exercise oncology pooled analysis; non-pharmacological
+6692,Impact of resistance training on sleep quality mental health in older women,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (resistance training); not Canadian
+6693,Feasibility of non-pharmacological research in participants with mania Ottawa study,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (blue-blocking glasses); qualitative feasibility; Canadian (Ottawa) but no pharma
+6694,Sleep quality patterns in heart failure: latent class analysis from MOTIVATE-HF,OUT_OF_SCOPE,observational,high,Secondary cross-sectional analysis; heart failure not MH; Italy
+6695,Feasibility study of PA intervention for people with SMI in UK medium secure,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (physical activity); UK not Canada
+6696,Preoperative physical health and psychosocial characteristics post-TKA,OUT_OF_SCOPE,observational,high,Secondary analysis; structural equation modeling; orthopedic not MH
+6697,Diazepam modulates hippocampal CA1 connectivity in clinical high-risk for psychosis,UNCERTAIN,potential_match,medium,RCT; diazepam (pharmacological); CHR-P (clinical high-risk for psychosis); UK-based study; no Canadian site evident from author affiliations; CHR-P may not be formal DSM diagnosis
+6698,Access to therapy for children and adolescents with multiple sclerosis,OUT_OF_SCOPE,review,high,Review article not RCT; MS is neurological not primary MH
+6699,Reducing public stigma toward bipolar disorder: mechanisms,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (anti-stigma intervention); experimental psychology; undergrad sample without BD diagnosis
+6700,Utility of MMSE and MoCA combination to predict incident AD dementia,OUT_OF_SCOPE,observational,high,Post-hoc observational analysis; Japan; not therapeutic RCT
+6701,Non-motor subtypes in candidates for subthalamic DBS for PD,OUT_OF_SCOPE,observational,high,Cluster analysis of cohort data; France; not therapeutic RCT
+6702,DBS surgical timing outcomes and prognostic factors in PD in China,OUT_OF_SCOPE,observational,high,Retrospective cohort study not RCT; China
+6703,ML-Based Cognitive Assessment With Autonomous Cognitive Examination RCT,OUT_OF_SCOPE,non_pharma,high,RCT of cognitive assessment tool not therapeutic intervention; no pharma; Canadian but diagnostic not therapeutic
+6704,Indocyanine Green Fluorescence Imaging for Colorectal Surgery HTA,OUT_OF_SCOPE,non_mh,high,Health technology assessment for colorectal surgery; Ontario but not MH
+6705,Cognitive Training Programme on Cancer-Related Cognitive Impairment RCT Protocol,OUT_OF_SCOPE,protocol,high,Protocol without results; non-pharmacological (cognitive training); not Canadian
+6706,Treating Racial Trauma: Methodology of a RCT of Healing Racial Trauma Protocol,OUT_OF_SCOPE,protocol,high,Methodology/protocol paper; non-pharmacological (psychotherapy); Canadian author (Williams) but protocol only
+6707,Temporal Muscle Thickness as Biomarker for AD in Chinese Adults,OUT_OF_SCOPE,observational,high,Cross-sectional biomarker study not RCT; China
+6708,Prevalence of mental health evaluation in erectile dysfunction clinical trials,OUT_OF_SCOPE,non_interventional,high,Database analysis not therapeutic RCT; Canadian authors but methods study
+6709,Restricting community treatment orders to people with non-affective psychosis,OUT_OF_SCOPE,observational,high,Retrospective cohort study; Australia not Canada
+6710,Development and Adaptive Function in SCN2A-Related Disorders,OUT_OF_SCOPE,observational,high,Cross-sectional natural history study not therapeutic RCT
+6711,Midazolam for sedation of infants in NICU,OUT_OF_SCOPE,non_mh,high,Cochrane review; neonatal sedation not MH disorder treatment
+6712,BRAVA: RCT of brief group intervention for youth with suicidal ideation,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (group psychosocial intervention); Canadian (Ottawa) but no pharma intervention
+6713,Study protocol for multi-session randomized sham-controlled trial of neurofeedback for PTSD,OUT_OF_SCOPE,protocol,high,Protocol without results; non-pharmacological (neurofeedback); Canadian
+6714,Safety and tolerability of sublingual 5-MeO-DMT for depression and anxiety,OUT_OF_SCOPE,non_canadian,high,Phase I pharma RCT but Argentina-based; participants without formal psychiatric diagnosis
+6715,Improvement of Fatigue Due to Placebo in Cancer Fatigue Treatment Trials,OUT_OF_SCOPE,observational,high,Analysis of placebo response across trials; not primary RCT; cancer fatigue not MH
+6716,Efficacy of ISTDP with Laser Acupuncture in Major Depression,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (psychotherapy + laser acupuncture); Iran not Canada
+6717,Differential effects of multidomain intervention on cognitive decline in diabetes,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (lifestyle intervention); Japan not Canada
+6718,Trigeminal nerve stimulation as active control in TMS clinical trials,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (TMS methodology); includes Canadian author (Downar) but methodological analysis not therapeutic RCT
+6719,RCT of emotionally focused individual therapy EFIT for depression and anxiety,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (psychotherapy EFIT); Canadian (Ottawa authors); MDD diagnosed but intervention is psychotherapy not pharma
+6720,Using ML to Predict Treatment Outcome in Youth Anxiety Treatments,OUT_OF_SCOPE,secondary_analysis,high,ML prediction across concatenated trial datasets; not primary RCT; includes sertraline arm but secondary analysis
+6721,Target validation in DBT skills group: mediators of outcome,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (DBT group therapy); Canadian (Toronto) but psychotherapy not pharma
+6722,Virtual group-based mindfulness for autistic adults RCT,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (mindfulness); Canadian across Canada; ASD but no pharma intervention
+6723,Challenges in Development of Digital MH Intervention VMood,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (digital app); Vietnam; feasibility study; Canadian co-developers but Vietnam implementation
+6724,Bridging the mind and body: VTE in psychiatric inpatients,OUT_OF_SCOPE,observational,high,Retrospective case-control chart review; Saskatoon Canada; but observational not RCT; VTE not MH intervention
+6725,tDCS for Borderline Personality Disorder: Why and How,OUT_OF_SCOPE,review,high,Narrative review not primary RCT; non-pharmacological (tDCS)
+6726,Enhancing active aging through exercise: HIIT vs CAT,OUT_OF_SCOPE,review,high,Review of RCTs not primary RCT; non-pharmacological (exercise)
+6727,Age-stratified validation of Performance Index for dual-task cost,OUT_OF_SCOPE,observational,high,Cross-sectional validation study not therapeutic RCT
+6728,Extended HD-tDCS for Cognitive Functions in Chronic Schizophrenia,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (HD-tDCS); India not Canada
+6729,Anxiolysis for laceration repair in children ALICE protocol,OUT_OF_SCOPE,protocol,high,Protocol; pharmacological anxiolytics but for laceration repair (procedural) not MH disorder; Canadian
+6730,MAIC of Centanafadine versus Methylphenidate in Adults with ADHD,UNCERTAIN,potential_match,medium,Indirect comparison (MAIC) not direct RCT; ADHD (diagnosed MH); pharmacological; Canadian journal and includes Foquest (Canadian product); but MAIC methodology not interventional RCT
+6731,Pilot RCT of digital cannabis harm reduction for FEP,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (digital app CHAMPS); Canadian multicenter; FEP but intervention is digital harm reduction not pharma
+6732,Differences in PD Populations: Teaching Hospitals vs Other Settings,OUT_OF_SCOPE,observational,high,Retrospective cohort using Ontario data; observational not therapeutic RCT; PD not primary MH
+6733,Evidence for Link Between Non-Motor Symptoms Gait and Physical Function in PD,OUT_OF_SCOPE,observational,high,Secondary analysis of baseline data; Canadian authors but observational; PD not primary MH
+6734,Prediction of Mental Health Complications Following mTBI,OUT_OF_SCOPE,secondary_analysis,high,Secondary analysis of RCT data for prognostic modeling; Canadian (Silverberg); not therapeutic intervention assessment
+6735,Acceptability and safety of probiotic supplementation in children with ASD,OUT_OF_SCOPE,non_pharma,high,Probiotic feasibility study (not pharma per inclusion criteria); Canadian (Montreal); ASD; open-label single arm not RCT
+6736,Comorbidities safety and persistence in phase III MS clinical trials,OUT_OF_SCOPE,observational,high,Meta-analysis of individual participant data; MS is neurological not primary MH; Canadian co-author but multinational meta-analysis
+6737,Impact of aripiprazole on neurocognitive function in clinical high risk for psychosis,OUT_OF_SCOPE,observational,high,Retrospective analysis not RCT; China (Shanghai); aripiprazole but observational design
+6738,In-Home Assistive Technology for Dementia Caregivers Sleep RCT,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (technology); US-based; caregiver sleep not MH treatment
+6739,Effects of mini-dose esketamine-dexmedetomidine on postoperative sleep quality protocol,OUT_OF_SCOPE,protocol,high,Protocol without results; surgical anesthesia context not MH; China
+6740,Pilot Study Attachment-Based Parenting Intervention for Adolescents in China,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (parenting program); China not Canada; single-arm pilot
+6741,CBT for sexual concerns during menopause,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (CBT); Canadian (Hamilton ON); but psychotherapy not pharma; no diagnosed MH disorder
+6742,Effect of multi-modal intervention on atrophy and SVD markers AgeWell.de,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (lifestyle intervention); Germany not Canada
+6743,Feasibility of Online Culturally Adapted CBT for Depression and Anxiety in Canadian South Asians,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (CBT psychotherapy); Canadian RCT (Toronto Ottawa Vancouver); MDD/anxiety diagnosed; but intervention is psychotherapy not pharma
+6744,Brain stimulation enhances dispositional mindfulness in PTSD,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (rTMS); Canadian (Vancouver); PTSD diagnosed; but rTMS not pharma
+6745,Bayesian adaptive enrichment design BayesAET R package,OUT_OF_SCOPE,non_interventional,high,Statistical methodology paper not therapeutic RCT; Canadian author (Vila-Rodriguez)
+6746,Effects of Tai Chi and Qigong on anxiety and stress in diabetic/hypertensive patients,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (Tai Chi/Qigong); Brazil not Canada
+6747,LEAD 2.0 study protocol: exercise and nutrition for subjective cognitive decline,OUT_OF_SCOPE,protocol,high,Protocol without results; non-pharmacological (exercise/nutrition); Canadian
+6748,At-home Breast Oncology care with EHealth ABODE study protocol,OUT_OF_SCOPE,protocol,high,Protocol; non-pharmacological (eHealth app); Canadian (Ontario) but oncology/patient activation not MH
+6749,Effects of Wearable Activity Trackers With Home-Based Exercise in Older Adults,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (exercise + wearables); not Canadian; falls prevention not MH
+6750,Cholinergic therapy in Alzheimer disease,OUT_OF_SCOPE,review,high,Book chapter/review not primary RCT
+6751,Ethical and legal concerns with alert systems for missing persons with dementia,OUT_OF_SCOPE,non_interventional,high,Qualitative ethical/legal analysis not RCT; Canadian but not therapeutic
+6752,Implementation of 3 Wishes Project in safety-net hospitals protocol,OUT_OF_SCOPE,protocol,high,Protocol; non-pharmacological (palliative care); end-of-life not MH intervention
+6753,PHN-Delivered 1-Day CBT Workshops for Postpartum Depression Pilot RCT,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (CBT workshop); Canadian (Ontario); PPD diagnosed MH; but psychotherapy not pharma
+6754,Identifying MH Physical Social Determinants of Extended LOS After Cardiac Surgery,OUT_OF_SCOPE,observational,high,Observational cohort; Canadian; cardiac surgery not MH intervention
+6755,Factors associated with improvement in cancer-related fatigue after CBT-I,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (CBT-I); Canadian (Atlantic Canada); secondary analysis; cancer fatigue not primary MH
+6756,Intensive Sleep Retraining and Total Sleep Deprivation for Chronic Insomnia RCT,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (sleep retraining/deprivation); insomnia but not pharma; Australian study
+6757,Reliability of medical illness reporting in a randomized clinical trial,OUT_OF_SCOPE,non_interventional,high,Methodological analysis of illness reporting accuracy; not therapeutic RCT assessment
+6758,Improving Gait Ability and Cognition through Action Observation Training in Elderly with Dementia,OUT_OF_SCOPE,non_pharma,high,Non-pharmacological (action observation training); not Canadian; dementia but exercise/rehab intervention

@@ -1,0 +1,247 @@
+batch,id,title,decision,category
+1,26580307,Efficacy of Bright Light Treatment Fluoxetine and the Combination in Patients With Nonseasonal Major Depressive Disorder,MAP,depression
+1,27049826,Hydromorphone Compared With Diacetylmorphine for Long-term Opioid Dependence,MAP,substance_use
+1,28199710,Cognitive Behavioral Insomnia Therapy for Those With Insomnia and Depression,UNCERTAIN,depression
+1,28483500,Probiotic Bifidobacterium longum NCC3001 Reduces Depression Scores and Alters Brain Activity,UNCERTAIN,depression
+1,30654643,Olanzapine Versus Placebo in Adult Outpatients With Anorexia Nervosa,MAP,eating_disorder
+1,30922101,Single repeated and maintenance ketamine infusions for treatment-resistant depression,MAP,depression
+1,31066887,Efficacy of Adjunctive Infliximab vs Placebo in the Treatment of Adults With Bipolar I/II Depression,MAP,bipolar_mood
+1,31109201,Efficacy and Safety of Flexibly Dosed Esketamine Nasal Spray Combined With a Newly Initiated Oral Antidepressant in Treatment-Resistant Depression,UNCERTAIN,depression
+1,31166571,Efficacy of Esketamine Nasal Spray Plus Oral Antidepressant Treatment for Relapse Prevention in Patients With Treatment-Resistant Depression,UNCERTAIN,depression
+1,31290965,Efficacy and Safety of Fixed-Dose Esketamine Nasal Spray Combined With a New Oral Antidepressant in Treatment-Resistant Depression (TRANSFORM-1),UNCERTAIN,depression
+1,31764959,Efficacy and Safety of Lanabecestat for Treatment of Early and Mild Alzheimer Disease (AMARANTH and DAYBREAK-ALZ),UNCERTAIN,dementia
+1,33972795,MDMA-assisted therapy for severe PTSD: a randomized double-blind placebo-controlled phase 3 study,UNCERTAIN,anxiety_trauma_ocd
+1,34155411,A trial of gantenerumab or solanezumab in dominantly inherited Alzheimer's disease,UNCERTAIN,dementia
+1,35542991,Two Randomized Phase 3 Studies of Aducanumab in Early Alzheimer's Disease,UNCERTAIN,dementia
+1,37095250,Tau-targeting antisense oligonucleotide MAPTRx in mild Alzheimer's disease,UNCERTAIN,dementia
+1,37966285,Two Phase 3 Trials of Gantenerumab in Early Alzheimer's Disease,UNCERTAIN,dementia
+2,27721184,Liraglutide promotes improvements in objective measures of cognitive dysfunction in individuals with mood disorders.,UNCERTAIN,bipolar_mood
+2,28381506,A phase 3 trial of IV immunoglobulin for Alzheimer disease,UNCERTAIN,dementia
+2,31182351,Randomized Placebo-Controlled Trial of Nabilone for Agitation in Alzheimer's Disease.,MAP,dementia
+2,32101271,Effects of Antipsychotic Medication on Brain Structure in Patients With Major Depressive Disorder and Psychotic Features,UNCERTAIN,depression
+2,33103819,A ketogenic drink improves cognition in mild cognitive impairment: Results of a 6-month RCT.,UNCERTAIN,dementia
+3,27556593,Metformin for Treatment of Overweight Induced by Atypical Antipsychotic Medication in Young People With Autism Spectrum Disorder: A Randomized Clinical Trial.,MAP,other_mental_health
+3,27780334,Efficacy of Vortioxetine on Cognitive Functioning in Working Patients With Major Depressive Disorder.,UNCERTAIN,depression
+3,31759333,Single and repeated ketamine infusions for reduction of suicidal ideation in treatment-resistant depression.,MAP,depression
+3,33860185,Acute and Sustained Reductions in Loss of Meaning and Suicidal Ideation Following Psilocybin-Assisted Psychotherapy for Psychiatric and Existential Distress in Life-Threatening Cancer.,UNCERTAIN,depression
+3,34570180,Effect of Methylphenidate on Apathy in Patients With Alzheimer Disease: The ADMET 2 Randomized Clinical Trial.,MAP,dementia
+4,26746121,Efficacy of Low-Dose Buspirone for Restricted and Repetitive Behavior in Young Children with Autism Spectrum Disorder: A Randomized Trial.,UNCERTAIN,other_mental_health
+4,27150464,The Pharmacogenomics of Bipolar Disorder study (PGBD): identification of genes for lithium response in a prospective sample.,UNCERTAIN,bipolar_mood
+4,28533148,Repetitive transcranial magnetic stimulation of the right dorsal lateral prefrontal cortex in the treatment of generalized anxiety disorder.,UNCERTAIN,anxiety_trauma_ocd
+4,29407288,GWAS-based machine learning approach to predict duloxetine response in major depressive disorder.,UNCERTAIN,depression
+4,31429896,Effect of Continuing Olanzapine vs Placebo on Relapse Among Patients With Psychotic Depression in Remission: The STOP-PD II Randomized Clinical Trial.,MAP,psychotic
+4,32639561,Effectiveness of Sequential Psychological and Medication Therapies for Insomnia Disorder: A Randomized Clinical Trial.,MAP,other_mental_health
+4,33636648,Long-term effectiveness and safety of lemborexant in adults with insomnia disorder.,UNCERTAIN,other_mental_health
+4,33643087,Development and Evaluation of a Therapist Training Program for Psilocybin Therapy for Treatment-Resistant Depression in Clinical Research.,UNCERTAIN,depression
+4,33654400,Efficacy of Vortioxetine on Anhedonia: Results from a Pooled Analysis of Short-Term Studies in Patients with Major Depressive Disorder.,UNCERTAIN,depression
+4,35120288,Treating Insulin Resistance With Metformin as a Strategy to Improve Clinical Outcomes in Treatment-Resistant Bipolar Depression (the TRIO-BD Study).,MAP,bipolar_mood
+4,36867173,Antidepressant Augmentation versus Switch in Treatment-Resistant Geriatric Depression,UNCERTAIN,depression
+4,37902726,Exploratory Tau Biomarker Results From a Multiple Ascending-Dose Study of BIIB080 in Alzheimer Disease.,MAP,dementia
+5,25999335,Agomelatine or placebo as adjunctive therapy to a mood stabiliser in bipolar I depression: randomised double-blind placebo-controlled trial,MAP,pharmacological_rct_mental
+5,26730716,Varenicline Effects on Smoking Cognition and Psychiatric Symptoms in Schizophrenia: A Double-Blind Randomized Trial,UNCERTAIN,schizophrenia
+5,26771737,Heterogeneity of treatment response to citalopram for patients with Alzheimer's disease with aggression or agitation: The CitAD randomized clinical trial,MAP,dementia
+5,28185899,Lurasidone versus treatment as usual for cognitive impairment in euthymic patients with bipolar I disorder: a randomised open-label pilot study,MAP,pharmacological_rct_mental_canadian
+5,32380271,Efficacy of adjunctive infliximab vs placebo in the treatment of anhedonia in bipolar I/II depression,MAP,pharmacological_rct_mental_canadian
+5,38359838,Psilocybin-assisted psychotherapy for treatment resistant depression: A randomized clinical trial evaluating repeated doses of psilocybin,MAP,depression
+6,28061017,Feasibility and safety of extended-release naltrexone treatment of opioid and alcohol use disorder in HIV clinics,MAP,substance_use_pharma_RCT
+6,28364426,Long-Term Maintenance of Therapeutic Gains Associated With CBT for Insomnia Combined With Zolpidem,UNCERTAIN,pharma_RCT_insomnia
+6,29661156,SYNERGIC TRIAL,UNCERTAIN,pharma_RCT_MCI
+6,30126458,Anti-inflammatory treatment of depression: Study protocol for vortioxetine augmented with celecoxib,UNCERTAIN,depression_pharma_RCT
+6,32268604,Extracellular Vesicle Biomarkers Reveal Inhibition of Neuroinflammation by Infliximab in Association with Antidepressant Response in Adults with Bipolar Depression,MAP,bipolar_pharma_RCT
+6,34303786,Micronutrients for ADHD in Youths (MADDY),MAP,ADHD_pharma_RCT
+6,35211743,Efficacy and Safety of Roluperidone for the Treatment of Negative Symptoms of Schizophrenia,UNCERTAIN,schizophrenia_pharma_RCT
+6,36223114,Efficacy of Adjunctive D-Cycloserine to Intermittent Theta-Burst Stimulation for Major Depressive Disorder,MAP,depression_pharma_RCT
+7,35286849,The effects of MDMA-assisted therapy on alcohol and substance use in a phase 3 trial for treatment of severe PTSD.,UNCERTAIN,Pharmacological RCT
+7,27284082,Methylene blue treatment for residual symptoms of bipolar disorder: randomised crossover study.,MAP,Mental health pharma RCT
+7,31045590,Curcumin as Add-On to Antipsychotic Treatment in Patients With Chronic Schizophrenia: A Randomized Double-Blind Placebo-Controlled Study.,UNCERTAIN,Pharmacological RCT
+7,26460229,Optimal duration of risperidone or olanzapine adjunctive therapy to mood stabilizer following remission of a manic episode: A CANMAT randomized double-blind trial.,MAP,Mental health pharma RCT
+7,28013123,A randomized double-blind placebo-controlled crossover trial evaluating the effect of intranasal insulin on cognition and mood in individuals with treatment-resistant major depressive disorder.,MAP,Mental health pharma RCT
+7,28289280,Biochemical physiological and clinical effects of l-methylfolate in schizophrenia: a randomized controlled trial.,UNCERTAIN,Pharmacological RCT
+7,29666372,Brain serotonin synthesis capacity in obsessive-compulsive disorder: effects of cognitive behavioral therapy and sertraline.,MAP,Mental health pharma RCT
+7,31147244,Optimizing Outcomes of Treatment-Resistant Depression in Older Adults (OPTIMUM).,MAP,Pharmacological RCT
+7,32349118,The association between lithium use and neurocognitive performance in patients with bipolar disorder.,MAP,Mental health pharma RCT
+7,28413900,Efficacy of Cognitive Behavioral Therapy With and Without Medication for Adults With ADHD.,UNCERTAIN,Pharmacological RCT
+7,28068779,Norepinephrine transporter gene variants and remission from depression with venlafaxine treatment in older adults,MAP,Mental health pharma RCT
+7,35272210,MDMA-assisted therapy significantly reduces eating disorder symptoms in a randomized placebo-controlled trial of adults with severe PTSD.,UNCERTAIN,Pharmacological RCT
+7,32312344,The network structure of core depressive symptom-domains in MDD following antidepressant treatment: a randomized clinical trial.,MAP,Mental health pharma RCT
+7,30755255,Evaluation of BI 409306 a novel phosphodiesterase type 9 inhibitor in two phase II studies in prodromal and mild Alzheimer's disease.,MAP,Mental health pharma RCT
+7,26482056,A Randomized Placebo-Controlled Discontinuation Study of Cholinesterase Inhibitors in Institutionalized Patients With Moderate to Severe Alzheimer Disease.,MAP,Mental health pharma RCT
+7,26974214,Factors associated with relapse in schizophrenia despite adherence to long-acting injectable antipsychotic therapy.,MAP,Mental health pharma RCT
+7,29777003,Impact of Reference and Target Region Selection on Amyloid PET SUV Ratios in the Phase 1b PRIME Study of Aducanumab.,MAP,Mental health pharma RCT
+8,30565793,Donepezil for gait and falls in mild cognitive impairment: a randomized controlled trial.,MAP,pharmacological_RCT
+8,31269506,Clinical Efficacy and Biological Regulations of omega-3 PUFA-Derived Endocannabinoids in Major Depressive Disorder.,UNCERTAIN,pharmacological_RCT
+8,33316649,Exploring brain insulin resistance in adults with bipolar depression using extracellular vesicles of neuronal origin.,MAP,pharmacological_RCT
+8,34154394,Time Course of Relapse Following Acute Treatment for Anorexia Nervosa.,UNCERTAIN,pharmacological_RCT
+8,36281683,"Oral Tau Aggregation Inhibitor for Alzheimer's Disease: Design, Progress and Basis for Selection of the 16 mg/day Dose in a Phase 3, Randomized, Placebo-Controlled Trial of Hydromethylthionine Mesylate.",MAP,pharmacological_RCT
+9,27529771,Omega-3 Fatty Acids Depressive Symptoms and Cognitive Performance in Patients With Coronary Artery Disease.,UNCERTAIN,pharmacological_rct
+9,28942807,A Randomized Placebo-Controlled Trial of Metformin for the Treatment of Overweight Induced by Antipsychotic Medication in Young People With Autism Spectrum Disorder: Open-Label Extension.,MAP,pharmacological_rct
+9,29689693,Vortioxetine improves symptomatic and functional outcomes in major depressive disorder.,MAP,pharmacological_rct
+9,30115553,Adjunctive S-adenosylmethionine (SAMe) in treating non-remittent major depressive disorder.,UNCERTAIN,pharmacological_rct
+9,30684794,A randomized comparison of long acting methylphenidate and cognitive behavioral therapy in the treatment of binge eating disorder.,MAP,pharmacological_rct
+9,30771856,The Vitamins in Psychosis Study: A Randomized Double-Blind Placebo-Controlled Trial of the Effects of Vitamins B12 B6 and Folic Acid on Symptoms and Neurocognition in First-Episode Psychosis,UNCERTAIN,pharmacological_rct
+9,31658058,Concentration-Dependent Activity of Hydromethylthionine on Cognitive Decline and Brain Atrophy in Mild to Moderate Alzheimer's Disease.,UNCERTAIN,pharmacological_rct
+9,31682328,Comorbid anxiety in late-life depression: Relationship with remission and suicidal ideation on venlafaxine treatment.,MAP,pharmacological_rct
+9,32212856,Augmenting computerized cognitive training with vortioxetine for age-related cognitive decline: A randomized controlled trial,UNCERTAIN,pharmacological_rct
+9,33658605,Peripheral inflammatory biomarkers define biotypes of bipolar depression.,MAP,pharmacological_rct_mental_health
+10,26871297,Extended-release guanfacine hydrochloride in 6-17-year olds with ADHD: a randomised-withdrawal maintenance of efficacy study.,UNCERTAIN,pharmacological_mental_health
+10,27233840,"Flexible, dual-form nicotine replacement therapy or varenicline in comparison with nicotine patch for smoking cessation: a randomized controlled trial.",MAP,pharmacological_mental_health
+10,27835719,"Adjunctive Taurine in First-Episode Psychosis: A Phase 2, Double-Blind, Randomized, Placebo-Controlled Study.",UNCERTAIN,pharmacological_mental_health
+10,27874185,Translating Delirium Prevention Strategies for Elderly Adults with Hip Fracture into Routine Clinical Care: A Pragmatic Clinical Trial.,UNCERTAIN,non-mental-health
+10,29700801,Ketamine-based anesthesia improves electroconvulsive therapy outcomes: a randomized-controlled study.,MAP,pharmacological_mental_health
+10,31547752,"Agitation, Oxidative Stress, and Cytokines in Alzheimer Disease: Biomarker Analyses From a Clinical Trial With Nabilone for Agitation.",MAP,pharmacological_mental_health
+10,34635802,"The efficacy and safety of zolpidem and zopiclone to treat insomnia in Alzheimer's disease: a randomized, triple-blind, placebo-controlled trial.",UNCERTAIN,pharmacological_mental_health
+10,35310527,"Use of medium chain triglyceride (MCT) oil in subjects with Alzheimer's disease: A randomized, double-blind, placebo-controlled, crossover study, with an open-label extension.",MAP,pharmacological_mental_health
+10,35637185,"Correction: Clinical utility of combinatorial pharmacogenomic testing in depression: A Canadian patient- and rater-blinded, randomized, controlled trial",MAP,pharmacological_mental_health
+10,37936330,Vortioxetine for the treatment of post-COVID-19 condition: a randomized controlled trial.,MAP,pharmacological_mental_health
+10,38454079,Comparative effectiveness research trial for antidepressant incomplete and non-responders with treatment resistant depression (ASCERTAIN-TRD) a randomized clinical trial.,MAP,pharmacological_mental_health
+10,38760589,"p75 neurotrophin receptor modulation in mild to moderate Alzheimer disease: a randomized, placebo-controlled phase 2a trial.",UNCERTAIN,pharmacological_mental_health
+10,rank_1488,Evaluation of the effectiveness and safety of olanzapine as an adjunctive treatment for anorexia nervosa in adolescents: An open-label trial,MAP,observational
+11,26967214,Efficacy and Safety of ABT-126 in Subjects with Mild-to-Moderate Alzheimer's Disease.,MAP,Pharmacotherapy
+11,27208498,Brexpiprazole as adjunctive treatment of major depressive disorder with anxious distress.,MAP,Pharmacotherapy
+11,27318221,Effects of armodafinil and CBT-I on sleep continuity and daytime sleepiness in cancer survivors.,MAP,Pharmacotherapy
+11,27665002,Housing First Improves Adherence to Antipsychotic Medication Among Formerly Homeless Adults With Schizophrenia.,MAP,Pharmacotherapy
+11,27742581,Oxidative stress predicts depressive symptom changes with omega-3 fatty acid treatment in CAD patients.,MAP,Pharmacotherapy
+11,28044255,Mavoglurant Augmentation in OCD Patients Resistant to SSRIs.,MAP,Pharmacotherapy
+11,28105576,Effects of CBT-I and armodafinil on quality of life in cancer survivors.,MAP,Pharmacotherapy
+11,28343051,Tolerability of cariprazine in the treatment of acute bipolar I mania.,MAP,Pharmacotherapy
+11,29627621,The OPTIMA study buprenorphine/naloxone and methadone models of care for prescription opioid use disorder.,MAP,Pharmacotherapy
+11,30498564,A pilot dose finding study of pioglitazone in autistic children.,MAP,Pharmacotherapy
+11,30522875,Effects of suvorexant on the Insomnia Severity Index in patients with insomnia.,MAP,Pharmacotherapy
+11,30913472,A patient decision aid for antidepressant use in pregnancy: Pilot RCT.,MAP,Pharmacotherapy
+11,31098654,An increase in plasma BDNF levels is related to n-3 polyunsaturated fatty acid efficacy in first episode schizophrenia: secondary outcome analysis of the OFFER randomized clinical trial.,MAP,Pharmacotherapy
+11,32067288,Efficacy and safety of 5-hydroxytryptophan on depression and apathy in Parkinson's disease: a preliminary finding.,UNCERTAIN,Non-Canadian
+11,32221178,Change in Defense Mechanisms and Depression in a Pilot Study of Antidepressive Medications Plus Psychotherapy.,MAP,Pharmacotherapy
+11,32988292,Efficacy of Melatonin for Sleep Disturbance in Children with Persistent Post-Concussion Symptoms: Secondary Analysis of a Randomized Controlled Trial.,UNCERTAIN,Pharmacotherapy
+11,33641259,Pharmacogenomics guided versus standard antidepressant treatment in a community pharmacy setting: A randomized controlled trial.,MAP,Pharmacotherapy
+11,33854039,Metformin for early comorbid glucose dysregulation and schizophrenia spectrum disorders: a pilot double-blind randomized clinical trial.,MAP,Pharmacotherapy
+11,34153630,Neurocognitive aspects of ketamine and esketamine on subjects with treatment-resistant depression.,MAP,Pharmacotherapy
+11,35556138,Comparison of Acute Followed by Maintenance ECT vs Clozapine in Treatment-Resistant Schizophrenia.,UNCERTAIN,Pharmacotherapy
+11,35771573,Association of Molecular Senescence Markers in Late-Life Depression With Clinical Characteristics and Treatment Outcome.,MAP,Pharmacotherapy
+11,37530824,Duration of Adjunctive Antidepressant Maintenance in Bipolar I Depression.,MAP,Pharmacotherapy
+11,39800452,Blarcamesine for the treatment of Early Alzheimer's Disease: ANAVEX2-73-AD-004 Phase IIB/III trial.,MAP,Pharmacotherapy
+12,10.3233/adr-210296,Phase II (NAVIGATE-AD study) Results of LY3202626 Effects on Patients with Mild Alzheimer's Disease Dementia,MAP,dementia-pharmacotherapy
+12,27438687,"Combining moderators to identify clinical profiles of patients who will, and will not, benefit from aripiprazole augmentation for treatment resistant late-life major depressive disorder.",MAP,depression-pharmacotherapy
+12,27921338,Melancholic and atypical depression as predictor and moderator of outcome in cognitive behavior therapy and pharmacotherapy for adult depression.,UNCERTAIN,pharma-mental-health
+12,28143413,Use of the EMPOWER brochure to deprescribe sedative-hypnotic drugs in older adults with mild cognitive impairment.,MAP,dementia-pharmacotherapy---deprescribing
+12,28526048,Men's and women's response to treatment and perceptions of outcomes in a randomized controlled trial of injectable opioid assisted treatment for severe opioid use disorder.,MAP,substance-use-disorder-pharmacotherapy
+12,28651701,Oxidative stress reduction related to the efficacy of n-3 polyunsaturated fatty acids in first episode schizophrenia: Secondary outcome analysis of the OFFER randomized trial,MAP,schizophrenia-pharmacotherapy
+12,29105003,"Anxiety, irritability, and agitation as indicators of bipolar mania with depressive symptoms: a post hoc analysis of two clinical trials.",UNCERTAIN,bipolar-disorder-pharmacotherapy
+12,29235659,Effect of Metabolic Syndrome on Late-Life Depression: Associations with Disease Severity and Treatment Resistance.,MAP,depression-pharmacotherapy
+12,30135032,12-week double-blind randomized multicenter study of efficacy and safety of agomelatine (25-50 mg/day) versus escitalopram (10-20 mg/day) in out-patients with severe generalized anxiety disorder.,MAP,anxiety-pharmacotherapy
+12,30261917,Adaptive crossover designs for assessment of symptomatic treatments targeting behaviour in neurodegenerative disease: a phase 2 clinical trial of intranasal oxytocin for frontotemporal dementia (FOXY).,MAP,dementia-pharmacotherapy
+12,32058426,"Evaluation of cariprazine in the treatment of bipolar I and II depression: a randomized, double-blind, placebo-controlled, phase 2 trial.",UNCERTAIN,bipolar-depression-pharmacotherapy
+12,32280089,Concentration-Dependent Activity of Hydromethylthionine on Clinical Decline and Brain Atrophy in a Randomized Controlled Trial in Behavioral Variant Frontotemporal Dementia.,MAP,dementia-pharmacotherapy
+12,34657638,"Vortioxetine 20 mg/day in patients with major depressive disorder: updated analysis of efficacy, safety, and optimal timing of dose adjustment.",UNCERTAIN,depression-pharmacotherapy
+12,35179810,Clinical predictors of depressive symptom remission and response after racemic ketamine and esketamine infusion in treatment-resistant depression.,UNCERTAIN,depression-pharmacotherapy
+12,37405756,Association Between Stimulant Treatment and Substance Use Through Adolescence Into Early Adulthood.,UNCERTAIN,pharma-mental-health
+13,26496015,Asenapine: Efficacy and safety of 5 and 10mg bid in a 3-week trial in adults with bipolar I disorder.,MAP,Pharmacotherapy RCT for bipolar mania
+13,27515452,The role of sleep quality and quantity in moderating the effectiveness of medication in the treatment of children with ADHD.,MAP,ADHD
+13,27821210,Asenapine for the treatment of adults with an acute exacerbation of schizophrenia.,MAP,Schizophrenia
+13,28647012,Striatal Activation Predicts Differential Therapeutic Responses to Methylphenidate and Atomoxetine.,MAP,ADHD
+13,31721892,Association of BDNF HTR2A TPH1 SLC6A4 and COMT polymorphisms with tDCS and escitalopram efficacy.,MAP,Depression
+13,33092404,Minocycline as adjunctive treatment for major depressive disorder: Pooled data from two randomized controlled trials.,MAP,Depression
+13,34782701,Rostral anterior cingulate network effective connectivity in depressed adolescents and associations with treatment response in a randomized controlled trial.,MAP,Depression
+13,34971723,Electrophysiological correlates and predictors of the antidepressant response to repeated ketamine infusions in treatment-resistant depression.,MAP,Depression
+13,36151869,Amyloid-Related Imaging Abnormalities in the DIAN-TU-001 Trial of Gantenerumab and Solanezumab.,MAP,Dementia pharmacotherapy RCT
+13,36516343,Real-world effectiveness of repeated ketamine infusions for treatment-resistant bipolar depression.,MAP,Bipolar disorder
+13,36529623,Intravenous Ketamine for Late-Life Treatment-Resistant Depression: A Pilot Study.,MAP,Depression
+13,37795512,The Montreal model: an integrative biomedical-psychedelic approach to ketamine for severe treatment-resistant depression.,MAP,Depression
+14,23773886,An exploratory open-label randomized trial comparing Risperidone long-Acting Injectable with oral antipsychotic medication in the treatment of early psychosis,MAP,Pharmacological; Schizophrenia
+14,26221049,Dopamine D2/3 Receptor Occupancy Following Dose Reduction Is Predictable With Minimal Plasma Antipsychotic Concentrations,MAP,Pharmacological; Schizophrenia
+14,27280963,The effects of desvenlafaxine on neurocognitive and work functioning in employed outpatients with major depressive disorder.,MAP,Pharmacological; MDD
+14,27756854,The Time Course of Effect of Multilayer-Release Methylphenidate Hydrochloride Capsules: A Randomized Double-Blind Study of Adults With ADHD,MAP,Pharmacological; ADHD
+14,27939188,Effects of working memory training on neural correlates of Go/Nogo response control in adults with ADHD: A randomized controlled trial.,UNCERTAIN,Non-pharmacological
+14,28500373,Effects of varenicline versus transdermal nicotine replacement therapy on cigarette demand on quit day in individuals with substance use disorders,MAP,Pharmacological; Substance use disorder
+14,32670103,The THINC-it Tool for Cognitive Assessment and Measurement in Major Depressive Disorder: Sensitivity to Change.,MAP,Pharmacological; MDD
+14,32677243,Mindfulness-based stress reduction for mental health in youth: a cluster randomized controlled trial.,UNCERTAIN,Non-pharmacological; Canadian
+14,33190659,Effects of repetitive paired associative stimulation on brain plasticity and working memory in Alzheimer's disease: a pilot randomized double-blind-controlled trial.,UNCERTAIN,Non-pharmacological
+14,34762980,Transcranial magnetic stimulation for sleep disorders in Alzheimer's disease: A double-blind randomized and sham-controlled pilot study,UNCERTAIN,Non-pharmacological; Non-Canadian
+14,35151410,Efficacy and safety of balovaptan for socialisation and communication difficulties in autistic adults in North America and Europe,MAP,Pharmacological; ASD
+14,35551928,Separate and combined effects of alcohol and cannabis on mood subjective experience cognition and psychomotor performance: A randomized trial.,UNCERTAIN,Pharmacological; Substance use
+14,35714163,Lacticaseibacillus rhamnosus HA-114 improves eating behaviors and mood-related factors in adults with overweight during weight loss,UNCERTAIN,Pharmacological; Mental health adjacent
+14,37227402,Head-To-Head Comparison of Vortioxetine Versus Desvenlafaxine in Patients With Major Depressive Disorder With Partial Response to SSRI Therapy: Results of the VIVRE Study.,MAP,Pharmacological; MDD
+14,38198456,Effects of MDMA-assisted therapy for PTSD on self-experience.,UNCERTAIN,Pharmacological; PTSD
+14,38717445,Metabolome-associated psychological comorbidities improvement in irritable bowel syndrome patients receiving a probiotic.,UNCERTAIN,Pharmacological; Mental health adjacent
+15,27895238,Combined Modality Intervention for ADHD With Comorbid Reading Disorders: A Proof of Concept Study.,MAP,Canadian Pharma MH RCT
+15,31338476,Investigating the safety and efficacy of nabilone for the treatment of agitation in patients with moderate-to-severe Alzheimer's disease.,MAP,Canadian Pharma MH RCT
+15,31382932,Cost-effectiveness analysis of a randomized study of depression treatment options in primary care suggests stepped-care treatment may have economic benefits.,MAP,Pharmacological RCT
+15,32498073,Systematic manipulations of the biological stress systems result in sex-specific compensatory stress responses and negative mood outcomes.,UNCERTAIN,Pharmacological/MH
+15,34034067,The effect of intravenous ketamine on cognitive functions in adults with treatment-resistant major depressive or bipolar disorders.,MAP,Canadian Pharma MH RCT
+15,34130243,D-cycloserine normalizes long-term motor plasticity after transcranial magnetic intermittent theta-burst stimulation in major depressive disorder.,MAP,Canadian Pharma MH RCT
+15,38174611,Preliminary evidence for the importance of therapeutic alliance in MDMA-assisted psychotherapy for posttraumatic stress disorder.,UNCERTAIN,needs_full_text
+15,38280392,Safety and efficacy of laquinimod for Huntington's disease (LEGATO-HD).,MAP,Canadian Pharma MH RCT
+15,39476073,Slowing Cognitive Decline in Major Depressive Disorder and Mild Cognitive Impairment: A Randomized Clinical Trial.,MAP,Canadian Pharma MH RCT
+16,26305394,The Influence of Posttraumatic Stress Disorder on Treatment Outcomes of Patients With Borderline Personality Disorder,MAP,Pharmacological_Personality
+16,26923796,A patient decision aid for antidepressant use in pregnancy: study protocol for a randomized controlled trial,MAP,Protocol_Depression
+16,27305830,Visual working memory deterioration preceding relapse in psychosis,MAP,Pharmacological_Psychosis
+16,27754700,Effect of Aptensio XR (Methylphenidate HCl Extended-Release) Capsules on Sleep in Children with ADHD,MAP,Pharmacological_ADHD
+16,28341540,Clinical meaningfulness of ADAS-Cog subscale change in relation to goal attainment in patients on cholinesterase inhibitors,MAP,Pharmacological_Dementia
+16,30153634,Serum and plasma BDNF and response in a randomized controlled trial of riluzole for treatment resistant depression,MAP,Pharmacological_Depression
+16,31645229,Feasibility and efficacy of a hospital-based violence intervention program on reducing repeat violent injury in youth,MAP,Non-pharmacological
+16,31763491,Rationale and design of an international randomized placebo-controlled trial of a 36-ingredient micronutrient supplement for children with ADHD: The MADDY study,MAP,Protocol_ADHD
+16,32036587,Evaluation of BI 425809 Pharmacotherapy in Patients with Schizophrenia Receiving Computerized Cognitive Training,UNCERTAIN,Pharmacological_Schizophrenia
+16,32421603,Efficacy and cost-effectiveness of intensive short-term dynamic psychotherapy for treatment resistant depression: Halifax depression trial,MAP,Non-pharmacological
+16,32942346,Broad Efficacy of Cariprazine on Depressive Symptoms in Bipolar Disorder,UNCERTAIN,Pharmacological_Bipolar
+16,32963103,Neural effects of oxytocin and mimicry in frontotemporal dementia: A randomized crossover study,MAP,Pharmacological_Dementia
+16,33721740,The Impact of a Harry Potter-Based CBT Skills Curriculum on Suicidality and Well-being in Middle Schoolers,MAP,Non-pharmacological
+16,34193961,Treatment of mixed depression with theta-burst stimulation: results from a double-blind randomized sham-controlled clinical trial,MAP,Neuromodulation_Depression
+16,34261526,The safety and efficacy of fecal microbiota transplantation in bipolar disorder during depressive episodes: study protocol for a pilot RCT,MAP,Pharmacological_Bipolar
+16,34894307,Effects of adjunctive brexpiprazole on calmness and life engagement in MDD: post hoc analysis of exit interviews,UNCERTAIN,Pharmacological_Depression
+16,35193729,The efficacy of cariprazine on cognition: a post hoc analysis from phase II/III clinical trials in bipolar mania bipolar depression and schizophrenia,UNCERTAIN,Pharmacological_Multiple
+16,35809362,Baseline anxiety-sensitivity to estradiol fluctuations predicts anxiety symptom response to transdermal estradiol treatment in perimenopausal women,UNCERTAIN,Non-Canadian
+16,35815022,Building Emotional Awareness and Mental Health (BEAM): A Pilot RCT of an App-Based Program for Mothers of Toddlers,MAP,Non-pharmacological
+16,36424267,A cross-cultural randomized pilot trial of western-based and five elements music therapy for psychological well-being,MAP,Non-pharmacological
+16,36779257,Adjunctive lumateperone in the treatment of bipolar depression: Results from a randomized placebo-controlled clinical trial,UNCERTAIN,Pharmacological_Bipolar
+16,37349110,Phase 2 Results Indicate Evenamide Is Associated With Clinically Important Long-Term Efficacy in Treatment-Resistant Schizophrenia,UNCERTAIN,Non-Canadian
+16,38954874,Safety and tolerability of esketamine nasal spray versus quetiapine extended release in treatment resistant depression,UNCERTAIN,Pharmacological_Depression
+17,28839341,Long-Term Safety and Tolerability of Valbenazine (NBI-98854) in Subjects with Tardive Dyskinesia and a Diagnosis of Schizophrenia or Mood Disorder.,UNCERTAIN,possible_MAP
+17,30560738,Cognitive change in cognitive-behavioural therapy v. pharmacotherapy for adult depression: a longitudinal mediation analysis.,UNCERTAIN,possible_MAP
+17,30921595,The role of outcome expectancy in therapeutic change across psychotherapy versus pharmacotherapy for depression.,UNCERTAIN,secondary_analysis
+17,31087825,Predicting Worsening Suicidal Ideation With Clinical Features and Peripheral Expression of Messenger RNA and MicroRNA During Antidepressant Treatment.,UNCERTAIN,possible_MAP
+17,32979939,"High-dose and low-dose varenicline for smoking cessation in adolescents: a randomised, placebo-controlled trial",UNCERTAIN,possible_MAP
+17,33890819,Differential Treatment Effects of Methylphenidate and Atomoxetine on Executive Functions in Children with Attention-Deficit/Hyperactivity Disorder.,UNCERTAIN,possible_MAP
+17,34543081,"Neurocognitive Outcomes from Memantine: A Pilot, Double-Blind, Placebo-Controlled Trial in Children with Autism Spectrum Disorder.",UNCERTAIN,possible_MAP
+17,37162700,Combining exercise with cognitive training and vitamin D3 to improve functional brain connectivity (FBC) in older adults with mild cognitive impairment (MCI). Results from the SYNERGIC trial.,UNCERTAIN,possible_MAP
+18,26691428,Sex differences in subjective and objective responses to a stimulant medication (methylphenidate): Comparisons between overweight/obese adults with and without binge-eating disorder,UNCERTAIN,uncertain_Canadian
+18,27474961,Lisdexamfetamine dimesylate augmentation for adults with major depressive disorder and inadequate response to antidepressant monotherapy: Results from 2 phase 3 multicenter randomized double-blind placebo-controlled studies,UNCERTAIN,uncertain_Canadian
+18,34825444,Correction of depression-associated circadian rhythm abnormalities is associated with lithium response in bipolar disorder,UNCERTAIN,uncertain_primary_results
+18,38948238,Neuroanatomical dimensions in medication-free individuals with major depressive disorder and treatment response to SSRI antidepressant medications or placebo,UNCERTAIN,uncertain_Canadian
+19,26895080,An integrated analysis of the efficacy and safety of desvenlafaxine in the treatment of major depressive disorder.,UNCERTAIN,UNCERTAIN
+19,28664541,Placebo response and its determinants in children with ADHD across multiple observers and settings: A randomized clinical trial.,UNCERTAIN,UNCERTAIN
+19,30790597,"Combining CDP-choline and galantamine, an optimized α7 nicotinic strategy, to ameliorate sensory gating to speech stimuli in schizophrenia.",UNCERTAIN,UNCERTAIN
+19,32036277,An investigation of cortical thickness and antidepressant response in major depressive disorder: A CAN-BIND study report.,MAP,MAP
+19,34052828,A double-blind placebo-controlled trial of minocycline on translocator protein distribution volume in treatment-resistant major depressive disorder.,MAP,MAP
+19,36322113,Brief App-Based Cognitive Behavioral Therapy for Anxiety Symptoms in Psychiatric Inpatients: Feasibility Randomized Controlled Trial.,UNCERTAIN,UNCERTAIN
+19,36579458,Proof-of-concept randomized controlled trial of single-session nitrous oxide treatment for refractory bipolar depression: Focus on cerebrovascular target engagement.,UNCERTAIN,UNCERTAIN
+19,37920963,Cannabidiol as an Adjunctive Treatment for Acute Bipolar Depression: A Pilot Study,UNCERTAIN,UNCERTAIN
+19,39636638,Psilocybin Therapy for Clinicians With Symptoms of Depression From Frontline Care During the COVID-19 Pandemic: A Randomized Clinical Trial.,UNCERTAIN,UNCERTAIN
+20,10.1093/schizbullopen/sgac006,ENHANCE: Phase 3 Randomized Double-Blind Placebo-Controlled Study of Adjunctive Pimavanserin for Schizophrenia,UNCERTAIN,uncertain Canadian involvement
+20,10.1177/00221678211023663,Scaling Up: Multisite Open-Label Clinical Trials of MDMA-Assisted Therapy for Severe Posttraumatic Stress Disorder,UNCERTAIN,uncertain Canadian involvement
+20,27676420,A 52-Week Study of Olanzapine with a Randomized Behavioral Weight Counseling Intervention in Adolescents with Schizophrenia or Bipolar I Disorder,UNCERTAIN,uncertain Canadian involvement
+20,29879606,Effect of agomelatine 25-50 mg on functional outcomes in patients with major depressive disorder,UNCERTAIN,uncertain Canadian involvement
+20,30709746,Citalopram in first episode schizophrenia: The DECIFER trial,UNCERTAIN,uncertain Canadian involvement
+20,32644833,Effects of Extended-Release Methylphenidate Treatment on Cognitive Task Performance in Children with ASD and ADHD,UNCERTAIN,uncertain Canadian involvement
+20,35220140,Impact of lemborexant treatment on insomnia severity: analyses from a 12-month study of adults with insomnia disorder,UNCERTAIN,uncertain Canadian involvement and insomnia DSM-5 status
+20,35332134,No increase in inflammation in late-life major depression screened to exclude physical illness,UNCERTAIN,uncertain Canadian involvement
+20,39862881,Intranasal oxytocin for apathy in people with frontotemporal dementia (FOXY): a multicentre randomised double-blind placebo-controlled adaptive crossover phase 2a/2b superiority trial,MAP,pharmacological RCT for FTD apathy in Canada
+21,28706563,Quality of life in children and adolescents with bipolar I depression treated with olanzapine/fluoxetine combination.,UNCERTAIN,uncertain
+21,30685701,Low-dose augmentation with buprenorphine increases emotional reactivity but not reward activity in treatment resistant mid- and late-life depression.,UNCERTAIN,uncertain
+21,30920339,Combining CDP-choline and galantamine: Effects of a selective alpha7 nicotinic acetylcholine receptor agonist strategy on P50 sensory gating of speech sounds in healthy volunteers.,UNCERTAIN,uncertain
+21,31610033,Effects of Oxytocin Administration on Cue-Induced Craving in Co-occurring Alcohol Use Disorder and PTSD: A Within-Participant Randomized Clinical Trial.,UNCERTAIN,uncertain
+21,32603956,Leptin mediates improvements in cognitive function following treatment with infliximab in adults with bipolar depression.,UNCERTAIN,uncertain
+21,34045983,Intermittent Theta-Burst Stimulation Transcranial Magnetic Stimulation Increases GABA in the Medial Prefrontal Cortex: A Preliminary Sham-Controlled Magnetic Resonance Spectroscopy Study in Acute Bipolar Depression.,UNCERTAIN,uncertain
+21,34174474,Repetitive transcranial magnetic stimulation for cognitive function in adults with bipolar disorder: A pilot study.,UNCERTAIN,uncertain
+21,35135986,Cannabidiol Effect on Anxiety Symptoms and Stress Response in Individuals With Cocaine Use Disorder: Exploratory Results From a Randomized Controlled Trial.,UNCERTAIN,uncertain
+21,36377525,Changes in insulin resistance following antidepressant treatment mediate response in major depressive disorder.,UNCERTAIN,possible MAP - pharmacological trial for MDD with potential Canadian involvement
+21,row_3104,The effects of extended-release stimulant medication on sleep in children with ADHD.,UNCERTAIN,uncertain
+22,10.1177/2045125318762365,Amisulpride augmentation of clozapine for treatment-refractory schizophrenia: A double-blind placebo-controlled trial.,UNCERTAIN,uncertain
+22,26736036,Sedation mediates part of Citaloprams effect on agitation in Alzheimers disease.,UNCERTAIN,uncertain
+22,28414583,Improved Depressive Symptoms in Adults with Schizophrenia During a Smoking Cessation Attempt with Varenicline and Behavioral Therapy.,UNCERTAIN,secondary_analysis
+22,30051166,DRD3 Gene and ADHD: A Pharmaco-Behavioural Genetic Study.,UNCERTAIN,uncertain
+22,31916473,Efficacy and Safety of PRC-063 Extended-Release Multilayer Methylphenidate in Adults with ADHD Including 6-Month Open-Label Extension.,UNCERTAIN,uncertain
+22,32068562,Safety and Efficacy of Varenicline for Smoking Cessation in Alcohol-Dependent Smokers in Concurrent Treatment for Alcohol Use Disorder.,MAP,pharmacological_rct
+22,33090921,Efficacy and Safety of Multilayer Extended-Release Methylphenidate (PRC-063) in Children 6-12 Years of Age with ADHD: A Laboratory Classroom Study.,UNCERTAIN,uncertain
+22,33296798,Effects of infliximab on brain neurochemistry of adults with bipolar depression.,UNCERTAIN,uncertain
+22,37291464,Micronutrients for ADHD in youth (MADDY) study: comparison of results from RCT and open label extension.,UNCERTAIN,uncertain
+22,37768659,Developing an Electroencephalography-Based Model for Predicting Response to Antidepressant Medication.,UNCERTAIN,uncertain
+22,38461645,Clinical efficacy of adjunctive esketamine anesthesia in electroconvulsive therapy for major depressive disorders: A pragmatic randomized controlled trial.,UNCERTAIN,no_canadian_involvement

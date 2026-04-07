@@ -1,0 +1,1190 @@
+region [ref_142]
+ link [ref_143]
+ link [ref_144] href="#"
+ navigation "Breadcrumb" [ref_145]
+  list [ref_146]
+   listitem [ref_147]
+    link "Navigate to Home" [ref_148] href="/"
+   listitem [ref_149]
+    link "Navigate to JAMA Psychiatry" [ref_150] href="../"
+   listitem [ref_151]
+    link "Navigate to Vol. 73, No. 5" [ref_152] href="../issue/73/5"
+ menuitem "Sections" [ref_153] href="javascript:;"
+  generic "Sections" [ref_154]
+ generic "Close" [ref_155]
+ link "Top of Article" [ref_156] href="#top"
+ link "Abstract" [ref_157] href="#124182111"
+ link "Introduction" [ref_158] href="#124182116"
+ link "Methods" [ref_159] href="#124182121"
+ link "Results" [ref_160] href="#124182143"
+ link "Discussion" [ref_161] href="#124182158"
+ link "Conclusions" [ref_162] href="#124182164"
+ link "Article Information" [ref_163] href="#124182166"
+ link "References" [ref_164] href="#124182167"
+ button "Download PDF" [ref_165] href="javascript:;"
+  generic "PDF" [ref_166]
+ menuitem [ref_167] href="javascript:;"
+  generic "Share" [ref_168]
+ generic "Close" [ref_169]
+ menuitem "Share on linkedin" [ref_170] href="javascript:;"
+ menuitem "Share on X" [ref_171] href="javascript:;"
+ menuitem "Share on whatsapp" [ref_172] href="javascript:;"
+ menuitem "Share on facebook" [ref_173] href="javascript:;"
+ menuitem "Share on threads" [ref_174] href="javascript:;"
+ menuitem "Share on bluesky" [ref_175] href="javascript:;"
+ menuitem "Share on wechat" [ref_176] href="javascript:;"
+ menuitem "button, Copy URL" [ref_177] href="#"
+ menuitem "Share via email" [ref_178] href="javascript:;"
+ generic "Original Investigation" [ref_179]
+ heading "Hydromorphone Compared With Diacetylmorphine for Long-term Opioid Dependence: A Randomized Clinical " [ref_180]
+  generic "A Randomized Clinical Trial" [ref_181]
+ none [ref_182]
+  list [ref_183]
+   listitem [ref_184]
+    link "Eugenia Oviedo-Joekes, PhD" [ref_185] href="/searchresults?author=Eugenia+Oviedo-Joekes&q=Eugenia+Oviedo-Joekes"
+     generic "1,2" [ref_186]
+    link "Daphne Guh, MSc" [ref_187] href="/searchresults?author=Daphne+Guh&q=Daphne+Guh"
+    link "Suzanne Brissette, MD" [ref_188] href="/searchresults?author=Suzanne+Brissette&q=Suzanne+Brissette"
+   listitem [ref_189]
+    link "et al" [ref_190]
+     generic "et al" [ref_191]
+ link "Kirsten Marchand, BSc" [ref_192] href="/searchresults?author=Kirsten+Marchand&q=Kirsten+Marchand"
+  generic "1,2" [ref_193]
+ link "Scott MacDonald, MD" [ref_194] href="/searchresults?author=Scott+MacDonald&q=Scott+MacDonald"
+ link "Kurt Lock, BA" [ref_195] href="/searchresults?author=Kurt+Lock&q=Kurt+Lock"
+ link "Scott Harrison, MA" [ref_196] href="/searchresults?author=Scott+Harrison&q=Scott+Harrison"
+ link "Amin Janmohamed, MSc" [ref_197] href="/searchresults?author=Amin+Janmohamed&q=Amin+Janmohamed"
+ link "Aslam H. Anis, PhD" [ref_198] href="/searchresults?author=Aslam+H.+Anis&q=Aslam+H.+Anis"
+  generic "1,2" [ref_199]
+ link "Michael Krausz, MD" [ref_200] href="/searchresults?author=Michael+Krausz&q=Michael+Krausz"
+  generic "1,5" [ref_201]
+ link "David C. Marsh, MD" [ref_202] href="/searchresults?author=David+C.+Marsh&q=David+C.+Marsh"
+ link "Martin T. Schechter, MD" [ref_203] href="/searchresults?author=Martin+T.+Schechter&q=Martin+T.+Schechter"
+  generic "1,2" [ref_204]
+ none [ref_205]
+  list [ref_206]
+   listitem [ref_207]
+    link "Author Affiliations" [ref_208] href="javascript:;"
+   listitem [ref_209]
+    link "Article Information" [ref_210] href="#124182166"
+ list [ref_211]
+  listitem [ref_212]
+   generic "Centre for Health Evaluation and Outcome Sciences, Providence Health Care, St Paul’s Hospital, Vanco" [ref_213]
+  listitem [ref_214]
+   generic "School of Population and Public Health, Faculty of Medicine, University of British Columbia, Vancouv" [ref_215]
+  listitem [ref_216]
+   generic "Centre de Recherche du Centre Hospitalier de l’Université de Montréal, Montréal, Québec, Canada" [ref_217]
+  listitem [ref_218]
+   generic "Providence Crosstown Clinic, Providence Health Care, Vancouver, British Columbia, Canada" [ref_219]
+  listitem [ref_220]
+   generic "Department of Psychiatry, University of British Columbia, Vancouver, Canada" [ref_221]
+  listitem [ref_222]
+   generic "Northern Ontario School of Medicine, Sudbury, Canada" [ref_223]
+ presentation [ref_224]
+  none [ref_225]
+   button "View article citation" [ref_226] href="javascript:;"
+    generic "Cite" [ref_227]
+    generic "This" [ref_228]
+   generic "Citation" [ref_229]
+    heading "Citation" [ref_230]
+    generic "Oviedo-Joekes EGuh DBrissette S, et al. Hydromorphone Compared With Diacetylmorphine for Long-term O" [ref_231]
+     generic "A Randomized Clinical Trial" [ref_232]
+     generic "JAMA Psychiatry." [ref_233]
+    heading "Manage citations:" [ref_234]
+    label "Select Format" [ref_235]
+    combobox "Select format" [ref_236]
+     option "Select format" (selected)
+     option "Ris (Zotero)" value="/Citation/Download?resourceId=2512237&resourceType=3&citationFormat=0"
+     option "EndNote" value="/Citation/Download?resourceId=2512237&resourceType=3&citationFormat=1"
+     option "BibTex" value="/Citation/Download?resourceId=2512237&resourceType=3&citationFormat=2"
+     option "RefWorks" value="/Citation/Download?resourceId=2512237&resourceType=3&citationFormat=3"
+     option "Reference Manager" value="/Citation/Download?resourceId=2512237&resourceType=3&citationFormat=0"
+     option "Mendeley" value="/Citation/Download?resourceId=2512237&resourceType=3&citationFormat=0"
+     option "Papers" value="/Citation/Download?resourceId=2512237&resourceType=3&citationFormat=0"
+     generic "Select format" [ref_237]
+     option "Ris (Zotero)" [ref_238]
+     option "EndNote" [ref_239]
+     option "BibTex" [ref_240]
+     option "RefWorks" [ref_241]
+     option "Reference Manager" [ref_242]
+     option "Mendeley" [ref_243]
+     option "Papers" [ref_244]
+    button "Download citation" [ref_245] type="submit"
+    button "Copy citation" [ref_246]
+    link "Close" [ref_247] href="javascript:;"
+  none [ref_248]
+   button "Go to Permissions page" [ref_249] href="http://s100.copyright.com/AppDispatchServlet?publisherName=AMA&publication=2168-622X&title=Hydromorphone+Compared+With+Diacetylmorphine+for+Long-term+Opioid+Dependence%3a+A+Randomized+Clinical+Trial&publicationDate=2016-05-01&volumeNum=73&issueNum=5&author=Oviedo-Joekes%2c+Eugenia%3b+Guh%2c+Daphne&startPage=447&endPage=455&contentId=10.1001%2fjamapsychiatry.2016.0109&oa=&orderBeanReset=True"
+    generic "Permissions" [ref_250]
+  none [ref_251]
+   button "View article metrics" [ref_252] href="javascript:;"
+    generic "Metrics" [ref_253]
+     generic "View" [ref_254]
+ generic "JAMA Psychiatry" [ref_255]
+ generic "Published Online:" [ref_256]
+  generic "May" [ref_257]
+  generic "2016" [ref_258]
+ generic "2016;73;(5):447-455." [ref_259]
+  generic "doi:10.1001/jamapsychiatry.2016.0109" [ref_260]
+ tablist [ref_261]
+  tab "Related articles tab not selected" [ref_262] href="#related-tab"
+   generic "related icon" [ref_263]
+   generic "Related Articles" [ref_264]
+  tab "Media tab not selected" [ref_265] href="#multimedia-tab"
+   generic "multimedia icon" [ref_266]
+   generic "Media" [ref_267]
+  tab "figures content tab not selected" [ref_268] href="#figure-table-tab"
+   generic "figure icon" [ref_269]
+   generic "Figures" [ref_270]
+  tab "supplemental content tab not selected" [ref_271] href="#supplemental-tab"
+   generic "attach icon" [ref_272]
+   generic "Supplemental Content" [ref_273]
+ tabpanel [ref_274]
+  link [ref_275] href="javascript:;"
+   generic "Close" [ref_276]
+  textbox "Related_Articles_Sticky_Menu_Self_Serve_Box_1" [ref_277] type="hidden"
+  textbox "0" [ref_278] type="hidden"
+  generic "Editorial Comments" [ref_279]
+  list [ref_280]
+   listitem [ref_281]
+    link [ref_282] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2512235"
+     generic "Editorial" [ref_283]
+     generic "Meeting the Growing Need for Heroin Addiction Treatment" [ref_284]
+    generic "Richard S. Schottenfeld, MD; Stephanie S. O’Malley, PhD" [ref_285]
+    generic "JAMA Psychiatry" [ref_286]
+  heading "See More About" [ref_287]
+  link "Substance Use and Addiction Medicine" [ref_288] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/collections/5921/substance-use-and-addiction-medicine"
+  link "Opioids" [ref_289] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/collections/42053/opioids"
+  textbox "Related_Articles_Sticky_Menu_Self_Serve_Box_2" [ref_290] type="hidden"
+  textbox "0" [ref_291] type="hidden"
+  heading "More for You" [ref_292]
+  list [ref_293]
+   listitem [ref_294]
+    link "Acetaminophen (Paracetamol) or Opioid Analgesia Added to Ibuprofen for Children’s Musculoskeletal In" [ref_295] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jama/fullarticle/2843665?widget=personalizedcontent&previousarticle=2512237"
+    generic "JAMA" [ref_296]
+    generic "Research" [ref_297]
+    generic "January 8, 2026" [ref_298]
+   listitem [ref_299]
+    link "Long-Term Outcomes of Internet-Based Cognitive Behavior Therapy Intervention for Tinnitus" [ref_300] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamaotolaryngology/fullarticle/2846030?widget=personalizedcontent&previousarticle=2512237"
+    generic "JAMA Otolaryngology–Head & Neck Surgery" [ref_301]
+    generic "Research" [ref_302]
+    generic "March 19, 2026" [ref_303]
+   listitem [ref_304]
+    link "Machine Learning Model for Response to Internet-Delivered CBT vs Antidepressants" [ref_305] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamanetworkopen/fullarticle/2841041?widget=personalizedcontent&previousarticle=2512237"
+    generic "JAMA Network Open" [ref_306]
+    generic "Research" [ref_307]
+    generic "November 6, 2025" [ref_308]
+  textbox "Related_Articles_Sticky_Menu_Self_Serve_Box_3" [ref_309] type="hidden"
+  textbox "0" [ref_310] type="hidden"
+ tabpanel [ref_311]
+  link [ref_312] href="javascript:;"
+   generic "Close" [ref_313]
+  textbox "Media_Sticky_Menu_Self_Serve_Box_4" [ref_314] type="hidden"
+  textbox "0" [ref_315] type="hidden"
+  textbox "Media_Sticky_Menu_Self_Serve_Box_5" [ref_316] type="hidden"
+  textbox "0" [ref_317] type="hidden"
+ tabpanel [ref_318]
+  link [ref_319] href="javascript:;"
+   generic "Close" [ref_320]
+  link [ref_321] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008supp1_prod.pdf?Expires=1777889572&Signature=mxnDagNhzvi-1alu0RUBzwWKWUmq0Td5RzQr-xA3aYOjcgmAytt6KSvHKw7SxK3nmee9QVWDIL6QdCEVN~V0Bdl21E9ARnKPr1osKJElXPSKyr0r5pLTRPhvTW0tweFygz-Woyp7pTXr-1fUh6ABdPOxVSyJ~Vxxfm5LGa~O-7qIHETWe2E~5kcUaZXiGNZoa-pXhAKpQcmJLKxKEmeVcwyTHSA6nlhZ6a~s4uTBzRg2zNPGEV9fm7kn3498qNFakb7yyXDbobQfO3b-Iy5b5dvGEw9CZtxCLkwWSx51C0oCtmNrKufbYKwKsC1CtAMgA4egsoqyRQTftsBUOzp~yQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "pdf" [ref_322]
+  generic "Supplement 1." [ref_323]
+  generic "Screening Process" [ref_324]
+   generic "eAppendix 1." [ref_325]
+  generic "Summary of Changes in the SALOME Protocol" [ref_326]
+   generic "eAppendix 2." [ref_327]
+  generic "Details of Study Oversight" [ref_328]
+   generic "eAppendix 3." [ref_329]
+  generic "Data Supplement" [ref_330]
+   generic "eAppendix 4." [ref_331]
+  generic "Outcome Measures" [ref_332]
+   generic "eAppendix 5." [ref_333]
+  generic "Urinalyses" [ref_334]
+   generic "eAppendix 6." [ref_335]
+  generic "Safety Measures" [ref_336]
+   generic "eAppendix 7." [ref_337]
+  generic "Analysis of Covariance" [ref_338]
+   generic "eAppendix 8." [ref_339]
+  link [ref_340] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008supp2_prod.pdf?Expires=1777889572&Signature=g3kAzxwEIVMLX4Gw30lsaW2-wtFu7r9OnGEbCTMCwo3sr0IfgdXdhGUf8kMM6y1w9uIzBaAiMBAq1ySW0Qi3TiEPU5DextR~-gVV8o079RmwmoIYERqA5XiX8f3fT9uC3V-VnLCfRBMPiu1i1zopM~0~3EdmgetUujPCpApjoY3-g6VkyQrTAkyfXmfY9fj7jOs3WOI4dX4UAyviWPF3nsbJxI32J6MtW1yUSTO4SWpolaeIxBl4C3bHcgh8NDJJ07YO36SbSnGTLdpFN5gww84kN0gGptZ9ccDt2VXQ1WfjE4r0iutjM7mJvwrbIUeTjC94Ehz2PuXHYpFRsB8EDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "pdf" [ref_341]
+  generic "Supplement 2." [ref_342]
+  generic "Trial Protocol" [ref_343]
+ tabpanel [ref_344]
+  link [ref_345] href="javascript:;"
+   generic "Close" [ref_346]
+  generic "Figure 1. Study Group Assignment and Retention Throughout the Trial" [ref_347]
+  link [ref_348]
+  link "view large Study Group Assignment and Retention Throughout the Trial" [ref_349] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f1.png?Expires=1777889572&Signature=f-f27QdN3j-~xrIPePxm24oiOvlxC-sQma~5qC3C9bTx0Ey3iEyaZ6hCyg2kK1DwKALuUcd8Fm8S4fb3lNdzKI-dPpiJKBAhuMJbhVmBHfMYp1c9DWRzOiEO1tQwuqx3Qr3n2XjdDPxAMXOUkMK3R1vo80hfO1iv6MfkWyYhkpJSsJyr4LywKcSu~uu1GnBEngaXnnVK23XRxMid8szZotQwHrSQaw8U40iJbqdrm53JAPTXUomMFtT29kHSNMW3vhko8sbUfTQzB2B~uGkIohkb6i~rnTsD2dvQWZEBa6mNeBOypyIgdSkcQGJpZzrK5xma1~pNNfhatnzUL9uC5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_350]
+  link "download graphic as ppt" [ref_351] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f1.png?Expires=1777889572&Signature=f-f27QdN3j-~xrIPePxm24oiOvlxC-sQma~5qC3C9bTx0Ey3iEyaZ6hCyg2kK1DwKALuUcd8Fm8S4fb3lNdzKI-dPpiJKBAhuMJbhVmBHfMYp1c9DWRzOiEO1tQwuqx3Qr3n2XjdDPxAMXOUkMK3R1vo80hfO1iv6MfkWyYhkpJSsJyr4LywKcSu~uu1GnBEngaXnnVK23XRxMid8szZotQwHrSQaw8U40iJbqdrm53JAPTXUomMFtT29kHSNMW3vhko8sbUfTQzB2B~uGkIohkb6i~rnTsD2dvQWZEBa6mNeBOypyIgdSkcQGJpZzrK5xma1~pNNfhatnzUL9uC5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182146&ar=2512237&imagename=&siteId=14"
+   generic "Download" [ref_352]
+  link [ref_353]
+  link [ref_354]
+  link [ref_355] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f1.png?Expires=1777889572&Signature=f-f27QdN3j-~xrIPePxm24oiOvlxC-sQma~5qC3C9bTx0Ey3iEyaZ6hCyg2kK1DwKALuUcd8Fm8S4fb3lNdzKI-dPpiJKBAhuMJbhVmBHfMYp1c9DWRzOiEO1tQwuqx3Qr3n2XjdDPxAMXOUkMK3R1vo80hfO1iv6MfkWyYhkpJSsJyr4LywKcSu~uu1GnBEngaXnnVK23XRxMid8szZotQwHrSQaw8U40iJbqdrm53JAPTXUomMFtT29kHSNMW3vhko8sbUfTQzB2B~uGkIohkb6i~rnTsD2dvQWZEBa6mNeBOypyIgdSkcQGJpZzrK5xma1~pNNfhatnzUL9uC5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "Study Group Assignment and Retention Throughout the Trial" [ref_356]
+   generic "(opens in new tab)" [ref_357]
+  link [ref_358] href="#yoi160008f1"
+   generic "Go to Figure in Article" [ref_359]
+  generic "HCI indicates hydrochloride; ITT, intent to treat (included all randomized participants [using multi" [ref_360]
+  generic "Refers to not respecting the clinic rules (eg, threats, verbal aggression)." [ref_361]
+  generic "Among those who did not discontinue the intervention." [ref_362]
+  generic "Figure 2. Primary Efficacy Outcomes According to the Analysis Population at 6 Months" [ref_363]
+  link [ref_364]
+  link "view large Primary Efficacy Outcomes According to the Analysis Population at 6 Months" [ref_365] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f2.png?Expires=1777889572&Signature=P4jjPFn~24GcNCaIsiPYo3FEnsRbqDMoizSgCrcqui3FUAs0vz-k2093g4eL8AayBXZV-V-FFRA6WkYtILjYpkZLFSRWHoPXRxck6TMbtB0sPAjA4Gmu9ws1Pji59~fik4aMt-rMjFneNicJXYogXur68u-xzoHVHEDWAcyC93I~nEQu9KUAhNJvY~AgDyGFF2x7mRH056KaJIu-5sbbmYLN13RG0bVNQP1e7hfzlQ7z0kGYXMTznQICvY46WUK-xf1iIC-FXYipeoorIVj5WTwuMz0jx7kM6ZccIbWTCSWTLXYY11nKnoqEOdvmMDo9svomdAxydcb~3rDBPJlANA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_366]
+  link "download graphic as ppt" [ref_367] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f2.png?Expires=1777889572&Signature=P4jjPFn~24GcNCaIsiPYo3FEnsRbqDMoizSgCrcqui3FUAs0vz-k2093g4eL8AayBXZV-V-FFRA6WkYtILjYpkZLFSRWHoPXRxck6TMbtB0sPAjA4Gmu9ws1Pji59~fik4aMt-rMjFneNicJXYogXur68u-xzoHVHEDWAcyC93I~nEQu9KUAhNJvY~AgDyGFF2x7mRH056KaJIu-5sbbmYLN13RG0bVNQP1e7hfzlQ7z0kGYXMTznQICvY46WUK-xf1iIC-FXYipeoorIVj5WTwuMz0jx7kM6ZccIbWTCSWTLXYY11nKnoqEOdvmMDo9svomdAxydcb~3rDBPJlANA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182152&ar=2512237&imagename=&siteId=14"
+   generic "Download" [ref_368]
+  link [ref_369]
+  link [ref_370]
+  link [ref_371] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f2.png?Expires=1777889572&Signature=P4jjPFn~24GcNCaIsiPYo3FEnsRbqDMoizSgCrcqui3FUAs0vz-k2093g4eL8AayBXZV-V-FFRA6WkYtILjYpkZLFSRWHoPXRxck6TMbtB0sPAjA4Gmu9ws1Pji59~fik4aMt-rMjFneNicJXYogXur68u-xzoHVHEDWAcyC93I~nEQu9KUAhNJvY~AgDyGFF2x7mRH056KaJIu-5sbbmYLN13RG0bVNQP1e7hfzlQ7z0kGYXMTznQICvY46WUK-xf1iIC-FXYipeoorIVj5WTwuMz0jx7kM6ZccIbWTCSWTLXYY11nKnoqEOdvmMDo9svomdAxydcb~3rDBPJlANA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "Primary Efficacy Outcomes According to the Analysis Population at 6 Months" [ref_372]
+   generic "(opens in new tab)" [ref_373]
+  link [ref_374] href="#yoi160008f2"
+   generic "Go to Figure in Article" [ref_375]
+  generic "HCI indicates hydrochloride; ITT, intent to treat (included all randomized participants [using multi" [ref_376]
+  generic "Indicates that noninferiority was concluded." [ref_377]
+  generic "Table 1. Characteristics of the Study Participants Before Randomization" [ref_378]
+  link [ref_379]
+  link "view large Characteristics of the Study Participants Before Randomization" [ref_380] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t1.png?Expires=1777889572&Signature=1KciT-Ne7FE98ezdsUgpw6hsr-lc2oqL3xm8bHWY4Y6hmC4qwfRAJem1SwEAh-7u4x9pu5lsjYL8F-J~fHoNra5CDkDfUWj3FSU1107UCXKlqoYRnqU3yDBzaHIscTvE920P5LTDgtEJXczktjZMQBqku1QBO-~msHKn-pwGrCF4ValKF9XhxFcTbseqJVGcdtRRPtyhN5BDIKi3LejrAsjFM41zPyoiN96XtLjJARByXbF4f5lmOk23cUpz1xeEnGHGDLb1uoiBR3TIWKtWmfaN6z37bTKDZXhd9KaTKHbB~xGVRxHDJPl5xO~fcJH0GDaTCxOEZmrFPPFTUmF4cA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_381]
+  link "download graphic as ppt" [ref_382] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t1.png?Expires=1777889572&Signature=1KciT-Ne7FE98ezdsUgpw6hsr-lc2oqL3xm8bHWY4Y6hmC4qwfRAJem1SwEAh-7u4x9pu5lsjYL8F-J~fHoNra5CDkDfUWj3FSU1107UCXKlqoYRnqU3yDBzaHIscTvE920P5LTDgtEJXczktjZMQBqku1QBO-~msHKn-pwGrCF4ValKF9XhxFcTbseqJVGcdtRRPtyhN5BDIKi3LejrAsjFM41zPyoiN96XtLjJARByXbF4f5lmOk23cUpz1xeEnGHGDLb1uoiBR3TIWKtWmfaN6z37bTKDZXhd9KaTKHbB~xGVRxHDJPl5xO~fcJH0GDaTCxOEZmrFPPFTUmF4cA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182147&ar=2512237&imagename=&siteId=14"
+   generic "Download" [ref_383]
+  link [ref_384]
+  link [ref_385]
+  link [ref_386] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t1.png?Expires=1777889572&Signature=1KciT-Ne7FE98ezdsUgpw6hsr-lc2oqL3xm8bHWY4Y6hmC4qwfRAJem1SwEAh-7u4x9pu5lsjYL8F-J~fHoNra5CDkDfUWj3FSU1107UCXKlqoYRnqU3yDBzaHIscTvE920P5LTDgtEJXczktjZMQBqku1QBO-~msHKn-pwGrCF4ValKF9XhxFcTbseqJVGcdtRRPtyhN5BDIKi3LejrAsjFM41zPyoiN96XtLjJARByXbF4f5lmOk23cUpz1xeEnGHGDLb1uoiBR3TIWKtWmfaN6z37bTKDZXhd9KaTKHbB~xGVRxHDJPl5xO~fcJH0GDaTCxOEZmrFPPFTUmF4cA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "Characteristics of the Study Participants Before Randomization" [ref_387]
+   generic "(opens in new tab)" [ref_388]
+  link [ref_389] href="#yoi160008t1"
+   generic "Go to Figure in Article" [ref_390]
+  table [ref_391]
+   generic "Baseline Characteristic" [ref_392]
+   generic "Hydromorphone Hydrochloride(n = 100)" [ref_393]
+   generic "Diacetylmorphine Hydrochloride(n = 102)" [ref_394]
+   generic "Sociodemographics" [ref_395]
+   generic "Age, mean (SD), y" [ref_396]
+   generic "45.17 (10.19)" [ref_397]
+   generic "43.50 (9.03)" [ref_398]
+   generic "Sex, No. (%)" [ref_399]
+   generic "Male" [ref_400]
+   generic "67 (67.0)" [ref_401]
+   generic "73 (71.6)" [ref_402]
+   generic "Female" [ref_403]
+   generic "33 (33.0)" [ref_404]
+   generic "29 (28.4)" [ref_405]
+   generic "Aboriginal ancestry, No. (%)" [ref_406]
+   generic "32 (32.0)" [ref_407]
+   generic "30 (29.4)" [ref_408]
+   generic "Any nonstable or street housing in the prior month, No. (%)" [ref_409]
+   generic "60 (60.0)" [ref_410]
+   generic "65 (63.7)" [ref_411]
+   generic "Drug use and illegal activities, mean (SD)" [ref_412]
+   generic "Years injecting street heroin" [ref_413]
+   generic "15.56 (9.45)" [ref_414]
+   generic "15.34 (9.29)" [ref_415]
+   generic "Days of illegal activities in the prior month" [ref_416]
+   generic "12.78 (13.58)" [ref_417]
+   generic "15.50 (3.77)" [ref_418]
+   generic "Days of use of street drugs in the prior month" [ref_419]
+   generic "Street opioids" [ref_420]
+   generic "27.28 (4.79)" [ref_421]
+   generic "28.61 (3.40)" [ref_422]
+   generic "Street heroin" [ref_423]
+   generic "25.16 (7.50)" [ref_424]
+   generic "25.60 (8.47)" [ref_425]
+   generic "Crack cocaine smoked" [ref_426]
+   generic "11.25 (12.97)" [ref_427]
+   generic "9.41 (12.46)" [ref_428]
+   generic "Health, mean (SD)" [ref_429]
+   generic "MAP physical health score" [ref_430]
+   generic "11.82 (8.57)" [ref_431]
+   generic "12.50 (7.48)" [ref_432]
+   generic "MAP psychological health score" [ref_433]
+   generic "9.24 (9.64)" [ref_434]
+   generic "9.56 (8.29)" [ref_435]
+   generic "Times attempted MMT in the prior 5 y" [ref_436]
+   generic "2.84 (2.05)" [ref_437]
+   generic "2.77 (2.14)" [ref_438]
+  generic "Table 2. Group Differences in Secondary Outcomes According to the Analysis Population at 6 Months" [ref_439]
+  link [ref_440]
+  link "view large Group Differences in Secondary Outcomes According to the Analysis Population at 6 Monthsa" [ref_441] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t2.png?Expires=1777889572&Signature=hjUFZr4jiizW9fnj5HbClP5ZCIuQhYBG1HYIVNcbTx7uN7sjOiK3ApmXgBYX9nWWIM1mb-trxGUJ2deMNFifR-eFM3R~cPqmqjcLRy2w9-cMDXXuMT3trvo9cS2D4MGlAelkN8B-AVdZmpKBzMxx9esb76KmMQ3z4vg7KtYubndhomAJtrtUvHfSn7I9nSL-o4x1mccW1RfYA6rIpY1TuGAZzgIV2iuFa3aBBpefOLqM0cQFe~bCL~TfIVAKKfl~Ywd4Ql9wFcFisLLOJRExpjOSGNA5FuQmhqj6lecsNujElyR~~W5KYAo707rfseY4zRS8y7miuGAWq0He1NgbDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_442]
+  link "download graphic as ppt" [ref_443] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t2.png?Expires=1777889572&Signature=hjUFZr4jiizW9fnj5HbClP5ZCIuQhYBG1HYIVNcbTx7uN7sjOiK3ApmXgBYX9nWWIM1mb-trxGUJ2deMNFifR-eFM3R~cPqmqjcLRy2w9-cMDXXuMT3trvo9cS2D4MGlAelkN8B-AVdZmpKBzMxx9esb76KmMQ3z4vg7KtYubndhomAJtrtUvHfSn7I9nSL-o4x1mccW1RfYA6rIpY1TuGAZzgIV2iuFa3aBBpefOLqM0cQFe~bCL~TfIVAKKfl~Ywd4Ql9wFcFisLLOJRExpjOSGNA5FuQmhqj6lecsNujElyR~~W5KYAo707rfseY4zRS8y7miuGAWq0He1NgbDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182153&ar=2512237&imagename=&siteId=14"
+   generic "Download" [ref_444]
+  link [ref_445]
+  link [ref_446]
+  link [ref_447] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t2.png?Expires=1777889572&Signature=hjUFZr4jiizW9fnj5HbClP5ZCIuQhYBG1HYIVNcbTx7uN7sjOiK3ApmXgBYX9nWWIM1mb-trxGUJ2deMNFifR-eFM3R~cPqmqjcLRy2w9-cMDXXuMT3trvo9cS2D4MGlAelkN8B-AVdZmpKBzMxx9esb76KmMQ3z4vg7KtYubndhomAJtrtUvHfSn7I9nSL-o4x1mccW1RfYA6rIpY1TuGAZzgIV2iuFa3aBBpefOLqM0cQFe~bCL~TfIVAKKfl~Ywd4Ql9wFcFisLLOJRExpjOSGNA5FuQmhqj6lecsNujElyR~~W5KYAo707rfseY4zRS8y7miuGAWq0He1NgbDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "Group Differences in Secondary Outcomes According to the Analysis Population at 6 Monthsa" [ref_448]
+   generic "(opens in new tab)" [ref_449]
+  link [ref_450] href="#yoi160008t2"
+   generic "Go to Figure in Article" [ref_451]
+  table [ref_452]
+   generic "Secondary Outcome in the Prior Month" [ref_453]
+   generic "Value (95% CI)" [ref_454]
+   generic "Hydromorphone Hydrochloride" [ref_455]
+   generic "Diacetylmorphine Hydrochloride" [ref_456]
+   generic "Difference of Diacetylmorphine Minus Hydromorphone" [ref_457]
+   generic "Proportion of participants receiving study medications ≥28 d" [ref_458]
+   generic "ITT" [ref_459]
+   generic "0.77 (0.69 to 0.85)" [ref_460]
+   generic "0.80 (0.72 to 0.88)" [ref_461]
+   generic "0.03 (−0.08 to 0.14)" [ref_462]
+   generic "0.92 (0.86 to 0.98)" [ref_463]
+   generic "0.94 (0.89 to 0.99)" [ref_464]
+   generic "0.02 (−0.05 to 0.10)" [ref_465]
+   generic "MAP physical health score" [ref_466]
+   generic "ITT" [ref_467]
+   generic "11.70 (10.28 to 13.13)" [ref_468]
+   generic "11.71 (10.23 to 13.19)" [ref_469]
+   generic "0.00 (−2.02 to 2.03)" [ref_470]
+   generic "12.12 (10.62 to 13.61)" [ref_471]
+   generic "11.98 (10.45 to 13.51)" [ref_472]
+   generic "−0.13 (−2.25 to 1.98)" [ref_473]
+   generic "MAP psychological health score" [ref_474]
+   generic "ITT" [ref_475]
+   generic "9.08 (7.58 to 10.58)" [ref_476]
+   generic "8.13 (6.55 to 9.71)" [ref_477]
+   generic "−0.95 (−3.09 to 1.19)" [ref_478]
+   generic "9.51 (7.90 to 11.13)" [ref_479]
+   generic "8.11 (6.50 to 9.72)" [ref_480]
+   generic "−1.40 (−3.65 to 0.85)" [ref_481]
+   generic "Days of illegal activities" [ref_482]
+   generic "ITT" [ref_483]
+   generic "3.76 (2.14 to 5.66)" [ref_484]
+   generic "2.78 (1.65 to 4.21)" [ref_485]
+   generic "−0.98 (−3.11 to 1.04)" [ref_486]
+   generic "3.73 (1.73 to 5.65)" [ref_487]
+   generic "2.78 (1.35 to 4.14)" [ref_488]
+   generic "−1.06 (−3.46 to 1.14)" [ref_489]
+   generic "Days of crack cocaine use" [ref_490]
+   generic "ITT" [ref_491]
+   generic "7.09 (5.04 to 9.72)" [ref_492]
+   generic "4.78 (3.17 to 7.02)" [ref_493]
+   generic "−2.31 (−4.73 to −0.21)" [ref_494]
+   generic "6.43 (4.03 to 9.47)" [ref_495]
+   generic "4.87 (2.91 to 7.53)" [ref_496]
+   generic "−1.56 (−3.94 to 0.41)" [ref_497]
+  generic "Table 3. Summary Exposure to the Tested Medications, AEs, and SAEs Among the Study Participants" [ref_498]
+  link [ref_499]
+  link "view large Summary Exposure to the Tested Medications, AEs, and SAEs Among the Study Participantsa" [ref_500] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t3.png?Expires=1777889572&Signature=O2q4HnDdELkZ0fcF6uPp2v2EZf~fW0OUuupxcgH~s9kHdGNfOFMPGhvdxfRbFsVxJohf-Y~Nb~9XPqF6HgTMTuK~ELWKz~Jtmh5j0CpByjBLDvuMoSfqVyMO0Eo8U7ftPeQHUomIpzRzr0Eh8d~d3yDktrNZVf-ux9WM5s7b4gakZWO~g8xqidKo6YGFEZjvwbPtbGUwiVSZLo9xfPbq3vzp1VxPk9SvOUDxgDqpxEXZeaytRsk80IQcyKt1wz-i3o9-WbXgf0pVtYDDBC0hE1dvlzoTC4UGqEP1WdfGw4EL20KKPCiuSjzn-ceA-zLLXk-otyWI2AutX4x~bsYlIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   generic "View Large" [ref_501]
+  link "download graphic as ppt" [ref_502] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t3.png?Expires=1777889572&Signature=O2q4HnDdELkZ0fcF6uPp2v2EZf~fW0OUuupxcgH~s9kHdGNfOFMPGhvdxfRbFsVxJohf-Y~Nb~9XPqF6HgTMTuK~ELWKz~Jtmh5j0CpByjBLDvuMoSfqVyMO0Eo8U7ftPeQHUomIpzRzr0Eh8d~d3yDktrNZVf-ux9WM5s7b4gakZWO~g8xqidKo6YGFEZjvwbPtbGUwiVSZLo9xfPbq3vzp1VxPk9SvOUDxgDqpxEXZeaytRsk80IQcyKt1wz-i3o9-WbXgf0pVtYDDBC0hE1dvlzoTC4UGqEP1WdfGw4EL20KKPCiuSjzn-ceA-zLLXk-otyWI2AutX4x~bsYlIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182156&ar=2512237&imagename=&siteId=14"
+   generic "Download" [ref_503]
+  link [ref_504]
+  link [ref_505]
+  link [ref_506] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t3.png?Expires=1777889572&Signature=O2q4HnDdELkZ0fcF6uPp2v2EZf~fW0OUuupxcgH~s9kHdGNfOFMPGhvdxfRbFsVxJohf-Y~Nb~9XPqF6HgTMTuK~ELWKz~Jtmh5j0CpByjBLDvuMoSfqVyMO0Eo8U7ftPeQHUomIpzRzr0Eh8d~d3yDktrNZVf-ux9WM5s7b4gakZWO~g8xqidKo6YGFEZjvwbPtbGUwiVSZLo9xfPbq3vzp1VxPk9SvOUDxgDqpxEXZeaytRsk80IQcyKt1wz-i3o9-WbXgf0pVtYDDBC0hE1dvlzoTC4UGqEP1WdfGw4EL20KKPCiuSjzn-ceA-zLLXk-otyWI2AutX4x~bsYlIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+   image "Summary Exposure to the Tested Medications, AEs, and SAEs Among the Study Participantsa" [ref_507]
+   generic "(opens in new tab)" [ref_508]
+  link [ref_509] href="#yoi160008t3"
+   generic "Go to Figure in Article" [ref_510]
+  table [ref_511]
+   generic "Variable" [ref_512]
+   generic "Total(N = 202)" [ref_513]
+   generic "Total (Mean) or No. (%)" [ref_514]
+   generic "Hydromorphone vs Diacetylmorphine Relative Risk or Rate Ratio (95% CI)" [ref_515]
+   generic "Hydromorphone Hydrochloride(n = 100)" [ref_516]
+   generic "Diacetylmorphine Hydrochloride(n = 102)" [ref_517]
+   generic "Days receiving injectable medications, mean (SD)" [ref_518]
+   generic "165.51 (48.98)" [ref_519]
+   generic "166.53 (44.96)" [ref_520]
+   generic "164.52 (52.83)" [ref_521]
+   generic "Injections received, mean (SD)" [ref_522]
+   generic "423.02 (147.39)" [ref_523]
+   generic "410.27 (140.21)" [ref_524]
+   generic "435.53 (153.76)" [ref_525]
+   generic "Diacetylmorphine equivalent dose received, mean (SD), mg" [ref_526]
+   generic "522.36 (208.04)" [ref_527]
+   generic "506.41 (205.49)" [ref_528]
+   generic "AEs" [ref_529]
+   generic "Total AEs" [ref_530]
+   generic "1375" [ref_531]
+   generic "596 (5.96)" [ref_532]
+   generic "779 (7.64)" [ref_533]
+   generic "0.78 (0.60-1.01)" [ref_534]
+   generic "Total AEs with some relationship to the treatment" [ref_535]
+   generic "559" [ref_536]
+   generic "206 (2.06)" [ref_537]
+   generic "353 (3.46)" [ref_538]
+   generic "0.60 (0.39-0.90)" [ref_539]
+   generic "Participants with AEs" [ref_540]
+   generic "189" [ref_541]
+   generic "94 (94.0)" [ref_542]
+   generic "95 (93.1)" [ref_543]
+   generic "1.01 (0.94-1.08)" [ref_544]
+   generic "Participants with related AEs" [ref_545]
+   generic "128" [ref_546]
+   generic "48 (48.0)" [ref_547]
+   generic "80 (78.4)" [ref_548]
+   generic "0.61 (0.49- 0.77)" [ref_549]
+   generic "Most common related AEs" [ref_550]
+   generic "Drowsiness" [ref_551]
+   generic "187" [ref_552]
+   generic "36 (0.36)" [ref_553]
+   generic "151 (1.48)" [ref_554]
+   generic "0.24 (0.14-0.43)" [ref_555]
+   generic "Minor or moderate histamine reactions" [ref_556]
+   generic "178" [ref_557]
+   generic "111 (1.11)" [ref_558]
+   generic "67 (0.66)" [ref_559]
+   generic "1.69 (0.69-4.11)" [ref_560]
+   generic "SAEs" [ref_561]
+   generic "Total SAEs" [ref_562]
+   generic "14 (0.14)" [ref_563]
+   generic "33 (0.32)" [ref_564]
+   generic "0.43 (0.20-0.93)" [ref_565]
+   generic "Total SAEs with some relationship to the treatment, all resolved with no sequelae" [ref_566]
+   generic "5 (0.05)" [ref_567]
+   generic "24 (0.24)" [ref_568]
+   generic "0.21 (0.06-0.69)" [ref_569]
+   generic "Participants with SAEs" [ref_570]
+   generic "11 (11.0)" [ref_571]
+   generic "22 (21.6)" [ref_572]
+   generic "0.51 (0.26-1.00)" [ref_573]
+   generic "Participants with related SAEs" [ref_574]
+   generic "3 (3.0)" [ref_575]
+   generic "15 (14.7)" [ref_576]
+   generic "0.20 (0.06-0.68)" [ref_577]
+   generic "Deaths, none related to study medications" [ref_578]
+   generic "0 (0.00)" [ref_579]
+   generic "2 (0.02)" [ref_580]
+   generic "Most common related SAEs" [ref_581]
+   generic "Seizures" [ref_582]
+   generic "0 (0.00)" [ref_583]
+   generic "11 (0.11)" [ref_584]
+   generic "Opioid overdoses" [ref_585]
+   generic "3 (0.03)" [ref_586]
+   generic "11 (0.11)" [ref_587]
+   generic "0.28 (0.07-1.17)" [ref_588]
+ link [ref_589]
+ generic "Abstract" [ref_590]
+ generic "Importance" [ref_591]
+ generic "Diacetylmorphine hydrochloride (the active ingredient in heroin), delivered under supervision, is ef" [ref_592]
+ generic "Objective" [ref_593]
+ generic "To test if injectable hydromorphone hydrochloride is noninferior to injectable diacetylmorphine in r" [ref_594]
+ generic "Design, Setting, and Participants" [ref_595]
+ generic "The Study to Assess Longer-term Opioid Medication Effectiveness (SALOME) was a phase 3, double-blind" [ref_596]
+ generic "Interventions" [ref_597]
+ generic "Participants were randomly assigned to receive injectable diacetylmorphine or hydromorphone (up to 3" [ref_598]
+ generic "Main Outcomes and Measures" [ref_599]
+ generic "Primary and coprimary efficacy outcomes were self-reported days of street heroin use (primary), days" [ref_600]
+ generic "Results" [ref_601]
+ generic "The study included 202 participants; 100 randomized to receive hydromorphone and 102 to diacetylmorp" [ref_602]
+ generic "Conclusions and Relevance" [ref_603]
+ generic "This study provides evidence to suggest noninferiority of injectable hydromorphone relative to diace" [ref_604]
+ generic "Trial Registration" [ref_605]
+ generic "clinicaltrials.gov Identifier:" [ref_606]
+  link "NCT01447212" [ref_607] href="http://clinicaltrials.gov/show/NCT01447212"
+ textbox "Article_BelowTheAbstract_SS" [ref_608] type="hidden"
+ textbox "0" [ref_609] type="hidden"
+ link [ref_610]
+ generic "Introduction" [ref_611]
+ link [ref_612]
+ generic "Dependence on opioids, including heroin, continues to exact a heavy toll on people and communities a" [ref_613]
+  link "1" [ref_614] href="#yoi160008r1"
+  link "2" [ref_615] href="#yoi160008r2"
+  link "3" [ref_616] href="#yoi160008r3"
+  link "4" [ref_617] href="#yoi160008r4"
+ link [ref_618]
+ link [ref_619]
+  generic "Quiz Ref ID" [ref_620]
+ generic "For this subgroup, 6 randomized trials have now shown that injectable diacetylmorphine hydrochloride" [ref_621]
+  link "5" [ref_622] href="#yoi160008r5"
+  link "11" [ref_623] href="#yoi160008r5"
+  link "12" [ref_624] href="#yoi160008r12"
+  link "13" [ref_625] href="#yoi160008r13"
+  link "14" [ref_626] href="#yoi160008r14"
+  link "4" [ref_627] href="#yoi160008r4"
+  link "15" [ref_628] href="#yoi160008r15"
+ link [ref_629]
+ link [ref_630]
+  generic "Quiz Ref ID" [ref_631]
+ generic "In the prior Canadian trial, our group randomized a small number of participants to receive injectab" [ref_632]
+  link "7" [ref_633] href="#yoi160008r7"
+  link "16" [ref_634] href="#yoi160008r16"
+  link "17" [ref_635] href="#yoi160008r17"
+ link [ref_636]
+ link [ref_637]
+  generic "Box Section Ref ID" [ref_638]
+ heading "Key Points" [ref_639]
+ list [ref_640]
+  listitem [ref_641]
+   generic "Is injectable hydromorphone hydrochloride as effective as injectable diacetylmorphine hydrochloride " [ref_642]
+    generic "Question" [ref_643]
+  listitem [ref_644]
+   generic "In this 6-month randomized clinical trial of injectable hydromorphone relative to diacetylmorphine, " [ref_645]
+    generic "Findings" [ref_646]
+  listitem [ref_647]
+   generic "In jurisdictions where diacetylmorphine is currently unavailable or in patients in whom it is contra" [ref_648]
+    generic "Meaning" [ref_649]
+ link [ref_650]
+ generic "Methods" [ref_651]
+ link [ref_652]
+ generic "Participants and Setting" [ref_653]
+ link [ref_654]
+ generic "Eligible participants, recruited between December 19, 2011, and December 18, 2013, were men and wome" [ref_655]
+  link "18" [ref_656] href="#yoi160008r18"
+  link "19" [ref_657] href="#yoi160008r19"
+  link "20" [ref_658] href="#yoi160008r20"
+  link "Supplement 1" [ref_659] href="#note-YOI160008-1"
+ link [ref_660]
+ generic "Study Design" [ref_661]
+ link [ref_662]
+ generic "The SALOME was a phase 3, double-blind, noninferiority trial that randomized participants to receive" [ref_663]
+  link "Supplement 2" [ref_664] href="#note-YOI160008-1"
+  link "21" [ref_665] href="#yoi160008r21"
+  link "Supplement 1" [ref_666] href="#note-YOI160008-1"
+ link [ref_667]
+ generic "Oversight" [ref_668]
+ link [ref_669]
+ generic "The study was conducted in Vancouver. All participants provided written informed consent before admi" [ref_670]
+  link "Supplement 1" [ref_671] href="#note-YOI160008-1"
+ link [ref_672]
+ generic "Randomization" [ref_673]
+ link [ref_674]
+ generic "Variable block size randomization was used with prepared tables from the Data Centre at St Paul’s Ho" [ref_675]
+ link [ref_676]
+ generic "Intervention" [ref_677]
+ link [ref_678]
+ generic "A total of 102 participants were randomly assigned to receive injectable diacetylmorphine and 100 to" [ref_679]
+  link "22" [ref_680] href="#yoi160008r22"
+ link [ref_681]
+ generic "Injectable diacetylmorphine and hydromorphone were self-administered under supervision of registered" [ref_682]
+  link "Supplement 1" [ref_683] href="#note-YOI160008-1"
+ link [ref_684]
+ generic "Outcome Measures" [ref_685]
+ link [ref_686]
+ generic "Assessments and research urine samples were obtained at baseline (before randomization and allocatio" [ref_687]
+  link "19" [ref_688] href="#yoi160008r19"
+  link "Supplement 1" [ref_689] href="#note-YOI160008-1"
+ link [ref_690]
+ generic "The primary outcome measure was street heroin use, defined as the number of days of use in the prior" [ref_691]
+  link "6" [ref_692] href="#yoi160008r6"
+  link "8" [ref_693] href="#yoi160008r6"
+  link "23" [ref_694] href="#yoi160008r23"
+ link [ref_695]
+ generic "Urine specimens were collected from participants at each research visit. Samples were analyzed for t" [ref_696]
+  link "24" [ref_697] href="#yoi160008r24"
+  link "Supplement 1" [ref_698] href="#note-YOI160008-1"
+  link "Supplement 1" [ref_699] href="#note-YOI160008-1"
+ link [ref_700]
+ generic "Statistical Analysis" [ref_701]
+ link [ref_702]
+ generic "The effect of injectable diacetylmorphine on street heroin use has been remarkably consistent in tri" [ref_703]
+  link "5" [ref_704] href="#yoi160008r5"
+  link "8" [ref_705] href="#yoi160008r5"
+  link "5" [ref_706] href="#yoi160008r5"
+  link "8" [ref_707] href="#yoi160008r8"
+  link "11" [ref_708] href="#yoi160008r8"
+  link "25" [ref_709] href="#yoi160008r25"
+ link [ref_710]
+ generic "For those outcomes that were also measured at baseline, analysis of covariance was used to adjust fo" [ref_711]
+  link "Supplement 1" [ref_712] href="#note-YOI160008-1"
+ link [ref_713]
+ generic "Outcome data are given for intent-to-treat (ITT) and per-protocol (PP) analyses. Because participant" [ref_714]
+  link "17" [ref_715] href="#yoi160008r17"
+  link "26" [ref_716] href="#yoi160008r26"
+  link "27" [ref_717] href="#yoi160008r27"
+  link "Supplement 1" [ref_718] href="#note-YOI160008-1"
+ link [ref_719]
+ generic "Success of the masking was measured using the blinding index by James et al, which is sensitive to t" [ref_720]
+  link "28" [ref_721] href="#yoi160008r28"
+ link [ref_722]
+ generic "The AEs and serious AEs (SAEs) were compared between the intervention groups as binary outcomes (ie," [ref_723]
+ link [ref_724]
+ generic "Results" [ref_725]
+ link [ref_726]
+ generic "Participants" [ref_727]
+ link [ref_728]
+ generic "A total of 253 volunteers started the screening process (), and 202 were randomized and received at " [ref_729]
+  link "Figure 1" [ref_730] href="#yoi160008f1"
+  link "Table 1" [ref_731] href="#yoi160008t1"
+ link [ref_732]
+ link [ref_733]
+ generic "Figure 1. Study Group Assignment and Retention Throughout the Trial" [ref_734]
+ link [ref_735]
+ link "view large Study Group Assignment and Retention Throughout the Trial" [ref_736] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f1.png?Expires=1777889572&Signature=f-f27QdN3j-~xrIPePxm24oiOvlxC-sQma~5qC3C9bTx0Ey3iEyaZ6hCyg2kK1DwKALuUcd8Fm8S4fb3lNdzKI-dPpiJKBAhuMJbhVmBHfMYp1c9DWRzOiEO1tQwuqx3Qr3n2XjdDPxAMXOUkMK3R1vo80hfO1iv6MfkWyYhkpJSsJyr4LywKcSu~uu1GnBEngaXnnVK23XRxMid8szZotQwHrSQaw8U40iJbqdrm53JAPTXUomMFtT29kHSNMW3vhko8sbUfTQzB2B~uGkIohkb6i~rnTsD2dvQWZEBa6mNeBOypyIgdSkcQGJpZzrK5xma1~pNNfhatnzUL9uC5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_737]
+ link "download graphic as ppt" [ref_738] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f1.png?Expires=1777889572&Signature=f-f27QdN3j-~xrIPePxm24oiOvlxC-sQma~5qC3C9bTx0Ey3iEyaZ6hCyg2kK1DwKALuUcd8Fm8S4fb3lNdzKI-dPpiJKBAhuMJbhVmBHfMYp1c9DWRzOiEO1tQwuqx3Qr3n2XjdDPxAMXOUkMK3R1vo80hfO1iv6MfkWyYhkpJSsJyr4LywKcSu~uu1GnBEngaXnnVK23XRxMid8szZotQwHrSQaw8U40iJbqdrm53JAPTXUomMFtT29kHSNMW3vhko8sbUfTQzB2B~uGkIohkb6i~rnTsD2dvQWZEBa6mNeBOypyIgdSkcQGJpZzrK5xma1~pNNfhatnzUL9uC5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182146&ar=2512237&imagename=&siteId=14"
+  generic "Download" [ref_739]
+ link [ref_740]
+ link [ref_741]
+ link [ref_742] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f1.png?Expires=1777889572&Signature=f-f27QdN3j-~xrIPePxm24oiOvlxC-sQma~5qC3C9bTx0Ey3iEyaZ6hCyg2kK1DwKALuUcd8Fm8S4fb3lNdzKI-dPpiJKBAhuMJbhVmBHfMYp1c9DWRzOiEO1tQwuqx3Qr3n2XjdDPxAMXOUkMK3R1vo80hfO1iv6MfkWyYhkpJSsJyr4LywKcSu~uu1GnBEngaXnnVK23XRxMid8szZotQwHrSQaw8U40iJbqdrm53JAPTXUomMFtT29kHSNMW3vhko8sbUfTQzB2B~uGkIohkb6i~rnTsD2dvQWZEBa6mNeBOypyIgdSkcQGJpZzrK5xma1~pNNfhatnzUL9uC5A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "Study Group Assignment and Retention Throughout the Trial" [ref_743]
+  generic "(opens in new tab)" [ref_744]
+ link [ref_745] href="#yoi160008f1"
+  generic "Go to Figure in Article" [ref_746]
+ generic "HCI indicates hydrochloride; ITT, intent to treat (included all randomized participants [using multi" [ref_747]
+ generic "Refers to not respecting the clinic rules (eg, threats, verbal aggression)." [ref_748]
+ generic "Among those who did not discontinue the intervention." [ref_749]
+ link [ref_750]
+ generic "Table 1. Characteristics of the Study Participants Before Randomization" [ref_751]
+ link [ref_752]
+ link "view large Characteristics of the Study Participants Before Randomization" [ref_753] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t1.png?Expires=1777889572&Signature=1KciT-Ne7FE98ezdsUgpw6hsr-lc2oqL3xm8bHWY4Y6hmC4qwfRAJem1SwEAh-7u4x9pu5lsjYL8F-J~fHoNra5CDkDfUWj3FSU1107UCXKlqoYRnqU3yDBzaHIscTvE920P5LTDgtEJXczktjZMQBqku1QBO-~msHKn-pwGrCF4ValKF9XhxFcTbseqJVGcdtRRPtyhN5BDIKi3LejrAsjFM41zPyoiN96XtLjJARByXbF4f5lmOk23cUpz1xeEnGHGDLb1uoiBR3TIWKtWmfaN6z37bTKDZXhd9KaTKHbB~xGVRxHDJPl5xO~fcJH0GDaTCxOEZmrFPPFTUmF4cA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_754]
+ link "download graphic as ppt" [ref_755] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t1.png?Expires=1777889572&Signature=1KciT-Ne7FE98ezdsUgpw6hsr-lc2oqL3xm8bHWY4Y6hmC4qwfRAJem1SwEAh-7u4x9pu5lsjYL8F-J~fHoNra5CDkDfUWj3FSU1107UCXKlqoYRnqU3yDBzaHIscTvE920P5LTDgtEJXczktjZMQBqku1QBO-~msHKn-pwGrCF4ValKF9XhxFcTbseqJVGcdtRRPtyhN5BDIKi3LejrAsjFM41zPyoiN96XtLjJARByXbF4f5lmOk23cUpz1xeEnGHGDLb1uoiBR3TIWKtWmfaN6z37bTKDZXhd9KaTKHbB~xGVRxHDJPl5xO~fcJH0GDaTCxOEZmrFPPFTUmF4cA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182147&ar=2512237&imagename=&siteId=14"
+  generic "Download" [ref_756]
+ link [ref_757]
+ link [ref_758]
+ link [ref_759] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t1.png?Expires=1777889572&Signature=1KciT-Ne7FE98ezdsUgpw6hsr-lc2oqL3xm8bHWY4Y6hmC4qwfRAJem1SwEAh-7u4x9pu5lsjYL8F-J~fHoNra5CDkDfUWj3FSU1107UCXKlqoYRnqU3yDBzaHIscTvE920P5LTDgtEJXczktjZMQBqku1QBO-~msHKn-pwGrCF4ValKF9XhxFcTbseqJVGcdtRRPtyhN5BDIKi3LejrAsjFM41zPyoiN96XtLjJARByXbF4f5lmOk23cUpz1xeEnGHGDLb1uoiBR3TIWKtWmfaN6z37bTKDZXhd9KaTKHbB~xGVRxHDJPl5xO~fcJH0GDaTCxOEZmrFPPFTUmF4cA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "Characteristics of the Study Participants Before Randomization" [ref_760]
+  generic "(opens in new tab)" [ref_761]
+ link [ref_762] href="#yoi160008t1"
+  generic "Go to Figure in Article" [ref_763]
+ table [ref_764]
+  generic "Baseline Characteristic" [ref_765]
+  generic "Hydromorphone Hydrochloride(n = 100)" [ref_766]
+  generic "Diacetylmorphine Hydrochloride(n = 102)" [ref_767]
+  generic "Sociodemographics" [ref_768]
+  generic "Age, mean (SD), y" [ref_769]
+  generic "45.17 (10.19)" [ref_770]
+  generic "43.50 (9.03)" [ref_771]
+  generic "Sex, No. (%)" [ref_772]
+  generic "Male" [ref_773]
+  generic "67 (67.0)" [ref_774]
+  generic "73 (71.6)" [ref_775]
+  generic "Female" [ref_776]
+  generic "33 (33.0)" [ref_777]
+  generic "29 (28.4)" [ref_778]
+  generic "Aboriginal ancestry, No. (%)" [ref_779]
+  generic "32 (32.0)" [ref_780]
+  generic "30 (29.4)" [ref_781]
+  generic "Any nonstable or street housing in the prior month, No. (%)" [ref_782]
+  generic "60 (60.0)" [ref_783]
+  generic "65 (63.7)" [ref_784]
+  generic "Drug use and illegal activities, mean (SD)" [ref_785]
+  generic "Years injecting street heroin" [ref_786]
+  generic "15.56 (9.45)" [ref_787]
+  generic "15.34 (9.29)" [ref_788]
+  generic "Days of illegal activities in the prior month" [ref_789]
+  generic "12.78 (13.58)" [ref_790]
+  generic "15.50 (3.77)" [ref_791]
+  generic "Days of use of street drugs in the prior month" [ref_792]
+  generic "Street opioids" [ref_793]
+  generic "27.28 (4.79)" [ref_794]
+  generic "28.61 (3.40)" [ref_795]
+  generic "Street heroin" [ref_796]
+  generic "25.16 (7.50)" [ref_797]
+  generic "25.60 (8.47)" [ref_798]
+  generic "Crack cocaine smoked" [ref_799]
+  generic "11.25 (12.97)" [ref_800]
+  generic "9.41 (12.46)" [ref_801]
+  generic "Health, mean (SD)" [ref_802]
+  generic "MAP physical health score" [ref_803]
+  generic "11.82 (8.57)" [ref_804]
+  generic "12.50 (7.48)" [ref_805]
+  generic "MAP psychological health score" [ref_806]
+  generic "9.24 (9.64)" [ref_807]
+  generic "9.56 (8.29)" [ref_808]
+  generic "Times attempted MMT in the prior 5 y" [ref_809]
+  generic "2.84 (2.05)" [ref_810]
+  generic "2.77 (2.14)" [ref_811]
+ link [ref_812]
+ generic "Masking" [ref_813]
+ link [ref_814]
+ link [ref_815]
+  generic "Quiz Ref ID" [ref_816]
+ generic "In the hydromorphone group, 48 of 99 (48.5%) participants thought that they were receiving diacetylm" [ref_817]
+ link [ref_818]
+ generic "Efficacy Variables" [ref_819]
+ link [ref_820]
+ generic "Regarding total days of any street-acquired opioids, the adjusted mean differences between groups we" [ref_821]
+  link [ref_822]
+   generic "Quiz Ref ID" [ref_823]
+  generic "shows primary efficacy results for the 2-sided 90% CI. With respect to total days of street heroin u" [ref_824]
+   link "Figure 2" [ref_825] href="#yoi160008f2"
+  link "Table 2" [ref_826] href="#yoi160008t2"
+ link [ref_827]
+ link [ref_828]
+ generic "Figure 2. Primary Efficacy Outcomes According to the Analysis Population at 6 Months" [ref_829]
+ link [ref_830]
+ link "view large Primary Efficacy Outcomes According to the Analysis Population at 6 Months" [ref_831] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f2.png?Expires=1777889572&Signature=P4jjPFn~24GcNCaIsiPYo3FEnsRbqDMoizSgCrcqui3FUAs0vz-k2093g4eL8AayBXZV-V-FFRA6WkYtILjYpkZLFSRWHoPXRxck6TMbtB0sPAjA4Gmu9ws1Pji59~fik4aMt-rMjFneNicJXYogXur68u-xzoHVHEDWAcyC93I~nEQu9KUAhNJvY~AgDyGFF2x7mRH056KaJIu-5sbbmYLN13RG0bVNQP1e7hfzlQ7z0kGYXMTznQICvY46WUK-xf1iIC-FXYipeoorIVj5WTwuMz0jx7kM6ZccIbWTCSWTLXYY11nKnoqEOdvmMDo9svomdAxydcb~3rDBPJlANA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_832]
+ link "download graphic as ppt" [ref_833] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f2.png?Expires=1777889572&Signature=P4jjPFn~24GcNCaIsiPYo3FEnsRbqDMoizSgCrcqui3FUAs0vz-k2093g4eL8AayBXZV-V-FFRA6WkYtILjYpkZLFSRWHoPXRxck6TMbtB0sPAjA4Gmu9ws1Pji59~fik4aMt-rMjFneNicJXYogXur68u-xzoHVHEDWAcyC93I~nEQu9KUAhNJvY~AgDyGFF2x7mRH056KaJIu-5sbbmYLN13RG0bVNQP1e7hfzlQ7z0kGYXMTznQICvY46WUK-xf1iIC-FXYipeoorIVj5WTwuMz0jx7kM6ZccIbWTCSWTLXYY11nKnoqEOdvmMDo9svomdAxydcb~3rDBPJlANA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182152&ar=2512237&imagename=&siteId=14"
+  generic "Download" [ref_834]
+ link [ref_835]
+ link [ref_836]
+ link [ref_837] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008f2.png?Expires=1777889572&Signature=P4jjPFn~24GcNCaIsiPYo3FEnsRbqDMoizSgCrcqui3FUAs0vz-k2093g4eL8AayBXZV-V-FFRA6WkYtILjYpkZLFSRWHoPXRxck6TMbtB0sPAjA4Gmu9ws1Pji59~fik4aMt-rMjFneNicJXYogXur68u-xzoHVHEDWAcyC93I~nEQu9KUAhNJvY~AgDyGFF2x7mRH056KaJIu-5sbbmYLN13RG0bVNQP1e7hfzlQ7z0kGYXMTznQICvY46WUK-xf1iIC-FXYipeoorIVj5WTwuMz0jx7kM6ZccIbWTCSWTLXYY11nKnoqEOdvmMDo9svomdAxydcb~3rDBPJlANA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "Primary Efficacy Outcomes According to the Analysis Population at 6 Months" [ref_838]
+  generic "(opens in new tab)" [ref_839]
+ link [ref_840] href="#yoi160008f2"
+  generic "Go to Figure in Article" [ref_841]
+ generic "HCI indicates hydrochloride; ITT, intent to treat (included all randomized participants [using multi" [ref_842]
+ generic "Indicates that noninferiority was concluded." [ref_843]
+ link [ref_844]
+ generic "Table 2. Group Differences in Secondary Outcomes According to the Analysis Population at 6 Months" [ref_845]
+ link [ref_846]
+ link "view large Group Differences in Secondary Outcomes According to the Analysis Population at 6 Monthsa" [ref_847] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t2.png?Expires=1777889572&Signature=hjUFZr4jiizW9fnj5HbClP5ZCIuQhYBG1HYIVNcbTx7uN7sjOiK3ApmXgBYX9nWWIM1mb-trxGUJ2deMNFifR-eFM3R~cPqmqjcLRy2w9-cMDXXuMT3trvo9cS2D4MGlAelkN8B-AVdZmpKBzMxx9esb76KmMQ3z4vg7KtYubndhomAJtrtUvHfSn7I9nSL-o4x1mccW1RfYA6rIpY1TuGAZzgIV2iuFa3aBBpefOLqM0cQFe~bCL~TfIVAKKfl~Ywd4Ql9wFcFisLLOJRExpjOSGNA5FuQmhqj6lecsNujElyR~~W5KYAo707rfseY4zRS8y7miuGAWq0He1NgbDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_848]
+ link "download graphic as ppt" [ref_849] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t2.png?Expires=1777889572&Signature=hjUFZr4jiizW9fnj5HbClP5ZCIuQhYBG1HYIVNcbTx7uN7sjOiK3ApmXgBYX9nWWIM1mb-trxGUJ2deMNFifR-eFM3R~cPqmqjcLRy2w9-cMDXXuMT3trvo9cS2D4MGlAelkN8B-AVdZmpKBzMxx9esb76KmMQ3z4vg7KtYubndhomAJtrtUvHfSn7I9nSL-o4x1mccW1RfYA6rIpY1TuGAZzgIV2iuFa3aBBpefOLqM0cQFe~bCL~TfIVAKKfl~Ywd4Ql9wFcFisLLOJRExpjOSGNA5FuQmhqj6lecsNujElyR~~W5KYAo707rfseY4zRS8y7miuGAWq0He1NgbDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182153&ar=2512237&imagename=&siteId=14"
+  generic "Download" [ref_850]
+ link [ref_851]
+ link [ref_852]
+ link [ref_853] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t2.png?Expires=1777889572&Signature=hjUFZr4jiizW9fnj5HbClP5ZCIuQhYBG1HYIVNcbTx7uN7sjOiK3ApmXgBYX9nWWIM1mb-trxGUJ2deMNFifR-eFM3R~cPqmqjcLRy2w9-cMDXXuMT3trvo9cS2D4MGlAelkN8B-AVdZmpKBzMxx9esb76KmMQ3z4vg7KtYubndhomAJtrtUvHfSn7I9nSL-o4x1mccW1RfYA6rIpY1TuGAZzgIV2iuFa3aBBpefOLqM0cQFe~bCL~TfIVAKKfl~Ywd4Ql9wFcFisLLOJRExpjOSGNA5FuQmhqj6lecsNujElyR~~W5KYAo707rfseY4zRS8y7miuGAWq0He1NgbDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "Group Differences in Secondary Outcomes According to the Analysis Population at 6 Monthsa" [ref_854]
+  generic "(opens in new tab)" [ref_855]
+ link [ref_856] href="#yoi160008t2"
+  generic "Go to Figure in Article" [ref_857]
+ table [ref_858]
+  generic "Secondary Outcome in the Prior Month" [ref_859]
+  generic "Value (95% CI)" [ref_860]
+  generic "Hydromorphone Hydrochloride" [ref_861]
+  generic "Diacetylmorphine Hydrochloride" [ref_862]
+  generic "Difference of Diacetylmorphine Minus Hydromorphone" [ref_863]
+  generic "Proportion of participants receiving study medications ≥28 d" [ref_864]
+  generic "ITT" [ref_865]
+  generic "0.77 (0.69 to 0.85)" [ref_866]
+  generic "0.80 (0.72 to 0.88)" [ref_867]
+  generic "0.03 (−0.08 to 0.14)" [ref_868]
+  generic "0.92 (0.86 to 0.98)" [ref_869]
+  generic "0.94 (0.89 to 0.99)" [ref_870]
+  generic "0.02 (−0.05 to 0.10)" [ref_871]
+  generic "MAP physical health score" [ref_872]
+  generic "ITT" [ref_873]
+  generic "11.70 (10.28 to 13.13)" [ref_874]
+  generic "11.71 (10.23 to 13.19)" [ref_875]
+  generic "0.00 (−2.02 to 2.03)" [ref_876]
+  generic "12.12 (10.62 to 13.61)" [ref_877]
+  generic "11.98 (10.45 to 13.51)" [ref_878]
+  generic "−0.13 (−2.25 to 1.98)" [ref_879]
+  generic "MAP psychological health score" [ref_880]
+  generic "ITT" [ref_881]
+  generic "9.08 (7.58 to 10.58)" [ref_882]
+  generic "8.13 (6.55 to 9.71)" [ref_883]
+  generic "−0.95 (−3.09 to 1.19)" [ref_884]
+  generic "9.51 (7.90 to 11.13)" [ref_885]
+  generic "8.11 (6.50 to 9.72)" [ref_886]
+  generic "−1.40 (−3.65 to 0.85)" [ref_887]
+  generic "Days of illegal activities" [ref_888]
+  generic "ITT" [ref_889]
+  generic "3.76 (2.14 to 5.66)" [ref_890]
+  generic "2.78 (1.65 to 4.21)" [ref_891]
+  generic "−0.98 (−3.11 to 1.04)" [ref_892]
+  generic "3.73 (1.73 to 5.65)" [ref_893]
+  generic "2.78 (1.35 to 4.14)" [ref_894]
+  generic "−1.06 (−3.46 to 1.14)" [ref_895]
+  generic "Days of crack cocaine use" [ref_896]
+  generic "ITT" [ref_897]
+  generic "7.09 (5.04 to 9.72)" [ref_898]
+  generic "4.78 (3.17 to 7.02)" [ref_899]
+  generic "−2.31 (−4.73 to −0.21)" [ref_900]
+  generic "6.43 (4.03 to 9.47)" [ref_901]
+  generic "4.87 (2.91 to 7.53)" [ref_902]
+  generic "−1.56 (−3.94 to 0.41)" [ref_903]
+ link [ref_904]
+ generic "Safety" [ref_905]
+ link [ref_906]
+ generic "There were 206 related AEs in 48 participants in the hydromorphone group and 353 related AEs in 80 p" [ref_907]
+  link "Table 3" [ref_908] href="#yoi160008t3"
+ link [ref_909]
+ generic "Table 3. Summary Exposure to the Tested Medications, AEs, and SAEs Among the Study Participants" [ref_910]
+ link [ref_911]
+ link "view large Summary Exposure to the Tested Medications, AEs, and SAEs Among the Study Participantsa" [ref_912] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t3.png?Expires=1777889572&Signature=O2q4HnDdELkZ0fcF6uPp2v2EZf~fW0OUuupxcgH~s9kHdGNfOFMPGhvdxfRbFsVxJohf-Y~Nb~9XPqF6HgTMTuK~ELWKz~Jtmh5j0CpByjBLDvuMoSfqVyMO0Eo8U7ftPeQHUomIpzRzr0Eh8d~d3yDktrNZVf-ux9WM5s7b4gakZWO~g8xqidKo6YGFEZjvwbPtbGUwiVSZLo9xfPbq3vzp1VxPk9SvOUDxgDqpxEXZeaytRsk80IQcyKt1wz-i3o9-WbXgf0pVtYDDBC0hE1dvlzoTC4UGqEP1WdfGw4EL20KKPCiuSjzn-ceA-zLLXk-otyWI2AutX4x~bsYlIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  generic "View Large" [ref_913]
+ link "download graphic as ppt" [ref_914] href="/downloadimage.aspx?image=https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t3.png?Expires=1777889572&Signature=O2q4HnDdELkZ0fcF6uPp2v2EZf~fW0OUuupxcgH~s9kHdGNfOFMPGhvdxfRbFsVxJohf-Y~Nb~9XPqF6HgTMTuK~ELWKz~Jtmh5j0CpByjBLDvuMoSfqVyMO0Eo8U7ftPeQHUomIpzRzr0Eh8d~d3yDktrNZVf-ux9WM5s7b4gakZWO~g8xqidKo6YGFEZjvwbPtbGUwiVSZLo9xfPbq3vzp1VxPk9SvOUDxgDqpxEXZeaytRsk80IQcyKt1wz-i3o9-WbXgf0pVtYDDBC0hE1dvlzoTC4UGqEP1WdfGw4EL20KKPCiuSjzn-ceA-zLLXk-otyWI2AutX4x~bsYlIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=124182156&ar=2512237&imagename=&siteId=14"
+  generic "Download" [ref_915]
+ link [ref_916]
+ link [ref_917]
+ link [ref_918] href="https://cdn-jamanetwork-com.ezproxy.lib.ucalgary.ca/ama/content_public/journal/psych/935259/yoi160008t3.png?Expires=1777889572&Signature=O2q4HnDdELkZ0fcF6uPp2v2EZf~fW0OUuupxcgH~s9kHdGNfOFMPGhvdxfRbFsVxJohf-Y~Nb~9XPqF6HgTMTuK~ELWKz~Jtmh5j0CpByjBLDvuMoSfqVyMO0Eo8U7ftPeQHUomIpzRzr0Eh8d~d3yDktrNZVf-ux9WM5s7b4gakZWO~g8xqidKo6YGFEZjvwbPtbGUwiVSZLo9xfPbq3vzp1VxPk9SvOUDxgDqpxEXZeaytRsk80IQcyKt1wz-i3o9-WbXgf0pVtYDDBC0hE1dvlzoTC4UGqEP1WdfGw4EL20KKPCiuSjzn-ceA-zLLXk-otyWI2AutX4x~bsYlIw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  image "Summary Exposure to the Tested Medications, AEs, and SAEs Among the Study Participantsa" [ref_919]
+  generic "(opens in new tab)" [ref_920]
+ link [ref_921] href="#yoi160008t3"
+  generic "Go to Figure in Article" [ref_922]
+ table [ref_923]
+  generic "Variable" [ref_924]
+  generic "Total(N = 202)" [ref_925]
+  generic "Total (Mean) or No. (%)" [ref_926]
+  generic "Hydromorphone vs Diacetylmorphine Relative Risk or Rate Ratio (95% CI)" [ref_927]
+  generic "Hydromorphone Hydrochloride(n = 100)" [ref_928]
+  generic "Diacetylmorphine Hydrochloride(n = 102)" [ref_929]
+  generic "Days receiving injectable medications, mean (SD)" [ref_930]
+  generic "165.51 (48.98)" [ref_931]
+  generic "166.53 (44.96)" [ref_932]
+  generic "164.52 (52.83)" [ref_933]
+  generic "Injections received, mean (SD)" [ref_934]
+  generic "423.02 (147.39)" [ref_935]
+  generic "410.27 (140.21)" [ref_936]
+  generic "435.53 (153.76)" [ref_937]
+  generic "Diacetylmorphine equivalent dose received, mean (SD), mg" [ref_938]
+  generic "522.36 (208.04)" [ref_939]
+  generic "506.41 (205.49)" [ref_940]
+  generic "AEs" [ref_941]
+  generic "Total AEs" [ref_942]
+  generic "1375" [ref_943]
+  generic "596 (5.96)" [ref_944]
+  generic "779 (7.64)" [ref_945]
+  generic "0.78 (0.60-1.01)" [ref_946]
+  generic "Total AEs with some relationship to the treatment" [ref_947]
+  generic "559" [ref_948]
+  generic "206 (2.06)" [ref_949]
+  generic "353 (3.46)" [ref_950]
+  generic "0.60 (0.39-0.90)" [ref_951]
+  generic "Participants with AEs" [ref_952]
+  generic "189" [ref_953]
+  generic "94 (94.0)" [ref_954]
+  generic "95 (93.1)" [ref_955]
+  generic "1.01 (0.94-1.08)" [ref_956]
+  generic "Participants with related AEs" [ref_957]
+  generic "128" [ref_958]
+  generic "48 (48.0)" [ref_959]
+  generic "80 (78.4)" [ref_960]
+  generic "0.61 (0.49- 0.77)" [ref_961]
+  generic "Most common related AEs" [ref_962]
+  generic "Drowsiness" [ref_963]
+  generic "187" [ref_964]
+  generic "36 (0.36)" [ref_965]
+  generic "151 (1.48)" [ref_966]
+  generic "0.24 (0.14-0.43)" [ref_967]
+  generic "Minor or moderate histamine reactions" [ref_968]
+  generic "178" [ref_969]
+  generic "111 (1.11)" [ref_970]
+  generic "67 (0.66)" [ref_971]
+  generic "1.69 (0.69-4.11)" [ref_972]
+  generic "SAEs" [ref_973]
+  generic "Total SAEs" [ref_974]
+  generic "14 (0.14)" [ref_975]
+  generic "33 (0.32)" [ref_976]
+  generic "0.43 (0.20-0.93)" [ref_977]
+  generic "Total SAEs with some relationship to the treatment, all resolved with no sequelae" [ref_978]
+  generic "5 (0.05)" [ref_979]
+  generic "24 (0.24)" [ref_980]
+  generic "0.21 (0.06-0.69)" [ref_981]
+  generic "Participants with SAEs" [ref_982]
+  generic "11 (11.0)" [ref_983]
+  generic "22 (21.6)" [ref_984]
+  generic "0.51 (0.26-1.00)" [ref_985]
+  generic "Participants with related SAEs" [ref_986]
+  generic "3 (3.0)" [ref_987]
+  generic "15 (14.7)" [ref_988]
+  generic "0.20 (0.06-0.68)" [ref_989]
+  generic "Deaths, none related to study medications" [ref_990]
+  generic "0 (0.00)" [ref_991]
+  generic "2 (0.02)" [ref_992]
+  generic "Most common related SAEs" [ref_993]
+  generic "Seizures" [ref_994]
+  generic "0 (0.00)" [ref_995]
+  generic "11 (0.11)" [ref_996]
+  generic "Opioid overdoses" [ref_997]
+  generic "3 (0.03)" [ref_998]
+  generic "11 (0.11)" [ref_999]
+  generic "0.28 (0.07-1.17)" [ref_1000]
+ link [ref_1001]
+ link [ref_1002]
+  generic "Quiz Ref ID" [ref_1003]
+ generic "There were 29 SAEs considered to have some relationship with the injection medication, 5 in the hydr" [ref_1004]
+  link "Table 3" [ref_1005] href="#yoi160008t3"
+ link [ref_1006]
+ generic "Discussion" [ref_1007]
+ link [ref_1008]
+ generic "Although the primary outcome did not show noninferiority in the ITT analysis, noninferiority was dem" [ref_1009]
+  link "6" [ref_1010] href="#yoi160008r6"
+  link "8" [ref_1011] href="#yoi160008r6"
+  link "3" [ref_1012] href="#yoi160008r3"
+  link "14" [ref_1013] href="#yoi160008r14"
+ link [ref_1014]
+ generic "The AEs that occurred in this trial were expected according to the profile of the study medications " [ref_1015]
+  link "29" [ref_1016] href="#yoi160008r29"
+  link "30" [ref_1017] href="#yoi160008r30"
+  link "32" [ref_1018] href="#yoi160008r30"
+  link "33" [ref_1019] href="#yoi160008r33"
+  link "34" [ref_1020] href="#yoi160008r34"
+  link "34" [ref_1021] href="#yoi160008r34"
+ link [ref_1022]
+ generic "Noninferiority trials are conducted on the tacit assumption that the new treatment would exhibit eff" [ref_1023]
+  link "3" [ref_1024] href="#yoi160008r3"
+  link "17" [ref_1025] href="#yoi160008r17"
+  link "17" [ref_1026] href="#yoi160008r17"
+ link [ref_1027]
+ generic "Our study had some limitations. The choice of a margin poses a well-known challenge in noninferiorit" [ref_1028]
+  link "26" [ref_1029] href="#yoi160008r26"
+  link "35" [ref_1030] href="#yoi160008r35"
+ link [ref_1031]
+ generic "Two efficacy outcomes were based on self-report of street heroin use and total use of street-acquire" [ref_1032]
+  link "36" [ref_1033] href="#yoi160008r36"
+ link [ref_1034]
+ generic "Conclusions" [ref_1035]
+ link [ref_1036]
+ generic "The results of our study suggest that hydromorphone is as effective as diacetylmorphine for this sub" [ref_1037]
+ link [ref_1038]
+ link "Back to top" [ref_1039] href="#top"
+ generic "Article Information" [ref_1040]
+ generic "November 10, 2015; final revision received January 11, 2016; accepted January 13, 2016." [ref_1041]
+  generic "Submitted for Publication:" [ref_1042]
+ generic "Eugenia Oviedo-Joekes, PhD, Centre for Health Evaluation and Outcome Sciences, Providence Health Car" [ref_1043]
+  generic "Corresponding Author:" [ref_1044]
+  link "eugenia@cheos.ubc.ca" [ref_1045] href="mailto:eugenia@cheos.ubc.ca"
+ generic "April 6, 2016. doi:10.1001/jamapsychiatry.2016.0109." [ref_1046]
+  generic "Published Online:" [ref_1047]
+ generic "Dr Oviedo-Joekes (principal investigator) and Ms Guh take full responsibility for the integrity of t" [ref_1048]
+  generic "Author Contributions:" [ref_1049]
+ generic "Oviedo-Joekes, Brissette, Janmohamed, Anis, Krausz, Marsh, Schechter." [ref_1050]
+  generic "Study concept and design:" [ref_1051]
+ generic "Marchand, MacDonald, Lock, Harrison." [ref_1052]
+  generic "Acquisition, analysis, or interpretation of data:" [ref_1053]
+ generic "Oviedo-Joekes, Schechter." [ref_1054]
+  generic "Drafting of the manuscript:" [ref_1055]
+ generic "All authors." [ref_1056]
+  generic "Critical revision of the manuscript for important intellectual content:" [ref_1057]
+ generic "Marchand, MacDonald, Lock, Harrison." [ref_1058]
+  generic "Administrative, technical, or material support:" [ref_1059]
+ generic "Guh." [ref_1060]
+  generic "Statistical analysis:" [ref_1061]
+ generic "None reported." [ref_1062]
+  generic "Conflict of Interest Disclosures:" [ref_1063]
+ generic "The Study to Assess Longer-term Opioid Medication Effectiveness (SALOME) was funded through operatin" [ref_1064]
+  generic "Funding/Support:" [ref_1065]
+ generic "The funding sources had no role in the design and conduct of the study; collection, management, anal" [ref_1066]
+  generic "Role of the Funder/Sponsor:" [ref_1067]
+ generic "First and foremost, we acknowledge the contribution and commitment of the study participants, who ma" [ref_1068]
+  generic "Additional Contributions:" [ref_1069]
+ link [ref_1070]
+ generic "References" [ref_1071]
+ link "1." [ref_1072]
+ generic "Mattick RP, Breen C, Kimber J, Davoli M. Buprenorphine maintena..." [ref_1073]
+  generic "Cochrane Database Syst Rev" [ref_1074]
+  link "PubMed" [ref_1075] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/24500948"
+  link "Google Scholar" [ref_1076] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Buprenorphine%20maintenance%20versus%20placebo%20or%20methadone%20maintenance%20for%20opioid%20dependence.&author=RP%20Mattick&author=C%20Breen&author=J%20Kimber&author=M%20Davoli&publication_year=2014&journal=Cochrane%20Database%20Syst%20Rev&volume=2&pages=CD002207"
+ link "2." [ref_1077]
+ generic "Mattick RP, Breen C, Kimber J, Davoli M. Methadone maintenance ..." [ref_1078]
+  generic "Cochrane Database Syst Rev" [ref_1079]
+  link "PubMed" [ref_1080] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/19588333"
+  link "Google Scholar" [ref_1081] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Methadone%20maintenance%20therapy%20versus%20no%20opioid%20replacement%20therapy%20for%20opioid%20dependence.&author=RP%20Mattick&author=C%20Breen&author=J%20Kimber&author=M%20Davoli&publication_year=2009&journal=Cochrane%20Database%20Syst%20Rev&volume=2009&pages=CD002209"
+ link "3." [ref_1082]
+ generic "Strang J, Groshkova T, Uchtenhagen A, et al. Heroin on trial: syst..." [ref_1083]
+  generic "Br J Psychiatry" [ref_1084]
+  link "PubMed" [ref_1085] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/26135571"
+  link "Google Scholar" [ref_1086] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Heroin%20on%20trial%3A%20systematic%20review%20and%20meta-analysis%20of%20randomised%20trials%20of%20diamorphine-prescribing%20as%20treatment%20for%20refractory%20heroin%20addiction.&author=J%20Strang&author=T%20Groshkova&author=A%20Uchtenhagen&publication_year=2015&journal=Br%20J%20Psychiatry&volume=207&pages=5-14"
+  link "Crossref" [ref_1087] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1192/bjp.bp.114.149195"
+ link "4." [ref_1088]
+ generic "Strang J, Groshkova T, Metrebian N, Strang J, Groshkova ..." [ref_1089]
+  generic "New Heroin-Assisted Treatment: Recent Evidence and Current Practices of Supervised Injectable Heroin" [ref_1090]
+ link "5." [ref_1091]
+ generic "March JC, Oviedo-Joekes E, Perea-Milla E, Carrasco F; PEPSA team..." [ref_1092]
+  generic "J Subst Abuse Treat" [ref_1093]
+  link "PubMed" [ref_1094] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16919749"
+  link "Google Scholar" [ref_1095] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Controlled%20trial%20of%20prescribed%20heroin%20in%20the%20treatment%20of%20opioid%20addiction.&author=JC%20March&author=E%20Oviedo-Joekes&author=E%20Perea-Milla&author=F%20Carrasco&publication_year=2006&journal=J%20Subst%20Abuse%20Treat&volume=31&pages=203-211"
+  link "Crossref" [ref_1096] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jsat.2006.04.007"
+ link "6." [ref_1097]
+ generic "Demaret I, Quertemont E, Litran G, et al. Efficacy of heroin-assis..." [ref_1098]
+  generic "Eur Addict Res" [ref_1099]
+  link "PubMed" [ref_1100] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/25832522"
+  link "Google Scholar" [ref_1101] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Efficacy%20of%20heroin-assisted%20treatment%20in%20Belgium%3A%20a%20randomised%20controlled%20trial.&author=I%20Demaret&author=E%20Quertemont&author=G%20Litran&publication_year=2015&journal=Eur%20Addict%20Res&volume=21&pages=179-187"
+  link "Crossref" [ref_1102] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1159/000369337"
+ link "7." [ref_1103]
+ generic "Oviedo-Joekes E, Brissette S, Marsh DC, et al. Diacetylmorphine ve..." [ref_1104]
+  generic "N Engl J Med" [ref_1105]
+  link "PubMed" [ref_1106] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/19692689"
+  link "Google Scholar" [ref_1107] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Diacetylmorphine%20versus%20methadone%20for%20the%20treatment%20of%20opioid%20addiction.&author=E%20Oviedo-Joekes&author=S%20Brissette&author=DC%20Marsh&publication_year=2009&journal=N%20Engl%20J%20Med&volume=361&pages=777-786"
+  link "Crossref" [ref_1108] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1056/NEJMoa0810635"
+ link "8." [ref_1109]
+ generic "Haasen C, Verthein U, Degkwitz P, Berger J, Krausz M, N..." [ref_1110]
+  generic "Br J Psychiatry" [ref_1111]
+  link "PubMed" [ref_1112] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/17602126"
+  link "Google Scholar" [ref_1113] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Heroin-assisted%20treatment%20for%20opioid%20dependence%3A%20randomised%20controlled%20trial.&author=C%20Haasen&author=U%20Verthein&author=P%20Degkwitz&author=J%20Berger&author=M%20Krausz&author=D%20Naber&publication_year=2007&journal=Br%20J%20Psychiatry&volume=191&pages=55-62"
+  link "Crossref" [ref_1114] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1192/bjp.bp.106.026112"
+ link "9." [ref_1115]
+ generic "van den Brink W, Hendriks VM, Blanken P, Koeter MW, van Zwieten ..." [ref_1116]
+  generic "BMJ" [ref_1117]
+  link "PubMed" [ref_1118] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/12907482"
+  link "Google Scholar" [ref_1119] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Medical%20prescription%20of%20heroin%20to%20treatment%20resistant%20heroin%20addicts%3A%20two%20randomised%20controlled%20trials.&author=W%20van den Brink&author=VM%20Hendriks&author=P%20Blanken&author=MW%20Koeter&author=BJ%20van Zwieten&author=JM%20van Ree&publication_year=2003&journal=BMJ&volume=327&pages=310"
+  link "Crossref" [ref_1120] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1136/bmj.327.7410.310"
+ link "10." [ref_1121]
+ generic "Strang J, Metrebian N, Lintzeris N, et al. Supervised injectable h..." [ref_1122]
+  generic "Lancet" [ref_1123]
+  link "PubMed" [ref_1124] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/20511018"
+  link "Google Scholar" [ref_1125] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Supervised%20injectable%20heroin%20or%20injectable%20methadone%20versus%20optimised%20oral%20methadone%20as%20treatment%20for%20chronic%20heroin%20addicts%20in%20England%20after%20persistent%20failure%20in%20orthodox%20treatment%20%28RIOTT%29%3A%20a%20randomised%20trial.&author=J%20Strang&author=N%20Metrebian&author=N%20Lintzeris&publication_year=2010&journal=Lancet&volume=375&pages=1885-1895"
+  link "Crossref" [ref_1126] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/S0140-6736(10)60349-2"
+ link "11." [ref_1127]
+ generic "Perneger TV, Giner F, del Rio M, Mino A. Randomised trial of he..." [ref_1128]
+  generic "BMJ" [ref_1129]
+  link "PubMed" [ref_1130] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/9651260"
+  link "Google Scholar" [ref_1131] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Randomised%20trial%20of%20heroin%20maintenance%20programme%20for%20addicts%20who%20fail%20in%20conventional%20drug%20treatments.&author=TV%20Perneger&author=F%20Giner&author=M%20del Rio&author=A%20Mino&publication_year=1998&journal=BMJ&volume=317&pages=13-18"
+  link "Crossref" [ref_1132] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1136/bmj.317.7150.13"
+ link "12." [ref_1133]
+ generic "Dijkgraaf MG, van der Zanden BP, de Borgie CA, Blanken P, van Re..." [ref_1134]
+  generic "BMJ" [ref_1135]
+  link "PubMed" [ref_1136] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/15933353"
+  link "Google Scholar" [ref_1137] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Cost%20utility%20analysis%20of%20co-prescribed%20heroin%20compared%20with%20methadone%20maintenance%20treatment%20in%20heroin%20addicts%20in%20two%20randomised%20trials.&author=MG%20Dijkgraaf&author=BP%20van der Zanden&author=CA%20de Borgie&author=P%20Blanken&author=JM%20van Ree&author=W%20van den Brink&publication_year=2005&journal=BMJ&volume=330&pages=1297"
+  link "Crossref" [ref_1138] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1136/bmj.330.7503.1297"
+ link "13." [ref_1139]
+ generic "Nosyk B, Guh DP, Bansback NJ, et al. Cost-effectiveness of diacety..." [ref_1140]
+  generic "CMAJ" [ref_1141]
+  link "10.1503/cmaj.110669" [ref_1142] href="http://dx.doi.org.ezproxy.lib.ucalgary.ca/10.1503/cmaj.110669"
+  link "PubMed" [ref_1143] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/22410375"
+  link "Google Scholar" [ref_1144] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Cost-effectiveness%20of%20diacetylmorphine%20versus%20methadone%20for%20chronic%20opioid%20dependence%20refractory%20to%20treatment.&author=B%20Nosyk&author=DP%20Guh&author=NJ%20Bansback&publication_year=2012&journal=CMAJ&volume=184&pages=E317-E328"
+  link "Crossref" [ref_1145] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1503/cmaj.110669"
+ link "14." [ref_1146]
+ generic "Ferri M, Davoli M, Perucci CA. Heroin maintenance for chronic heroin-dep..." [ref_1147]
+  generic "Cochrane Database Syst Rev" [ref_1148]
+  link "PubMed" [ref_1149] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/22161378"
+  link "Google Scholar" [ref_1150] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Heroin%20maintenance%20for%20chronic%20heroin-dependent%20individuals.&author=M%20Ferri&author=M%20Davoli&author=CA%20Perucci&publication_year=2011&journal=Cochrane%20Database%20Syst%20Rev&volume=&pages=CD003410"
+ link "15." [ref_1151]
+ generic "Fletcher J. Canada in breach of ethical standards for clinical trials. . 2014;186(1):11." [ref_1152]
+  generic "CMAJ" [ref_1153]
+  link "PubMed" [ref_1154] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/24324012"
+  link "Google Scholar" [ref_1155] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Canada%20in%20breach%20of%20ethical%20standards%20for%20clinical%20trials.&author=J%20Fletcher&publication_year=2014&journal=CMAJ&volume=186&pages=11"
+  link "Crossref" [ref_1156] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1503/cmaj.131744"
+ link "16." [ref_1157]
+ generic "Oviedo-Joekes E, Guh D, Brissette S, et al. Double-blind injectabl..." [ref_1158]
+  generic "J Subst Abuse Treat" [ref_1159]
+  link "PubMed" [ref_1160] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/20359843"
+  link "Google Scholar" [ref_1161] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Double-blind%20injectable%20hydromorphone%20versus%20diacetylmorphine%20for%20the%20treatment%20of%20opioid%20dependence%3A%20a%20pilot%20study.&author=E%20Oviedo-Joekes&author=D%20Guh&author=S%20Brissette&publication_year=2010&journal=J%20Subst%20Abuse%20Treat&volume=38&pages=408-411"
+  link "Crossref" [ref_1162] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jsat.2010.03.003"
+ link "17." [ref_1163]
+ generic "Kaul S, Diamond GA. Good enough: a primer on the analysis and interpretation of n..." [ref_1164]
+  generic "Ann Intern Med" [ref_1165]
+  link "PubMed" [ref_1166] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16818930"
+  link "Google Scholar" [ref_1167] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Good%20enough%3A%20a%20primer%20on%20the%20analysis%20and%20interpretation%20of%20noninferiority%20trials.&author=S%20Kaul&author=GA%20Diamond&publication_year=2006&journal=Ann%20Intern%20Med&volume=145&pages=62-69"
+  link "Crossref" [ref_1168] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.7326/0003-4819-145-1-200607040-00011"
+ link "18." [ref_1169]
+ generic "American Psychiatric Association. . 4th ed. Washington, DC: American Psychiatric Association; 1994.." [ref_1170]
+  generic "Diagnostic and Statistical Manual of Mental Disorders" [ref_1171]
+ link "19." [ref_1172]
+ generic "Oviedo-Joekes E, Marchand K, Lock K, MacDonald S, Guh D..." [ref_1173]
+  generic "Subst Abuse Treat Prev Policy" [ref_1174]
+  link "PubMed" [ref_1175] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/25619263"
+  link "Google Scholar" [ref_1176] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20SALOME%20study%3A%20recruitment%20experiences%20in%20a%20clinical%20trial%20offering%20injectable%20diacetylmorphine%20and%20hydromorphone%20for%20opioid%20dependency.&author=E%20Oviedo-Joekes&author=K%20Marchand&author=K%20Lock&author=S%20MacDonald&author=D%20Guh&author=MT%20Schechter&publication_year=2015&journal=Subst%20Abuse%20Treat%20Prev%20Policy&volume=10&pages=3"
+  link "Crossref" [ref_1177] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1186/1747-597X-10-3"
+ link "20." [ref_1178]
+ generic "Oviedo-Joekes E, Marchand K, Guh D, et al. History of treatment ac..." [ref_1179]
+  generic "J Addict Med Ther" [ref_1180]
+  link "Google Scholar" [ref_1181] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=History%20of%20treatment%20access%20and%20drug%20use%20among%20participants%20in%20a%20trial%20testing%20injectable%20opioids%20under%20supervision%20for%20long-term%20heroin%20injectors.&author=E%20Oviedo-Joekes&author=K%20Marchand&author=D%20Guh&publication_year=2015&journal=J%20Addict%20Med%20Ther&volume=3&pages=1015-1026"
+ link "21." [ref_1182]
+ generic "Laster LL, Johnson MF. Non-inferiority trials: the ‘at least as good as’ criterio..." [ref_1183]
+  generic "Stat Med" [ref_1184]
+  link "PubMed" [ref_1185] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/12520556"
+  link "Google Scholar" [ref_1186] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Non-inferiority%20trials%3A%20the%20%E2%80%98at%20least%20as%20good%20as%E2%80%99%20criterion.&author=LL%20Laster&author=MF%20Johnson&publication_year=2003&journal=Stat%20Med&volume=22&pages=187-200"
+  link "Crossref" [ref_1187] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/(ISSN)1097-0258"
+ link "22." [ref_1188]
+ generic "Oviedo-Joekes E, Marsh DC, Guh D, Brissette S, Schechter ..." [ref_1189]
+  generic "J Opioid Manag" [ref_1190]
+  link "PubMed" [ref_1191] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/22165036"
+  link "Google Scholar" [ref_1192] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Potency%20ratio%20of%20hydromorphone%20and%20diacetylmorphine%20in%20substitution%20treatment%20for%20long-term%20opioid%20dependency.&author=E%20Oviedo-Joekes&author=DC%20Marsh&author=D%20Guh&author=S%20Brissette&author=MT%20Schechter&publication_year=2011&journal=J%20Opioid%20Manag&volume=7&pages=371-376"
+ link "23." [ref_1193]
+ generic "Marsden J, Gossop M, Stewart D, et al. The Maudsley Addiction Prof..." [ref_1194]
+  generic "Addiction" [ref_1195]
+  link "PubMed" [ref_1196] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/9926574"
+  link "Google Scholar" [ref_1197] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20Maudsley%20Addiction%20Profile%20%28MAP%29%3A%20a%20brief%20instrument%20for%20assessing%20treatment%20outcome.&author=J%20Marsden&author=M%20Gossop&author=D%20Stewart&publication_year=1998&journal=Addiction&volume=93&pages=1857-1867"
+  link "Crossref" [ref_1198] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1046/j.1360-0443.1998.9312185711.x"
+ link "24." [ref_1199]
+ generic "Paterson S, Lintzeris N, Mitchell TB, Cordero R, Nestor ..." [ref_1200]
+  generic "Addiction" [ref_1201]
+  link "PubMed" [ref_1202] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16367984"
+  link "Google Scholar" [ref_1203] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Validation%20of%20techniques%20to%20detect%20illicit%20heroin%20use%20in%20patients%20prescribed%20pharmaceutical%20heroin%20for%20the%20management%20of%20opioid%20dependence.&author=S%20Paterson&author=N%20Lintzeris&author=TB%20Mitchell&author=R%20Cordero&author=L%20Nestor&author=J%20Strang&publication_year=2005&journal=Addiction&volume=100&pages=1832-1839"
+  link "Crossref" [ref_1204] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/add.2005.100.issue-12"
+ link "25." [ref_1205]
+ generic "Beck T, Haasen C, Verthein U, et al. Maintenance treatment for opi..." [ref_1206]
+  generic "Addiction" [ref_1207]
+  link "PubMed" [ref_1208] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/24304412"
+  link "Google Scholar" [ref_1209] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Maintenance%20treatment%20for%20opioid%20dependence%20with%20slow-release%20oral%20morphine%3A%20a%20randomized%20cross-over%2C%20non-inferiority%20study%20versus%20methadone.&author=T%20Beck&author=C%20Haasen&author=U%20Verthein&publication_year=2014&journal=Addiction&volume=109&pages=617-626"
+  link "Crossref" [ref_1210] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/add.2014.109.issue-4"
+ link "26." [ref_1211]
+ generic "D’Agostino RB Sr, Massaro JM, Sullivan LM. Non-inferiority tria..." [ref_1212]
+  generic "Stat Med" [ref_1213]
+  link "PubMed" [ref_1214] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/12520555"
+  link "Google Scholar" [ref_1215] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Non-inferiority%20trials%3A%20design%20concepts%20and%20issues%3A%20the%20encounters%20of%20academic%20consultants%20in%20statistics.&author=RB%20D’Agostino&author=JM%20Massaro&author=LM%20Sullivan&publication_year=2003&journal=Stat%20Med&volume=22&pages=169-186"
+  link "Crossref" [ref_1216] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/(ISSN)1097-0258"
+ link "27." [ref_1217]
+ generic "Biering K, Hjollund NH, Frydenberg M. Using multiple imputation to deal ..." [ref_1218]
+  generic "Clin Epidemiol" [ref_1219]
+  link "PubMed" [ref_1220] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/25653557"
+  link "Google Scholar" [ref_1221] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Using%20multiple%20imputation%20to%20deal%20with%20missing%20data%20and%20attrition%20in%20longitudinal%20studies%20with%20repeated%20measures%20of%20patient-reported%20outcomes.&author=K%20Biering&author=NH%20Hjollund&author=M%20Frydenberg&publication_year=2015&journal=Clin%20Epidemiol&volume=7&pages=91-106"
+  link "Crossref" [ref_1222] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.2147/CLEP"
+ link "28." [ref_1223]
+ generic "James KE, Bloch DA, Lee KK, Kraemer HC, Fuller RK. An ..." [ref_1224]
+  generic "Stat Med" [ref_1225]
+  link "PubMed" [ref_1226] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/8841652"
+  link "Google Scholar" [ref_1227] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=An%20index%20for%20assessing%20blindness%20in%20a%20multi-centre%20clinical%20trial%3A%20disulfiram%20for%20alcohol%20cessation--a%20VA%20cooperative%20study.&author=KE%20James&author=DA%20Bloch&author=KK%20Lee&author=HC%20Kraemer&author=RK%20Fuller&publication_year=1996&journal=Stat%20Med&volume=15&pages=1421-1434"
+  link "Crossref" [ref_1228] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1002/(ISSN)1097-0258"
+ link "29." [ref_1229]
+ generic "Kullgren J, Le V, Wheeler W. Incidence of hydromorphone-induced neuroexc..." [ref_1230]
+  generic "J Palliat Med" [ref_1231]
+  link "PubMed" [ref_1232] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/23930920"
+  link "Google Scholar" [ref_1233] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Incidence%20of%20hydromorphone-induced%20neuroexcitation%20in%20hospice%20patients.&author=J%20Kullgren&author=V%20Le&author=W%20Wheeler&publication_year=2013&journal=J%20Palliat%20Med&volume=16&pages=1205-1209"
+  link "Crossref" [ref_1234] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1089/jpm.2012.0467"
+ link "30." [ref_1235]
+ generic "Pigni A, Brunelli C, Caraceni A. The role of hydromorphone in cancer pai..." [ref_1236]
+  generic "Palliat Med" [ref_1237]
+  link "PubMed" [ref_1238] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/21708853"
+  link "Google Scholar" [ref_1239] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20role%20of%20hydromorphone%20in%20cancer%20pain%20treatment%3A%20a%20systematic%20review.&author=A%20Pigni&author=C%20Brunelli&author=A%20Caraceni&publication_year=2011&journal=Palliat%20Med&volume=25&pages=471-477"
+  link "Crossref" [ref_1240] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1177/0269216310387962"
+ link "31." [ref_1241]
+ generic "Hong D, Flood P, Diaz G. The side effects of morphine and hydromorphone ..." [ref_1242]
+  generic "Anesth Analg" [ref_1243]
+  link "PubMed" [ref_1244] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/18806056"
+  link "Google Scholar" [ref_1245] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The%20side%20effects%20of%20morphine%20and%20hydromorphone%20patient-controlled%20analgesia.&author=D%20Hong&author=P%20Flood&author=G%20Diaz&publication_year=2008&journal=Anesth%20Analg&volume=107&pages=1384-1389"
+  link "Crossref" [ref_1246] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1213/ane.0b013e3181823efb"
+ link "32." [ref_1247]
+ generic "Chang AK, Bijur PE, Meyer RH, Kenny MK, Solorzano C, Ga..." [ref_1248]
+  generic "Ann Emerg Med" [ref_1249]
+  link "PubMed" [ref_1250] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/16857467"
+  link "Google Scholar" [ref_1251] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Safety%20and%20efficacy%20of%20hydromorphone%20as%20an%20analgesic%20alternative%20to%20morphine%20in%20acute%20pain%3A%20a%20randomized%20clinical%20trial.&author=AK%20Chang&author=PE%20Bijur&author=RH%20Meyer&author=MK%20Kenny&author=C%20Solorzano&author=EJ%20Gallagher&publication_year=2006&journal=Ann%20Emerg%20Med&volume=48&pages=164-172"
+  link "Crossref" [ref_1252] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.annemergmed.2006.03.005"
+ link "33." [ref_1253]
+ generic "Gregory TB. Hydromorphone: evolving to meet the challenges of today’s health care environm..." [ref_1254]
+  generic "Clin Ther" [ref_1255]
+  link "PubMed" [ref_1256] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/24290733"
+  link "Google Scholar" [ref_1257] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Hydromorphone%3A%20evolving%20to%20meet%20the%20challenges%20of%20today%E2%80%99s%20health%20care%20environment.&author=TB%20Gregory&publication_year=2013&journal=Clin%20Ther&volume=35&pages=2007-2027"
+  link "Crossref" [ref_1258] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.clinthera.2013.09.027"
+ link "34." [ref_1259]
+ generic "Drewes AM, Jensen RD, Nielsen LM, et al. Differences between opioi..." [ref_1260]
+  generic "Br J Clin Pharmacol" [ref_1261]
+  link "PubMed" [ref_1262] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/22554450"
+  link "Google Scholar" [ref_1263] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Differences%20between%20opioids%3A%20pharmacological%2C%20experimental%2C%20clinical%20and%20economical%20perspectives.&author=AM%20Drewes&author=RD%20Jensen&author=LM%20Nielsen&publication_year=2013&journal=Br%20J%20Clin%20Pharmacol&volume=75&pages=60-78"
+  link "Crossref" [ref_1264] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1111/bcp.2013.75.issue-1"
+ link "35." [ref_1265]
+ generic "Piaggio G, Elbourne DR, Pocock SJ, Evans SJ, Altman DG;..." [ref_1266]
+  generic "JAMA" [ref_1267]
+  link "Article" [ref_1268] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jama/fullarticle/1487502"
+  link "PubMed" [ref_1269] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/23268518"
+  link "Google Scholar" [ref_1270] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Reporting%20of%20noninferiority%20and%20equivalence%20randomized%20trials%3A%20extension%20of%20the%20CONSORT%202010%20statement.&author=G%20Piaggio&author=DR%20Elbourne&author=SJ%20Pocock&author=SJ%20Evans&author=DG%20Altman&publication_year=2012&journal=JAMA&volume=308&pages=2594-2604"
+  link "Crossref" [ref_1271] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/jama.2012.87802"
+ link "36." [ref_1272]
+ generic "Darke S. Self-report among injecting drug users: a review. . 1998;51(3):253-263." [ref_1273]
+  generic "Drug Alcohol Depend" [ref_1274]
+  link "PubMed" [ref_1275] href="https://www-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/pubmed/9787998"
+  link "Google Scholar" [ref_1276] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Self-report%20among%20injecting%20drug%20users%3A%20a%20review.&author=S%20Darke&publication_year=1998&journal=Drug%20Alcohol%20Depend&volume=51&pages=253-263"
+  link "Crossref" [ref_1277] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/S0376-8716(98)00028-3"
+ link [ref_1278]
+ textbox "Alert_RR_CDP" [ref_1279] type="hidden"
+ textbox "0" [ref_1280] type="hidden"
+ textbox "Article_RR_CDP" [ref_1281] type="hidden"
+ textbox "0" [ref_1282] type="hidden"
+ heading "Original Investigation" [ref_1283]
+ heading "Hydromorphone vs Diacetylmorphine for Long-term Opioid Dependence" [ref_1284]
+ list [ref_1285]
+  listitem [ref_1286]
+   generic "Editorial" [ref_1287]
+   link "Meeting the Growing Need for Heroin Addiction Treatment" [ref_1288] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2512235"
+   generic "Richard S. Schottenfeld, MD; Stephanie S. O’Malley, PhD" [ref_1289]
+   generic "JAMA Psychiatry" [ref_1290]
+ heading "More for You" [ref_1291]
+ list [ref_1292]
+  listitem [ref_1293]
+   generic "Research" [ref_1294]
+   link "GH001 vs Placebo in Treatment-Resistant Depression" [ref_1295] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2846834?widget=personalizedcontent&previousarticle=0"
+   generic "March 25, 2026" [ref_1296]
+  listitem [ref_1297]
+   generic "Research" [ref_1298]
+   generic "is learning" [ref_1299]
+   generic "has multimedia" [ref_1300]
+   link "Psychedelic Therapy vs Antidepressants for the Treatment of Depression Under Equal Unblinding Condit" [ref_1301] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2846479?widget=personalizedcontent&previousarticle=0"
+   generic "March 18, 2026" [ref_1302]
+  listitem [ref_1303]
+   generic "Research" [ref_1304]
+   link "Psilocybin in Treatment-Resistant Major Depression" [ref_1305] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2846478?widget=personalizedcontent&previousarticle=0"
+   generic "March 18, 2026" [ref_1306]
+ heading "See More About" [ref_1307]
+ link "Substance Use and Addiction Medicine" [ref_1308] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/collections/5921/substance-use-and-addiction-medicine"
+ link "Opioids" [ref_1309] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/collections/42053/opioids"
+ textbox "CDP_JAMA_Career_Center" [ref_1310] type="hidden"
+ textbox "0" [ref_1311] type="hidden"
+ link "View Full Text" [ref_1312] href="https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2512237"
+ link "Download PDF" [ref_1313] href="/journals/jamapsychiatry/articlepdf/2512237/yoi160008.pdf"
+ link [ref_1314] href="javascript:;"
+  generic "Button To Top" [ref_1315]
+
+Viewport: 1134x672
+
+
+Tab Context:
+- Executed on tabId: 1159646026
+- Available tabs:
+  • tabId 1159646026: "Hydromorphone Compared With Diacetylmorphine for Long-term Opioid Dependence: A Randomized Clinical Trial | Substance Use and Addiction Medicine | JAMA Psychiatry | JAMA Network" (https://jamanetwork-com.ezproxy.lib.ucalgary.ca/journals/jamapsychiatry/fullarticle/2512237)

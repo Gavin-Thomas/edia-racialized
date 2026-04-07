@@ -1,0 +1,151 @@
+id,title,decision,category,confidence,notes
+29761488,Psychological therapies for treatment-resistant depression in adults.,EXCLUDE,non-pharma,0.95,Cochrane review of psychological therapies not pharmacotherapy
+28557049,Left Dorsolateral Prefrontal Cortex rTMS in Alleviating MTBI Related Headaches and Depressive Symptoms.,EXCLUDE,non-pharma,0.90,rTMS neuromodulation intervention not pharmacotherapy; veterans study likely US-based
+29017688,Cannabinoids in Pain Management and Palliative Medicine.,EXCLUDE,review,0.95,Systematic review of systematic reviews; not primary RCT
+27531058,"Ampakine CX1942 attenuates opioid-induced respiratory depression and corrects the hypoxaemic effects of etorphine in immobilized goats (Capra hircus).",EXCLUDE,animal,0.99,Animal study in goats
+29502347,Acupuncture for depression.,EXCLUDE,non-pharma,0.95,Cochrane review of acupuncture; not pharmacotherapy RCT
+,4th Pediatric Allergy and Asthma Meeting (PAAM),EXCLUDE,non-MH,0.95,Conference abstracts on pediatric allergy/asthma; not MH
+,Efficacy of Sertraline with Aripiprazole versus Paroxetine with Aripiprazole in Patient with Major Depressive Disorder,EXCLUDE,non-Canadian,0.90,RCT of pharma for MDD but authors from Pakistan; no Canadian site
+,Shock therapies as intensification of the war against madness in Hamburg Germany: 1930-1943,EXCLUDE,non-RCT,0.99,Historical narrative about 1930s-1940s treatments in Germany
+,Imaging and cerebrospinal fluid biomarkers in alzheimer's disease and lewy body spectrum disorders,EXCLUDE,review,0.95,Review of biomarkers; not RCT; not MH pharmacotherapy
+,Using administrative data to examine a population-based parenting intervention,EXCLUDE,non-pharma,0.90,Parenting program (Triple P) using admin data in BC Canada; non-pharma intervention; not MH diagnosis
+,Omega-3 combined with exercise on cognitive function in older adults Omega-3 and exercise on cognition,EXCLUDE,non-pharma,0.85,Review of omega-3 and exercise trials; nutritional/exercise not pharma for diagnosed MH
+,The effect of cognitive-behavioral group therapy on anger and general health of female students in Iran: A pilot study,EXCLUDE,non-Canadian,0.95,Iranian quasi-experimental study; not Canadian; CBT not pharmacotherapy
+,Increased reaction and movement times when text messaging during simulated driving in a teaching laboratory,EXCLUDE,non-MH,0.99,Driving simulation lab study on texting; not MH
+,Deep Brain Stimulation: Clinical Results in Treatment-Resistant Depression,EXCLUDE,non-pharma,0.90,Review of DBS for depression; neuromodulation not pharmacotherapy
+,Assessment of the correlation between gait and balance disorders and the severity of motor symptoms in Parkinson's disease depression and cognitive impairment,EXCLUDE,non-pharma,0.90,Assessment study of gait/balance in PD; not pharmacotherapy RCT
+,The association of circadian typology with cognition and smoking status: A cross-sectional Egyptian study,EXCLUDE,non-Canadian,0.95,Cross-sectional study in Egypt; not RCT; not Canadian
+,"Erratum: Efficacy of Bright Light Treatment Fluoxetine and the Combination in Patients With Nonseasonal Major Depressive Disorder",EXCLUDE,non-RCT,0.85,Erratum/correction to an earlier RCT (originally published 2015 pre-2016); the erratum itself is not a study
+,Simulation of magnetic field induced current for magnetic seizure therapy,EXCLUDE,non-pharma,0.95,Computational FEA simulation of MST; not clinical RCT or pharmacotherapy
+28388897,Does left ventricular hypertrophy affect cognition and brain structural integrity in type 2 diabetes? Study design and rationale of the D2 study,EXCLUDE,non-MH,0.90,Study design paper on diabetes and cognition; not MH pharmacotherapy RCT
+,Imaging Approaches to Cerebral Cortex Pathology,EXCLUDE,review,0.95,Review of imaging in AD; not RCT
+28971459,Scheduling and modeling a cognitive assessment guide for screening AD by primary care physicians,EXCLUDE,non-RCT,0.95,Cognitive screening tool development; not RCT or pharmacotherapy
+,Current Pharmacotherapies in Older Age Bipolar Disorder,EXCLUDE,review,0.90,Review of pharmacotherapy literature; not primary RCT
+28456050,"Erratum to Analysing UK clinicians' understanding of cognitive symptoms in major depression",EXCLUDE,non-RCT,0.95,Erratum to UK survey; not RCT
+29423989,"Corrigendum to: A cluster-randomized controlled trial evaluating the effects of delaying onset of adolescent substance abuse (Co-Venture trial)",EXCLUDE,non-pharma,0.85,Corrigendum to Canadian cluster-RCT but intervention is personality-targeted prevention program not pharmacotherapy
+,Antipsychotic Pharmacotherapy for Neuropsychiatric Symptoms of Dementia,EXCLUDE,review,0.95,Review of antipsychotics for NPS in dementia; not primary RCT
+,Psychological interventions in offspring of parents with bipolar disorder,EXCLUDE,non-pharma,0.90,Review of psychological interventions; not pharmacotherapy RCT
+,Somatic therapies: Repetitive transcranial magnetic stimulation (rTMS) and deep brain stimulation (DBS),EXCLUDE,non-pharma,0.90,Review of rTMS/DBS; neuromodulation not pharmacotherapy
+,Computational study of onset dynamics in neuron-spiking with threshold adaptation,EXCLUDE,non-RCT,0.99,Computational simulation study; not clinical trial
+,Telephone intervention for caregivers impacts of an individualized telephone intervention targeting the caregiver of a person with Alzheimer's,EXCLUDE,non-pharma,0.90,Telephone caregiver intervention; non-pharmacological
+,The effect of exercise on patients with advanced cancer,EXCLUDE,non-pharma,0.90,Review of exercise intervention for cancer patients; not pharma for MH
+,Pain management in older adults with dementia: A selective review,EXCLUDE,review,0.95,Selective review of pain management; not RCT
+,Personality psychology: Stigma towards depression in the workplace,EXCLUDE,non-RCT,0.95,Experimental stigma study; not MH pharmacotherapy RCT
+,How many clients with refractory psychosis are eligible for both cognitive-behaviour therapy and clozapine? A chart-review study,EXCLUDE,non-RCT,0.90,Chart review study; not an RCT
+,Acute management of substance use disorders in youth,EXCLUDE,review,0.90,Chapter/review on SUD management in youth; not primary RCT
+,Reliability of computer-aided diagnosis tools with multi-center MR datasets: Impact of training protocol,EXCLUDE,non-MH,0.95,MRI CAD tool methodology; not MH pharma
+,Exploration of the link between diagnostic confidence and inter-rater agreement in the assessment of GAD severity,EXCLUDE,non-RCT,0.90,Diagnostic reliability study; not pharmacotherapy RCT
+,A randomized placebo-controlled 12-month trial of divalproex and lithium in treatment of outpatients with bipolar I disorder,EXCLUDE,non-Canadian,0.80,RCT of divalproex/lithium for bipolar I; multicenter US study; no Canadian sites identified from authors
+,Frontiers in Clinical Drug Research - CNS and Neurological Disorders (Volume 7),EXCLUDE,review,0.99,Book series; not primary RCT
+,Handbook of Pulmonary Rehabilitation,EXCLUDE,non-MH,0.99,Pulmonary rehabilitation handbook; not MH
+,Alopecia areata: Risk factors treatment and impact on quality of life,EXCLUDE,non-MH,0.95,Dermatology review on alopecia; not MH pharma RCT
+,Nutritional intervention in chronic fatigue syndrome and fibromyalgia (CFS/FMS) a unique porcine serum polypeptide nutritional supplement,EXCLUDE,non-pharma,0.90,Nutritional supplement open-label study for CFS/FMS; not pharma for diagnosed MH
+33023647,"Erratum: Task sharing for the care of severe mental disorders in a low-income country (TaSCS)",EXCLUDE,non-RCT,0.95,Erratum to trial protocol; not primary results
+,Personality psychology: Stigma towards depression in the workplace,EXCLUDE,non-RCT,0.95,Duplicate of earlier stigma study; not MH pharma RCT
+,Outpatient Psychiatric Care for Youth with Suicide Risk: Who is Offered Dialectical Behavioural Therapy?,EXCLUDE,non-pharma,0.90,Chart review of DBT access for suicidal youth; non-pharmacological; not RCT
+,Vitamin C and the Brain,EXCLUDE,review,0.95,Review of vitamin C and brain function; not RCT
+,Psychosocial treatments for vulvodynia,EXCLUDE,non-MH,0.95,Review of CBT for vulvodynia; not MH diagnosis
+,Webmoti,EXCLUDE,non-pharma,0.95,Robot technology for ASD students; not pharmacotherapy
+,The effect of preventing transition from mild cognitive impairment to early dementia by hand care treatment in the environment of horticultural therapy garden,EXCLUDE,non-pharma,0.95,Hand care/horticultural therapy in Japan; not pharma; not Canadian
+31992058,"Corrigendum to: Antipsychotiques a Action Prolongée: Révision de l'algorithme QAAPAPLE",EXCLUDE,non-RCT,0.90,Corrigendum to Canadian algorithm paper; not primary RCT data
+,PAIN MANAGEMENT IN OLDER ADULTS WITH DEMENTIA: A SELECTIVE REVIEW,EXCLUDE,review,0.95,Duplicate review; not RCT
+31506859,"Erratum: Correction to: The Association Between Clinician and Perceived Organizational Factors with Early Fidelity to Cognitive Processing Therapy for PTSD",EXCLUDE,non-RCT,0.95,Erratum to implementation trial of psychotherapy; not pharma
+,The Effect of Using Love City Game on Improving Marital Satisfaction Emotional Malaise Sexual Intimacy of Couple with Visual Impairment,EXCLUDE,non-pharma,0.95,Game-based marital intervention in Iran; not pharma; not Canadian
+,The effect of vitamin b12 physical and cognitive activity on idiopathic forgetfulness,EXCLUDE,non-pharma,0.85,B12/exercise/mental activity for forgetfulness; nutritional not MH pharma
+,Analysis of related factors of mild cognitive impairment in elderly patients with AF without stroke,EXCLUDE,non-RCT,0.95,Cross-sectional factor analysis; not RCT
+,Comparing online support groups with psychoeducation versus psychoeducation alone for distressed breast cancer survivors,EXCLUDE,non-pharma,0.90,Online support group RCT for cancer survivors; psychosocial not pharmacotherapy
+,A Randomized Controlled Trial of an Online Acceptance and Commitment Therapy-Based Intervention for Chronic Pain for Military and Police,EXCLUDE,non-pharma,0.85,ACT-based online intervention for chronic pain in military/police; non-pharmacological
+,The Effect of Exercise on Reducing Tumor Necrosis Factor Alpha Levels and Attenuating Serotonin Transporter Gene Expression: A Research Protocol,EXCLUDE,protocol,0.95,Research protocol only; no results; exercise intervention not pharma
+33309527,"Erratum regarding missing declaration of competing interest statements in previously published articles",EXCLUDE,non-RCT,0.99,Administrative erratum; not a study
+,Post-traumatic stress disorder: sensorimotor intervention protocol with the dog,EXCLUDE,non-pharma,0.95,Animal-assisted intervention for PTSD; not pharmacotherapy
+,Cannabinoids as a Substitute for Opioids: Basic Science and Clinical Evidence,EXCLUDE,review,0.95,Review of cannabinoids for pain; not primary MH pharma RCT
+,Real-World Uptake of Supported Employment and Education in the First 3 Months of Early Psychosis Intervention Services,EXCLUDE,non-pharma,0.90,Chart review of employment services in EPI; not pharma RCT
+,Clinical effect and adverse reactions of modified electroconvulsive therapy for refractory obsessive-compulsive disorder,EXCLUDE,non-pharma,0.85,MECT for OCD in China; ECT is non-pharma; non-Canadian
+,Therapeutic relationships: From psychiatric hospital to community,EXCLUDE,non-pharma,0.95,Chapter on transitional discharge model; non-pharmacological
+,The Role of Osteotomy in the Patellofemoral Joint with Cartilage Surgery,EXCLUDE,non-MH,0.99,Orthopedic surgery; not MH
+,"Correction: Text messaging versus email messaging to support patients with major depressive disorder",EXCLUDE,non-RCT,0.95,Correction to protocol paper; not primary RCT results
+,The Use of a Novel Neurologic Music Therapy Program to Improve Cognition and Emotional Affect in Individuals with Mild to Severe Dementia: A Research Protocol,EXCLUDE,protocol,0.95,Research protocol; no results; music therapy not pharma
+34817396,Does Routine Sedation Influence Anxiety and CRP levels in Patients Undergoing Elective Coronary Catheterization?,EXCLUDE,non-MH,0.90,Midazolam sedation during cardiac catheterization; not diagnosed MH condition
+,"Corrigendum to Transdiagnostic internet-delivered cognitive behaviour therapy",EXCLUDE,non-RCT,0.90,Corrigendum to iCBT trial; corrections only not primary results
+34928693,A Longitudinal Approach to Evaluating Therapist and Client Contributions to Alliance on Outcomes in Borderline Personality Disorder,EXCLUDE,non-pharma,0.85,Analysis of therapeutic alliance in BPD psychotherapy; non-pharmacological
+,Is a glucocorticoid antagonist a potential treatment alternative for antipsychotic-induced weight gain?,EXCLUDE,review,0.90,Literature review of mifepristone for weight gain; not primary RCT
+,Neurobiological Basis of Reinforcement-Based Decision-Making in Adults With ADHD Treated With Lisdexamfetamine Dimesylate,UNCERTAIN,uncertain_Canadian,0.40,RCT crossover of lisdexamfetamine vs placebo for ADHD (DSM-5 MH); pharma intervention; but no clear Canadian site/PI identified from abstract; authors not listed
+,Pattern of Medicine Prescribing in PHC Facilities before and after earthquake in Nepal,EXCLUDE,non-Canadian,0.95,Prescription pattern study in Nepal; not Canadian; not RCT
+,Combined effects of paroxetine and acupuncture on clinical efficacy and cognitive function of senile depression patients,EXCLUDE,non-Canadian,0.90,Chinese RCT of paroxetine + acupuncture; not Canadian
+,The Relationships Between Reproductive History Ethnicity and Alzheimer's Disease Incidence in Women: A Research Protocol,EXCLUDE,protocol,0.95,Research protocol; no results
+,Tranquilizer/Anxiolytics: Buspirone,EXCLUDE,review,0.95,Drug monograph/review chapter on buspirone; not primary RCT
+36180923,"Correction: Building Emotional Awareness and Mental Health (BEAM): study protocol",EXCLUDE,non-RCT,0.95,Correction to study protocol; not primary RCT results
+,Comparison of bromazepam and ibuprofen influence on tooth pulp-evoked potentials in humans,EXCLUDE,non-MH,0.90,Dental evoked potential study comparing bromazepam/ibuprofen in healthy subjects; not MH diagnosis
+,"Corrigendum to Possible effects of Saffron (Crocus sativus) in the treatment of erectile dysfunction",EXCLUDE,non-MH,0.95,Corrigendum to saffron/ED trial; not MH
+,A Comparative Study on the Effects of Occupation Based Reminiscence Therapy and Conversation-Based Reminiscence Therapy,EXCLUDE,non-pharma,0.90,Reminiscence therapy + gymnastics for elderly; non-pharmacological; non-Canadian
+,Dynamics of Cognitive Impairment in Patients with Parkinson's Disease Receiving L-DOPA Treatment,EXCLUDE,non-Canadian,0.85,Russian RCT of L-DOPA in PD cognitive impairment; not Canadian; PD is neurological not primary MH
+,Pharmacotherapy of Psychosis in Parkinson's Disease,EXCLUDE,review,0.95,Review of PD psychosis pharmacotherapy; not primary RCT
+,Mood Stabilizers: Olanzapin,EXCLUDE,review,0.95,Drug review chapter on olanzapine; not primary RCT
+,Identifying facilitators of early access to care among Canadian Forces Health Services personnel,EXCLUDE,non-RCT,0.85,Canadian survey study of care access facilitators; not pharma RCT for MH
+,Screening tests for the evaluation of cognitive impairment in multiple sclerosis patients,EXCLUDE,non-MH,0.90,Review of MS cognitive screening; not MH pharma RCT
+,Clinical Data Interchange Standards in Clinical Trials on Alzheimer's Disease,EXCLUDE,non-RCT,0.95,Standards review for AD clinical trials; not primary RCT
+,"Erratum regarding previously published articles (Journal of Affective Disorders Reports)",EXCLUDE,non-RCT,0.99,Administrative erratum; not a study
+,Cannabinoid Drugs in Mental Health Disorders,EXCLUDE,review,0.90,Review chapter of cannabinoids for MH; not primary RCT
+,Evaluating benefits and harms of deprescribing using routinely collected data,EXCLUDE,non-RCT,0.95,Review/discussion of deprescribing methodology; not primary RCT
+,"Correction: Comparing online and on-site cognitive behavior therapy in major depressive disorder",EXCLUDE,non-RCT,0.95,Correction to protocol; not primary results
+,Precision therapeutics—personalizing psychological therapy for depression in adolescents,EXCLUDE,non-pharma,0.90,Review chapter on psychological therapy personalization; non-pharmacological
+,An evaluation of the psychometric properties of the Fear of COVID-19 Scale in a sample of help-seeking men,EXCLUDE,non-RCT,0.95,Psychometric validation study; not pharma RCT
+,Training US Community Mental Health Centers in Evidence-Based Coordinated Specialty Care for First Episode Psychosis,EXCLUDE,non-Canadian,0.90,US training program for FEP care; not Canadian; not pharma RCT
+36537481,Investigating the use of an autonomous robot assistant to improve the wellbeing of institutionalized older adults in Armenia,EXCLUDE,non-Canadian,0.95,Robot intervention in Armenia; not Canadian; not pharma
+,Assessment of Cognitive Assistive Technologies in Elderly Patients with Dementia Post-COVID-19 Infection: A Research Proposal,EXCLUDE,protocol,0.95,Research proposal; no results
+35592949,An overview of the active clinical trials for Parkinson's disease psychosis,EXCLUDE,review,0.95,Review/overview; not primary RCT
+,A gender-sensitive analysis of the feasibility and benefit of a psychological intervention for patients with advanced cancer,EXCLUDE,non-pharma,0.85,Secondary analysis of CALM psychotherapy trial for advanced cancer; non-pharmacological
+,Preclinical Longitudinal In Vivo Biomarker Platform for Alzheimer's Disease Drug Discovery,EXCLUDE,non-RCT,0.95,Preclinical biomarker methodology chapter; not clinical RCT
+,Greater AD prediction accuracy is obtained using hippocampal grading over hippocampal volume,EXCLUDE,non-RCT,0.95,Diagnostic accuracy study; not RCT
+,Harmony at HOME: Proof-of-concept clinical trial of an innovative telehealth intervention for adults with Alzheimer's disease with behavioral symptoms,EXCLUDE,non-pharma,0.90,Telehealth behavioral intervention for AD; non-pharmacological
+,A Preliminary Test of a Brief Online Intervention for Enhancing Parental Reflective Function and the Role of Parental Depressive Symptoms,EXCLUDE,non-pharma,0.90,Online parenting intervention; non-pharmacological
+,Benzodiazepines and Group Transdiagnostic Cognitive-Behaviour Therapy for Anxiety Disorders,EXCLUDE,non-pharma,0.85,Mixed methods study embedded in CBT trial examining benzodiazepine use; focus is on psychotherapy not pharma intervention
+,Impact of a web-based psychoeducational intervention on carer mental health quality of life,EXCLUDE,non-pharma,0.90,Web-based psychoeducation for dementia carers; non-pharmacological
+,Comorbid disorders incidence on the effect of a psychotherapy aimed at decreasing explosive outbursts of children with Tourette syndrome,EXCLUDE,non-pharma,0.85,Psychotherapy for Tourette syndrome explosive outbursts; non-pharmacological; possibly Canadian but not pharma
+,A Potential New Alzheimer's Treatment That May Function by Modulating the Gut Microbiota,EXCLUDE,review,0.90,Review of AD treatment and microbiota; not primary RCT
+,Caregiving Burdens in Aphasic Dementia and the Relationship to Communication Challenges,EXCLUDE,non-RCT,0.95,Observational study of caregiver burden; not pharma RCT
+,Clinical and Bacterial Markers of Periodontitis and Their Association with Incident All-Cause and Alzheimer's Disease Dementia,EXCLUDE,non-MH,0.90,Epidemiological study of periodontitis and dementia; not pharma RCT
+,Efficacy of Propofol Combined with Etomidate for Major Depressive Disorder with Modified Electroconvulsive Therapy,EXCLUDE,non-Canadian,0.85,Chinese RCT of anesthetic agents for MECT in MDD; non-Canadian; intervention is anesthetic protocol for ECT not MH pharma
+36151527,"Correction: Randomized trial of surveillance with abbreviated MRI in women with a personal history of breast cancer",EXCLUDE,non-MH,0.99,Correction to breast cancer imaging trial; not MH
+,Enriched supervision to increase quality of early intensive behavioral intervention in autism,EXCLUDE,non-pharma,0.90,Supervision methods for EIBI in autism; non-pharmacological
+,Innovative community based participatory action approach to tackling tobacco health inequities in urban poor populations,EXCLUDE,non-pharma,0.85,Tobacco cessation cohort in Ottawa Canada; not pharma RCT for diagnosed MH
+35303261,"Correction to: The Impact of Telephone-Based Cognitive Behavioral Therapy on Mental Health Distress",EXCLUDE,non-RCT,0.95,Correction to CBT trial; not primary results
+,The Foundry Work and Education Program: A vocational rehabilitation program,EXCLUDE,non-pharma,0.90,Vocational rehabilitation in BC Canada; non-pharmacological
+,A history and future of psychedelics: The case of the Canadian military,EXCLUDE,review,0.90,Historical/review chapter on psychedelics and Canadian military; not primary RCT
+,Substance Use Disorder and Delusional Symptoms in Patients with Psychosis,EXCLUDE,secondary,0.85,Secondary analysis of Dutch/Belgian RCT; not primary RCT; likely not Canadian
+,Alternative Treatments for Postpartum Depression,EXCLUDE,review,0.90,Review of alternative treatments for PPD; not primary RCT
+,The Frail Patient in the Operating Room: Practical Steps to Reduce the Operative Risk,EXCLUDE,non-MH,0.99,Surgical frailty review; not MH
+,Deep Brain Stimulation for Alzheimer Disease,EXCLUDE,non-pharma,0.90,Review of DBS for AD; neuromodulation not pharmacotherapy
+,The effectiveness of eye movement desensitization and reprocessing in the treatment of post-traumatic stress disorder,EXCLUDE,non-pharma,0.90,EMDR for PTSD RCT; non-pharmacological
+37204754,A community-based study of reporting demographic and clinical information concordance between informants and cognitively impaired participants,EXCLUDE,non-RCT,0.95,Community-based concordance study in Texas; not RCT; not Canadian
+,Examining the efficacy of a cardio-dance intervention on brain health and the moderating role of ABCA7 in older African Americans,EXCLUDE,non-pharma,0.90,Cardio-dance exercise protocol for African Americans; non-pharmacological; not Canadian
+,A Pilot Study to Explore the Improvements in Pulmonary and Cognitive Functions With a Kazoo Intervention,EXCLUDE,non-pharma,0.95,Kazoo instrument intervention; non-pharmacological; non-Canadian
+,Surgery for Major Depressive Disorder,EXCLUDE,non-pharma,0.90,Review of surgical treatments (DBS/ablation) for MDD; non-pharmacological
+,"Corrigendum to Contemplating movement: A randomized control trial of yoga training for mental health",EXCLUDE,non-RCT,0.95,Corrigendum to yoga trial; not primary results
+,Ethical Issues in Neuroscience Research,EXCLUDE,non-RCT,0.99,Ethics review chapter; not RCT
+,Relationship between grip strength and minimal clinically important differences in cognitive function in older adults with dementia,EXCLUDE,non-pharma,0.90,Exercise/rehabilitation for dementia; non-pharmacological; non-Canadian
+,Improving parental stress and child autism spectrum disorder severity through the japanese parent mentorship program,EXCLUDE,non-Canadian,0.95,Japanese parenting protocol; not Canadian; non-pharmacological
+,Mood Disorders in Pregnancy and Postpartum Depression,EXCLUDE,review,0.95,Clinical case/review chapter on perinatal mood disorders; not primary RCT
+36586665,"Correction: Micronutrients for Attention-Deficit/Hyperactivity Disorder in Youths",EXCLUDE,non-RCT,0.90,Correction to micronutrient trial; not primary results
+,Association of Cardiovascular and Metabolic Diseases with Risk of Dementia in the Urban Population of North India,EXCLUDE,non-Canadian,0.95,Epidemiological study in India; not RCT; not Canadian
+37458935,"Correction to: Pre-frail older adults show improved cognition with StayFitLonger computerized home-based training",EXCLUDE,non-RCT,0.95,Correction; not primary results
+,Integration of Resilience Training and English Training through a Lens of Social Constructionism,EXCLUDE,non-pharma,0.95,Pre-arrival training for Chinese students; non-pharmacological
+,Nurse-Led Strategies to Enhance Medication Adherence in Older Patients after Hospital Discharge,EXCLUDE,non-MH,0.85,Medication adherence nursing strategies; not MH pharmacotherapy RCT specifically
+,"Protocol for Cancloz: Multicentre randomised placebo-controlled double-blind parallel-group adaptive trial of cannabidiol for clozapine-resistant schizophrenia",EXCLUDE,non-Canadian,0.80,Protocol for CBD augmentation of clozapine for schizophrenia; UK/Australian trial; no Canadian site identified
+,Implications of Long COVID on the global healthcare system,EXCLUDE,non-MH,0.90,Review of Long COVID complications; not MH pharma RCT
+,An Analysis of the Time Required for the Diagnosis of ASD and the Factors Influencing Its Duration in a Sample of the Pediatric Population from Poland,EXCLUDE,non-Canadian,0.95,Polish diagnostic timing study for ASD; not RCT; not Canadian
+,Soundscape augmentation: a non-pharmacological intervention to reduce the behavioural effect of dementia,EXCLUDE,non-pharma,0.95,Soundscape intervention for dementia; explicitly non-pharmacological
+,"Publisher Correction: Neuroanatomical dimensions in medication-free individuals with major depressive disorder",EXCLUDE,non-RCT,0.95,Publisher correction; not primary results
+,Medical Use of Cannabinoids and Psychedelic Compounds,EXCLUDE,review,0.90,Review of cannabinoids and psychedelics; not primary RCT
+,Examining the efficacy of inoculation and value-affirmation interventions in improving precandidate reactions among prospective military recruits,EXCLUDE,non-MH,0.85,Canadian Armed Forces aptitude test intervention; not MH diagnosis; not pharmacotherapy
+,Interpretable Data-Driven Capacity Estimation of Lithium-ion Batteries,EXCLUDE,non-MH,0.99,Battery engineering; not MH
+,The effect of hope intervention on the anxiety hope and symptom levels of patients in palliative care,EXCLUDE,non-pharma,0.90,Hope intervention for palliative patients; non-pharmacological; non-Canadian
+,Psychodynamic psychiatry as an integrative framework in mental health,EXCLUDE,review,0.90,Review/commentary on psychodynamic approaches; not primary RCT
+,Five-Factor Model Domains as Moderators of Treatment Outcomes in a Transdiagnostic Young Adult Sample,EXCLUDE,non-pharma,0.80,RCT of DBT vs PPT psychotherapy for emotion dysregulation; non-pharmacological; possibly Canadian but no pharma
+,Coping and Emotional Development for Adolescents to Reduce Stress (CEDARS),EXCLUDE,non-pharma,0.90,School-based positive psychological intervention; non-pharmacological
+,Virtual reality in telepsychiatry is a new horizon for immersive mental health therapy,EXCLUDE,review,0.90,Review of VR in telepsychiatry; not primary RCT
+,A phase II trial of enzalutamide (Enz) with 5-alpha reductase inhibitors (5-ARI) as an androgen deprivation therapy (ADT)-sparing approach for older men with castration-sensitive prostate cancer,EXCLUDE,non-MH,0.99,Prostate cancer pharma trial; not MH
+,Pharmacogenomics and Precision Psychiatry,EXCLUDE,review,0.90,Review chapter on pharmacogenomics; not primary RCT
+,"Lithium a treatment option for Alzheimer's disease? A review of existing evidence",EXCLUDE,review,0.95,Review of lithium for AD; not primary RCT
+,Neuromodulation Therapies II: Repetitive Transcranial Magnetic Stimulation and Deep Brain Stimulation,EXCLUDE,non-pharma,0.90,Review of neuromodulation; not pharmacotherapy
+,Precision Medicine Approach to Alzheimer's Disease: Successful Pilot Project,EXCLUDE,non-Canadian,0.80,Precision medicine pilot for AD; appears non-Canadian; multimodal approach not strictly pharma for MH

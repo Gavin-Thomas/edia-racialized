@@ -1,0 +1,151 @@
+id,title,final_decision,category,vote_count,conflict_flag,reconciliation_notes
+10.1002/dad2.12098,FLAME: A computerized neuropsychological composite for trials in early dementia,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+10.1007/s10608-015-9718-0,Social Anxiety and Empathy for Social Pain,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+10.1007/s11469-019-00096-z,Prevalence Rates and Correlates of Likely Post-Traumatic Stress Disorder in Residents of Fort McMurray 6 Months After a Wildfire,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+10.1007/s12671-017-0808-9,Forgive and Let Go: Effect of Self-Compassion on Post-Event Processing in Social Anxiety,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+10.1016/j.applanim.2018.08.005,Practical rat tickling: Determining an efficient and effective dosage of heterospecific play,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+10.1016/j.ufug.2021.127226,Mental health in winter cities: The effect of vegetation on streets,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+10.1145/3544549.3585614,Exploring the Use of Large Language Models for Improving the Awareness of Mindfulness,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+10.1556/2054.2020.00140,Culture and psychedelic psychotherapy: Ethnic and racial themes from three Black women therapists,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+10.3389/fphar.2020.577678,The Large Action of Chlorpromazine: Translational and Transdisciplinary Considerations in the Face of COVID-19,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+10.3390/jcm7090249,The enhanced interactive physical and cognitive exercise system (iPACES v2.0): Pilot clinical trial of an in-home iPad-based neuro-exergame for mild cognitive impairment (MCI),OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+10.3390/jcm8071016,Efficacy of the small step program in a randomized controlled trial for infants under 12 months old at risk of cerebral palsy (CP) and other neurological disorders,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+25777270,A novel cognitive intervention for compulsive checking: Targeting maladaptive beliefs about memory.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+26443701,The rationale for deep brain stimulation in Alzheimer's disease,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+26674214,Peripheral sub-inflammation is associated with antidepressant consumption in schizophrenia. Results from the multi-center FACE-SZ data set,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+26684822,Rilpivirine vs. efavirenz-based single-tablet regimens in treatment-naive adults: week 96 efficacy and safety from a randomized phase 3b study.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+26850727,Women's Health Behaviours and Psychosocial Well-Being by Cardiac Rehabilitation Program Model: A Randomized Controlled Trial.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+26871297,Extended-release guanfacine hydrochloride in 6-17-year olds with ADHD: a randomised-withdrawal maintenance of efficacy study.,UNCERTAIN,pharmacological_mental_health,2/3,TRUE,Majority rule; dissent: E3=OUT_OF_SCOPE; category tiebreak by E1
+26872958,The Effects of a Brief Acceptance-Based Behavioral Treatment Versus Traditional Cognitive-Behavioral Treatment for Public Speaking Anxiety: An Exploratory Trial Examining Differential Effects on Performance and Neurophysiology.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+26912081,Accuracy of reported service use in a cohort of people who are chronically homeless and seriously mentally ill.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+27062400,Does family-based treatment reduce the need for hospitalization in adolescent anorexia nervosa?,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+27233840,"Flexible, dual-form nicotine replacement therapy or varenicline in comparison with nicotine patch for smoking cessation: a randomized controlled trial.",MAP,pharmacological_mental_health,2/3,TRUE,Majority rule; dissent: E2=OUT_OF_SCOPE; category tiebreak by E1
+27421722,Behavioral abnormalities in female mice following administration of aluminum adjuvants and the human papillomavirus (HPV) vaccine Gardasil.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+27448713,Testosterone abolishes implicit subordination in social anxiety.,OUT_OF_SCOPE,non-Canadian,3/3,FALSE,Unanimous agreement
+27469939,Associations of objectively measured moderate-to-vigorous physical activity and sedentary behavior with quality of life and psychological well-being in prostate cancer survivors.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+27590568,Hysteroscopic Morcellation Versus Loop Resection for Removal of Placental Remnants: A Randomized Trial.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+27835719,"Adjunctive Taurine in First-Episode Psychosis: A Phase 2, Double-Blind, Randomized, Placebo-Controlled Study.",UNCERTAIN,pharmacological_mental_health,2/3,TRUE,Majority rule; dissent: E3=OUT_OF_SCOPE; category tiebreak by E1
+27874185,Translating Delirium Prevention Strategies for Elderly Adults with Hip Fracture into Routine Clinical Care: A Pragmatic Clinical Trial.,UNCERTAIN,non-mental-health,1/3,TRUE,"3-way split: E1=OUT_OF_SCOPE, E2=MAP, E3=UNCERTAIN; category tiebreak by E1"
+28114648,"Patient, Provider, and Combined Interventions for Managing Osteoarthritis in Primary Care: A Cluster Randomized Trial.",OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+28161474,The Effect of Parental Modeling on Child Pain Responses: The Role of Parent and Child Sex.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+28294707,Outcome of non-invasive brain stimulation in substance use disorders: A review of randomized sham-controlled clinical trials,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+28508166,Toxoplasma gondii and schizophrenia: a review of published RCTs.,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+28665690,Reducing concussion symptoms among teenage youth: Evaluation of a mobile health app.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+28703605,Markers for context-responsiveness: Client baseline interpersonal problems moderate the efficacy of two psychotherapies for generalized anxiety disorder,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+28742732,Educational Colonoscopy Video Enhances Bowel Preparation Quality and Comprehension in an Inner City Population.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+28802594,"Intraoperative ketorolac dose of 15 mg versus the standard 30 mg on early postoperative pain after spine surgery: A randomized, blinded, non-inferiority trial",OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+28828187,Exercise Promotes Neuroplasticity in Both Healthy and Depressed Brains: An fMRI Pilot Study,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+28891419,"Effects of listening to Holy Qur'an recitation and physical training on dialysis efficacy, functional capacity, and psychosocial outcomes in elderly patients undergoing haemodialysis.",OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+28946789,"Personality, personality disorders, and the process of change.",OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+29017067,Clinically relevant response and remission outcomes in cariprazine-treated patients with bipolar I disorder.,OUT_OF_SCOPE,non-Canadian,3/3,FALSE,Unanimous agreement
+29029673,Emotion Regulation in Borderline Personality Disorder: An Experimental Investigation of the Effects of Instructed Acceptance and Suppression,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+29139110,Unconditional cash transfers for reducing poverty and vulnerabilities: Effect on use of health services and health outcomes in low- and middle-income countries,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+29141805,Treating depression in multiple sclerosis with antidepressants: A brief review of clinical trials and exploration of clinical symptoms to guide treatment decisions.,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+29347996,The Apathy in Dementia Methylphenidate Trial 2 (ADMET 2): study protocol for a randomized controlled trial.,OUT_OF_SCOPE,protocol,3/3,FALSE,Unanimous agreement
+29378515,The effects of an 8-week computerized cognitive training program in older adults: a study protocol for a randomized controlled trial.,OUT_OF_SCOPE,protocol,3/3,FALSE,Unanimous agreement
+29512230,"Non-pharmacological interventions during childbirth for pain relief, anxiety, and neuroendocrine stress parameters: A randomized controlled trial.",OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+29664187,"Exercise interventions and patient beliefs for people with hip, knee or hip and knee osteoarthritis: a mixed methods review.",OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+29700801,Ketamine-based anesthesia improves electroconvulsive therapy outcomes: a randomized-controlled study.,MAP,pharmacological_mental_health,3/3,FALSE,Unanimous agreement; category tiebreak by E1
+29746963,Patient phenotypes associated with outcome following surgery for mild degenerative cervical myelopathy: a principal component regression analysis,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+29945467,Personalized Telemedicine for Depression in Parkinson's Disease: A Pilot Trial,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+29955654,Efficacy and safety of the compound Chinese medicine SaiLuoTong in vascular dementia: A randomized clinical trial.,OUT_OF_SCOPE,non-Canadian,2/3,TRUE,Majority rule; dissent: E1=UNCERTAIN
+29958279,Ambient air pollution exposure and emergency department visits for substance abuse.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+30138012,"When the torch is passed, does the flame still burn? Testing a 'train the supervisor' model for the child STEPs treatment program",OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+30166422,The effect of acute morphine on obstructive sleep apnoea: a randomised double-blind placebo-controlled crossover trial.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+30188571,Benefit-risk profile of tofacitinib in patients with moderate-to-severe chronic plaque psoriasis: pooled analysis across six clinical trials.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+30249470,Metabolic abnormalities and low dietary Omega 3 are associated with symptom severity and worse functioning prior to the onset of psychosis: Findings from the North American Prodrome Longitudinal Studies Consortium.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+30338390,New Approaches to Diagnosis and Treatment of Functional Dyspepsia,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+30399037,HIV-Related stigma affects cognition in older men living with HIV,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+30584375,Association between gestational diabetes mellitus and depression in parents: a retrospective cohort study.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+30615055,Effects of a falls prevention exercise programme on health-related quality of life in older home care recipients: a randomised controlled trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+30691945,Cultural connectedness protects mental health against the effect of historical trauma among Anishinabe young adults.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+30712752,Mindfulness mechanisms and psychological effects for aMCI patients: A comparison with psychoeducation.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+30819084,Association between Serum Lipids and Antipsychotic Response in Schizophrenia.,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+30825024,The effects of inpatient music therapy on self-reported symptoms at an academic cancer center: a preliminary report.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+30890075,Cortical cerebral microinfarcts predict cognitive decline in memory clinic patients,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+30908136,Effectiveness of mindfulness-based coloring for university students' test anxiety.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+31012933,Effect of Addition of an Intimate Partner Violence Intervention to a Nurse Home Visitation Program on Maternal Quality of Life: A Randomized Clinical Trial.,OUT_OF_SCOPE,non-Canadian,3/3,FALSE,Unanimous agreement
+31012954,Hospital nurse-staffing models and patient-and staff-related outcomes (Review),OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+31051243,A Novel Approach to Tackling Bullying in Schools: Personality-Targeted Intervention for Adolescent Victims and Bullies in Australia.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+31129108,"Examining the Inter-relations of Depression, Physical Function, and Cognition with Subjective Sleep Parameters among Stroke Survivors: A Cross-sectional Analysis.",OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+31188081,Higher vitamin B6 intake is associated with lower depression and anxiety risk in women but not in men: A large cross-sectional study.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+31233508,Inhibition of inflammation by minocycline improves heart failure and depression-like behaviour in rats after myocardial infarction.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+31351976,"Activation of mGlu2/3 receptors, a novel therapeutic approach to alleviate dyskinesia and psychosis in experimental parkinsonism.",OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+31383853,Treatment response classes in major depressive disorder identified by model-based clustering and validated by clinical prediction models.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+31419467,"Disease-modifying effects of a novel T-type calcium channel antagonist, Z944, in a model of temporal lobe epilepsy.",OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+31443877,Psychotropic Medication for Children and Adolescents with Eating Disorders.,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+31496707,Insula H-coil deep transcranial magnetic stimulation in severe and enduring anorexia nervosa (SE-AN): a pilot study.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+31547752,"Agitation, Oxidative Stress, and Cytokines in Alzheimer Disease: Biomarker Analyses From a Clinical Trial With Nabilone for Agitation.",MAP,pharmacological_mental_health,3/3,FALSE,Unanimous agreement; category tiebreak by E1
+31593793,"Multivariate consistency of resting-state fMRI connectivity maps acquired on a single individual over 2.5 years, 13 sites and 3 vendors.",OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+31601199,EQUIP Emergency: Study protocol for an organizational intervention to promote equity in health care,OUT_OF_SCOPE,protocol,3/3,FALSE,Unanimous agreement
+31791386,"Effects of upadacitinib on patient-reported outcomes: results from SELECT-BEYOND, a phase 3 randomized trial in patients with rheumatoid arthritis and inadequate responses to biologic disease-modifying antirheumatic drugs.",OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+31801363,Cost-Utility Analysis of Electroconvulsive Therapy and Repetitive Transcranial Magnetic Stimulation for Treatment-Resistant Depression in Ontario.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+31815705,The effect of repetitive transcranial magnetic stimulation on cognitive impairment in Parkinson's disease with dementia: Pilot study.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+31824351,Review of Clinical Studies Targeting Inflammatory Pathways for Individuals With Autism.,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+31876030,Protocol for the Rare Dementia Support Impact study: RDS Impact.,OUT_OF_SCOPE,protocol,3/3,FALSE,Unanimous agreement
+31877362,Beneficial Effects of Listening to Classical Music in Patients With Heart Failure: A Randomized Controlled Trial,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+31957691,"Effects of working memory training on cognitive, affective, and biological responses to stress in major depression: A novel cognitive bias modification protocol.",OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+31981832,Active video games for knee osteoarthritis improve mobility but not WOMAC score: A randomized controlled trial.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+32064906,Pharmacogenetic Testing Options Relevant to Psychiatry in Canada: Options de tests pharmacogénétiques pertinents en psychiatrie au Canada.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+32169003,Randomized controlled trial of a sibling support group: Mental health outcomes for siblings of children with autism.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+32176657,Individually Tailored Internet-Based Cognitive-Behavioral Therapy for Daily Functioning in Patients with Parkinson's Disease: A Randomized Controlled Trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+32183793,The effect of dialectical behaviour therapy in autism spectrum patients with suicidality and/or self-destructive behaviour (DIASS): Study protocol for a multicentre randomised controlled trial,OUT_OF_SCOPE,protocol,3/3,FALSE,Unanimous agreement
+32256336,Structural and Functional Hippocampal Changes in Subjective Cognitive Decline From the Community.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+32455120,Efficacy of internet-delivered cognitive behavioural therapy following an acute coronary event: A randomized controlled trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+32468235,"Treating Post-traumatic Stress Disorder with Neuromodulation Therapies: Transcranial Magnetic Stimulation, Transcranial Direct Current Stimulation, and Deep Brain Stimulation.",OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+32512776,Targeting the endocannabinoid CB1 receptor to treat body weight disorders: A preclinical and clinical review of the therapeutic potential of past and present CB1 drugs,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+32591439,"Kidney Disease, Intensive Hypertension Treatment, and Risk for Dementia and Mild Cognitive Impairment: The Systolic Blood Pressure Intervention Trial",OUT_OF_SCOPE,non-Canadian,3/3,FALSE,Unanimous agreement
+32595546,Review of Randomized Controlled Trials Using e-Health Interventions for Patients With Eating Disorders.,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+32890599,The gut microbiome and antipsychotic treatment response,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+32895890,A double-blind randomized controlled trial of the efficacy of cognitive training delivered using two different methods in mild cognitive impairment in Parkinson's disease: preliminary report of benefits associated with the use of a computerized tool.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+32900457,Guideline No. 405: Screening and Counselling for Alcohol Consumption During Pregnancy,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+32960660,Efficacy of delayed administration of sargramostim up to 120 hours post exposure in a nonhuman primate total body radiation model.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+32973638,Videoconferencing Psychotherapy for Panic Disorder and Agoraphobia: Outcome and Treatment Processes From a Non-randomized Non-inferiority Trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+32977459,Food Addiction Is Associated with Binge Eating and Psychiatric Distress among Post-Operative Bariatric Surgery Patients and May Improve in Response to Cognitive Behavioural Therapy.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+33161162,"Deconstructing depression and negative symptoms of schizophrenia; differential and longitudinal immune correlates, and response to minocycline treatment.",OUT_OF_SCOPE,non-Canadian,2/3,TRUE,Majority rule; dissent: E2=MAP
+33168945,Change in prefrontal activity and executive functions after action-based cognitive remediation in bipolar disorder: a randomized controlled trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+33257661,A randomised clinical trial of methotrexate points to possible efficacy and adaptive immune dysfunction in psychosis.,OUT_OF_SCOPE,non-Canadian,3/3,FALSE,Unanimous agreement
+33261700,Group transdiagnostic cognitive-behavior therapy for anxiety disorders: a pragmatic randomized clinical trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+33503045,Using prosocial behavior to safeguard mental health and foster emotional well-being during the COVID-19 pandemic: A registered report protocol for a randomized trial.,OUT_OF_SCOPE,protocol,3/3,FALSE,Unanimous agreement
+33583610,"The Transitions Clinic Network: Post Incarceration Addiction Treatment, Healthcare, and Social Support (TCN-PATHS): A hybrid type-1 effectiveness trial of enhanced primary care to improve opioid use disorder treatment outcomes following release from jail",OUT_OF_SCOPE,non-Canadian,3/3,FALSE,Unanimous agreement
+33803482,The leukotriene receptor antagonist montelukast attenuates neuroinflammation and affects cognition in transgenic 5xfad mice,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+33854189,Targeting innate immunity to protect and cure Alzheimer's disease: opportunities and pitfalls,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+33895351,Touchscreen cognitive testing: Cross-species translation and co-clinical trials in neurodegenerative and neuropsychiatric disease,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+33949270,Telehealth coaching to improve self-management for secondary prevention after stroke: A randomized controlled trial of Stroke Coach.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+34271401,Social connectedness as a mediator for horticultural therapy's biological effect on community-dwelling older adults: Secondary analyses of a randomized controlled trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+34342251,Integrating virtual realities and psychotherapy: SWOT analysis on VR and MR based treatments of anxiety and stress-related disorders.,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+34391060,"Cannabidiol-based natural health products for companion animals: Recent advances in the management of anxiety, pain, and inflammation.",OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+34399198,Mindfulness based cognitive therapy for youth with inflammatory bowel disease and depression - Findings from a pilot randomised controlled trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+34482951,Toward Generalizable and Transdiagnostic Tools for Psychosis Prediction: An Independent Validation and Improvement of the NAPLS-2 Risk Calculator in the Multisite PRONIA Cohort,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+34576728,"Prebiotic, Probiotic, and Synbiotic Consumption Alter Behavioral Variables and Intestinal Permeability and Microbiota in BTBR Mice.",OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+34635802,"The efficacy and safety of zolpidem and zopiclone to treat insomnia in Alzheimer's disease: a randomized, triple-blind, placebo-controlled trial.",UNCERTAIN,pharmacological_mental_health,2/3,TRUE,Majority rule; dissent: E3=OUT_OF_SCOPE; category tiebreak by E1
+34682309,Teaching and Practicing Cognitive-Behavioral and Mindfulness Skills in a Web-Based Platform among Older Adults through the COVID-19 Pandemic: A Pilot Randomized Controlled Trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+34694201,Improvement in executive function for older adults through smartphone apps: a randomized clinical trial comparing language learning and brain training.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+34729484,Marizomib alone or in combination with bevacizumab in patients with recurrent glioblastoma: Phase I/II clinical trial data.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+34851510,Fluvoxamine for the Early Treatment of SARS-CoV-2 Infection: A Review of Current Evidence.,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+34874523,"Effect of Interactive Dynamic Scalp Acupuncture on Post-Stroke Cognitive Function, Depression, and Anxiety: A Multicenter, Randomized, Controlled Trial.",OUT_OF_SCOPE,non-Canadian,3/3,FALSE,Unanimous agreement
+34880055,"Remote, proactive, telephone based management of toxicity in outpatients during adjuvant or neoadjuvant chemotherapy for early stage breast cancer: pragmatic, cluster randomised trial.",OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+34916444,Efficacy of Lycium barbarum polysaccharide in adolescents with subthreshold depression: interim analysis of a randomized controlled study.,OUT_OF_SCOPE,non-Canadian,3/3,FALSE,Unanimous agreement
+35049127,Is more always better? Dose effect in a multidomain intervention in older adults at risk of dementia.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+35089354,Association of Antihypertensives That Stimulate vs Inhibit Types 2 and 4 Angiotensin II Receptors With Cognitive Impairment.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+35310527,"Use of medium chain triglyceride (MCT) oil in subjects with Alzheimer's disease: A randomized, double-blind, placebo-controlled, crossover study, with an open-label extension.",MAP,pharmacological_mental_health,2/3,TRUE,Majority rule; dissent: E1=UNCERTAIN; category tiebreak by E1
+35594873,Brain atrophy in prodromal synucleinopathy is shaped by structural connectivity and gene expression.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+35596975,Can AI make people happy? The effect of AI-based chatbot on smile and speech in Parkinson's disease,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+35637185,"Correction: Clinical utility of combinatorial pharmacogenomic testing in depression: A Canadian patient- and rater-blinded, randomized, controlled trial",MAP,pharmacological_mental_health,3/3,FALSE,Unanimous agreement; category tiebreak by E1
+35678397,Alzheimer Disease,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+35718233,Physical exercise and the functions of microRNAs.,OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+35963072,"Effects of an integrated childbirth education program to reduce fear of childbirth, anxiety, and depression, and improve dispositional mindfulness: A single-blind randomised controlled trial.",OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+36122378,Effectiveness of an Unsupervised Online Yoga Program on Pain and Function in People With Knee Osteoarthritis: A Randomized Clinical Trial.,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+36263513,"Culture, context, and ethics in the therapeutic use of hallucinogens: Psychedelics as active super-placebos?",OUT_OF_SCOPE,review,3/3,FALSE,Unanimous agreement
+36422517,Meditation and Yoga for Irritable Bowel Syndrome: A Randomized Clinical Trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+36986229,Supplementation with Flaxseed Oil Rich in Alpha-Linolenic Acid Improves Verbal Fluency in Healthy Older Adults,OUT_OF_SCOPE,non-mental-health,3/3,FALSE,Unanimous agreement
+37009976,A Path to Improved Alzheimer's Care: Simulating Long-Term Health Outcomes of Lecanemab in Early Alzheimer's Disease from the CLARITY AD Trial.,OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+37821461,Metformin improves cognitive impairment in patients with schizophrenia: associated with enhanced functional connectivity of dorsolateral prefrontal cortex,OUT_OF_SCOPE,non-Canadian,2/3,TRUE,Majority rule; dissent: E2=UNCERTAIN
+37903365,Clinical Effectiveness of Cognitively Enhanced Tai Ji Quan Training on Global Cognition and Dual-Task Performance During Walking in Older Adults With Mild Cognitive Impairment or Self-Reported Memory Concerns: A Randomized Controlled Trial.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+37936330,Vortioxetine for the treatment of post-COVID-19 condition: a randomized controlled trial.,MAP,pharmacological_mental_health,3/3,FALSE,Unanimous agreement; category tiebreak by E1
+38105605,"Association of plasma biomarkers with cognition, cognitive decline, and daily function across and within neurodegenerative diseases: Results from the Ontario Neurodegenerative Disease Research Initiative",OUT_OF_SCOPE,non-RCT,3/3,FALSE,Unanimous agreement
+38454079,Comparative effectiveness research trial for antidepressant incomplete and non-responders with treatment resistant depression (ASCERTAIN-TRD) a randomized clinical trial.,MAP,pharmacological_mental_health,2/3,TRUE,Majority rule; dissent: E2=UNCERTAIN; category tiebreak by E1
+38760589,"p75 neurotrophin receptor modulation in mild to moderate Alzheimer disease: a randomized, placebo-controlled phase 2a trial.",UNCERTAIN,pharmacological_mental_health,3/3,FALSE,Unanimous agreement; category tiebreak by E1
+38901423,Brain responses to intermittent fasting and the healthy living diet in older adults.,OUT_OF_SCOPE,non-pharmacological,3/3,FALSE,Unanimous agreement
+39764567,"Effect of psilocybin versus escitalopram on depression symptom severity in patients with moderate-to-severe major depressive disorder: observational 6-month follow-up of a phase 2, double-blind, randomised, controlled trial.",OUT_OF_SCOPE,non-Canadian,3/3,FALSE,Unanimous agreement
+rank_1488,Evaluation of the effectiveness and safety of olanzapine as an adjunctive treatment for anorexia nervosa in adolescents: An open-label trial,MAP,observational,2/3,TRUE,Majority rule; dissent: E1=OUT_OF_SCOPE; category tiebreak by E1

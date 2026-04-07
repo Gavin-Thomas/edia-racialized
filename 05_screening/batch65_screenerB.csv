@@ -1,0 +1,151 @@
+id,title,decision,category,confidence,notes
+32568399,Evaluation of a Machine Learning Model Based on Pretreatment Symptoms and Electroencephalographic Features to Predict Outcomes of Antidepressant Treatment in Adults With Depression,EXCLUDE,non-Canadian,high,Secondary analysis of RCT; US-based ML prediction study
+28637449,Task shifting interpersonal counseling for depression: a pragmatic randomized controlled trial in primary care.,EXCLUDE,non-Canadian,high,Brazil-based RCT; non-pharma intervention (interpersonal counseling)
+30369433,Identifying Ketamine Responses in Treatment-Resistant Depression Using a Wearable Forehead EEG.,EXCLUDE,non-Canadian,high,Taiwan-based RCT of ketamine; not Canadian
+34158069,The effect of acute intermittent hypoxia on postprandial triglyceride levels in humans,EXCLUDE,non-MH,high,Not a mental health study; examines triglyceride response to hypoxia
+33305900,Subanesthetic dose of ketamine for the antidepressant effects and the associated cognitive impairments of ECT in elderly patients,EXCLUDE,non-Canadian,high,China-based RCT; not Canadian
+32358376,Study of efficacy and safety of Jiaotai pill in the treatment of depression.,EXCLUDE,non-Canadian,high,Chinese herbal formula study; China-based
+32256402,Workplace-Related Interpersonal Group Psychotherapy to Improve Life at Work in Individuals With MDD,EXCLUDE,non-pharma,high,Non-pharma RCT (psychotherapy only); Switzerland-based
+35669367,Analysis of the Effect of Exercise Combined with Diet Intervention on Postoperative Quality of Life of Breast Cancer Patients.,EXCLUDE,non-MH,high,Not MH; breast cancer quality of life study; China-based
+30770426,Bright light therapy for depression in Parkinson disease: A randomized controlled trial.,EXCLUDE,non-Canadian,high,Netherlands-based RCT; non-pharma (light therapy)
+30456199,Saffron (Crocus sativus) versus duloxetine for treatment of patients with fibromyalgia,EXCLUDE,non-Canadian,high,Iran-based RCT; fibromyalgia not primary MH diagnosis
+31467392,Attenuation of antidepressant and antisuicidal effects of ketamine by opioid receptor antagonism.,EXCLUDE,non-Canadian,high,US-based secondary analysis of ketamine trial
+27714649,Telephone-Delivered Stepped Collaborative Care for Treating Anxiety in Primary Care,EXCLUDE,non-pharma,high,US-based collaborative care RCT; not pharma for MH
+35353469,A psychological intervention by community pharmacies to prevent depression in adults with subthreshold depression,EXCLUDE,non-pharma,high,UK-based; non-pharma (psychological intervention); subthreshold depression
+31248841,"The association between antidepressant treatment and brain connectivity in two double-blind, placebo-controlled clinical trials",EXCLUDE,non-Canadian,high,US-based neuroimaging study from clinical trials
+28806907,Effect of acupuncture and its influence on cerebral activity in perimenopausal insomniacs: study protocol,EXCLUDE,protocol,high,Protocol only; China-based; non-pharma (acupuncture)
+30665989,Development and validation of a prediction model for the probability of responding to placebo in antidepressant trials,EXCLUDE,secondary-analysis,high,Pooled analysis/meta-analysis; Japan-based
+30659559,Increase in pharmacodynamic tolerance after repeated antidepressant trials in treatment-responsive bipolar I depressed subjects,EXCLUDE,non-Canadian,high,US-based exploratory analysis of antidepressant trials; says bipolar II in abstract
+30430372,Efficacy of vitamin D replacement therapy in restless legs syndrome: a randomized control trial.,EXCLUDE,non-MH,high,Not MH diagnosis; restless legs syndrome; Saudi Arabia
+29967368,Targeting the affective brain-a randomized controlled trial of real-time fMRI neurofeedback in patients with depression.,EXCLUDE,non-pharma,high,Non-pharma (fMRI neurofeedback); UK/Wales-based
+35975917,Patient Characteristics Associated with Opioid Abstinence after Participation in a Trial of Buprenorphine vs Injectable Naltrexone.,EXCLUDE,secondary-analysis,high,Post-hoc analysis of X:BOT trial; US-based; OUD not primary MH
+33543068,Efficacy of Low-Frequency rTMS in Ischemic Stroke,EXCLUDE,non-MH,high,Stroke recovery study; India-based; not MH
+32663928,Do Hamilton depression scale items have the capacity to differentiate melancholic and non-melancholic depressive sub-types?,EXCLUDE,non-RCT,high,Methodological study on rating scale; Australia-based
+,111. Efficacy and Safety of MIN-101: A New Drug for Treatment of Negative Symptoms in Schizophrenia,EXCLUDE,non-Canadian,medium,Multi-national Phase 2b trial; no Canadian PI evident; schizophrenia negative symptoms
+36694748,Effects of paroxetine hydrochloride combined with idebenone on inflammatory factors in treatment of depression after ischemic stroke.,EXCLUDE,non-Canadian,high,China-based RCT
+29631203,Cognitive outcomes of TMS treatment in bipolar depression,EXCLUDE,non-Canadian,high,Brazil-based RCT; non-pharma (TMS)
+35652703,"Comparative Analysis of Effects of Escitalopram, Pramipexole, and TMS on Depression in Patients With Parkinson Disease",EXCLUDE,non-Canadian,high,China-based open-label RCT
+34624810,Difference in the regulation of biological rhythm symptoms of MDD between escitalopram and mirtazapine.,EXCLUDE,non-Canadian,high,China-based RCT
+31376790,History of parenting instability and lifetime suicidal behavior in people who inject drugs.,UNCERTAIN,Canadian-check,medium,Krausz M is Vancouver-based PI; participants are injection opioid users in RCT; but this is secondary analysis examining suicidal behavior; OUD population
+34804286,A pre-clerkship simulation-based procedural skills curriculum,EXCLUDE,non-MH,high,Medical education study; not MH RCT
+32713367,Low-frequency rTMS inhibits the anti-depressive effect of ECT. A pilot study.,EXCLUDE,non-Canadian,high,Denmark-based pilot RCT; non-pharma (rTMS/ECT)
+,S221. THE EFFICACY OF LUMATEPERONE 42 MG IN TREATMENT OF SCHIZOPHRENIA SYMPTOMS,EXCLUDE,secondary-analysis,high,Post hoc analysis of acute trial; conference abstract
+35095593,The Role of Acupuncture in Hormonal Shock-Induced Cognitive-Related Symptoms in Perimenopausal Depression,EXCLUDE,non-Canadian,high,China-based RCT; non-pharma (acupuncture)
+33857546,"Anxiety, anhedonia and food consumption during the COVID-19 quarantine in Chile.",EXCLUDE,non-RCT,high,Cross-sectional observational study; Chile-based
+33555772,Brivaracetam versus Levetiracetam for Epilepsy: A Review of Comparative Clinical Safety,EXCLUDE,review,high,Review; epilepsy not primary MH; Canadian but review not RCT
+27630014,The synchronized trial on expectant mothers with depressive symptoms by omega-3 PUFAs (SYNCHRO): Study protocol,EXCLUDE,protocol,high,Protocol only; Japan-based; omega-3 supplementation
+29871025,Response to Individualized Homeopathic Treatment for Depression in Climacteric Women,EXCLUDE,non-Canadian,high,Mexico-based RCT; homeopathy/non-pharma
+37111056,The Usefulness of the Low-FODMAP Diet with Limited Tryptophan Intake in the Treatment of IBS-D,EXCLUDE,non-MH,high,IBS dietary study; Poland-based; not MH
+34867514,Effects of Electroacupuncture Combined With Psychological Intervention on Depressive Status in Patients With Internet Addiction Disorder,EXCLUDE,non-Canadian,high,China-based RCT; internet addiction; non-pharma
+27808555,Randomized open-label trial of baclofen for relapse prevention in alcohol dependence.,EXCLUDE,non-Canadian,high,India-based RCT
+34526079,Electro-acupuncture for irritable bowel syndrome patients: study protocol,EXCLUDE,protocol,high,Protocol; IBS not MH; Hong Kong-based
+35958485,"Effect of cognitive behavioral intervention on anxiety, depression, and quality of life in patients with epilepsy.",EXCLUDE,non-pharma,high,China-based CBT RCT for epilepsy patients; non-pharma
+26973704,Bipolar II compared with bipolar I disorder: baseline characteristics and treatment response to quetiapine,EXCLUDE,secondary-analysis,high,Pooled analysis of 5 placebo-controlled trials
+35535897,Effects of paired associative magnetic stimulation on motor function of lower limbs after spinal cord injury: study protocol,EXCLUDE,protocol,high,Protocol; spinal cord injury; not MH
+,COGNITIVE ACTIVITIES FOR DELIRIUM SUPERIMPOSED ON DEMENTIA,EXCLUDE,non-pharma,high,Non-pharma (cognitive activities); US-based; delirium/dementia
+32369689,Feasibility Study of SMART in Patients With MDD.,EXCLUDE,non-pharma,high,US-based open-label study; non-pharma (stress management training)
+33329088,Regional White Matter Integrity Predicts Treatment Response to Escitalopram and Memantine in Geriatric Depression,EXCLUDE,non-Canadian,high,US-based neuroimaging pilot study
+33120777,The effect of acupuncture on depression and its correlation with metabolic alterations,EXCLUDE,non-Canadian,high,China-based RCT; acupuncture
+31514247,Brexanolone for Postpartum Depression: Clinical Evidence and Practical Considerations.,EXCLUDE,review,high,"Review article, not original RCT"
+29163162,"A Randomized, Double-Blinded, Clinical Trial on Effects of a Vitis vinifera Extract on Cognitive Function in Healthy Older Adults.",EXCLUDE,non-MH,high,Healthy adults; cognitive function; Italy-based; no MH diagnosis
+34862881,Towards a Vulnerability Model for Major Depressive Episodes.,EXCLUDE,non-RCT,high,"Prospective comparison, not RCT; Belgium-based"
+30777651,OnabotulinumtoxinA and cognitive behavioral therapy in functional dystonia,EXCLUDE,non-MH,high,Functional dystonia not MH; US-based
+35750665,Bipolar membrane electrolyzers enable high single-pass CO2 electroreduction to multicarbon products.,EXCLUDE,non-MH,high,Chemistry/engineering study; not medical
+30795490,High-frequency rTMS improves neurocognitive function in bipolar disorder.,EXCLUDE,non-Canadian,high,China-based RCT; non-pharma (rTMS)
+27932864,Efficacy and tolerability of vilazodone for major depressive disorder: evidence from phase III/IV RCTs.,EXCLUDE,review,high,Systematic review/meta-analysis of trials
+35936363,Continuous Psychological Nursing Based on Grey Clustering Algorithm in Patients after TURP,EXCLUDE,non-MH,high,Urology nursing study; China-based
+,Assistive Relaxation Therapy for Older Adults With Insomnia and Mild Cognitive Impairment,EXCLUDE,non-pharma,high,Non-pharma (relaxation therapy); US-based; MCI not diagnosed MH
+31642037,Using MAIC and NMA to Compare Efficacy of Brexanolone Injection with SSRIs for Treating PPD.,EXCLUDE,review,high,"Indirect comparison/meta-analysis, not original RCT"
+32398710,Metacognitive Therapy versus CBT in Adults with Major Depression,EXCLUDE,non-pharma,high,Non-pharma (psychotherapy comparison); Denmark-based
+31292845,Post-marketing Re-evaluation of Tongxiening Granules in Treatment of IBS-D,EXCLUDE,non-MH,high,IBS treatment; China-based; not MH
+,AN INTEGRATED TRANSITIONAL CARE MODEL FOR OLDER ADULTS WITH MULTIMORBIDITY AND DEPRESSIVE SYMPTOMS,UNCERTAIN,Canadian-check,medium,Ontario-based RCT; nurse-led transitional care for older adults with depressive symptoms; but non-pharma intervention and depressive symptoms (not diagnosed MH)
+38502760,Dupilumab (Dupixent): CADTH Reimbursement Recommendation,EXCLUDE,non-MH,high,CADTH drug review for atopic dermatitis; not MH
+37782717,Difelikefalin (Korsuva): CADTH Reimbursement Recommendation,EXCLUDE,non-MH,high,CADTH drug review for pruritus; not MH
+31182060,EFFORT-D: results of a randomised controlled trial testing the EFFect of running therapy on depression.,EXCLUDE,non-pharma,high,Non-pharma (running therapy); Netherlands-based
+31920220,Changes in inflammation with treatment for bipolar II depression: Pilot trial data,EXCLUDE,non-Canadian,high,US-based pilot; secondary analysis of IPSRT + quetiapine trial
+36617267,Sodium Oxybate for Alcohol Dependence: A Network Meta-Regression Analysis,EXCLUDE,review,high,Network meta-regression; not original RCT
+35193470,Pre-treatment plasma cytokine levels as potential predictors of short-term remission of depression.,EXCLUDE,non-Canadian,high,Japan-based RCT
+35722555,Inflammatory Cytokines Changed in Patients With Depression Before and After rTMS Treatment.,EXCLUDE,non-Canadian,high,China-based; non-pharma (rTMS)
+26465919,Therapeutic effects of minocycline on mild-to-moderate depression in HIV patients,EXCLUDE,non-Canadian,high,Iran-based RCT
+27809351,Effect of memantine combination therapy on symptoms in patients with moderate-to-severe depressive disorder,EXCLUDE,non-Canadian,high,Iran-based RCT
+33766151,Efficacy of attention bias modification training for depressed adults: a randomized clinical trial.,EXCLUDE,non-pharma,high,US-based; non-pharma (attention bias modification training)
+35603883,Occupational intervention in mental health hospitals: Study of contextual impact.,EXCLUDE,non-pharma,high,Non-pharma (occupational intervention); Israel-based; schizophrenia
+36086598,Does Resting Motor Threshold correlate with severity of Alzheimer's disease?,EXCLUDE,non-RCT,medium,Correlational study from clinical trial data; Canadian PI (Moussavi); but not RCT itself and Alzheimer's not primary MH
+28437668,Genome-wide association study of treatment response to venlafaxine XR in generalized anxiety disorder.,EXCLUDE,non-Canadian,high,US-based GWAS; secondary analysis
+32301591,Improvement of sexual functioning during treatment of MDD with adjunctive pimavanserin: A secondary analysis.,EXCLUDE,secondary-analysis,high,Secondary analysis of CLARITY study; US-based
+35105536,Efficacy of a Web-Based Intervention for Depressive Disorders,EXCLUDE,non-pharma,high,Non-pharma (web-based CBT); Germany-based
+35419210,Hierarchical MAP Denoising of Longitudinal Hamilton Depression Rating Scores.,EXCLUDE,non-RCT,high,Statistical methodology paper; not original RCT
+26718792,"Efficacy of Silexan in mixed anxiety-depression--A randomized, placebo-controlled trial.",EXCLUDE,non-Canadian,high,"Germany-based RCT; MADD diagnosis (ICD-10, not DSM-5)"
+32528966,Acute Effect of Transcutaneous Electroacupuncture on Globus Pharyngeus,EXCLUDE,non-MH,high,Not MH; globus pharyngeus; China-based
+30197765,Efficacy of different doses of ketamine as a bolus in major depressive disorder.,EXCLUDE,non-Canadian,high,Iran-based RCT
+30480860,Predictors of response to synchronized transcranial magnetic stimulation for major depressive disorder.,EXCLUDE,non-Canadian,high,US-based; non-pharma (sTMS); secondary analysis
+27769202,A double-blind randomized controlled trial to assess the effect of bright light therapy on depression in patients with Parkinson's disease.,EXCLUDE,non-pharma,high,Netherlands-based protocol; non-pharma (light therapy)
+31164178,Efficacy and safety of acupuncture for patients with chronic urticaria: study protocol,EXCLUDE,non-MH,high,Chronic urticaria; protocol; China-based
+29942131,Agomelatine versus fluoxetine in glycemic control and treating depressive and anxiety symptoms in T2DM,EXCLUDE,non-Canadian,high,China-based RCT
+34157193,Therapeutic efficacy of connectivity-directed TMS on anticipatory anhedonia.,EXCLUDE,non-Canadian,high,China-based RCT; non-pharma (rTMS)
+28845177,Agoraphobia and FSH Levels between Tamoxifen and Goserelin versus Tamoxifen Alone in Premenopausal Breast Cancer,EXCLUDE,non-MH,high,Breast cancer hormonal therapy; Korea-based; not MH primary
+32091338,Repetitive Transcranial Magnetic Stimulation Combined with Antidepressants for the First Episode of MDD.,EXCLUDE,review,high,Systematic review; Thailand-based
+31059991,Efficacy of rTMS using a figure-8-coil or an H1-Coil in treatment of MDD,EXCLUDE,non-Canadian,high,Croatia-based RCT; non-pharma (rTMS)
+29984258,The Impact of Mindfulness-Based Stress Reduction on Emotional Wellbeing and Glycemic Control of T2DM Patients.,EXCLUDE,non-Canadian,high,Iran-based RCT; non-pharma (MBSR)
+34799265,Effectiveness of conventional versus VR-based vestibular rehabilitation exercises in elderly patients with dizziness,EXCLUDE,non-MH,high,Vestibular rehab; Turkey-based; not MH
+29892701,The association between nicotine dependence and physical health among people receiving injectable diacetylmorphine or hydromorphone for treatment of chronic opioid use disorder.,UNCERTAIN,Canadian-check,medium,"Canadian authors (Krausz, Marsh, Schechter - Vancouver); injectable OAT trial (SALOME/NAOMI); but secondary analysis examining nicotine dependence/physical health"
+36735701,Early detection of depression using a conversational AI bot: A non-clinical trial.,EXCLUDE,non-RCT,high,Not RCT; AI screening tool; Australia-based
+35799757,Clinical efficacy of Vortioxetine and escitalopram in the treatment of depression.,EXCLUDE,non-Canadian,high,China-based RCT
+33442924,Right unilateral versus bilateral formula-based ECT in treatment of major depression in elderly patients,EXCLUDE,non-Canadian,high,Poland-based pilot RCT; non-pharma (ECT)
+27172277,Whole-Body Hyperthermia for the Treatment of MDD: A Randomized Clinical Trial.,EXCLUDE,non-pharma,high,Non-pharma (hyperthermia); US-based
+30854473,"A randomized, controlled pilot trial of the Emotional Faces Memory Task: a digital therapeutic for depression.",EXCLUDE,non-pharma,high,Non-pharma (digital therapeutic); US-based
+29749262,Comparison of the Effects of Melatonin and Oxazepam on Anxiety Levels and Sleep Quality in Patients With STEMI,EXCLUDE,non-MH,high,Cardiac patients; Iran-based; not diagnosed MH
+32945536,Intravenous Alcohol Administration Selectively Decreases Rate of Change in Elasticity of Demand in Individuals With AUD.,EXCLUDE,non-Canadian,high,US-based experimental study; AUD behavioral economics
+35713110,Reduced anhedonia following internet-based CBT for depression is mediated by enhanced reward circuit activation.,EXCLUDE,non-Canadian,high,US-based neuroimaging study; non-pharma (iCBT)
+29324370,Model-based comparing efficacy of fluoxetine between elderly and non-elderly participants with MDD.,EXCLUDE,review,high,Model-based meta-analysis; China-based
+30234616,Clostridium butyricum MIYAIRI 588 as Adjunctive Therapy for Treatment-Resistant MDD,EXCLUDE,non-Canadian,high,Japan-based open-label trial; probiotic adjunctive therapy
+27464321,Acute Swedish Massage Monotherapy Successfully Remediates Symptoms of GAD,EXCLUDE,non-pharma,high,US-based RCT; non-pharma (massage therapy)
+33564627,Moderation of treatment effects by parent-adolescent conflict in a randomised controlled trial of ABFT for adolescent depression.,EXCLUDE,non-pharma,high,Norway-based; non-pharma (family therapy); secondary analysis
+,STUDY ON GENDER DIFFERENCES OF INTERNET USERS' PSYCHOLOGICAL AND EMOTIONAL BEHAVIOR CHANGES,EXCLUDE,non-RCT,high,Cross-sectional survey study; not RCT; not MH
+33060432,"Comparison of Rapid Antidepressant and Antisuicidal Effects of IM Ketamine, Oral Ketamine, and ECT in Patients With MDD",EXCLUDE,non-Canadian,high,Iran-based pilot RCT
+30245644,Mechanisms of Perceived Treatment Assignment and Subsequent Expectancy Effects in a Double Blind Placebo Controlled RCT of Major Depression.,EXCLUDE,non-Canadian,high,US-based re-analysis of RCT; secondary analysis
+29448238,Parsing the heterogeneity of depression: An exploratory factor analysis across commonly used depression rating scales.,EXCLUDE,secondary-analysis,high,Secondary analysis; US-based
+36301455,Efficacy and Safety of Jianpi Jieyu Decoction for Patients With Mild-to-Moderate Depression,EXCLUDE,non-Canadian,high,China-based RCT; Chinese herbal medicine
+31881956,Comparing sensitivity to change using the 6-item versus the 17-item HAM-D in the GUIDED RCT.,EXCLUDE,secondary-analysis,high,Post hoc analysis of GUIDED trial; US-based
+28506228,Chinese herbal Pulian ointment in treating psoriasis vulgaris,EXCLUDE,non-MH,high,Psoriasis treatment; China-based; not MH
+31368583,Lay-delivered behavioral activation for depressed senior center clients: Pilot RCT.,EXCLUDE,non-pharma,high,US-based; non-pharma (behavioral activation)
+33644824,Associations between the cortisol awakening response and patient-evaluated stress and mood instability in patients with bipolar disorder,EXCLUDE,non-RCT,high,Exploratory/correlational study; Denmark-based
+31547909,Group cognitive behavioural therapy of physical and psychological menopausal symptoms: protocol for a randomized non-inferiority trial.,EXCLUDE,protocol,high,Protocol; China-based; non-pharma (CBT)
+38502751,Cariprazine (Vraylar): CADTH Reimbursement Recommendation for schizophrenia in adults,EXCLUDE,non-RCT,high,"CADTH drug review, not original RCT"
+37906654,Tralokinumab (Adtralza): CADTH Reimbursement Recommendation for atopic dermatitis,EXCLUDE,non-MH,high,CADTH review for atopic dermatitis; not MH
+36578922,Acupuncture and acupressure with improved cancer-related depression: retrospective studies.,EXCLUDE,review,high,Systematic review of RCTs; not original RCT
+31110776,Feasibility of a tapering opioids prescription program for trauma patients (TOPP-trauma): protocol for a pilot RCT.,UNCERTAIN,Canadian-check,medium,Canadian (Quebec-based); protocol for pilot RCT; opioid tapering with CBT strategies; trauma patients not diagnosed MH per DSM-5
+36124755,Intensive Social Interaction for Treatment of Poststroke Depression in Subacute Aphasia: The CONNECT Trial.,EXCLUDE,non-pharma,high,Non-pharma (social interaction); Germany-based
+30714750,Time-varying moderation of treatment outcomes by illness duration and comorbid depression in GAD.,EXCLUDE,secondary-analysis,high,Secondary analysis of 1993 Borkovec trial; US-based
+29955803,Effect of Repetitive Transcranial Magnetic Stimulation on Treatment-Resistant Major Depression in US Veterans,EXCLUDE,non-Canadian,high,US Veterans RCT; non-pharma (rTMS)
+27415850,Cognitive-Behavioral Treatment of Posttraumatic Stress in Patients With ICDs,EXCLUDE,non-pharma,high,US-based CBT RCT; non-pharma
+35016413,Nursing intervention using a whole-process escort playing a relative role combined with mind mapping in patients undergoing breast cancer surgery,EXCLUDE,non-MH,high,Breast cancer nursing; China-based; not MH
+33125448,Comparative effectiveness clinical trial of magnetic seizure therapy and ECT in MDD.,EXCLUDE,non-Canadian,high,Egypt-based; non-pharma (MST vs ECT)
+34752941,Is one or two infusions better in the first week of low-dose ketamine treatment for medication-resistant depression?,EXCLUDE,non-Canadian,high,Taiwan-based pooled analysis
+41144604,Comparing Acupuncture and CBT to Treat Insomnia among Cancer Survivors—The CHOICE Trial,EXCLUDE,non-pharma,high,Non-pharma (acupuncture vs CBT); US-based; insomnia
+35036831,Ketamine as an adjunctive therapy for major depression - Karma-Dep Trial.,EXCLUDE,non-Canadian,high,Ireland-based RCT
+29334636,Impact of demographic factors on the antidepressant effect: patient-level data analysis from Japan.,EXCLUDE,non-Canadian,high,Japan-based meta-analysis
+34318394,The Impact of Restrictive and Non-restrictive Dietary Weight Loss Interventions on Neurobehavioral Factors Related to Body Weight Control,EXCLUDE,review,high,Review article; not RCT; not MH treatment
+27494414,Insomnia as a Moderator of Response to Time in Bed Restriction for Augmenting Antidepressant Treatment,EXCLUDE,non-Canadian,high,US-based RCT secondary analysis
+30561967,Radically open dialectical behaviour therapy for refractory depression: the RefraMED RCT,EXCLUDE,non-Canadian,high,UK-based RCT; primarily psychotherapy
+,19 Anxiolysis for laceration repair in children: A survey of pediatric emergency providers in Canada,EXCLUDE,non-MH,high,Pediatric emergency survey about anxiolysis for laceration repair; not MH diagnosis; survey not RCT
+32513518,Combinatorial Pharmacogenomic Testing Improves Outcomes for Older Adults With Depression.,EXCLUDE,non-Canadian,high,US-based post hoc analysis of GUIDED trial
+35432836,Effect of Intensive Psychological Nursing Intervention on HAMD and SF-36 Scores in Patients with Severe Liver Cancer in ICU.,EXCLUDE,non-MH,high,Liver cancer nursing; China-based; not MH
+29641834,Pretreatment Rostral Anterior Cingulate Cortex Theta Activity in Relation to Symptom Improvement in Depression,EXCLUDE,non-Canadian,high,US-based EMBARC trial analysis
+29329058,Association of comorbid personality disorders with clinical characteristics and outcome in a RCT comparing two psychotherapies for early-onset PDD.,EXCLUDE,non-pharma,high,Germany-based; non-pharma (psychotherapy comparison); secondary analysis
+27095167,The impact of the improvement of insomnia on blood pressure in hypertensive patients.,EXCLUDE,non-MH,high,Hypertension/insomnia study; China-based; not MH
+29499745,Efficacy and safety of electroacupuncture for post stroke depression: study protocol,EXCLUDE,protocol,high,Protocol; China-based; non-pharma (EA)
+30714749,Randomized cost-effectiveness trial of group IPT for prisoners with MDD.,EXCLUDE,non-Canadian,high,US-based RCT; non-pharma (IPT psychotherapy)
+31575299,CBT significantly reduces anxiety in patients with ICD compared with usual care: Screen-ICD RCT.,EXCLUDE,non-pharma,high,Denmark-based; non-pharma (CBT); cardiac patients
+31123668,Comparative Effect of Intravenous Ketamine and ECT in Major Depression: A Randomized Controlled Trial.,EXCLUDE,non-Canadian,high,Iran-based RCT
+32536434,"Individualized Medication Management in Ontario Long-Term Care Clinical Impact on Management of Depression, Pain, and Dementia.",UNCERTAIN,Canadian-check,medium,Ontario-based; pharmacogenomic medication management in LTC; open-label non-randomized; touches depression management but non-randomized design
+30153752,Attenuation of Antidepressant Effects of Ketamine by Opioid Receptor Antagonism.,EXCLUDE,non-Canadian,high,US-based crossover trial; duplicate of row 9618 content
+27401052,Short-Term Effects of a Gain-Focused Reappraisal Intervention for Dementia Caregivers,EXCLUDE,non-pharma,high,Non-pharma (cognitive reappraisal); Hong Kong-based; caregivers
+30852431,Social cognition and interaction training (SCIT) for partially remitted patients with bipolar disorder in China.,EXCLUDE,non-Canadian,high,China-based; non-pharma (SCIT)
+27434598,The Role of Posttraumatic Growth in a Randomized Controlled Trial of Cognitive-Behavioral Conjoint Therapy for PTSD.,UNCERTAIN,Canadian-check,medium,Monson CM is a Canadian PI (Toronto); CBCT for PTSD; but non-pharma (psychotherapy); secondary analysis examining posttraumatic growth
+36371180,"The effect of intensive family-centered health education on the awareness rate, diagnosis, and treatment of post-stroke depression in community families.",EXCLUDE,non-Canadian,high,China-based; non-pharma (health education)
+36628873,Extension of transcranial magnetic stimulation treatment for depression in non-responders: Results of a naturalistic study.,EXCLUDE,non-RCT,high,"Naturalistic study, not RCT; US-based"
+27703772,"The PAsSA trial: a pilot multicentre, single-blind randomised trial of group CBT for anxiety in Asperger syndrome.",EXCLUDE,non-Canadian,high,UK-based RCT; non-pharma (CBT)
+37034960,"Negative cognitive beliefs, positive metacognitive beliefs, and rumination as mediators of MCT-Silver.",EXCLUDE,secondary-analysis,high,Secondary analysis; Germany/Portugal-based
+35368283,Altered Brain Function and Causal Connectivity Induced by rTMS Treatment for MDD.,EXCLUDE,non-Canadian,high,China-based; non-pharma (rTMS)
+34671485,Case study assessing the feasibility of using a wearable haptic device or humanoid robot to facilitate transitions in OT sessions for children with ASD.,EXCLUDE,non-RCT,high,"Case study, not RCT; Canadian (Quebec) but non-pharma; ASD transitions"

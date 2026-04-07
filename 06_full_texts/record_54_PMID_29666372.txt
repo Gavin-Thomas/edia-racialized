@@ -1,0 +1,60 @@
+RECORD: #54
+PMID: 29666372
+PMCID: PMC5904107
+TITLE: Brain serotonin synthesis capacity in obsessive-compulsive disorder: effects of cognitive behavioral therapy and sertraline
+AUTHORS AND AFFILIATIONS:
+- Jennifer I Lissemore - Department of Psychiatry, McGill University
+- Debbie Sookman - Department of Psychiatry, McGill University; Obsessive Compulsive Disorder Clinic, McGill University Health Center
+- Paul Gravel - Department of Neurology and Neurosurgery, McGill University
+- Alexandre Berney - Department of Psychiatry, McGill University; Department of Neurology and Neurosurgery, McGill University
+- Amir Barsoum - Department of Psychiatry, Queen's University; Markham Stouffville Hospital
+- Mirko Diksic - Department of Neurology and Neurosurgery, McGill University
+- Thomas E Nordahl - Department of Psychiatry and Behavioral Sciences, UC Davis Medical Center
+- Gilbert Pinard - Department of Psychiatry, McGill University
+- Igor Sibon - Department of Psychiatry, McGill University; Department of Neurology and Neurosurgery, McGill University
+- Jean Cottraux - Anxiety Disorder Unit, Hopital Neurologique, Lyon 1 University, France
+- Marco Leyton - Department of Psychiatry, McGill University; Department of Neurology and Neurosurgery, McGill University
+- Chawki Benkelfat (corresponding author) - Department of Psychiatry, McGill University; Department of Neurology and Neurosurgery, McGill University
+TRIAL REGISTRATION: No trial registration identifiers mentioned
+FUNDING: Fonds de la Recherche du Quebec - Sante (FRQS)
+
+METHODS:
+Study population: Patients were referred by the OCD Clinic, Department of Psychology, McGill University Health Center (MUHC), having participated in a baseline PET study prior to beginning treatment. Exclusion criteria included: (1) personal or family history of Tourette's syndrome; (2) history of other Axis I disorders, except for depression secondary to OCD, as assessed using the Structured Clinical Interview for DSM-IV Axis I Disorders (SCID); (3) current or past substance abuse or dependence; (4) current or past use of MDMA or MDA; and (5) history of allergy or treatment resistance to sertraline. All patients, at entry into the study, were medication-free for at least 3 weeks or more than five elimination half-lives of the drug. Most patients were medication-free for considerably longer; of eight patients previously treated with antidepressants, seven were drug-free >6 months at entry into the study.
+
+After inclusion, patients were randomly assigned (using a block randomization design with blocks of 4) to receive CBT or sertraline treatment for a period of 12 weeks. OCD symptom severity assessed using the Yale-Brown Obsessive Compulsive Scale (Y-BOCS) and depressive symptoms estimated with the Beck Depression Inventory (BDI) were recorded by a clinician blind to the patient's PET data approximately every 2 weeks during treatment. Following completion of the 12-week treatment study, patients in both groups were offered further treatment as clinically indicated.
+
+All participants provided written informed consent. The study was approved by the Research Ethics Committee of the Montreal Neurological Institute (MNI) and the Institutional Review Board of McGill University.
+
+Treatment - Sertraline: Patients received an initial dose of 25 mg/day provided in open fashion as 25 mg capsules ingested once daily. After 1 week, dose increased to 50 mg/day unless limited by side effects. If after a second week no improvement, increased to 100 mg/day. A third increase to 150 mg/day (week 4) and final increase to 200 mg/day (week 6) were made if response remained unsatisfactory (<20% decrease in Y-BOCS score). Final mean +/- SD daily dose was 133 +/- 52 mg/day.
+
+Treatment - CBT: Patients received two 90-min individual sessions per week for 12 weeks. Specialized CBT was designed and administered under close supervision of an experienced OCD expert clinician. The specialty multidimensional CBT program was individualized for each patient and included: psycho-education; cognitive therapy to collaboratively modify symptom-related appraisals and meanings of intrusive thoughts; strategies for dysfunctional cognitive-emotional processing; exposure and response prevention (ERP) and behavioral experiment protocols; self-directed between-session homework; and interventions for relapse prevention, resilience, and self-efficacy.
+
+PET and MRI: PET scans were performed before and after 12 weeks of treatment. In order to minimize variability between scans in plasma concentrations of amino acids, a low-protein diet followed by an overnight fast was required. Women of fertile age were scanned during their follicular phase due to previous findings of changes in serotonergic activity across menstrual cycle phases. Alpha-[11C]MTrp was used as the PET tracer. PET scanning performed using an ECAT HR+ scanner (CTI/Siemens; 3D mode with resolution of 5x5x5 mm FWHM). Each participant also underwent T1-weighted MRI scan for PET-MR co-registration using a 1.5T Philips Gyroscan scanner.
+
+Analysis: K* values (ml/g/min) calculated using the Patlak graphic approach. Relative regional K* values calculated by normalizing to global K* values. Pre- and post-treatment comparisons carried out using both SPM and MRI-based ROI method. Voxel-based analysis using SPM12; t-test applied voxel by voxel with height threshold p < 0.001 uncorrected, extent threshold of 100 voxels (50 voxels for exploratory analyses). ROI analysis included left and right caudate, hippocampus, inferior temporal gyrus, cingulate, lateral and medial prefrontal cortices, nucleus accumbens, putamen, and thalamus.
+
+RESULTS:
+Demographics: Sixteen patients with OCD diagnosis were included. After randomization, eight patients received CBT (6M/2F), and eight sertraline (6M/2F). Data from one male patient treated with CBT not available for post-treatment PET scan. Total of 15 patients included in PET analyses (11M/4F; mean +/- SD age = 34.4 +/- 9.3 years). No significant differences in age, Y-BOCS score, or BDI score between treatment subgroups.
+
+Clinical response: Progressive improvement in mean Y-BOCS scores observed for both treatment groups. Seven patients were responders (>=35% decrease in Y-BOCS), three were partial responders (>=25% but <=35% reduction); these 10 combined (4 CBT/6 SSRI; mean +/- SD % decrease = 52.5 +/- 20.1). Six patients were non-responders (4 CBT/2 SSRI; mean +/- SD % decrease = 1.9 +/- 22.4). Significant decrease in Y-BOCS scores pre-post treatment (t15 = 4.49, p < 0.001). No significant difference between CBT and SSRI groups in pre-post % change. BDI scores decreased significantly pre-post (Z = -2.2, p = 0.026) though clinically minimal.
+
+Global and regional alpha-[11C]MTrp trapping: No significant changes in relative or absolute regional K* values when treatment groups were combined. No changes within each treatment group separately. In responders/partial responders (n = 9), a significant increase in global K* values pre-post treatment (t8 = 3.05, p = 0.016; mean increase 29.7%, Cohen's d = 1.02), whereas non-responders showed no significant changes (mean decrease 6.4%). Pre-treatment global K* did not differ between groups. Voxel-wise analyses identified brain-wide increases in absolute K* values in responders. The change in global K* was significantly greater in responders vs non-responders (t13 = 2.37, p = 0.034, Hedges' g = 1.25).
+
+Correlations: Improvement in Y-BOCS scores correlated positively with baseline alpha-[11C]MTrp trapping in the raphe nuclei within the right midbrain (t13 = 6.66). Pre-post treatment changes in global K* values correlated positively with % decrease in Y-BOCS scores (rs = 0.67, p = 0.009 with outlier removed). BDI scores did not correlate with changes in global K*.
+
+EDIA/EQUITY REPORTING:
+Sex/Gender: CBT group 6M/2F, Sertraline group 6M/2F; final PET sample 11M/4F
+Age: Mean +/- SD age = 34.4 +/- 9.3 years; CBT group range 23-53 years, SSRI group range 18-45 years
+Menstrual Cycle: Women of fertile age were scanned during follicular phase (noted as methodological consideration for serotonergic activity)
+Race/Ethnicity: NOT REPORTED
+SES/Education: NOT REPORTED
+Other PROGRESS-Plus: NOT REPORTED (no reporting on Indigenous status, sexual orientation, gender identity, disability, rural/urban, immigration, language, religion)
+Early-onset OCD (<=10 years) and lifetime history of major depressive episode reported as clinical variables
+
+CANADIAN INVOLVEMENT:
+Canadian Site: McGill University Health Center OCD Clinic, Montreal, Quebec; Montreal Neurological Institute (MNI) (primarily Canadian trial)
+Canadian Institutions: McGill University, Queen's University (Kingston), Markham Stouffville Hospital
+Canadian PI: Chawki Benkelfat, McGill University (corresponding author)
+Canadian Authors: Jennifer Lissemore, Debbie Sookman, Paul Gravel, Alexandre Berney, Amir Barsoum, Mirko Diksic, Gilbert Pinard, Igor Sibon, Marco Leyton (all McGill-affiliated)
+Canadian Funding: Fonds de la Recherche du Quebec - Sante (FRQS)
+Canadian Ethics: Research Ethics Committee of the Montreal Neurological Institute (MNI) and Institutional Review Board of McGill University

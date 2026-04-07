@@ -1,0 +1,34 @@
+RECORD: #119
+PMID: 40116713
+PMCID: PMC11930473
+TITLE: The Safety and Efficacy of Microbial Ecosystem Therapeutic-2 in People With Major Depression - A Phase 2, Double-Blind, Placebo-Controlled Study: Clinical Results
+AUTHORS AND AFFILIATIONS:
+- Arthi Chinna Meyyappan - Centre for Neuroscience Studies, Queen's University, Kingston, ON; Providence Care Hospital, Kingston, ON; Centre for Addiction and Mental Health, Toronto, ON
+- Cassandra Sgarbossa - Centre for Neuroscience Studies, Queen's University, Kingston, ON; Providence Care Hospital, Kingston, ON
+- Hayley Bromley - Centre for Neuroscience Studies, Queen's University, Kingston, ON; Providence Care Hospital, Kingston, ON
+- Evan Forth - Centre for Neuroscience Studies, Queen's University, Kingston, ON; Providence Care Hospital, Kingston, ON
+- Daniel J. Mueller - Centre for Addiction and Mental Health, Toronto, ON
+- Gustavo Vazquez - Centre for Neuroscience Studies, Queen's University, Kingston, ON; Providence Care Hospital, Kingston, ON
+- Casimiro Cabrera - Providence Care Hospital, Kingston, ON
+- Roumen Milev - Centre for Neuroscience Studies, Queen's University, Kingston, ON; Providence Care Hospital, Kingston, ON
+TRIAL REGISTRATION: NCT04602715 (ClinicalTrials.gov)
+FUNDING: NuBiyota LLC, CIHR (Canadian Institutes of Health Research), and MITACS. The study was terminated early due to development of a newer version of MET-2, and the company was no longer financially able to fund older studies.
+
+METHODS:
+Phase 2, multi-site, randomized, double-blind, placebo-controlled trial examining MET-2 versus placebo over 8 weeks (6 weeks treatment, 2 weeks follow-up). MET-2 comprises 40 lyophilized pure bacterial cultures at doses ranging 3.2 x 10^5 - 10^11 CFU/0.5 g. 29 participants recruited from Kingston and Toronto, Ontario. Inclusion: ages 18-45, current major depressive episode, MADRS score >=15, no psychotropic medications for 4+ weeks prior. Primary outcome: Montgomery-Asberg Depression Rating Scale (MADRS). Secondary outcomes: Quick Inventory of Depressive Symptomatology-Self-Report, Clinical Global Impressions, Hamilton Anxiety Rating Scale, GAD-7, Snaith-Hamilton Pleasure Scale, Young Mania Rating Scale, Gastrointestinal Symptom Rating Scale. Statistical analysis: Intent-to-treat model with last observation carried forward; one-way repeated-measure ANOVA; alpha = 0.05; two-tailed tests via SPSS version 29.
+
+RESULTS:
+28 participants analyzed (14 MET-2, 14 placebo); mean baseline MADRS: 24.4 (+/-4.2). Significant overall improvement in depressive symptoms (p < 0.0001) from baseline to week 8; however, no significant difference between placebo and MET-2 groups (p = 0.338). Response rates (>=50% MADRS improvement): Week 6: 36% placebo, 50% MET-2; Week 8: 36% placebo, 71% MET-2. Significant anxiety reduction (HAM-A p < 0.001; GAD-7 p < 0.001). Significant anhedonia reduction (SHAPS p = 0.003). Significant GI symptom reduction (GSRS p = 0.014). No statistically significant between-group differences on secondary measures. No severe, life-threatening, or death-related adverse events; 6 adverse events in MET-2 group (primarily gastrointestinal: bloating, flatulence, constipation, diarrhea); all resolved by treatment end.
+
+EDIA/EQUITY REPORTING:
+- Gender: 23 female (82%), 5 male (18%); by group: MET-2 12F/2M, placebo 11F/3M
+- Ethnicity: Caucasian 15 (54%), East Asian 4 (14%), Black 3 (11%), West Asian 3 (11%), South Asian 2 (7%), Latin American 1 (4%)
+- Education: Post-secondary degree 17 (61%), high school graduate 7 (25%)
+- Diagnosis: MDD 25 (89%), bipolar disorder 3 (11%)
+- Socioeconomic status, disability, Indigenous status: NOT REPORTED
+
+CANADIAN INVOLVEMENT:
+- Study sites: Providence Care Hospital, Kingston, ON; Centre for Addiction and Mental Health, Toronto, ON
+- All authors affiliated with Canadian institutions (Queen's University, Kingston; CAMH, Toronto)
+- Funding from CIHR (Canadian Institutes of Health Research) and MITACS (Canadian research organization)
+- All participants recruited from Kingston and Toronto, Ontario

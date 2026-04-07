@@ -1,0 +1,17 @@
+id,title,final_decision,category,vote_count,conflict_flag,reconciliation_notes
+26580307,Efficacy of Bright Light Treatment Fluoxetine and the Combination in Patients With Nonseasonal Major Depressive Disorder,MAP,depression,3,False,Unanimous agreement
+27049826,Hydromorphone Compared With Diacetylmorphine for Long-term Opioid Dependence,MAP,substance_use,3,False,Unanimous agreement
+28199710,Cognitive Behavioral Insomnia Therapy for Those With Insomnia and Depression,UNCERTAIN,depression,2,False,2 UNCERTAIN + 1 OUT_OF_SCOPE -> UNCERTAIN (conservative)
+28483500,Probiotic Bifidobacterium longum NCC3001 Reduces Depression Scores and Alters Brain Activity,UNCERTAIN,depression,3,False,Unanimous agreement
+30654643,Olanzapine Versus Placebo in Adult Outpatients With Anorexia Nervosa,MAP,eating_disorder,3,False,Unanimous agreement
+30922101,Single repeated and maintenance ketamine infusions for treatment-resistant depression,MAP,depression,2,False,2 MAP + 1 UNCERTAIN -> MAP (majority)
+31066887,Efficacy of Adjunctive Infliximab vs Placebo in the Treatment of Adults With Bipolar I/II Depression,MAP,bipolar_mood,3,False,Unanimous agreement
+31109201,Efficacy and Safety of Flexibly Dosed Esketamine Nasal Spray Combined With a Newly Initiated Oral Antidepressant in Treatment-Resistant Depression,UNCERTAIN,depression,3,False,Unanimous agreement
+31166571,Efficacy of Esketamine Nasal Spray Plus Oral Antidepressant Treatment for Relapse Prevention in Patients With Treatment-Resistant Depression,UNCERTAIN,depression,3,False,Unanimous agreement
+31290965,Efficacy and Safety of Fixed-Dose Esketamine Nasal Spray Combined With a New Oral Antidepressant in Treatment-Resistant Depression (TRANSFORM-1),UNCERTAIN,depression,3,False,Unanimous agreement
+31764959,Efficacy and Safety of Lanabecestat for Treatment of Early and Mild Alzheimer Disease (AMARANTH and DAYBREAK-ALZ),UNCERTAIN,dementia,2,False,2 UNCERTAIN + 1 OUT_OF_SCOPE -> UNCERTAIN (conservative)
+33972795,MDMA-assisted therapy for severe PTSD: a randomized double-blind placebo-controlled phase 3 study,UNCERTAIN,anxiety_trauma_ocd,2,False,2 UNCERTAIN + 1 OUT_OF_SCOPE -> UNCERTAIN (conservative)
+34155411,A trial of gantenerumab or solanezumab in dominantly inherited Alzheimer's disease,UNCERTAIN,dementia,2,False,2 UNCERTAIN + 1 OUT_OF_SCOPE -> UNCERTAIN (conservative)
+35542991,Two Randomized Phase 3 Studies of Aducanumab in Early Alzheimer's Disease,UNCERTAIN,dementia,2,False,2 UNCERTAIN + 1 OUT_OF_SCOPE -> UNCERTAIN (conservative)
+37095250,Tau-targeting antisense oligonucleotide MAPTRx in mild Alzheimer's disease,UNCERTAIN,dementia,3,False,Unanimous agreement
+37966285,Two Phase 3 Trials of Gantenerumab in Early Alzheimer's Disease,UNCERTAIN,dementia,2,False,2 UNCERTAIN + 1 OUT_OF_SCOPE -> UNCERTAIN (conservative)

@@ -1,0 +1,21 @@
+project_name: "EDIA Reporting in Canadian Mental Health Pharmacotherapy RCTs"
+project_type: scoping_review
+review_config:
+  date_range: "2016/01/01-2026/03/30"
+  databases:
+    - PubMed
+    - Europe PMC
+    - OpenAlex
+    - Scopus
+  language: English
+  selection_method: "Stratified random sample (n=200) by time period and disorder category"
+  framework: PROGRESS-Plus
+  focus: "Racialized groups (with separate Indigenous analysis)"
+stages:
+  literature_search: completed
+  research_question: completed
+  inclusion_exclusion: completed
+  database_search: completed
+  abstract_screening: pending
+  data_extraction: pending
+  search_date: "2026-03-30"

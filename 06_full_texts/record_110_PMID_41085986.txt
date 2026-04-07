@@ -1,0 +1,41 @@
+RECORD: #110
+PMID: 41085986
+PMCID: PMC12522003
+TITLE: Rapid vs Standard Induction to Injectable Extended-Release Buprenorphine: A Randomized Clinical Trial
+AUTHORS AND AFFILIATIONS:
+- Rajinder Shiwach, MD, MRCPsych - InSite Clinical Research, Desoto, Texas
+- Bernard Le Foll, MD, PhD, MCFP(AM) - Centre for Addiction and Mental Health, University of Toronto, Ontario, Canada
+- Hannu Alho, MD, PhD - HUS Internal Medicine and Rehabilitation, University of Helsinki, Finland
+- Kelly E. Dunn, PhD, MBA - Department of Psychiatry, University of Maryland School of Medicine, Baltimore
+- Stephanie Strafford, BSc - Indivior Inc, North Chesterfield, Virginia
+- Yue Zhao, DrPH - Indivior Inc, North Chesterfield, Virginia
+- Robert L. Dobbins, MD, PhD (Corresponding Author) - Indivior Inc, North Chesterfield, Virginia
+TRIAL REGISTRATION: NCT04995029 (ClinicalTrials.gov)
+FUNDING: Indivior Inc. The sponsor participated in study design, data management, analysis, manuscript preparation, and publication decisions.
+
+METHODS:
+An open-label randomized clinical trial conducted at 28 outpatient treatment centers in the US and Canada from October 2021 through January 2024. Eligible participants were aged 18+ with moderate-to-severe opioid use disorder (OUD) meeting DSM-5 criteria for 90+ days, using opioids at high-risk levels (injecting, high doses, or fentanyl use) 5+ days weekly.
+
+Participants were randomized 2:1 to rapid induction (RI) or standard induction (SI), stratified by fentanyl urine drug screen (UDS) status. RI involved a single 4-mg transmucosal buprenorphine-naloxone dose followed by 300-mg extended-release buprenorphine injection. SI involved >=7 days of buprenorphine-naloxone dosing with adjustments before the injection.
+
+The primary endpoint was treatment retention at the second extended-release injection (1 week post-first injection). Secondary outcomes included retention at third injection and safety assessments. Baseline measures included Clinical Opiate Withdrawal Scale (COWS) scores, UDS results, and demographic data. Safety outcomes encompassed adverse events (AEs), serious AEs, withdrawal-related symptoms, hepatic disorders, and injection site reactions. Bayesian statistical methods were employed for the primary analysis using a 10% noninferiority margin.
+
+RESULTS:
+Of 785 randomized participants, 729 received transmucosal buprenorphine per protocol (474 RI, 255 SI). Demographic characteristics were balanced between groups: mean age 40.7 years, 55.7% male, predominantly White (77.5%). At baseline, 78.2% tested positive for fentanyl; 56.9% reported heroin use, 78.5% fentanyl use.
+
+RI demonstrated noninferiority to SI with superior retention at injection 2 (66.4% vs 54.5%; difference 11.8%, 95% credible interval [CrI] 4.3%-19.0%). In fentanyl-positive participants, RI showed greater superiority (62.8% vs 47.9%; difference 14.8%, 95% CrI 6.5%-23.7%). Retention at injection 3 also favored RI (58.9% vs 51.0%; difference 7.9%, 95% CrI 0.2%-15.3%).
+
+AE incidence was comparable between arms (42.6% RI vs 35.5% SI; difference 6.1%, 95% CrI -1.3% to 13.4%). Serious AEs occurred in 5 RI and 1 SI participant. Opioid withdrawal-related AEs were reported in 31.4% (RI) versus 25.1% (SI), with nausea, anxiety, restlessness, and vomiting being most common.
+
+EDIA/EQUITY REPORTING:
+- Race: 77.5% White, 16.7% Black/African American, 0.8% American Indian/Alaska Native, 0.7% Native Hawaiian/Pacific Islander, 0.1% Asian, 3.3% other/multiple categories
+- Ethnicity: 14.8% Hispanic/Latino, 84.2% non-Hispanic/non-Latino, 1.0% not reported
+- Sex/Gender: 55.7% male (406), 44.3% female (323)
+- Age: Mean 40.7 years (SD 10.4); fentanyl-positive participants marginally younger (39.8 vs 43.9 years)
+- Substance use patterns: Differences by fentanyl status noted - smoking more common in fentanyl-positive; injection more common in fentanyl-negative participants
+- Socioeconomic: All participants received stipends for longer clinic days; travel assistance was provided as required
+- Other health factors: 33.3% with overdose history; 75.0% previously medically withdrawn; 48.0% prior maintenance treatment history
+
+CANADIAN INVOLVEMENT:
+- Bernard Le Foll from Centre for Addiction and Mental Health, University of Toronto, Ontario, Canada (co-investigator)
+- Study conducted at 28 outpatient treatment centers in the US and Canada

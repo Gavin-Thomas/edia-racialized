@@ -1,0 +1,1986 @@
+textbox "orgt6,orgt6," [ref_2] type="hidden"
+textbox "an," [ref_3] type="hidden"
+textbox [ref_4] type="hidden"
+generic "Advertisement" [ref_5]
+generic "Access provided courtesy of" [ref_6]
+generic "UNIV OF CALGARY LIB" [ref_7]
+banner [ref_8]
+ link "Skip to main content" [ref_9] href="#main"
+ navigation [ref_10]
+  link [ref_11] href="/"
+   image "Go to homepage" [ref_12]
+  link [ref_13] href="/"
+   image "Go to homepage" [ref_14]
+  button "Toggle navigation" [ref_15] type="button"
+   generic "Close" [ref_16]
+  list [ref_17]
+   listitem [ref_18]
+    button "DSM" [ref_19] href="#"
+    list [ref_20]
+     listitem [ref_21]
+      link "DSM-5-TR®" [ref_22] href="/doi/book/10.1176/appi.books.9780890425787"
+     listitem [ref_23]
+      link "DSM-5-TR® Handbook of Differential Diagnosis" [ref_24] href="/doi/book/10.1176/appi.books.9781615375363"
+     listitem [ref_25]
+      link "DSM-5-TR® Clinical Cases" [ref_26] href="/doi/book/10.1176/appi.books.9781615375295"
+     listitem [ref_27]
+      link "DSM Legacy" [ref_28] href="/dsm/dsmPreviousEditions"
+     listitem [ref_29]
+      link "DSM Library" [ref_30] href="/dsm"
+   listitem [ref_31]
+    button "Books" [ref_32] href="#"
+    list [ref_33]
+     listitem [ref_34]
+      link "eBooks" [ref_35] href="/ebooks"
+     listitem [ref_36]
+      link "Patients & Families" [ref_37] href="/patients"
+     listitem [ref_38]
+      link "Premium Books" [ref_39] href="/premium-books"
+     listitem [ref_40]
+      link "Psychotherapy Library" [ref_41] href="/psychotherapy"
+     listitem [ref_42]
+      link "Book Collections" [ref_43] href="/book-collections"
+     listitem [ref_44]
+      link "Books" [ref_45] href="/books"
+   listitem [ref_46]
+    button "Journals" [ref_47] href="#"
+    list [ref_48]
+     listitem [ref_49]
+      link "The American Journal of Psychiatry" [ref_50] href="/journal/ajp"
+     listitem [ref_51]
+      link "Focus" [ref_52] href="/journal/foc"
+     listitem [ref_53]
+      link "The Journal of Neuropsychiatry and Clinical Neurosciences" [ref_54] href="/journal/jnp"
+     listitem [ref_55]
+      link "Psychiatric Research and Clinical Practice" [ref_56] href="/journal/prcp"
+     listitem [ref_57]
+      link "Psychiatric Services" [ref_58] href="/journal/ps"
+     listitem [ref_59]
+      link "The American Journal of Psychotherapy" [ref_60] href="/journal/apt"
+     listitem [ref_61]
+      link "All Journals" [ref_62] href="/journals"
+   listitem [ref_63]
+    link "News" [ref_64] href="/journal/pn"
+   listitem [ref_65]
+    link "Guidelines" [ref_66] href="/guidelines"
+   listitem [ref_67]
+    link "Education" [ref_68] href="/education"
+   listitem [ref_69]
+    button "Topics" [ref_70] href="#"
+    list [ref_71]
+     listitem [ref_72]
+      link "ADHD" [ref_73] href="/adhd"
+     listitem [ref_74]
+      link "Bipolar Disorder" [ref_75] href="/bipolar"
+     listitem [ref_76]
+      link "Depression (MDD)" [ref_77] href="/mdd"
+     listitem [ref_78]
+      link "Eating Disorders" [ref_79] href="/topics/eating-disorders"
+     listitem [ref_80]
+      link "Gun Violence & Mental Health" [ref_81] href="/gun-violence"
+     listitem [ref_82]
+      link "Schizophrenia" [ref_83] href="/schizophrenia"
+     listitem [ref_84]
+      link "Suicide Prevention" [ref_85] href="/topics/suicide-prevention"
+     listitem [ref_86]
+      link "Women's Mental Health" [ref_87] href="/topics/womens-mental-health"
+     listitem [ref_88]
+      link "Geriatric Mental Health" [ref_89] href="/topics/geriatric-mental-health"
+   listitem [ref_90]
+    button "Podcasts" [ref_91] href="#"
+    list [ref_92]
+     listitem [ref_93]
+      link "AJP Audio" [ref_94] href="/ajp/audio"
+     listitem [ref_95]
+      link "Psychiatry Unbound" [ref_96] href="/psychiatry-unbound"
+     listitem [ref_97]
+      link "Finding Our Voice" [ref_98] href="/finding-our-voice"
+     listitem [ref_99]
+      link "Psychiatric Services From Pages to Practice" [ref_100] href="/ps/podcast"
+     listitem [ref_101]
+      link "Medical Mind" [ref_102] href="https://www.psychiatry.org/psychiatrists/education/podcasts/medical-mind"
+   listitem [ref_103]
+    link "Expand search field" [ref_104] href="#"
+    tabpanel [ref_105]
+     search [ref_106]
+      generic "Quick Search anywhere" [ref_107]
+      label "Enter Search Term" [ref_108]
+      combobox "Enter Search Term" [ref_109] type="text" placeholder="Enter Search Term"
+      button "Search" [ref_110] type="submit"
+       generic "Search" [ref_111]
+       generic "Search" [ref_112]
+    link "ADVANCED SEARCH" [ref_113] href="/search/advanced"
+  link "SIGN IN | REGISTER" [ref_114] href="https://psychiatryonline-org.ezproxy.lib.ucalgary.ca/action/ssostart?idp=https%3A%2F%2Fpsychiatry.my.salesforce.com&redirectUri=https%3A%2F%2Fpsychiatryonline.org%2Fdoi%2F10.1176%2Fappi.ajp.2018.18070834"
+   generic "Sign in | Register" [ref_115]
+ navigation "Secondary Navigation" [ref_116]
+  link "American Journal of Psychiatry" [ref_117] href="/journal/ajp"
+   image "American Journal of Psychiatry logo" [ref_118]
+  button "Open Publication Menu" [ref_119] type="button"
+   generic "Journal Menu" [ref_120]
+  button "Close Publication Menu" [ref_121] type="button"
+   generic "Close" [ref_122]
+  generic "Journal Menu" [ref_123]
+  list "publication menu" [ref_124]
+   listitem [ref_125]
+    button "Issues" [ref_126] href="#"
+    link "Current Issue" [ref_127] href="/toc/ajp/current"
+    link "Past Issues (Archive)" [ref_128] href="/loi/ajp"
+   listitem [ref_129]
+    link "AJP In Advance" [ref_130] href="/toc/ajp/0/0"
+   listitem [ref_131]
+    link "Residents' Journal" [ref_132] href="/toc/ajp-rj/current"
+   listitem [ref_133]
+    button "Authors and Reviewers" [ref_134] href="#"
+    link "Author Resources" [ref_135] href="/journals/authors_reviewers"
+    link "Author and Reviewer Guidelines" [ref_136] href="/ajp/ajp_ifora"
+   listitem [ref_137]
+    button "More" [ref_138] href="#"
+    link "CME" [ref_139] href="/education"
+    link "Podcast" [ref_140] href="/ajp/audio"
+    link "About" [ref_141] href="/ajp/about"
+  generic "publication menu buttons" [ref_142]
+   link [ref_143] href="/ajp/ajp_ifora"
+    generic "Submit an article" [ref_144]
+   link [ref_145] href="https://www-appi-org.ezproxy.lib.ucalgary.ca/ajp"
+    generic "Subscribe" [ref_146]
+   link [ref_147] href="https://newsletter.psych.org/public/m/signup"
+    generic "Get notified" [ref_148]
+  generic "publication menu links" [ref_149]
+   link "Add to favorites" [ref_150] href="/personalize/addFavoritePublication?journalCode=ajp"
+    generic "Add to favorites" [ref_151]
+   link "TOC alerts" [ref_152] href="/action/doUpdateAlertSettings?action=addJournal&journalCode=ajp"
+    generic "TOC alerts" [ref_153]
+  generic "Share:" [ref_154]
+  link "Toggle dropblock" [ref_155] href="#"
+  generic "shareBlock" [ref_156]
+  generic "Share on" [ref_157]
+  list [ref_158]
+   listitem [ref_159]
+    link "Bluesky" [ref_160] href="/#bluesky"
+   listitem [ref_161]
+    link "X" [ref_162] href="/#x"
+   listitem [ref_163]
+    link "Facebook" [ref_164] href="/#facebook"
+   listitem [ref_165]
+    link "Email" [ref_166] href="/#email"
+   listitem [ref_167]
+    link "LinkedIn" [ref_168] href="/#linkedin"
+   listitem [ref_169]
+    link "Reddit" [ref_170] href="/#reddit"
+  button [ref_171] href="#publication-menu"
+main [ref_172]
+ article [ref_173]
+  generic "Reference #" [ref_174]
+  button "close pop-up" [ref_175]
+  banner [ref_176]
+   generic "Full access" [ref_177]
+   generic "Articles" [ref_178]
+   generic "Publication Date: 29 March 2019" [ref_179]
+   heading "Single, Repeated, and Maintenance Ketamine Infusions for Treatment-Resistant Depression: A Randomize" [ref_180]
+   list ", , , , , , , , and" [ref_181]
+    listitem [ref_182]
+     link "," [ref_183] href="#con1"
+      generic "Jennifer L." [ref_184]
+      generic "Phillips" [ref_185]
+      generic "Ph.D." [ref_186]
+     link "Email address" [ref_187] href="mailto:ennifer.Phillips@theroyal.ca"
+    listitem [ref_188]
+     link "," [ref_189] href="#con2"
+      generic "Sandhaya" [ref_190]
+      generic "Norris" [ref_191]
+      generic "M.D." [ref_192]
+    listitem [ref_193]
+     link ", ," [ref_194] href="#con3"
+      generic "Jeanne" [ref_195]
+      generic "Talbot" [ref_196]
+      generic "M.D." [ref_197]
+      generic "Ph.D." [ref_198]
+    listitem [ref_199]
+     link ", ," [ref_200] href="#con4"
+      generic "Meagan" [ref_201]
+      generic "Birmingham" [ref_202]
+      generic "M.A." [ref_203]
+      generic "M.B.A." [ref_204]
+    listitem [ref_205]
+     link "," [ref_206] href="#con5"
+      generic "Taylor" [ref_207]
+      generic "Hatchard" [ref_208]
+      generic "Ph.D." [ref_209]
+    listitem [ref_210]
+     link "," [ref_211] href="#con6"
+      generic "Abigail" [ref_212]
+      generic "Ortiz" [ref_213]
+      generic "M.D." [ref_214]
+    listitem [ref_215]
+     link "," [ref_216] href="#con7"
+      generic "Olabisi" [ref_217]
+      generic "Owoeye" [ref_218]
+      generic "M.D." [ref_219]
+    listitem [ref_220]
+     link "," [ref_221] href="#con8"
+      generic "Lisa A." [ref_222]
+      generic "Batten" [ref_223]
+      generic "Ph.D." [ref_224]
+    listitem [ref_225]
+     link ", ," [ref_226] href="#con9"
+      generic "Pierre" [ref_227]
+      generic "Blier" [ref_228]
+      generic "M.D." [ref_229]
+      generic "Ph.D." [ref_230]
+   link "Authors Info & Affiliations" [ref_231] href="#tab-contributors"
+   generic "Publication" [ref_232]
+   generic "American Journal of Psychiatry" [ref_233]
+   link [ref_234] href="/toc/ajp/176/5"
+    generic "Volume" [ref_235]
+     generic "176" [ref_236]
+    generic "Number" [ref_237]
+   link "https://doi-org.ezproxy.lib.ucalgary.ca/10.1176/appi.ajp.2018.18070834" [ref_238] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1176/appi.ajp.2018.18070834"
+   link "Toggle dropblock" [ref_239] href="#"
+    generic "Share" [ref_240]
+   generic "shareBlock" [ref_241]
+   generic "Share on" [ref_242]
+   list [ref_243]
+    listitem [ref_244]
+     link "Bluesky" [ref_245] href="/#bluesky"
+    listitem [ref_246]
+     link "X" [ref_247] href="/#x"
+    listitem [ref_248]
+     link "Facebook" [ref_249] href="/#facebook"
+    listitem [ref_250]
+     link "Email" [ref_251] href="/#email"
+    listitem [ref_252]
+     link "LinkedIn" [ref_253] href="/#linkedin"
+    listitem [ref_254]
+     link "Reddit" [ref_255] href="/#reddit"
+   link [ref_256] href="/action/addCitationAlert?doi=10.1176%2Fappi.ajp.2018.18070834"
+    generic "Track Citations" [ref_257]
+   link [ref_258] href="/personalize/addFavoritePublication?doi=10.1176%2Fappi.ajp.2018.18070834"
+    generic "Add to favorites" [ref_259]
+   link [ref_260] href="#tab-citations"
+   link [ref_261] href="/doi/reader/10.1176/appi.ajp.2018.18070834"
+    generic "PDF/EPUB" [ref_262]
+  generic "Article navigation" [ref_263]
+   button "Toggle section navigation menu" [ref_264]
+    generic "Contents" [ref_265]
+   navigation "Contents" [ref_266]
+    list [ref_267]
+     listitem [ref_268]
+      link "Abstract" [ref_269] href="#abstract"
+     listitem [ref_270]
+      link "Methods" [ref_271] href="#sec-1"
+     listitem [ref_272]
+      link "Results" [ref_273] href="#sec-2"
+     listitem [ref_274]
+      link "Discussion" [ref_275] href="#sec-3"
+     listitem [ref_276]
+      link "Acknowledgments" [ref_277] href="#acknowledgments"
+     listitem [ref_278]
+      link "Footnote" [ref_279] href="#footnotes"
+     listitem [ref_280]
+      link "Supplementary Material" [ref_281] href="#supplementary-materials"
+     listitem [ref_282]
+      link "References" [ref_283] href="#bibliography"
+   navigation [ref_284]
+    list [ref_285]
+     listitem [ref_286]
+      link [ref_287] href="#core-collateral-info"
+       generic "Information & Authors" [ref_288]
+     listitem [ref_289]
+      link [ref_290] href="#core-collateral-metrics"
+       generic "Metrics & Citations" [ref_291]
+     listitem [ref_292]
+      link [ref_293] href="#core-collateral-fulltext-options"
+       generic "View Options" [ref_294]
+     listitem [ref_295]
+      link [ref_296] href="#core-collateral-references"
+       generic "References" [ref_297]
+     listitem [ref_298]
+      link [ref_299] href="#core-collateral-figures"
+       generic "Figures" [ref_300]
+     listitem [ref_301]
+      link [ref_302] href="#core-collateral-tables"
+       generic "Tables" [ref_303]
+     listitem "No media available" [ref_304]
+      link [ref_305] href="#core-collateral-media"
+       generic "Media" [ref_306]
+     listitem [ref_307]
+      link [ref_308] href="#core-collateral-share"
+       generic "Share" [ref_309]
+  doc-abstract [ref_310]
+   heading "Abstract" [ref_311]
+   region [ref_312]
+    heading "Objective:" [ref_313]
+    paragraph "Subanesthetic ketamine doses have been shown to have rapid yet transient antidepressant effects in p" [ref_314]
+   region [ref_315]
+    heading "Methods:" [ref_316]
+    paragraph "Forty-one participants with treatment-resistant depression completed a single-site randomized double" [ref_317]
+   region [ref_318]
+    heading "Results:" [ref_319]
+    paragraph "Compared with midazolam, a single ketamine infusion elicited a significantly greater reduction in de" [ref_320]
+   region [ref_321]
+    heading "Conclusions:" [ref_322]
+    paragraph "Repeated ketamine infusions have cumulative and sustained antidepressant effects. Reductions in depr" [ref_323]
+  region [ref_324]
+   paragraph "Worldwide, major depressive disorder imposes the largest burden of disease, measured in disability-a" [ref_325]
+    doc-biblioref "1" [ref_326] href="#core-collateral-B1"
+   paragraph "In recent years, considerable attention has been dedicated to the potential role of the glutamate sy" [ref_327]
+    doc-biblioref "2" [ref_328] href="#core-collateral-B2"
+    doc-biblioref "3" [ref_329] href="#core-collateral-B3"
+    doc-biblioref "4" [ref_330] href="#core-collateral-B4"
+    doc-biblioref "7" [ref_331] href="#core-collateral-B7"
+    doc-biblioref "8" [ref_332] href="#core-collateral-B8"
+    doc-biblioref "10" [ref_333] href="#core-collateral-B10"
+   paragraph "More recent studies have examined whether repeated ketamine infusions can sustain the effects. Both " [ref_334]
+    doc-biblioref "11" [ref_335] href="#core-collateral-B11"
+    doc-biblioref "13" [ref_336] href="#core-collateral-B13"
+    doc-biblioref "14" [ref_337] href="#core-collateral-B14"
+    doc-biblioref "17" [ref_338] href="#core-collateral-B17"
+    doc-biblioref "14" [ref_339] href="#core-collateral-B14"
+    doc-biblioref "15" [ref_340] href="#core-collateral-B15"
+   paragraph "In the present study, the antidepressant effects of single, repeated, and maintenance ketamine infus" [ref_341]
+   region [ref_342]
+    heading "Methods" [ref_343]
+    region [ref_344]
+     heading "Participants" [ref_345]
+     paragraph "Male and female outpatients with treatment-resistant depression (age range, 18–65) completed a singl" [ref_346]
+      doc-biblioref "18" [ref_347] href="#core-collateral-B18"
+      doc-biblioref "19" [ref_348] href="#core-collateral-B19"
+      doc-biblioref "20" [ref_349] href="#core-collateral-B20"
+      doc-biblioref "21" [ref_350] href="#core-collateral-B21"
+      doc-biblioref "18" [ref_351] href="#core-collateral-B18"
+    region [ref_352]
+     heading "Study Design" [ref_353]
+     paragraph "The data derive from a three-phase clinical trial (). The purpose of phase 1 was to test the efficac" [ref_354]
+      link "Figure 1" [ref_355] href="#F1"
+      doc-biblioref "5" [ref_356] href="#core-collateral-B5"
+     button "Open FIGURE 1 in Viewer" [ref_357]
+      generic "Open in Viewer" [ref_358]
+     generic ". Study design for a randomized double-blind crossover clinical trial of subanesthetic ketamine for " [ref_359]
+      generic "FIGURE 1" [ref_360]
+     doc-footnote "Antidepressant response to ketamine was defined as a ≥50% improvement in Montgomery-Åsberg Depressio" [ref_361]
+    region [ref_362]
+     heading "Randomization and Blinding" [ref_363]
+     paragraph "In phase 1, participants were randomly assigned, in a 1:1 ratio, to receive midazolam or ketamine fi" [ref_364]
+    region [ref_365]
+     heading "Drug Administration" [ref_366]
+     paragraph "Ketamine hydrochloride was administered at a dose of 0.5 mg/kg, diluted in 0.9% saline, over a 40-mi" [ref_367]
+      doc-biblioref "22" [ref_368] href="#core-collateral-B22"
+      doc-biblioref "23" [ref_369] href="#core-collateral-B23"
+    region [ref_370]
+     heading "Outcome and Measures" [ref_371]
+     paragraph "Measures included the 10-item clinician-administered MADRS and the 16-item patient-administered Quic" [ref_372]
+      doc-biblioref "24" [ref_373] href="#core-collateral-B24"
+     paragraph "The safety and tolerability of ketamine were assessed at regular intervals. General adverse events w" [ref_374]
+      doc-biblioref "25" [ref_375] href="#core-collateral-B25"
+      doc-biblioref "26" [ref_376] href="#core-collateral-B26"
+    region [ref_377]
+     heading "Statistical Analysis" [ref_378]
+     paragraph "The baseline characteristics of responders and nonresponders were compared with independent-samples " [ref_379]
+   region [ref_380]
+    heading "Results" [ref_381]
+    region [ref_382]
+     heading "Participants" [ref_383]
+     paragraph "Sixty-three individuals were prescreened for eligibility through consultation with a study physician" [ref_384]
+      link "online supplement" [ref_385] href="http://ajp.psychiatryonline.org.ezproxy.lib.ucalgary.ca/doi/suppl/10.1176/appi.ajp.2018.18070834/suppl_file/appi.ajp.2018.18070834.ds001.pdf"
+      link "Table 1" [ref_386] href="#T1"
+     button "Open TABLE 1 in Viewer" [ref_387]
+      generic "Open in Viewer" [ref_388]
+     generic ". Baseline demographic and clinical characteristics of patients with treatment-resistant depression " [ref_389]
+      generic "TABLE 1" [ref_390]
+     generic [ref_391]
+      table [ref_392]
+       generic "Characteristic" [ref_393]
+       generic "Total Sample (N=43)" [ref_394]
+        doc-noteref [ref_395] href="#t1n1"
+       generic "Responders (N=23)" [ref_396]
+        doc-noteref [ref_397] href="#t1n2"
+       generic "Nonresponders (N=16)" [ref_398]
+       generic "Mean" [ref_399]
+       generic "Mean" [ref_400]
+       generic "Mean" [ref_401]
+       generic "Age (years)" [ref_402]
+       generic "41.7" [ref_403]
+       generic "12.3" [ref_404]
+       generic "42.0" [ref_405]
+       generic "12.0" [ref_406]
+       generic "39.9" [ref_407]
+       generic "13.4" [ref_408]
+       generic "Body mass index" [ref_409]
+       generic "26.6" [ref_410]
+       generic "4.6" [ref_411]
+       generic "26.1" [ref_412]
+       generic "4.4" [ref_413]
+       generic "27.0" [ref_414]
+       generic "4.5" [ref_415]
+       generic "Duration of current episode (years)" [ref_416]
+        doc-noteref [ref_417] href="#t1n3"
+       generic "5.7" [ref_418]
+       generic "5.9" [ref_419]
+       generic "4.0" [ref_420]
+       generic "3.2" [ref_421]
+       generic "8.1" [ref_422]
+       generic "7.9" [ref_423]
+       generic "Failed antidepressant trials" [ref_424]
+        doc-noteref [ref_425] href="#t1n4"
+       generic "3.3" [ref_426]
+       generic "1.6" [ref_427]
+       generic "3.0" [ref_428]
+       generic "1.5" [ref_429]
+       generic "3.6" [ref_430]
+       generic "1.8" [ref_431]
+       generic "Failed augmentations" [ref_432]
+        doc-noteref [ref_433] href="#t1n4"
+       generic "2.9" [ref_434]
+       generic "1.3" [ref_435]
+       generic "2.6" [ref_436]
+       generic "0.8" [ref_437]
+       generic "3.3" [ref_438]
+       generic "1.5" [ref_439]
+       generic "MADRS total score" [ref_440]
+       generic "34.7" [ref_441]
+       generic "4.2" [ref_442]
+       generic "34.9" [ref_443]
+       generic "3.2" [ref_444]
+       generic "34.9" [ref_445]
+       generic "5.0" [ref_446]
+       generic "Female" [ref_447]
+       generic "Major depressive episodes" [ref_448]
+       generic "Single" [ref_449]
+       generic "Recurrent" [ref_450]
+       generic "Lifetime history of suicide attempt" [ref_451]
+       generic "ECT nonresponse in current episode" [ref_452]
+       generic "Current comorbid diagnosis" [ref_453]
+        doc-noteref [ref_454] href="#t1n5"
+       generic "Panic disorder" [ref_455]
+       generic "Agoraphobia" [ref_456]
+       generic "Social phobia" [ref_457]
+       generic "Obsessive-compulsive disorder" [ref_458]
+       generic "Alcohol dependence" [ref_459]
+       generic "Bulimia nervosa" [ref_460]
+       generic "Generalized anxiety disorder" [ref_461]
+     button [ref_462]
+      generic "Expand Table" [ref_463]
+     doc-footnote [ref_464]
+      paragraph "Data are based on the intent-to-treat sample." [ref_465]
+     doc-footnote [ref_466]
+      paragraph "Responders met antidepressant response criteria (≥50% improvement in Montgomery-Åsberg Depression Ra" [ref_467]
+     doc-footnote [ref_468]
+      paragraph "The duration of the current episode was significantly longer in nonresponders (t=2.26, df=37, p=0.03" [ref_469]
+     doc-footnote [ref_470]
+      paragraph "Data represent the number of failed antidepressant trials and augmentations during the current episo" [ref_471]
+     doc-footnote [ref_472]
+      paragraph "Assessed with the Mini-International Neuropsychiatric Interview." [ref_473]
+    region [ref_474]
+     heading "Single Ketamine Infusion" [ref_475]
+     paragraph "Forty-one participants completed the randomized double-blind crossover comparison of single infusion" [ref_476]
+      link "Figure 2A" [ref_477] href="#F2"
+     button "Open FIGURE 2 in Viewer" [ref_478]
+      generic "Open in Viewer" [ref_479]
+     generic ". Change in depression severity over time in patients with treatment-resistant depression treated wi" [ref_480]
+      generic "FIGURE 2" [ref_481]
+     doc-footnote "The primary outcome measure was change in Montgomery-Åsberg Depression Rating Scale (MADRS) total sc" [ref_482]
+     paragraph "Examination of the model covariates revealed significant main effects for baseline MADRS total score" [ref_483]
+     paragraph "Twenty-four hours after the single ketamine infusion, 11 participants (27%) met antidepressant respo" [ref_484]
+      link "Figure 2B" [ref_485] href="#F2"
+      link "Figure 2C" [ref_486] href="#F2"
+    region [ref_487]
+     heading "Repeated Ketamine Infusions" [ref_488]
+     paragraph "The primary outcome for phase 2 was change in MADRS scores over the course of six repeated infusions" [ref_489]
+      link "Figure 3A" [ref_490] href="#F3"
+     button "Open FIGURE 3 in Viewer" [ref_491]
+      generic "Open in Viewer" [ref_492]
+     generic ". Change in depression severity over time in patients with treatment-resistant depression treated wi" [ref_493]
+      generic "FIGURE 3" [ref_494]
+     doc-footnote "As shown in panel A, with repeated ketamine infusions, participants had a significant cumulative dec" [ref_495]
+     paragraph "Of the 41 participants treated in phase 2, 39 completed the full course of infusions. At the post–ph" [ref_496]
+      link "Figure 3B" [ref_497] href="#F3"
+      link "Figure 3C" [ref_498] href="#F3"
+    region [ref_499]
+     heading "Maintenance Infusions" [ref_500]
+     paragraph "Participants who had at least a 50% improvement in MADRS scores after repeated infusions (N=23) cont" [ref_501]
+      link "Figure 4" [ref_502] href="#F4"
+     button "Open FIGURE 4 in Viewer" [ref_503]
+      generic "Open in Viewer" [ref_504]
+     generic ". Change in depression severity over time in ketamine responders treated with weekly subanesthetic m" [ref_505]
+      generic "FIGURE 4" [ref_506]
+     doc-footnote "With once-weekly maintenance ketamine infusions, participants had no significant change in depressio" [ref_507]
+    region [ref_508]
+     heading "Self-Reported Depression Severity" [ref_509]
+     paragraph "Linear mixed models were used to evaluate participants’ self-reported change in depression severity " [ref_510]
+      link "online supplement" [ref_511] href="http://ajp.psychiatryonline.org.ezproxy.lib.ucalgary.ca/doi/suppl/10.1176/appi.ajp.2018.18070834/suppl_file/appi.ajp.2018.18070834.ds001.pdf"
+      link "online supplement" [ref_512] href="http://ajp.psychiatryonline.org.ezproxy.lib.ucalgary.ca/doi/suppl/10.1176/appi.ajp.2018.18070834/suppl_file/appi.ajp.2018.18070834.ds001.pdf"
+      link "online supplement" [ref_513] href="http://ajp.psychiatryonline.org.ezproxy.lib.ucalgary.ca/doi/suppl/10.1176/appi.ajp.2018.18070834/suppl_file/appi.ajp.2018.18070834.ds001.pdf"
+    region [ref_514]
+     heading "Safety Outcomes" [ref_515]
+     paragraph "No serious adverse events were reported during the trial. The most common side effects associated wi" [ref_516]
+     paragraph "The dissociative effects of ketamine were formally assessed in a subgroup of study participants (N=2" [ref_517]
+      link "online supplement" [ref_518] href="http://ajp.psychiatryonline.org.ezproxy.lib.ucalgary.ca/doi/suppl/10.1176/appi.ajp.2018.18070834/suppl_file/appi.ajp.2018.18070834.ds001.pdf"
+     paragraph "Although drug craving was not formally assessed during the study, there were no spontaneous reports " [ref_519]
+   region [ref_520]
+    heading "Discussion" [ref_521]
+    paragraph "The results of this clinical trial confirm that subanesthetic ketamine infusions can provide safe an" [ref_522]
+    paragraph "Consistent with previous studies, the single ketamine infusion had maximal antidepressant effects at" [ref_523]
+     doc-biblioref "4" [ref_524] href="#core-collateral-B4"
+     doc-biblioref "6" [ref_525] href="#core-collateral-B6"
+     doc-biblioref "8" [ref_526] href="#core-collateral-B8"
+     doc-biblioref "10" [ref_527] href="#core-collateral-B10"
+     doc-biblioref "5" [ref_528] href="#core-collateral-B5"
+     doc-biblioref "7" [ref_529] href="#core-collateral-B7"
+     doc-biblioref "7" [ref_530] href="#core-collateral-B7"
+     doc-biblioref "5" [ref_531] href="#core-collateral-B5"
+    paragraph "Because all participants had a relapse of depressive symptoms before entering the repeated administr" [ref_532]
+     doc-biblioref "27" [ref_533] href="#core-collateral-B27"
+    paragraph "Overall, more than half of the study participants met response criteria, and almost a quarter achiev" [ref_534]
+     doc-biblioref "16" [ref_535] href="#core-collateral-B16"
+    paragraph "The goal of the final phase of the trial was to test, in all 23 ketamine responders (the largest gro" [ref_536]
+    paragraph "Although there was no formal follow-up of study participants after the completion of phase 3, 10 stu" [ref_537]
+     doc-biblioref "13" [ref_538] href="#core-collateral-B13"
+    paragraph "Overall, ketamine infusions were safe and well tolerated by study participants, with only transient " [ref_539]
+     doc-biblioref "28" [ref_540] href="#core-collateral-B28"
+     doc-biblioref "29" [ref_541] href="#core-collateral-B29"
+    paragraph "Despite the strengths of this study, it has several limitations. These include the absence of dissoc" [ref_542]
+    paragraph "A recently published consensus statement recommended the use of ketamine in treatment-resistant depr" [ref_543]
+     doc-biblioref "2" [ref_544] href="#core-collateral-B2"
+   doc-acknowledgments [ref_545]
+    heading "Acknowledgments" [ref_546]
+    paragraph "The authors thank Wendy Fusee, Holly English, Maria da Silva, Sara de la Salle, Elizabeth Kamler, Ha" [ref_547]
+  region [ref_548]
+   region [ref_549]
+    heading "Footnote" [ref_550]
+    doc-footnote [ref_551]
+     paragraph "identifier: NCT01945047." [ref_552]
+      link "ClinicalTrials.gov" [ref_553] href="https://ClinicalTrials.gov"
+   region [ref_554]
+    heading "Supplementary Material" [ref_555]
+    list [ref_556]
+     listitem [ref_557]
+      generic "File" [ref_558]
+      generic "(appi.ajp.2018.18070834.ds001.pdf)" [ref_559]
+      list [ref_560]
+       listitem [ref_561]
+        link "View/Download" [ref_562] href="/doi/suppl/10.1176/appi.ajp.2018.18070834/suppl_file/appi.ajp.2018.18070834.ds001.pdf"
+       listitem "116.32 KB" [ref_563]
+   doc-bibliography [ref_564]
+    heading "References" [ref_565]
+    list [ref_566]
+     listitem [ref_567]
+      generic "World Health Organization: . Geneva, World Health Organization, 2016" [ref_568]
+       generic "Global Health Estimates 2015: Burden of Disease by Cause, Age, Sex, by Country and by Region, 2000–2" [ref_569]
+      link [ref_570] href="#core-B1-1"
+       generic "Go to Citation" [ref_571]
+      link "Google Scholar" [ref_572] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Global+Health+Estimates+2015%3A+Burden+of+Disease+by+Cause%2C+Age%2C+Sex%2C+by+Country+and+by+Region%2C+2000%E2%80%932015&author=World+Health+Organization&publication_year=2016"
+     listitem [ref_573]
+      generic "Sanacora G, Frye MA, McDonald W, et al: A consensus statement on the use of ketamine in the treatmen" [ref_574]
+       generic "JAMA Psychiatry" [ref_575]
+      button "Toggle citations menu" [ref_576]
+      link "Crossref" [ref_577] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/jamapsychiatry.2017.0080"
+      link "PubMed" [ref_578] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/28249076/"
+      link "Google Scholar" [ref_579] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+consensus+statement+on+the+use+of+ketamine+in+the+treatment+of+mood+disorders&author=G+Sanacora&author=MA+Frye&author=W+McDonald&publication_year=2017&journal=JAMA+Psychiatry&pages=399-405&doi=10.1001%2Fjamapsychiatry.2017.0080&pmid=28249076"
+      menu "Citations links" [ref_580]
+       none [ref_581]
+        none [ref_582]
+         menuitem [ref_583] href="#core-B2-1"
+          generic "a [...] with unipolar and bipolar depression" [ref_584]
+        none [ref_585]
+         menuitem [ref_586] href="#core-B2-2"
+          generic "b [...] adequate psychiatric follow-up is available" [ref_587]
+     listitem [ref_588]
+      generic "Newport DJ, Carpenter LL, McDonald WM, et al: Ketamine and other NMDA antagonists: early clinical tr" [ref_589]
+       generic "Am J Psychiatry" [ref_590]
+      link [ref_591] href="#core-B3-1"
+       generic "Go to Citation" [ref_592]
+      link "Crossref" [ref_593] href="/servlet/linkout?suffix=e_1_3_3_4_2&dbid=4&doi=10.1176%2Fappi.ajp.2018.18070834&key=10.1176%2Fappi.ajp.2015.15040465&site=app-site"
+      link "PubMed" [ref_594] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/26423481/"
+      link "Google Scholar" [ref_595] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Ketamine+and+other+NMDA+antagonists%3A+early+clinical+trials+and+possible+mechanisms+in+depression&author=DJ+Newport&author=LL+Carpenter&author=WM+McDonald&publication_year=2015&journal=Am+J+Psychiatry&pages=950-966&doi=10.1176%2Fappi.ajp.2015.15040465&pmid=26423481"
+     listitem [ref_596]
+      generic "Berman RM, Cappiello A, Anand A, et al: Antidepressant effects of ketamine in depressed patients. 2." [ref_597]
+       generic "Biol Psychiatry" [ref_598]
+      button "Toggle citations menu" [ref_599]
+      link "Crossref" [ref_600] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/S0006-3223(99)00230-9"
+      link "PubMed" [ref_601] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/10686270/"
+      link "Google Scholar" [ref_602] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Antidepressant+effects+of+ketamine+in+depressed+patients&author=RM+Berman&author=A+Cappiello&author=A+Anand&publication_year=2000&journal=Biol+Psychiatry&pages=351-354&doi=10.1016%2FS0006-3223%2899%2900230-9&pmid=10686270"
+      menu "Citations links" [ref_603]
+       none [ref_604]
+        none [ref_605]
+         menuitem [ref_606] href="#core-B4-1"
+          generic "a [...] symptoms when administered as monotherapy" [ref_607]
+        none [ref_608]
+         menuitem [ref_609] href="#core-B4-2"
+          generic "b [...] infusions of ketamine compared with saline" [ref_610]
+     listitem [ref_611]
+      generic "Murrough JW, Iosifescu DV, Chang LC, et al: Antidepressant efficacy of ketamine in treatment-resista" [ref_612]
+       generic "Am J Psychiatry" [ref_613]
+      button "Toggle citations menu" [ref_614]
+      link "Crossref" [ref_615] href="/servlet/linkout?suffix=e_1_3_3_6_2&dbid=4&doi=10.1176%2Fappi.ajp.2018.18070834&key=10.1176%2Fappi.ajp.2013.13030392&site=app-site"
+      link "PubMed" [ref_616] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/23982301/"
+      link "Google Scholar" [ref_617] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Antidepressant+efficacy+of+ketamine+in+treatment-resistant+major+depression%3A+a+two-site+randomized+controlled+trial&author=JW+Murrough&author=DV+Iosifescu&author=LC+Chang&publication_year=2013&journal=Am+J+Psychiatry&pages=1134-1142&doi=10.1176%2Fappi.ajp.2013.13030392&pmid=23982301"
+      menu "Citations links" [ref_618]
+       none [ref_619]
+        none [ref_620]
+         menuitem [ref_621] href="#core-B5-1"
+          generic "a [...] as an active placebo control for ketamine)" [ref_622]
+        none [ref_623]
+         menuitem [ref_624] href="#core-B5-2"
+          generic "b [...] ) and midazolam" [ref_625]
+        none [ref_626]
+         menuitem [ref_627] href="#core-B5-3"
+          generic "c [...] ) to 28%" [ref_628]
+     listitem [ref_629]
+      generic "Zarate CA Jr, Singh JB, Carlson PJ, et al: A randomized trial of an N-methyl--aspartate antagonist i" [ref_630]
+       generic "Arch Gen Psychiatry" [ref_631]
+      link [ref_632] href="#core-B6-1"
+       generic "Go to Citation" [ref_633]
+      link "Crossref" [ref_634] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archpsyc.63.8.856"
+      link "PubMed" [ref_635] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/16894061/"
+      link "Google Scholar" [ref_636] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+randomized+trial+of+an+N-methyl-d-aspartate+antagonist+in+treatment-resistant+major+depression&author=CA+Zarate&author=JB+Singh&author=PJ+Carlson&publication_year=2006&journal=Arch+Gen+Psychiatry&pages=856-864&doi=10.1001%2Farchpsyc.63.8.856&pmid=16894061"
+     listitem [ref_637]
+      generic "Fava M, Freeman MP, Flynn M, et al: Double-blind, placebo-controlled, dose-ranging trial of intraven" [ref_638]
+       generic "Mol Psychiatry" [ref_639]
+      button "Toggle citations menu" [ref_640]
+      link "Google Scholar" [ref_641] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Double-blind%2C+placebo-controlled%2C+dose-ranging+trial+of+intravenous+ketamine+as+adjunctive+therapy+in+treatment-resistant+depression+%28TRD%29&author=M+Fava&author=MP+Freeman&author=M+Flynn&journal=Mol+Psychiatry"
+      menu "Citations links" [ref_642]
+       none [ref_643]
+        none [ref_644]
+         menuitem [ref_645] href="#core-B7-1"
+          generic "a [...] symptoms when administered as monotherapy" [ref_646]
+        none [ref_647]
+         menuitem [ref_648] href="#core-B7-2"
+          generic "b [...] ) and midazolam" [ref_649]
+        none [ref_650]
+         menuitem [ref_651] href="#core-B7-3"
+          generic "c [...] rates with midazolam, ranging from 11%" [ref_652]
+     listitem [ref_653]
+      generic "Diazgranados N, Ibrahim L, Brutsche NE, et al: A randomized add-on trial of an N-methyl--aspartate a" [ref_654]
+       generic "Arch Gen Psychiatry" [ref_655]
+      button "Toggle citations menu" [ref_656]
+      link "Crossref" [ref_657] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archgenpsychiatry.2010.90"
+      link "PubMed" [ref_658] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/20679587/"
+      link "Google Scholar" [ref_659] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+randomized+add-on+trial+of+an+N-methyl-d-aspartate+antagonist+in+treatment-resistant+bipolar+depression&author=N+Diazgranados&author=L+Ibrahim&author=NE+Brutsche&publication_year=2010&journal=Arch+Gen+Psychiatry&pages=793-802&doi=10.1001%2Farchgenpsychiatry.2010.90&pmid=20679587"
+      menu "Citations links" [ref_660]
+       none [ref_661]
+        none [ref_662]
+         menuitem [ref_663] href="#core-B8-1"
+          generic "a [...] ) and as an adjunctive medication" [ref_664]
+        none [ref_665]
+         menuitem [ref_666] href="#core-B8-2"
+          generic "b [...] infusions of ketamine compared with saline" [ref_667]
+     listitem [ref_668]
+      generic "Sos P, Klirova M, Novak T, et al: Relationship of ketamine’s antidepressant and psychotomimetic effe" [ref_669]
+       generic "Neuroendocrinol Lett" [ref_670]
+      link "PubMed" [ref_671] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/23803871/"
+      link "Google Scholar" [ref_672] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Relationship+of+ketamine%E2%80%99s+antidepressant+and+psychotomimetic+effects+in+unipolar+depression&author=P+Sos&author=M+Klirova&author=T+Novak&publication_year=2013&journal=Neuroendocrinol+Lett&pages=287-293&pmid=23803871"
+     listitem [ref_673]
+      generic "10." [ref_674]
+      generic "Zarate CA Jr, Brutsche NE, Ibrahim L, et al: Replication of ketamine’s antidepressant efficacy in bi" [ref_675]
+       generic "Biol Psychiatry" [ref_676]
+      button "Toggle citations menu" [ref_677]
+      link "Crossref" [ref_678] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.biopsych.2011.12.010"
+      link "PubMed" [ref_679] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/22297150/"
+      link "Google Scholar" [ref_680] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Replication+of+ketamine%E2%80%99s+antidepressant+efficacy+in+bipolar+depression%3A+a+randomized+controlled+add-on+trial&author=CA+Zarate&author=NE+Brutsche&author=L+Ibrahim&publication_year=2012&journal=Biol+Psychiatry&pages=939-946&doi=10.1016%2Fj.biopsych.2011.12.010&pmid=22297150"
+      menu "Citations links" [ref_681]
+       none [ref_682]
+        none [ref_683]
+         menuitem [ref_684] href="#core-B10-1"
+          generic "a [...] ) and as an adjunctive medication" [ref_685]
+        none [ref_686]
+         menuitem [ref_687] href="#core-B10-2"
+          generic "b [...] infusions of ketamine compared with saline" [ref_688]
+     listitem [ref_689]
+      generic "11." [ref_690]
+      generic "Cusin C, Ionescu DF, Pavone KJ, et al: Ketamine augmentation for outpatients with treatment-resistan" [ref_691]
+       generic "Aust N Z J Psychiatry" [ref_692]
+      link [ref_693] href="#core-B11-1"
+       generic "Go to Citation" [ref_694]
+      link "Crossref" [ref_695] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1177/0004867416631828"
+      link "PubMed" [ref_696] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/26893373/"
+      link "Google Scholar" [ref_697] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Ketamine+augmentation+for+outpatients+with+treatment-resistant+depression%3A+preliminary+evidence+for+two-step+intravenous+dose+escalation&author=C+Cusin&author=DF+Ionescu&author=KJ+Pavone&publication_year=2017&journal=Aust+N+Z+J+Psychiatry&pages=55-64&doi=10.1177%2F0004867416631828&pmid=26893373"
+     listitem [ref_698]
+      generic "12." [ref_699]
+      generic "Singh JB, Fedgchin M, Daly EJ, et al: A double-blind, randomized, placebo-controlled, dose-frequency" [ref_700]
+       generic "Am J Psychiatry" [ref_701]
+      link "Crossref" [ref_702] href="/servlet/linkout?suffix=e_1_3_3_13_2&dbid=4&doi=10.1176%2Fappi.ajp.2018.18070834&key=10.1176%2Fappi.ajp.2016.16010037&site=app-site"
+      link "PubMed" [ref_703] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/27056608/"
+      link "Google Scholar" [ref_704] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+double-blind%2C+randomized%2C+placebo-controlled%2C+dose-frequency+study+of+intravenous+ketamine+in+patients+with+treatment-resistant+depression&author=JB+Singh&author=M+Fedgchin&author=EJ+Daly&publication_year=2016&journal=Am+J+Psychiatry&pages=816-826&doi=10.1176%2Fappi.ajp.2016.16010037&pmid=27056608"
+     listitem [ref_705]
+      generic "13." [ref_706]
+      generic "Wilkinson ST, Katz RB, Toprak M, et al: Acute and longer-term outcomes using ketamine as a clinical " [ref_707]
+       generic "J Clin Psychiatry" [ref_708]
+      button "Toggle citations menu" [ref_709]
+      link "Crossref" [ref_710] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.4088/JCP.17m11731"
+      link "Google Scholar" [ref_711] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Acute+and+longer-term+outcomes+using+ketamine+as+a+clinical+treatment+at+the+Yale+Psychiatric+Hospital&author=ST+Wilkinson&author=RB+Katz&author=M+Toprak&publication_year=2018&journal=J+Clin+Psychiatry&pages=e1-e7&doi=10.4088%2FJCP.17m11731"
+      menu "Citations links" [ref_712]
+       none [ref_713]
+        none [ref_714]
+         menuitem [ref_715] href="#core-B13-1"
+          generic "a [...] can sustain the effects. Both twice-weekly" [ref_716]
+        none [ref_717]
+         menuitem [ref_718] href="#core-B13-2"
+          generic "b [...] maintenance infusions. Wilkinson et al." [ref_719]
+     listitem [ref_720]
+      generic "14." [ref_721]
+      generic "Murrough JW, Perez AM, Pillemer S, et al: Rapid and longer-term antidepressant effects of repeated k" [ref_722]
+       generic "Biol Psychiatry" [ref_723]
+      button "Toggle citations menu" [ref_724]
+      link "Crossref" [ref_725] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.biopsych.2012.06.022"
+      link "PubMed" [ref_726] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/22840761/"
+      link "Google Scholar" [ref_727] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Rapid+and+longer-term+antidepressant+effects+of+repeated+ketamine+infusions+in+treatment-resistant+major+depression&author=JW+Murrough&author=AM+Perez&author=S+Pillemer&publication_year=2013&journal=Biol+Psychiatry&pages=250-256&doi=10.1016%2Fj.biopsych.2012.06.022&pmid=22840761"
+      menu "Citations links" [ref_728]
+       none [ref_729]
+        none [ref_730]
+         menuitem [ref_731] href="#core-B14-1"
+          generic "a [...] ) and thrice-weekly" [ref_732]
+        none [ref_733]
+         menuitem [ref_734] href="#core-B14-2"
+          generic "b [...] (on average, 18–19 days postinfusion)" [ref_735]
+     listitem [ref_736]
+      generic "15." [ref_737]
+      generic "aan het Rot M, Collins KA, Murrough JW, et al: Safety and efficacy of repeated-dose intravenous keta" [ref_738]
+       generic "Biol Psychiatry" [ref_739]
+      link [ref_740] href="#core-B15-1"
+       generic "Go to Citation" [ref_741]
+      link "Crossref" [ref_742] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.biopsych.2009.08.038"
+      link "PubMed" [ref_743] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/19897179/"
+      link "Google Scholar" [ref_744] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Safety+and+efficacy+of+repeated-dose+intravenous+ketamine+for+treatment-resistant+depression&author=M+aan+het+Rot&author=KA+Collins&author=JW+Murrough&publication_year=2010&journal=Biol+Psychiatry&pages=139-145&doi=10.1016%2Fj.biopsych.2009.08.038&pmid=19897179"
+     listitem [ref_745]
+      generic "16." [ref_746]
+      generic "Shiroma PR, Johns B, Kuskowski M, et al: Augmentation of response and remission to serial intravenou" [ref_747]
+       generic "J Affect Disord" [ref_748]
+      link [ref_749] href="#core-B16-1"
+       generic "Go to Citation" [ref_750]
+      link "Crossref" [ref_751] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2013.10.036"
+      link "PubMed" [ref_752] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/24268616/"
+      link "Google Scholar" [ref_753] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Augmentation+of+response+and+remission+to+serial+intravenous+subanesthetic+ketamine+in+treatment+resistant+depression&author=PR+Shiroma&author=B+Johns&author=M+Kuskowski&publication_year=2014&journal=J+Affect+Disord&pages=123-129&doi=10.1016%2Fj.jad.2013.10.036&pmid=24268616"
+     listitem [ref_754]
+      generic "17." [ref_755]
+      generic "Vande Voort JL, Morgan RJ, Kung S, et al: Continuation phase intravenous ketamine in adults with tre" [ref_756]
+       generic "J Affect Disord" [ref_757]
+      link [ref_758] href="#core-B17-1"
+       generic "Go to Citation" [ref_759]
+      link "Crossref" [ref_760] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2016.09.008"
+      link "PubMed" [ref_761] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/27656788/"
+      link "Google Scholar" [ref_762] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Continuation+phase+intravenous+ketamine+in+adults+with+treatment-resistant+depression&author=JL+Vande+Voort&author=RJ+Morgan&author=S+Kung&publication_year=2016&journal=J+Affect+Disord&pages=300-304&doi=10.1016%2Fj.jad.2016.09.008&pmid=27656788"
+     listitem [ref_763]
+      generic "18." [ref_764]
+      generic "American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, 4th ed, tex" [ref_765]
+      button "Toggle citations menu" [ref_766]
+      link "Google Scholar" [ref_767] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar?q=American+Psychiatric+Association%3A+Diagnostic+and+Statistical+Manual+of+Mental+Disorders%2C+4th+ed%2C+text+revision+%28DSM-IV-TR%29.+Washington%2C+DC%2C+American+Psychiatric+Association%2C+2000"
+      menu "Citations links" [ref_768]
+       none [ref_769]
+        none [ref_770]
+         menuitem [ref_771] href="#core-B18-1"
+          generic "a [...] criteria for major depressive disorder" [ref_772]
+        none [ref_773]
+         menuitem [ref_774] href="#core-B18-2"
+          generic "b [...] dependence as defined by DSM-IV-TR criteria" [ref_775]
+     listitem [ref_776]
+      generic "19." [ref_777]
+      generic "Sheehan DV, Lecrubier Y, Sheehan KH, et al: The Mini-International Neuropsychiatric Interview (MINI)" [ref_778]
+       generic "J Clin Psychiatry" [ref_779]
+      link [ref_780] href="#core-B19-1"
+       generic "Go to Citation" [ref_781]
+      link "PubMed" [ref_782] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/9881538/"
+      link "Google Scholar" [ref_783] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The+Mini-International+Neuropsychiatric+Interview+%28MINI%29%3A+the+development+and+validation+of+a+structured+diagnostic+psychiatric+interview+for+DSM-IV+and+ICD-10&author=DV+Sheehan&author=Y+Lecrubier&author=KH+Sheehan&publication_year=1998&journal=J+Clin+Psychiatry&pages=22-33&pmid=9881538"
+     listitem [ref_784]
+      generic "20." [ref_785]
+      generic "Sackeim HA: The definition and meaning of treatment-resistant depression. 2001; 62(suppl 16):10–17" [ref_786]
+       generic "J Clin Psychiatry" [ref_787]
+      link [ref_788] href="#core-B20-1"
+       generic "Go to Citation" [ref_789]
+      link "PubMed" [ref_790] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/11480879/"
+      link "Google Scholar" [ref_791] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The+definition+and+meaning+of+treatment-resistant+depression&author=HA+Sackeim&publication_year=2001&journal=J+Clin+Psychiatry&pages=10-17&pmid=11480879"
+     listitem [ref_792]
+      generic "21." [ref_793]
+      generic "Montgomery SA, Åsberg M: A new depression scale designed to be sensitive to change. 1979; 134:382–3." [ref_794]
+       generic "Br J Psychiatry" [ref_795]
+      link [ref_796] href="#core-B21-1"
+       generic "Go to Citation" [ref_797]
+      link "Crossref" [ref_798] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1192/bjp.134.4.382"
+      link "PubMed" [ref_799] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/444788/"
+      link "Google Scholar" [ref_800] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+new+depression+scale+designed+to+be+sensitive+to+change&author=SA+Montgomery&author=M+%C3%85sberg&publication_year=1979&journal=Br+J+Psychiatry&pages=382-389&doi=10.1192%2Fbjp.134.4.382&pmid=444788"
+     listitem [ref_801]
+      generic "22." [ref_802]
+      generic "Peltoniemi MA, Saari TI, Hagelberg NM, et al: S-ketamine concentrations are greatly increased by gra" [ref_803]
+       generic "Eur J Clin Pharmacol" [ref_804]
+      link [ref_805] href="#core-B22-1"
+       generic "Go to Citation" [ref_806]
+      link "Crossref" [ref_807] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1007/s00228-012-1214-9"
+      link "PubMed" [ref_808] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/22286159/"
+      link "Google Scholar" [ref_809] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=S-ketamine+concentrations+are+greatly+increased+by+grapefruit+juice&author=MA+Peltoniemi&author=TI+Saari&author=NM+Hagelberg&publication_year=2012&journal=Eur+J+Clin+Pharmacol&pages=979-986&doi=10.1007%2Fs00228-012-1214-9&pmid=22286159"
+     listitem [ref_810]
+      generic "23." [ref_811]
+      generic "Frye MA, Blier P, Tye SJ: Concomitant benzodiazepine use attenuates ketamine response: implications " [ref_812]
+       generic "J Clin Psychopharmacol" [ref_813]
+      link [ref_814] href="#core-B23-1"
+       generic "Go to Citation" [ref_815]
+      link "Crossref" [ref_816] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1097/JCP.0000000000000316"
+      link "PubMed" [ref_817] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/25928701/"
+      link "Google Scholar" [ref_818] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Concomitant+benzodiazepine+use+attenuates+ketamine+response%3A+implications+for+large+scale+study+design+and+clinical+development&author=MA+Frye&author=P+Blier&author=SJ+Tye&publication_year=2015&journal=J+Clin+Psychopharmacol&pages=334-336&doi=10.1097%2FJCP.0000000000000316&pmid=25928701"
+     listitem [ref_819]
+      generic "24." [ref_820]
+      generic "Rush AJ, Trivedi MH, Ibrahim HM, et al: The 16-item Quick Inventory of Depressive Symptomatology (QI" [ref_821]
+       generic "Biol Psychiatry" [ref_822]
+      link [ref_823] href="#core-B24-1"
+       generic "Go to Citation" [ref_824]
+      link "Crossref" [ref_825] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/S0006-3223(02)01866-8"
+      link "PubMed" [ref_826] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/12946886/"
+      link "Google Scholar" [ref_827] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The+16-item+Quick+Inventory+of+Depressive+Symptomatology+%28QIDS%29%2C+clinician+rating+%28QIDS-C%29%2C+and+self-report+%28QIDS-SR%29%3A+a+psychometric+evaluation+in+patients+with+chronic+major+depression&author=AJ+Rush&author=MH+Trivedi&author=HM+Ibrahim&publication_year=2003&journal=Biol+Psychiatry&pages=573-583&doi=10.1016%2FS0006-3223%2802%2901866-8&pmid=12946886"
+     listitem [ref_828]
+      generic "25." [ref_829]
+      generic "Levine J, Schooler NR: SAFTEE: a technique for the systematic assessment of side effects in clinical" [ref_830]
+       generic "Psychopharmacol Bull" [ref_831]
+      link [ref_832] href="#core-B25-1"
+       generic "Go to Citation" [ref_833]
+      link "PubMed" [ref_834] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/3774930/"
+      link "Google Scholar" [ref_835] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=SAFTEE%3A+a+technique+for+the+systematic+assessment+of+side+effects+in+clinical+trials&author=J+Levine&author=NR+Schooler&publication_year=1986&journal=Psychopharmacol+Bull&pages=343-381&pmid=3774930"
+     listitem [ref_836]
+      generic "26." [ref_837]
+      generic "Bremner JD, Krystal JH, Putnam FW, et al: Measurement of dissociative states with the Clinician-Admi" [ref_838]
+       generic "J Trauma Stress" [ref_839]
+      link [ref_840] href="#core-B26-1"
+       generic "Go to Citation" [ref_841]
+      link "Crossref" [ref_842] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1023/A:1024465317902"
+      link "PubMed" [ref_843] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/9479681/"
+      link "Google Scholar" [ref_844] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Measurement+of+dissociative+states+with+the+Clinician-Administered+Dissociative+States+Scale+%28CADSS%29&author=JD+Bremner&author=JH+Krystal&author=FW+Putnam&publication_year=1998&journal=J+Trauma+Stress&pages=125-136&doi=10.1023%2FA%3A1024465317902&pmid=9479681"
+     listitem [ref_845]
+      generic "27." [ref_846]
+      generic "Post RM, Leverich GS: Loss of previous responsiveness to lithium following its discontinuation and s" [ref_847]
+       generic "Treatment of Bipolar Illness" [ref_848]
+      link [ref_849] href="#core-B27-1"
+       generic "Go to Citation" [ref_850]
+      link "Google Scholar" [ref_851] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Loss+of+previous+responsiveness+to+lithium+following+its+discontinuation+and+subsequent+episode+recurrence&author=RM+Post&author=GS+Leverich&publication_year=2008&pages=123-130"
+     listitem [ref_852]
+      generic "28." [ref_853]
+      generic "Luckenbaugh DA, Niciu MJ, Ionescu DF, et al: Do the dissociative side effects of ketamine mediate it" [ref_854]
+       generic "J Affect Disord" [ref_855]
+      link [ref_856] href="#core-B28-1"
+       generic "Go to Citation" [ref_857]
+      link "Crossref" [ref_858] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2014.02.017"
+      link "PubMed" [ref_859] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/24679390/"
+      link "Google Scholar" [ref_860] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Do+the+dissociative+side+effects+of+ketamine+mediate+its+antidepressant+effects%3F&author=DA+Luckenbaugh&author=MJ+Niciu&author=DF+Ionescu&publication_year=2014&journal=J+Affect+Disord&pages=56-61&doi=10.1016%2Fj.jad.2014.02.017&pmid=24679390"
+     listitem [ref_861]
+      generic "29." [ref_862]
+      generic "Niciu MJ, Shovestul BJ, Jaso BA, et al: Features of dissociation differentially predict antidepressa" [ref_863]
+       generic "J Affect Disord" [ref_864]
+      link [ref_865] href="#core-B29-1"
+       generic "Go to Citation" [ref_866]
+      link "Crossref" [ref_867] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2018.02.049"
+      link "PubMed" [ref_868] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/29501990/"
+      link "Google Scholar" [ref_869] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Features+of+dissociation+differentially+predict+antidepressant+response+to+ketamine+in+treatment-resistant+depression&author=MJ+Niciu&author=BJ+Shovestul&author=BA+Jaso&publication_year=2018&journal=J+Affect+Disord&pages=310-315&doi=10.1016%2Fj.jad.2018.02.049&pmid=29501990"
+    button "Show all references - 25 references remaining" [ref_870]
+  dialog [ref_871]
+   banner [ref_872]
+    heading "Information & Authors" [ref_873]
+    button "Close" [ref_874]
+   tablist [ref_875]
+    tab "Information" [ref_876]
+    tab "Authors" [ref_877]
+   tabpanel [ref_878]
+    heading "Information" [ref_879]
+    region [ref_880]
+     heading "Published In" [ref_881]
+     link "Go to American Journal of Psychiatry" [ref_882] href="/toc/ajp/176/5"
+      image "Go to American Journal of Psychiatry" [ref_883]
+     button [ref_884]
+      button "Close popup" [ref_885]
+     image "Go to American Journal of Psychiatry" [ref_886]
+     generic "American Journal of Psychiatry" [ref_887]
+     link "• •" [ref_888] href="/toc/ajp/176/5"
+      generic "Volume" [ref_889]
+       generic "176" [ref_890]
+      generic "Number" [ref_891]
+      generic "1 May 2019" [ref_892]
+     generic "Pages" [ref_893]
+     generic "401" [ref_894]
+     generic "409" [ref_895]
+     generic "PubMed" [ref_896]
+     link "Link to PubMed" [ref_897] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/30922101/"
+    region [ref_898]
+     heading "History" [ref_899]
+     generic ": 16 July 2018" [ref_900]
+      generic "Received" [ref_901]
+     generic ": 12 October 2018" [ref_902]
+      generic "Revision received" [ref_903]
+     generic ": 19 November 2018" [ref_904]
+      generic "Accepted" [ref_905]
+     generic ": 29 March 2019" [ref_906]
+      generic "Published online" [ref_907]
+     generic ": 1 May 2019" [ref_908]
+      generic "Published in print" [ref_909]
+    region [ref_910]
+     heading "Permissions" [ref_911]
+     generic "Request permissions for this article." [ref_912]
+     link [ref_913] href="https://marketplace.copyright.com/rs-ui-web/mp/search/all/10.1176%2Fappi.ajp.2018.18070834"
+      generic "Request permissions" [ref_914]
+    region [ref_915]
+     heading "Keywords" [ref_916]
+     list [ref_917]
+      listitem [ref_918]
+       link "Search on this keyword" [ref_919] href="/action/doSearch?AllField=Mood+Disorders-Unipolar&stemming=yes&publication=ajp"
+      listitem [ref_920]
+       link "Search on this keyword" [ref_921] href="/action/doSearch?AllField=Clinical+Drug+Studies&stemming=yes&publication=ajp"
+      listitem [ref_922]
+       link "Search on this keyword" [ref_923] href="/action/doSearch?AllField=Ketamine&stemming=yes&publication=ajp"
+      listitem [ref_924]
+       link "Search on this keyword" [ref_925] href="/action/doSearch?AllField=Treatment-Resistant+Depression&stemming=yes&publication=ajp"
+   tabpanel [ref_926]
+    heading "Authors" [ref_927]
+    region [ref_928]
+     heading "DetailsExpand All" [ref_929]
+      button [ref_930]
+       generic "Expand All" [ref_931]
+     button [ref_932]
+      heading "Jennifer L. Phillips, Ph.D. ennifer.Phillips@theroyal.ca" [ref_933]
+       generic "Jennifer L." [ref_934]
+       generic "Phillips" [ref_935]
+       generic "Ph.D." [ref_936]
+       link "Email address" [ref_937] href="mailto:ennifer.Phillips@theroyal.ca"
+     region [ref_938]
+      generic "From the Mood Disorders Research Unit, The Royal’s Institute of Mental Health Research, Ottawa (Phil" [ref_939]
+      link "View all articles by this author" [ref_940] href="/authored-by/Phillips/Jennifer+L"
+     button [ref_941]
+      heading "Sandhaya Norris, M.D." [ref_942]
+       generic "Sandhaya" [ref_943]
+       generic "Norris" [ref_944]
+       generic "M.D." [ref_945]
+     region [ref_946]
+      generic "From the Mood Disorders Research Unit, The Royal’s Institute of Mental Health Research, Ottawa (Phil" [ref_947]
+      link "View all articles by this author" [ref_948] href="/authored-by/Norris/Sandhaya"
+     button [ref_949]
+      heading "Jeanne Talbot, M.D., Ph.D." [ref_950]
+       generic "Jeanne" [ref_951]
+       generic "Talbot" [ref_952]
+       generic "M.D." [ref_953]
+       generic "Ph.D." [ref_954]
+     region [ref_955]
+      generic "From the Mood Disorders Research Unit, The Royal’s Institute of Mental Health Research, Ottawa (Phil" [ref_956]
+      link "View all articles by this author" [ref_957] href="/authored-by/Talbot/Jeanne"
+     button [ref_958]
+      heading "Meagan Birmingham, M.A., M.B.A." [ref_959]
+       generic "Meagan" [ref_960]
+       generic "Birmingham" [ref_961]
+       generic "M.A." [ref_962]
+       generic "M.B.A." [ref_963]
+     region [ref_964]
+      generic "From the Mood Disorders Research Unit, The Royal’s Institute of Mental Health Research, Ottawa (Phil" [ref_965]
+      link "View all articles by this author" [ref_966] href="/authored-by/Birmingham/Meagan"
+     button [ref_967]
+      heading "Taylor Hatchard, Ph.D." [ref_968]
+       generic "Taylor" [ref_969]
+       generic "Hatchard" [ref_970]
+       generic "Ph.D." [ref_971]
+     region [ref_972]
+      generic "From the Mood Disorders Research Unit, The Royal’s Institute of Mental Health Research, Ottawa (Phil" [ref_973]
+      link "View all articles by this author" [ref_974] href="/authored-by/Hatchard/Taylor"
+     button [ref_975]
+      heading "Abigail Ortiz, M.D." [ref_976]
+       generic "Abigail" [ref_977]
+       generic "Ortiz" [ref_978]
+       generic "M.D." [ref_979]
+     region [ref_980]
+      generic "From the Mood Disorders Research Unit, The Royal’s Institute of Mental Health Research, Ottawa (Phil" [ref_981]
+      link "View all articles by this author" [ref_982] href="/authored-by/Ortiz/Abigail"
+     button [ref_983]
+      heading "Olabisi Owoeye, M.D." [ref_984]
+       generic "Olabisi" [ref_985]
+       generic "Owoeye" [ref_986]
+       generic "M.D." [ref_987]
+     region [ref_988]
+      generic "From the Mood Disorders Research Unit, The Royal’s Institute of Mental Health Research, Ottawa (Phil" [ref_989]
+      link "View all articles by this author" [ref_990] href="/authored-by/Owoeye/Olabisi"
+     button [ref_991]
+      heading "Lisa A. Batten, Ph.D." [ref_992]
+       generic "Lisa A." [ref_993]
+       generic "Batten" [ref_994]
+       generic "Ph.D." [ref_995]
+     region [ref_996]
+      generic "From the Mood Disorders Research Unit, The Royal’s Institute of Mental Health Research, Ottawa (Phil" [ref_997]
+      link "View all articles by this author" [ref_998] href="/authored-by/Batten/Lisa+A"
+     button [ref_999]
+      heading "Pierre Blier, M.D., Ph.D." [ref_1000]
+       generic "Pierre" [ref_1001]
+       generic "Blier" [ref_1002]
+       generic "M.D." [ref_1003]
+       generic "Ph.D." [ref_1004]
+     region [ref_1005]
+      generic "From the Mood Disorders Research Unit, The Royal’s Institute of Mental Health Research, Ottawa (Phil" [ref_1006]
+      link "View all articles by this author" [ref_1007] href="/authored-by/Blier/Pierre"
+    region [ref_1008]
+     heading "Notes" [ref_1009]
+     doc-footnote [ref_1010]
+      paragraph "Presented in part at the International College of Neuropsychopharmacology Thematic Meeting, Prague, " [ref_1011]
+     doc-footnote "Send correspondence to Dr. Phillips ()." [ref_1012]
+      link "Jennifer.Phillips@theroyal.ca" [ref_1013] href="mailto:Jennifer.Phillips@theroyal.ca"
+    region [ref_1014]
+     heading "Competing Interests" [ref_1015]
+     paragraph "Dr. Blier has received research support or speakers honoraria from or served as a consultant to, All" [ref_1016]
+    region "Supported by the Canadian Institutes of Health Research (grant 274324 to Dr. Blier) and a Tier 1 Can" [ref_1017]
+     heading "Funding Information" [ref_1018]
+     paragraph "Canadian Institutes of Health Research: Operating Grant" [ref_1019]
+      generic "10.13039/501100000024" [ref_1020]
+   banner [ref_1021]
+    heading "Metrics & Citations" [ref_1022]
+    button "Close" [ref_1023]
+   tablist [ref_1024]
+    tab "Metrics" [ref_1025]
+    tab "Citations" [ref_1026]
+     generic "121" [ref_1027]
+   tabpanel [ref_1028]
+    heading "Metrics" [ref_1029]
+    region [ref_1030]
+     textbox [ref_1031] type="hidden"
+     generic "Article Metrics" [ref_1032]
+     list [ref_1033]
+      listitem [ref_1034]
+       button "Download" [ref_1035] href="#"
+        generic "Download" [ref_1036]
+      listitem [ref_1037]
+       button "Citation" [ref_1038] href="#"
+        generic "Citation" [ref_1039]
+     alert [ref_1040]
+      generic "No data available." [ref_1041]
+      generic "500" [ref_1042]
+      generic "1,000" [ref_1043]
+      generic "Jan 2020" [ref_1044]
+      generic "Jan 2021" [ref_1045]
+      generic "Jan 2022" [ref_1046]
+      generic "Jan 2023" [ref_1047]
+      generic "Jan 2024" [ref_1048]
+      generic "Jan 2025" [ref_1049]
+      generic "Jan 2026" [ref_1050]
+     generic "Total Download" [ref_1051]
+      generic "67,858" [ref_1052]
+     generic "Total Citation" [ref_1053]
+      generic "350" [ref_1054]
+     list [ref_1055]
+      listitem [ref_1056]
+       button [ref_1057] href="#"
+        generic "Total" [ref_1058]
+      listitem [ref_1059]
+       button [ref_1060] href="#"
+        generic "First 90 Days" [ref_1061]
+      listitem [ref_1062]
+       button [ref_1063] href="#"
+        generic "6 Months" [ref_1064]
+      listitem [ref_1065]
+       button [ref_1066] href="#"
+        generic "12 Months" [ref_1067]
+     generic "Total number of" [ref_1068]
+      generic "download and citation" [ref_1069]
+    region [ref_1070]
+     link [ref_1071] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998"
+      image "Article has an altmetric score of 475" [ref_1072]
+     link "See more details" [ref_1073] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998"
+     link "Picked up by news outlets" [ref_1074] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998&tab=news"
+     link "Blogged by" [ref_1075] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998&tab=blogs"
+     link "Referenced in policy sources" [ref_1076] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998&tab=policy-documents"
+     link "Posted by X users" [ref_1077] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998&tab=twitter"
+     link "Referenced in patents" [ref_1078] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998&tab=patents"
+     link "On Facebook pages" [ref_1079] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998&tab=facebook"
+     link "Referenced in Wikipedia pages" [ref_1080] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998&tab=wikipedia"
+     link "Reddited by" [ref_1081] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998&tab=reddit"
+     link "Referenced by Bluesky users" [ref_1082] href="https://www.altmetric.com/details.php?domain=psychiatryonline-org.ezproxy.lib.ucalgary.ca&citation_id=58043998&tab=bluesky"
+     generic "readers on Mendeley" [ref_1083]
+      generic "446" [ref_1084]
+   tabpanel [ref_1085]
+    heading "Citations" [ref_1086]
+    region [ref_1087]
+     heading "Export Citations" [ref_1088]
+     generic "Download article citation data for:" [ref_1089]
+     link "Single, Repeated, and Maintenance Ketamine Infusions for Treatment-Resistant Depression: A Randomize" [ref_1090] href="/doi/abs/10.1176/appi.ajp.2018.18070834"
+     generic "Ph.D." [ref_1091]
+      generic "Jennifer L.Phillips" [ref_1092]
+     generic "M.D." [ref_1093]
+      generic "SandhayaNorris" [ref_1094]
+     generic "M.D.Ph.D." [ref_1095]
+      generic "JeanneTalbot" [ref_1096]
+     generic "M.A.M.B.A." [ref_1097]
+      generic "MeaganBirmingham" [ref_1098]
+     generic "Ph.D." [ref_1099]
+      generic "TaylorHatchard" [ref_1100]
+     generic "M.D." [ref_1101]
+      generic "AbigailOrtiz" [ref_1102]
+     generic "M.D." [ref_1103]
+      generic "OlabisiOwoeye" [ref_1104]
+     generic "Ph.D." [ref_1105]
+      generic "Lisa A.Batten" [ref_1106]
+     generic "M.D.Ph.D." [ref_1107]
+      generic "PierreBlier" [ref_1108]
+     generic "If you have the appropriate software installed, you can download article citation data to the citati" [ref_1109]
+      link "Help menu" [ref_1110] href="/help?context=citationDownload"
+     form [ref_1111]
+      textbox "10.1176/appi.ajp.2018.18070834" [ref_1112] type="hidden"
+      textbox "app_ajp176_329" [ref_1113] type="hidden"
+      textbox "abs" [ref_1114] type="hidden"
+      label "Format" [ref_1115]
+      combobox "Please select one from the list" [ref_1116]
+       option "Please select one from the list" (selected)
+       option "RIS (ProCite, Reference Manager)" value="ris"
+       option "EndNote" value="endnote"
+       option "BibTex" value="bibtex"
+       option "Medlars" value="medlars"
+       option "RefWorks" value="refworks"
+       generic "Please select one from the list" [ref_1117]
+       generic "RIS (ProCite, Reference Manager)" [ref_1118]
+       generic "EndNote" [ref_1119]
+       generic "BibTex" [ref_1120]
+       generic "Medlars" [ref_1121]
+       generic "RefWorks" [ref_1122]
+      label "Direct import" [ref_1123]
+       checkbox "Direct import" [ref_1124] type="checkbox"
+      contentinfo [ref_1125]
+       button "Download" [ref_1126] type="submit"
+       link "Opens new window" [ref_1127] href="/help?context=citationManager"
+    region [ref_1128]
+     heading "Cited By" [ref_1129]
+     region [ref_1130]
+      list [ref_1131]
+       listitem [ref_1132]
+        list [ref_1133]
+         listitem "Raquel Kosted," [ref_1134]
+         listitem "Alli Waddell," [ref_1135]
+         listitem "Ken Adolph," [ref_1136]
+         listitem "Gregory A. Fonzo," [ref_1137]
+        generic "Age-related moderation of adjunctive psychotherapy and early life stress effects on depression sympt" [ref_1138]
+        generic "Journal of Affective Disorders," [ref_1139]
+        generic "402" [ref_1140]
+        generic "(121350)," [ref_1141]
+        generic "(2026)." [ref_1142]
+        link "Crossref" [ref_1143] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2026.121350"
+        link "Crossref" [ref_1144] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2026.121350"
+       listitem [ref_1145]
+        list [ref_1146]
+         listitem "Reinhard Janssen-Aguilar," [ref_1147]
+         listitem "Jithin Joseph," [ref_1148]
+         listitem "Huda Al-Shamali," [ref_1149]
+         listitem "Perry Menzies," [ref_1150]
+         listitem "Katharine Dunlop," [ref_1151]
+         listitem "Manish Jha," [ref_1152]
+         listitem "Qiaowei Lin," [ref_1153]
+         listitem "Wendy Lou," [ref_1154]
+         listitem "Fathima Adamsahib," [ref_1155]
+         listitem "Benoit Mulsant," [ref_1156]
+         listitem "Victor M. Tang," [ref_1157]
+         listitem "Daphne Voineskos," [ref_1158]
+         listitem "Daniel M. Blumberger," [ref_1159]
+         listitem "Tyler S. Kaster," [ref_1160]
+         listitem "Venkat Bhat," [ref_1161]
+        generic "Symptom trajectories and clinical outcomes of intravenous ketamine in treatment-resistant depression" [ref_1162]
+        generic "Journal of Affective Disorders," [ref_1163]
+        generic "400" [ref_1164]
+        generic "(121230)," [ref_1165]
+        generic "(2026)." [ref_1166]
+        link "Crossref" [ref_1167] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2026.121230"
+        link "Crossref" [ref_1168] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2026.121230"
+       listitem [ref_1169]
+        list [ref_1170]
+         listitem "Gia Han Le," [ref_1171]
+         listitem "Sabrina Wong," [ref_1172]
+         listitem "Danica E. Johnson," [ref_1173]
+         listitem "Andy Lu," [ref_1174]
+         listitem "Diana Orsini," [ref_1175]
+         listitem "Noah Chisamore," [ref_1176]
+         listitem "Sara Di Luch," [ref_1177]
+         listitem "Joshua D. Rosenblat," [ref_1178]
+         listitem "Roger S. McIntyre," [ref_1179]
+        generic "A systematic review of ketamine and esketamine-induced long-term potentiation and synaptic scaling: " [ref_1180]
+        generic "Journal of Affective Disorders," [ref_1181]
+        generic "399" [ref_1182]
+        generic "(121081)," [ref_1183]
+        generic "(2026)." [ref_1184]
+        link "Crossref" [ref_1185] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2025.121081"
+        link "Crossref" [ref_1186] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2025.121081"
+       listitem [ref_1187]
+        list [ref_1188]
+         listitem "Mizuki Yamamoto," [ref_1189]
+         listitem "Haruka Hirakata," [ref_1190]
+         listitem "Koji Toda," [ref_1191]
+        generic "Neural signaling mechanisms in depression: bridging classical monoamine hypotheses, animal models, a" [ref_1192]
+        generic "Frontiers in Cell and Developmental Biology," [ref_1193]
+        generic "(2026)." [ref_1194]
+        link "Crossref" [ref_1195] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.3389/fcell.2026.1777975"
+        link "Crossref" [ref_1196] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.3389/fcell.2026.1777975"
+       listitem [ref_1197]
+        list [ref_1198]
+         listitem "Veronica Begni," [ref_1199]
+         listitem "Floriana De Cillis," [ref_1200]
+         listitem "Natascha Pfeiffer," [ref_1201]
+         listitem "Steven Roger Talbot," [ref_1202]
+         listitem "Peter Gass," [ref_1203]
+         listitem "Annamaria Cattaneo," [ref_1204]
+         listitem "Marco Andrea Riva," [ref_1205]
+         listitem "Anne Stephanie Mallien," [ref_1206]
+        generic "Distinct Molecular Responses to Ketamine and Imipramine in Cortical and Striatal Regions Following A" [ref_1207]
+        generic "Biomolecules," [ref_1208]
+        generic "(484)," [ref_1209]
+        generic "(2026)." [ref_1210]
+        link "Crossref" [ref_1211] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.3390/biom16040484"
+        link "Crossref" [ref_1212] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.3390/biom16040484"
+       listitem [ref_1213]
+        list [ref_1214]
+         listitem "Rebeca Cohen," [ref_1215]
+         listitem "João Bastos," [ref_1216]
+         listitem "Catarina Cunha," [ref_1217]
+         listitem "Miriam Marguilho," [ref_1218]
+         listitem "Ana Sancho," [ref_1219]
+         listitem "Maria João Matos Silva," [ref_1220]
+         listitem "Franklin King," [ref_1221]
+         listitem "Pedro Castro-Rodrigues," [ref_1222]
+        generic "Ketamine combined with psychotherapy for treatment-resistant depression: Real-world outcomes and the" [ref_1223]
+        generic "General Hospital Psychiatry," [ref_1224]
+        generic "(179-190)," [ref_1225]
+        generic "(2026)." [ref_1226]
+        link "Crossref" [ref_1227] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.genhosppsych.2026.02.001"
+        link "Crossref" [ref_1228] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.genhosppsych.2026.02.001"
+       listitem [ref_1229]
+        list [ref_1230]
+         listitem "J.K.E. Veraart," [ref_1231]
+         listitem "N. Schimmers," [ref_1232]
+         listitem "J.J. Breeksema," [ref_1233]
+         listitem "C. Seybert," [ref_1234]
+         listitem "J. Kamphuis," [ref_1235]
+         listitem "L.F.T. Huber," [ref_1236]
+         listitem "A. Rota," [ref_1237]
+         listitem "D.T. Coerts," [ref_1238]
+         listitem "A.J. Oliveira-Maia," [ref_1239]
+         listitem "R.A. Schoevers," [ref_1240]
+        generic "Ketamine-assisted psychotherapies for mental disorders: A historical overview and systematic review," [ref_1241]
+        generic "Clinical Psychology Review," [ref_1242]
+        generic "124" [ref_1243]
+        generic "(102706)," [ref_1244]
+        generic "(2026)." [ref_1245]
+        link "Crossref" [ref_1246] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.cpr.2026.102706"
+        link "Crossref" [ref_1247] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.cpr.2026.102706"
+       listitem [ref_1248]
+        list [ref_1249]
+         listitem "Veronika Andrashko," [ref_1250]
+         listitem "Tomas Novak," [ref_1251]
+         listitem "Miloslav Kopecek," [ref_1252]
+         listitem "Anna Sulakova," [ref_1253]
+         listitem "Vit Knop," [ref_1254]
+         listitem "Jiri Horacek," [ref_1255]
+        generic "Sympathetic activation but not dissociation linked to ketamine’s sustained antidepressant effect," [ref_1256]
+        generic "Therapeutic Advances in Psychopharmacology," [ref_1257]
+        generic "(2026)." [ref_1258]
+        link "Crossref" [ref_1259] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1177/20451253261419636"
+        link "Crossref" [ref_1260] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1177/20451253261419636"
+       listitem [ref_1261]
+        list [ref_1262]
+         listitem "Marie Huc," [ref_1263]
+         listitem "Sara Siddiqi," [ref_1264]
+         listitem "Mysa Myers," [ref_1265]
+         listitem "Ian Colman," [ref_1266]
+         listitem "Natalina Salmaso," [ref_1267]
+         listitem "Natalia Jaworska," [ref_1268]
+         listitem "Argel Aguilar-Valles," [ref_1269]
+        generic "Sex differences in placebo and antidepressant response to intranasal esketamine for treatment-resist" [ref_1270]
+        generic "Molecular Psychiatry," [ref_1271]
+        generic "(2026)." [ref_1272]
+        link "Crossref" [ref_1273] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1038/s41380-026-03493-8"
+        link "Crossref" [ref_1274] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1038/s41380-026-03493-8"
+       listitem [ref_1275]
+        list [ref_1276]
+         listitem "Areebah Ahmed," [ref_1277]
+         listitem "Mostafa El Mansari," [ref_1278]
+         listitem "Pierre Blier," [ref_1279]
+        generic "α 5 -GABA A allosteric modulation triggers a..." [ref_1280]
+        generic "Journal of Psychopharmacology," [ref_1281]
+        generic "(2026)." [ref_1282]
+        link "Crossref" [ref_1283] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1177/02698811251405691"
+        link "Crossref" [ref_1284] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1177/02698811251405691"
+       listitem [ref_1285]
+        link "See more" [ref_1286] href="javascript:void(0)"
+      status [ref_1287]
+       generic "Loading..." [ref_1288]
+   banner [ref_1289]
+    heading "View Options" [ref_1290]
+    button "Close" [ref_1291]
+   heading "View options" [ref_1292]
+   region [ref_1293]
+    heading "PDF/EPUB" [ref_1294]
+     generic "Portable Document Format / Electronic Publication" [ref_1295]
+    link [ref_1296] href="/doi/reader/10.1176/appi.ajp.2018.18070834"
+     generic "View PDF/EPUB" [ref_1297]
+   banner [ref_1298]
+    heading "Figures" [ref_1299]
+    button "Close" [ref_1300]
+   button [ref_1301]
+    generic "Open all in viewer" [ref_1302]
+   button "Open FIGURE 1 in Viewer" [ref_1303]
+   generic ". Study design for a randomized double-blind crossover clinical trial of subanesthetic ketamine for " [ref_1304]
+    generic "FIGURE 1" [ref_1305]
+   link "Go to FIGURE 1" [ref_1306] href="#F1"
+    generic "Go to Figure" [ref_1307]
+   button "Open FIGURE 1 in Viewer" [ref_1308]
+    generic "Open in Viewer" [ref_1309]
+   button "Open FIGURE 2 in Viewer" [ref_1310]
+   generic ". Change in depression severity over time in patients with treatment-resistant depression treated wi" [ref_1311]
+    generic "FIGURE 2" [ref_1312]
+   link "Go to FIGURE 2" [ref_1313] href="#F2"
+    generic "Go to Figure" [ref_1314]
+   button "Open FIGURE 2 in Viewer" [ref_1315]
+    generic "Open in Viewer" [ref_1316]
+   button "Open FIGURE 3 in Viewer" [ref_1317]
+   generic ". Change in depression severity over time in patients with treatment-resistant depression treated wi" [ref_1318]
+    generic "FIGURE 3" [ref_1319]
+   link "Go to FIGURE 3" [ref_1320] href="#F3"
+    generic "Go to Figure" [ref_1321]
+   button "Open FIGURE 3 in Viewer" [ref_1322]
+    generic "Open in Viewer" [ref_1323]
+   button "Open FIGURE 4 in Viewer" [ref_1324]
+   generic ". Change in depression severity over time in ketamine responders treated with weekly subanesthetic m" [ref_1325]
+    generic "FIGURE 4" [ref_1326]
+   link "Go to FIGURE 4" [ref_1327] href="#F4"
+    generic "Go to Figure" [ref_1328]
+   button "Open FIGURE 4 in Viewer" [ref_1329]
+    generic "Open in Viewer" [ref_1330]
+   banner [ref_1331]
+    heading "Tables" [ref_1332]
+    button "Close" [ref_1333]
+   button [ref_1334]
+    generic "Open all in viewer" [ref_1335]
+   generic ". Baseline demographic and clinical characteristics of patients with treatment-resistant depression " [ref_1336]
+    generic "TABLE 1" [ref_1337]
+   link "Go to TABLE 1" [ref_1338] href="#T1"
+    generic "Go to Table" [ref_1339]
+   button "Open TABLE 1 in Viewer" [ref_1340]
+    generic "Open in Viewer" [ref_1341]
+   banner [ref_1342]
+    heading "Media" [ref_1343]
+    button "Close" [ref_1344]
+   banner [ref_1345]
+    heading "Share" [ref_1346]
+    button "Close" [ref_1347]
+   heading "Share" [ref_1348]
+   region [ref_1349]
+    heading "Share article link" [ref_1350]
+    generic "https://psychiatryonline-org.ezproxy.lib.ucalgary.ca/doi/10.1176/appi.ajp.2018.18070834" [ref_1351]
+    button "Share article link" [ref_1352]
+     generic "Copy Link" [ref_1353]
+    generic "Copied!" [ref_1354]
+    generic "Copying failed." [ref_1355]
+   region [ref_1356]
+    heading "Share" [ref_1357]
+    link "Share on Bluesky" [ref_1358] href="/#bluesky"
+     generic "Bluesky" [ref_1359]
+    link "Share on Facebook" [ref_1360] href="/#facebook"
+     generic "Facebook" [ref_1361]
+    link "Share on X" [ref_1362] href="/#twitter"
+    link "Share on LinkedIn" [ref_1363] href="/#linkedin"
+     generic "LinkedIn" [ref_1364]
+    link "Share on email" [ref_1365] href="/#email"
+     generic "email" [ref_1366]
+    link "Share on Reddit" [ref_1367] href="/#reddit"
+     generic "Reddit" [ref_1368]
+   banner [ref_1369]
+    heading "References" [ref_1370]
+    button "Close" [ref_1371]
+   heading "References" [ref_1372]
+   region [ref_1373]
+    heading "References" [ref_1374]
+    list [ref_1375]
+     listitem [ref_1376]
+      generic "World Health Organization: . Geneva, World Health Organization, 2016" [ref_1377]
+       generic "Global Health Estimates 2015: Burden of Disease by Cause, Age, Sex, by Country and by Region, 2000–2" [ref_1378]
+      link [ref_1379] href="#core-B1-1"
+       generic "Go to Citation" [ref_1380]
+      link "Google Scholar" [ref_1381] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Global+Health+Estimates+2015%3A+Burden+of+Disease+by+Cause%2C+Age%2C+Sex%2C+by+Country+and+by+Region%2C+2000%E2%80%932015&author=World+Health+Organization&publication_year=2016"
+     listitem [ref_1382]
+      generic "Sanacora G, Frye MA, McDonald W, et al: A consensus statement on the use of ketamine in the treatmen" [ref_1383]
+       generic "JAMA Psychiatry" [ref_1384]
+      button "Toggle citations menu" [ref_1385]
+      link "Crossref" [ref_1386] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/jamapsychiatry.2017.0080"
+      link "PubMed" [ref_1387] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/28249076/"
+      link "Google Scholar" [ref_1388] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+consensus+statement+on+the+use+of+ketamine+in+the+treatment+of+mood+disorders&author=G+Sanacora&author=MA+Frye&author=W+McDonald&publication_year=2017&journal=JAMA+Psychiatry&pages=399-405&doi=10.1001%2Fjamapsychiatry.2017.0080&pmid=28249076"
+      menu "Citations links" [ref_1389]
+       none [ref_1390]
+        none [ref_1391]
+         menuitem [ref_1392] href="#core-B2-1"
+          generic "a [...] with unipolar and bipolar depression" [ref_1393]
+        none [ref_1394]
+         menuitem [ref_1395] href="#core-B2-2"
+          generic "b [...] adequate psychiatric follow-up is available" [ref_1396]
+     listitem [ref_1397]
+      generic "Newport DJ, Carpenter LL, McDonald WM, et al: Ketamine and other NMDA antagonists: early clinical tr" [ref_1398]
+       generic "Am J Psychiatry" [ref_1399]
+      link [ref_1400] href="#core-B3-1"
+       generic "Go to Citation" [ref_1401]
+      link "Crossref" [ref_1402] href="/servlet/linkout?suffix=e_1_3_3_4_2&dbid=4&doi=10.1176%2Fappi.ajp.2018.18070834&key=10.1176%2Fappi.ajp.2015.15040465&site=app-site"
+      link "PubMed" [ref_1403] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/26423481/"
+      link "Google Scholar" [ref_1404] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Ketamine+and+other+NMDA+antagonists%3A+early+clinical+trials+and+possible+mechanisms+in+depression&author=DJ+Newport&author=LL+Carpenter&author=WM+McDonald&publication_year=2015&journal=Am+J+Psychiatry&pages=950-966&doi=10.1176%2Fappi.ajp.2015.15040465&pmid=26423481"
+     listitem [ref_1405]
+      generic "Berman RM, Cappiello A, Anand A, et al: Antidepressant effects of ketamine in depressed patients. 2." [ref_1406]
+       generic "Biol Psychiatry" [ref_1407]
+      button "Toggle citations menu" [ref_1408]
+      link "Crossref" [ref_1409] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/S0006-3223(99)00230-9"
+      link "PubMed" [ref_1410] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/10686270/"
+      link "Google Scholar" [ref_1411] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Antidepressant+effects+of+ketamine+in+depressed+patients&author=RM+Berman&author=A+Cappiello&author=A+Anand&publication_year=2000&journal=Biol+Psychiatry&pages=351-354&doi=10.1016%2FS0006-3223%2899%2900230-9&pmid=10686270"
+      menu "Citations links" [ref_1412]
+       none [ref_1413]
+        none [ref_1414]
+         menuitem [ref_1415] href="#core-B4-1"
+          generic "a [...] symptoms when administered as monotherapy" [ref_1416]
+        none [ref_1417]
+         menuitem [ref_1418] href="#core-B4-2"
+          generic "b [...] infusions of ketamine compared with saline" [ref_1419]
+     listitem [ref_1420]
+      generic "Murrough JW, Iosifescu DV, Chang LC, et al: Antidepressant efficacy of ketamine in treatment-resista" [ref_1421]
+       generic "Am J Psychiatry" [ref_1422]
+      button "Toggle citations menu" [ref_1423]
+      link "Crossref" [ref_1424] href="/servlet/linkout?suffix=e_1_3_3_6_2&dbid=4&doi=10.1176%2Fappi.ajp.2018.18070834&key=10.1176%2Fappi.ajp.2013.13030392&site=app-site"
+      link "PubMed" [ref_1425] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/23982301/"
+      link "Google Scholar" [ref_1426] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Antidepressant+efficacy+of+ketamine+in+treatment-resistant+major+depression%3A+a+two-site+randomized+controlled+trial&author=JW+Murrough&author=DV+Iosifescu&author=LC+Chang&publication_year=2013&journal=Am+J+Psychiatry&pages=1134-1142&doi=10.1176%2Fappi.ajp.2013.13030392&pmid=23982301"
+      menu "Citations links" [ref_1427]
+       none [ref_1428]
+        none [ref_1429]
+         menuitem [ref_1430] href="#core-B5-1"
+          generic "a [...] as an active placebo control for ketamine)" [ref_1431]
+        none [ref_1432]
+         menuitem [ref_1433] href="#core-B5-2"
+          generic "b [...] ) and midazolam" [ref_1434]
+        none [ref_1435]
+         menuitem [ref_1436] href="#core-B5-3"
+          generic "c [...] ) to 28%" [ref_1437]
+     listitem [ref_1438]
+      generic "Zarate CA Jr, Singh JB, Carlson PJ, et al: A randomized trial of an N-methyl--aspartate antagonist i" [ref_1439]
+       generic "Arch Gen Psychiatry" [ref_1440]
+      link [ref_1441] href="#core-B6-1"
+       generic "Go to Citation" [ref_1442]
+      link "Crossref" [ref_1443] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archpsyc.63.8.856"
+      link "PubMed" [ref_1444] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/16894061/"
+      link "Google Scholar" [ref_1445] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+randomized+trial+of+an+N-methyl-d-aspartate+antagonist+in+treatment-resistant+major+depression&author=CA+Zarate&author=JB+Singh&author=PJ+Carlson&publication_year=2006&journal=Arch+Gen+Psychiatry&pages=856-864&doi=10.1001%2Farchpsyc.63.8.856&pmid=16894061"
+     listitem [ref_1446]
+      generic "Fava M, Freeman MP, Flynn M, et al: Double-blind, placebo-controlled, dose-ranging trial of intraven" [ref_1447]
+       generic "Mol Psychiatry" [ref_1448]
+      button "Toggle citations menu" [ref_1449]
+      link "Google Scholar" [ref_1450] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Double-blind%2C+placebo-controlled%2C+dose-ranging+trial+of+intravenous+ketamine+as+adjunctive+therapy+in+treatment-resistant+depression+%28TRD%29&author=M+Fava&author=MP+Freeman&author=M+Flynn&journal=Mol+Psychiatry"
+      menu "Citations links" [ref_1451]
+       none [ref_1452]
+        none [ref_1453]
+         menuitem [ref_1454] href="#core-B7-1"
+          generic "a [...] symptoms when administered as monotherapy" [ref_1455]
+        none [ref_1456]
+         menuitem [ref_1457] href="#core-B7-2"
+          generic "b [...] ) and midazolam" [ref_1458]
+        none [ref_1459]
+         menuitem [ref_1460] href="#core-B7-3"
+          generic "c [...] rates with midazolam, ranging from 11%" [ref_1461]
+     listitem [ref_1462]
+      generic "Diazgranados N, Ibrahim L, Brutsche NE, et al: A randomized add-on trial of an N-methyl--aspartate a" [ref_1463]
+       generic "Arch Gen Psychiatry" [ref_1464]
+      button "Toggle citations menu" [ref_1465]
+      link "Crossref" [ref_1466] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1001/archgenpsychiatry.2010.90"
+      link "PubMed" [ref_1467] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/20679587/"
+      link "Google Scholar" [ref_1468] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+randomized+add-on+trial+of+an+N-methyl-d-aspartate+antagonist+in+treatment-resistant+bipolar+depression&author=N+Diazgranados&author=L+Ibrahim&author=NE+Brutsche&publication_year=2010&journal=Arch+Gen+Psychiatry&pages=793-802&doi=10.1001%2Farchgenpsychiatry.2010.90&pmid=20679587"
+      menu "Citations links" [ref_1469]
+       none [ref_1470]
+        none [ref_1471]
+         menuitem [ref_1472] href="#core-B8-1"
+          generic "a [...] ) and as an adjunctive medication" [ref_1473]
+        none [ref_1474]
+         menuitem [ref_1475] href="#core-B8-2"
+          generic "b [...] infusions of ketamine compared with saline" [ref_1476]
+     listitem [ref_1477]
+      generic "Sos P, Klirova M, Novak T, et al: Relationship of ketamine’s antidepressant and psychotomimetic effe" [ref_1478]
+       generic "Neuroendocrinol Lett" [ref_1479]
+      link "PubMed" [ref_1480] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/23803871/"
+      link "Google Scholar" [ref_1481] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Relationship+of+ketamine%E2%80%99s+antidepressant+and+psychotomimetic+effects+in+unipolar+depression&author=P+Sos&author=M+Klirova&author=T+Novak&publication_year=2013&journal=Neuroendocrinol+Lett&pages=287-293&pmid=23803871"
+     listitem [ref_1482]
+      generic "10." [ref_1483]
+      generic "Zarate CA Jr, Brutsche NE, Ibrahim L, et al: Replication of ketamine’s antidepressant efficacy in bi" [ref_1484]
+       generic "Biol Psychiatry" [ref_1485]
+      button "Toggle citations menu" [ref_1486]
+      link "Crossref" [ref_1487] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.biopsych.2011.12.010"
+      link "PubMed" [ref_1488] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/22297150/"
+      link "Google Scholar" [ref_1489] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Replication+of+ketamine%E2%80%99s+antidepressant+efficacy+in+bipolar+depression%3A+a+randomized+controlled+add-on+trial&author=CA+Zarate&author=NE+Brutsche&author=L+Ibrahim&publication_year=2012&journal=Biol+Psychiatry&pages=939-946&doi=10.1016%2Fj.biopsych.2011.12.010&pmid=22297150"
+      menu "Citations links" [ref_1490]
+       none [ref_1491]
+        none [ref_1492]
+         menuitem [ref_1493] href="#core-B10-1"
+          generic "a [...] ) and as an adjunctive medication" [ref_1494]
+        none [ref_1495]
+         menuitem [ref_1496] href="#core-B10-2"
+          generic "b [...] infusions of ketamine compared with saline" [ref_1497]
+     listitem [ref_1498]
+      generic "11." [ref_1499]
+      generic "Cusin C, Ionescu DF, Pavone KJ, et al: Ketamine augmentation for outpatients with treatment-resistan" [ref_1500]
+       generic "Aust N Z J Psychiatry" [ref_1501]
+      link [ref_1502] href="#core-B11-1"
+       generic "Go to Citation" [ref_1503]
+      link "Crossref" [ref_1504] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1177/0004867416631828"
+      link "PubMed" [ref_1505] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/26893373/"
+      link "Google Scholar" [ref_1506] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Ketamine+augmentation+for+outpatients+with+treatment-resistant+depression%3A+preliminary+evidence+for+two-step+intravenous+dose+escalation&author=C+Cusin&author=DF+Ionescu&author=KJ+Pavone&publication_year=2017&journal=Aust+N+Z+J+Psychiatry&pages=55-64&doi=10.1177%2F0004867416631828&pmid=26893373"
+     listitem [ref_1507]
+      generic "12." [ref_1508]
+      generic "Singh JB, Fedgchin M, Daly EJ, et al: A double-blind, randomized, placebo-controlled, dose-frequency" [ref_1509]
+       generic "Am J Psychiatry" [ref_1510]
+      link "Crossref" [ref_1511] href="/servlet/linkout?suffix=e_1_3_3_13_2&dbid=4&doi=10.1176%2Fappi.ajp.2018.18070834&key=10.1176%2Fappi.ajp.2016.16010037&site=app-site"
+      link "PubMed" [ref_1512] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/27056608/"
+      link "Google Scholar" [ref_1513] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+double-blind%2C+randomized%2C+placebo-controlled%2C+dose-frequency+study+of+intravenous+ketamine+in+patients+with+treatment-resistant+depression&author=JB+Singh&author=M+Fedgchin&author=EJ+Daly&publication_year=2016&journal=Am+J+Psychiatry&pages=816-826&doi=10.1176%2Fappi.ajp.2016.16010037&pmid=27056608"
+     listitem [ref_1514]
+      generic "13." [ref_1515]
+      generic "Wilkinson ST, Katz RB, Toprak M, et al: Acute and longer-term outcomes using ketamine as a clinical " [ref_1516]
+       generic "J Clin Psychiatry" [ref_1517]
+      button "Toggle citations menu" [ref_1518]
+      link "Crossref" [ref_1519] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.4088/JCP.17m11731"
+      link "Google Scholar" [ref_1520] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Acute+and+longer-term+outcomes+using+ketamine+as+a+clinical+treatment+at+the+Yale+Psychiatric+Hospital&author=ST+Wilkinson&author=RB+Katz&author=M+Toprak&publication_year=2018&journal=J+Clin+Psychiatry&pages=e1-e7&doi=10.4088%2FJCP.17m11731"
+      menu "Citations links" [ref_1521]
+       none [ref_1522]
+        none [ref_1523]
+         menuitem [ref_1524] href="#core-B13-1"
+          generic "a [...] can sustain the effects. Both twice-weekly" [ref_1525]
+        none [ref_1526]
+         menuitem [ref_1527] href="#core-B13-2"
+          generic "b [...] maintenance infusions. Wilkinson et al." [ref_1528]
+     listitem [ref_1529]
+      generic "14." [ref_1530]
+      generic "Murrough JW, Perez AM, Pillemer S, et al: Rapid and longer-term antidepressant effects of repeated k" [ref_1531]
+       generic "Biol Psychiatry" [ref_1532]
+      button "Toggle citations menu" [ref_1533]
+      link "Crossref" [ref_1534] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.biopsych.2012.06.022"
+      link "PubMed" [ref_1535] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/22840761/"
+      link "Google Scholar" [ref_1536] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Rapid+and+longer-term+antidepressant+effects+of+repeated+ketamine+infusions+in+treatment-resistant+major+depression&author=JW+Murrough&author=AM+Perez&author=S+Pillemer&publication_year=2013&journal=Biol+Psychiatry&pages=250-256&doi=10.1016%2Fj.biopsych.2012.06.022&pmid=22840761"
+      menu "Citations links" [ref_1537]
+       none [ref_1538]
+        none [ref_1539]
+         menuitem [ref_1540] href="#core-B14-1"
+          generic "a [...] ) and thrice-weekly" [ref_1541]
+        none [ref_1542]
+         menuitem [ref_1543] href="#core-B14-2"
+          generic "b [...] (on average, 18–19 days postinfusion)" [ref_1544]
+     listitem [ref_1545]
+      generic "15." [ref_1546]
+      generic "aan het Rot M, Collins KA, Murrough JW, et al: Safety and efficacy of repeated-dose intravenous keta" [ref_1547]
+       generic "Biol Psychiatry" [ref_1548]
+      link [ref_1549] href="#core-B15-1"
+       generic "Go to Citation" [ref_1550]
+      link "Crossref" [ref_1551] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.biopsych.2009.08.038"
+      link "PubMed" [ref_1552] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/19897179/"
+      link "Google Scholar" [ref_1553] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Safety+and+efficacy+of+repeated-dose+intravenous+ketamine+for+treatment-resistant+depression&author=M+aan+het+Rot&author=KA+Collins&author=JW+Murrough&publication_year=2010&journal=Biol+Psychiatry&pages=139-145&doi=10.1016%2Fj.biopsych.2009.08.038&pmid=19897179"
+     listitem [ref_1554]
+      generic "16." [ref_1555]
+      generic "Shiroma PR, Johns B, Kuskowski M, et al: Augmentation of response and remission to serial intravenou" [ref_1556]
+       generic "J Affect Disord" [ref_1557]
+      link [ref_1558] href="#core-B16-1"
+       generic "Go to Citation" [ref_1559]
+      link "Crossref" [ref_1560] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2013.10.036"
+      link "PubMed" [ref_1561] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/24268616/"
+      link "Google Scholar" [ref_1562] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Augmentation+of+response+and+remission+to+serial+intravenous+subanesthetic+ketamine+in+treatment+resistant+depression&author=PR+Shiroma&author=B+Johns&author=M+Kuskowski&publication_year=2014&journal=J+Affect+Disord&pages=123-129&doi=10.1016%2Fj.jad.2013.10.036&pmid=24268616"
+     listitem [ref_1563]
+      generic "17." [ref_1564]
+      generic "Vande Voort JL, Morgan RJ, Kung S, et al: Continuation phase intravenous ketamine in adults with tre" [ref_1565]
+       generic "J Affect Disord" [ref_1566]
+      link [ref_1567] href="#core-B17-1"
+       generic "Go to Citation" [ref_1568]
+      link "Crossref" [ref_1569] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2016.09.008"
+      link "PubMed" [ref_1570] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/27656788/"
+      link "Google Scholar" [ref_1571] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Continuation+phase+intravenous+ketamine+in+adults+with+treatment-resistant+depression&author=JL+Vande+Voort&author=RJ+Morgan&author=S+Kung&publication_year=2016&journal=J+Affect+Disord&pages=300-304&doi=10.1016%2Fj.jad.2016.09.008&pmid=27656788"
+     listitem [ref_1572]
+      generic "18." [ref_1573]
+      generic "American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, 4th ed, tex" [ref_1574]
+      button "Toggle citations menu" [ref_1575]
+      link "Google Scholar" [ref_1576] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar?q=American+Psychiatric+Association%3A+Diagnostic+and+Statistical+Manual+of+Mental+Disorders%2C+4th+ed%2C+text+revision+%28DSM-IV-TR%29.+Washington%2C+DC%2C+American+Psychiatric+Association%2C+2000"
+      menu "Citations links" [ref_1577]
+       none [ref_1578]
+        none [ref_1579]
+         menuitem [ref_1580] href="#core-B18-1"
+          generic "a [...] criteria for major depressive disorder" [ref_1581]
+        none [ref_1582]
+         menuitem [ref_1583] href="#core-B18-2"
+          generic "b [...] dependence as defined by DSM-IV-TR criteria" [ref_1584]
+     listitem [ref_1585]
+      generic "19." [ref_1586]
+      generic "Sheehan DV, Lecrubier Y, Sheehan KH, et al: The Mini-International Neuropsychiatric Interview (MINI)" [ref_1587]
+       generic "J Clin Psychiatry" [ref_1588]
+      link [ref_1589] href="#core-B19-1"
+       generic "Go to Citation" [ref_1590]
+      link "PubMed" [ref_1591] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/9881538/"
+      link "Google Scholar" [ref_1592] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The+Mini-International+Neuropsychiatric+Interview+%28MINI%29%3A+the+development+and+validation+of+a+structured+diagnostic+psychiatric+interview+for+DSM-IV+and+ICD-10&author=DV+Sheehan&author=Y+Lecrubier&author=KH+Sheehan&publication_year=1998&journal=J+Clin+Psychiatry&pages=22-33&pmid=9881538"
+     listitem [ref_1593]
+      generic "20." [ref_1594]
+      generic "Sackeim HA: The definition and meaning of treatment-resistant depression. 2001; 62(suppl 16):10–17" [ref_1595]
+       generic "J Clin Psychiatry" [ref_1596]
+      link [ref_1597] href="#core-B20-1"
+       generic "Go to Citation" [ref_1598]
+      link "PubMed" [ref_1599] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/11480879/"
+      link "Google Scholar" [ref_1600] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The+definition+and+meaning+of+treatment-resistant+depression&author=HA+Sackeim&publication_year=2001&journal=J+Clin+Psychiatry&pages=10-17&pmid=11480879"
+     listitem [ref_1601]
+      generic "21." [ref_1602]
+      generic "Montgomery SA, Åsberg M: A new depression scale designed to be sensitive to change. 1979; 134:382–3." [ref_1603]
+       generic "Br J Psychiatry" [ref_1604]
+      link [ref_1605] href="#core-B21-1"
+       generic "Go to Citation" [ref_1606]
+      link "Crossref" [ref_1607] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1192/bjp.134.4.382"
+      link "PubMed" [ref_1608] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/444788/"
+      link "Google Scholar" [ref_1609] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=A+new+depression+scale+designed+to+be+sensitive+to+change&author=SA+Montgomery&author=M+%C3%85sberg&publication_year=1979&journal=Br+J+Psychiatry&pages=382-389&doi=10.1192%2Fbjp.134.4.382&pmid=444788"
+     listitem [ref_1610]
+      generic "22." [ref_1611]
+      generic "Peltoniemi MA, Saari TI, Hagelberg NM, et al: S-ketamine concentrations are greatly increased by gra" [ref_1612]
+       generic "Eur J Clin Pharmacol" [ref_1613]
+      link [ref_1614] href="#core-B22-1"
+       generic "Go to Citation" [ref_1615]
+      link "Crossref" [ref_1616] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1007/s00228-012-1214-9"
+      link "PubMed" [ref_1617] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/22286159/"
+      link "Google Scholar" [ref_1618] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=S-ketamine+concentrations+are+greatly+increased+by+grapefruit+juice&author=MA+Peltoniemi&author=TI+Saari&author=NM+Hagelberg&publication_year=2012&journal=Eur+J+Clin+Pharmacol&pages=979-986&doi=10.1007%2Fs00228-012-1214-9&pmid=22286159"
+     listitem [ref_1619]
+      generic "23." [ref_1620]
+      generic "Frye MA, Blier P, Tye SJ: Concomitant benzodiazepine use attenuates ketamine response: implications " [ref_1621]
+       generic "J Clin Psychopharmacol" [ref_1622]
+      link [ref_1623] href="#core-B23-1"
+       generic "Go to Citation" [ref_1624]
+      link "Crossref" [ref_1625] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1097/JCP.0000000000000316"
+      link "PubMed" [ref_1626] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/25928701/"
+      link "Google Scholar" [ref_1627] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Concomitant+benzodiazepine+use+attenuates+ketamine+response%3A+implications+for+large+scale+study+design+and+clinical+development&author=MA+Frye&author=P+Blier&author=SJ+Tye&publication_year=2015&journal=J+Clin+Psychopharmacol&pages=334-336&doi=10.1097%2FJCP.0000000000000316&pmid=25928701"
+     listitem [ref_1628]
+      generic "24." [ref_1629]
+      generic "Rush AJ, Trivedi MH, Ibrahim HM, et al: The 16-item Quick Inventory of Depressive Symptomatology (QI" [ref_1630]
+       generic "Biol Psychiatry" [ref_1631]
+      link [ref_1632] href="#core-B24-1"
+       generic "Go to Citation" [ref_1633]
+      link "Crossref" [ref_1634] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/S0006-3223(02)01866-8"
+      link "PubMed" [ref_1635] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/12946886/"
+      link "Google Scholar" [ref_1636] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=The+16-item+Quick+Inventory+of+Depressive+Symptomatology+%28QIDS%29%2C+clinician+rating+%28QIDS-C%29%2C+and+self-report+%28QIDS-SR%29%3A+a+psychometric+evaluation+in+patients+with+chronic+major+depression&author=AJ+Rush&author=MH+Trivedi&author=HM+Ibrahim&publication_year=2003&journal=Biol+Psychiatry&pages=573-583&doi=10.1016%2FS0006-3223%2802%2901866-8&pmid=12946886"
+     listitem [ref_1637]
+      generic "25." [ref_1638]
+      generic "Levine J, Schooler NR: SAFTEE: a technique for the systematic assessment of side effects in clinical" [ref_1639]
+       generic "Psychopharmacol Bull" [ref_1640]
+      link [ref_1641] href="#core-B25-1"
+       generic "Go to Citation" [ref_1642]
+      link "PubMed" [ref_1643] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/3774930/"
+      link "Google Scholar" [ref_1644] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=SAFTEE%3A+a+technique+for+the+systematic+assessment+of+side+effects+in+clinical+trials&author=J+Levine&author=NR+Schooler&publication_year=1986&journal=Psychopharmacol+Bull&pages=343-381&pmid=3774930"
+     listitem [ref_1645]
+      generic "26." [ref_1646]
+      generic "Bremner JD, Krystal JH, Putnam FW, et al: Measurement of dissociative states with the Clinician-Admi" [ref_1647]
+       generic "J Trauma Stress" [ref_1648]
+      link [ref_1649] href="#core-B26-1"
+       generic "Go to Citation" [ref_1650]
+      link "Crossref" [ref_1651] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1023/A:1024465317902"
+      link "PubMed" [ref_1652] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/9479681/"
+      link "Google Scholar" [ref_1653] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Measurement+of+dissociative+states+with+the+Clinician-Administered+Dissociative+States+Scale+%28CADSS%29&author=JD+Bremner&author=JH+Krystal&author=FW+Putnam&publication_year=1998&journal=J+Trauma+Stress&pages=125-136&doi=10.1023%2FA%3A1024465317902&pmid=9479681"
+     listitem [ref_1654]
+      generic "27." [ref_1655]
+      generic "Post RM, Leverich GS: Loss of previous responsiveness to lithium following its discontinuation and s" [ref_1656]
+       generic "Treatment of Bipolar Illness" [ref_1657]
+      link [ref_1658] href="#core-B27-1"
+       generic "Go to Citation" [ref_1659]
+      link "Google Scholar" [ref_1660] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Loss+of+previous+responsiveness+to+lithium+following+its+discontinuation+and+subsequent+episode+recurrence&author=RM+Post&author=GS+Leverich&publication_year=2008&pages=123-130"
+     listitem [ref_1661]
+      generic "28." [ref_1662]
+      generic "Luckenbaugh DA, Niciu MJ, Ionescu DF, et al: Do the dissociative side effects of ketamine mediate it" [ref_1663]
+       generic "J Affect Disord" [ref_1664]
+      link [ref_1665] href="#core-B28-1"
+       generic "Go to Citation" [ref_1666]
+      link "Crossref" [ref_1667] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2014.02.017"
+      link "PubMed" [ref_1668] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/24679390/"
+      link "Google Scholar" [ref_1669] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Do+the+dissociative+side+effects+of+ketamine+mediate+its+antidepressant+effects%3F&author=DA+Luckenbaugh&author=MJ+Niciu&author=DF+Ionescu&publication_year=2014&journal=J+Affect+Disord&pages=56-61&doi=10.1016%2Fj.jad.2014.02.017&pmid=24679390"
+     listitem [ref_1670]
+      generic "29." [ref_1671]
+      generic "Niciu MJ, Shovestul BJ, Jaso BA, et al: Features of dissociation differentially predict antidepressa" [ref_1672]
+       generic "J Affect Disord" [ref_1673]
+      link [ref_1674] href="#core-B29-1"
+       generic "Go to Citation" [ref_1675]
+      link "Crossref" [ref_1676] href="https://doi-org.ezproxy.lib.ucalgary.ca/10.1016/j.jad.2018.02.049"
+      link "PubMed" [ref_1677] href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.lib.ucalgary.ca/29501990/"
+      link "Google Scholar" [ref_1678] href="https://scholar-google-com.ezproxy.lib.ucalgary.ca/scholar_lookup?title=Features+of+dissociation+differentially+predict+antidepressant+response+to+ketamine+in+treatment-resistant+depression&author=MJ+Niciu&author=BJ+Shovestul&author=BA+Jaso&publication_year=2018&journal=J+Affect+Disord&pages=310-315&doi=10.1016%2Fj.jad.2018.02.049&pmid=29501990"
+  complementary [ref_1679]
+   link "Go to American Journal of Psychiatry" [ref_1680] href="/toc/ajp/176/5"
+    image "Go to American Journal of Psychiatry" [ref_1681]
+   link [ref_1682] href="/toc/ajp/176/5"
+    generic "Volume 176, Issue 5" [ref_1683]
+    generic "May 2019" [ref_1684]
+   generic "Advertisement" [ref_1685]
+   generic "Advertisement" [ref_1686]
+   region [ref_1687]
+    link "Kudos" [ref_1688] href="https://www.growkudos.com/"
+    heading "Ketamine infusions for patients with treatment-resistant depression" [ref_1689]
+    heading "What is it about?" [ref_1690]
+    generic "Small doses of ketamine administered intravenously can rapidly relieve depressive symptoms, but thes" [ref_1691]
+    heading "Why is it important?" [ref_1692]
+    generic "This clinical trial confirms that ketamine infusions can provide safe and effective reductions in de" [ref_1693]
+    link "Read more on Kudos" [ref_1694] href="https://www.growkudos.com/articles/10.1176/appi.ajp.2018.18070834?utm_medium=widget&utm_source=publication-widget"
+    generic "The following have contributed to this summary:" [ref_1695]
+     generic "Jennifer Phillips" [ref_1696]
+   generic "Advertisement" [ref_1697]
+   generic "Advertisement" [ref_1698]
+ link [ref_1699] href="/doi/full/10.1176/appi.ajp.2018.18070834"
+  generic "View full text" [ref_1700]
+ link [ref_1701] href="/doi/pdf/10.1176/appi.ajp.2018.18070834?download=true"
+  generic "Download PDF" [ref_1702]
+ navigation "Sticky Navigation" [ref_1703]
+  generic "Now Reading:" [ref_1704]
+  generic "Single, Repeated, and Maintenance Ketamine Infusions for Treatment-Resistant Depression: A Randomize" [ref_1705]
+  link [ref_1706] href="/action/addCitationAlert?doi=10.1176%2Fappi.ajp.2018.18070834"
+   generic "Track Citations" [ref_1707]
+  link [ref_1708] href="/personalize/addFavoritePublication?doi=10.1176%2Fappi.ajp.2018.18070834"
+   generic "Add to favorites" [ref_1709]
+  button [ref_1710] href="#"
+   generic "Share options" [ref_1711]
+    generic "Share" [ref_1712]
+  list [ref_1713]
+   listitem [ref_1714]
+    link "Share on Bluesky" [ref_1715] href="/#bluesky"
+   listitem [ref_1716]
+    link "Share on Facebook" [ref_1717] href="/#facebook"
+   listitem [ref_1718]
+    link "Share on X (formerly Twitter)" [ref_1719] href="/#twitter"
+   listitem [ref_1720]
+    link "Share on LinkedIn" [ref_1721] href="/#linkedin"
+   listitem [ref_1722]
+    link "Share on email" [ref_1723] href="/#email"
+   listitem [ref_1724]
+    link "Share on Reddit" [ref_1725] href="/#reddit"
+  link "Previous article" [ref_1726] href="/doi/10.1176/appi.ajp.2018.17121368"
+   heading "PREVIOUS ARTICLE" [ref_1727]
+   generic "Role of Neuronal VEGF Signaling in the Prefrontal Cortex in the Rapid Antidepressant Effects of Keta" [ref_1728]
+   generic "Previous" [ref_1729]
+  link "Next article" [ref_1730] href="/doi/10.1176/appi.ajp.2019.19010044"
+   heading "NEXT ARTICLE" [ref_1731]
+   generic "Explaining Naltrexone’s Interference With Ketamine’s Antidepressant Effect" [ref_1732]
+   generic "Next" [ref_1733]
+contentinfo [ref_1734]
+ generic "Advertisement" [ref_1735]
+ region [ref_1736]
+  link "Skip slideshow" [ref_1737] href="#afterSlideshow-fti"
+  group "1 / 8" [ref_1738]
+   link "American Journal of Psychiatry Logo" [ref_1739] href="/journal/ajp"
+    image "American Journal of Psychiatry Logo" [ref_1740]
+  group "2 / 8" [ref_1741]
+   link "Focus Logo" [ref_1742] href="/journal/foc"
+    image "Focus Logo" [ref_1743]
+  group "3 / 8" [ref_1744]
+   link "The Journal of Neuropsychiatry and Clinical Neurosciences Logo" [ref_1745] href="/journal/jnp"
+    image "The Journal of Neuropsychiatry and Clinical Neurosciences Logo" [ref_1746]
+  group "4 / 8" [ref_1747]
+   link "Psychiatric Research and Clinical Practice Logo" [ref_1748] href="/journal/apt"
+    image "Psychiatric Research and Clinical Practice Logo" [ref_1749]
+  group "5 / 8" [ref_1750]
+   link "Psychiatric Services Logo" [ref_1751] href="/journal/ps"
+    image "Psychiatric Services Logo" [ref_1752]
+  group "6 / 8" [ref_1753]
+   link "American Journal of Psychotherapy Logo" [ref_1754] href="/journal/apt"
+    image "American Journal of Psychotherapy Logo" [ref_1755]
+  group "7 / 8" [ref_1756]
+   link "DSM Library Logo" [ref_1757] href="/dsm"
+    image "DSM Library Logo" [ref_1758]
+  group "8 / 8" [ref_1759]
+   link "Psychiatric News" [ref_1760] href="/psychiatricnews"
+    image "Psychiatric News" [ref_1761]
+  group "1 / 8" [ref_1762]
+   link "American Journal of Psychiatry Logo" [ref_1763] href="/journal/ajp"
+    image "American Journal of Psychiatry Logo" [ref_1764]
+  group "2 / 8" [ref_1765]
+   link "Focus Logo" [ref_1766] href="/journal/foc"
+    image "Focus Logo" [ref_1767]
+  group "3 / 8" [ref_1768]
+   link "The Journal of Neuropsychiatry and Clinical Neurosciences Logo" [ref_1769] href="/journal/jnp"
+    image "The Journal of Neuropsychiatry and Clinical Neurosciences Logo" [ref_1770]
+  group "4 / 8" [ref_1771]
+   link "Psychiatric Research and Clinical Practice Logo" [ref_1772] href="/journal/apt"
+    image "Psychiatric Research and Clinical Practice Logo" [ref_1773]
+  group "5 / 8" [ref_1774]
+   link "Psychiatric Services Logo" [ref_1775] href="/journal/ps"
+    image "Psychiatric Services Logo" [ref_1776]
+  group "6 / 8" [ref_1777]
+   link "American Journal of Psychotherapy Logo" [ref_1778] href="/journal/apt"
+    image "American Journal of Psychotherapy Logo" [ref_1779]
+  group "7 / 8" [ref_1780]
+   link "DSM Library Logo" [ref_1781] href="/dsm"
+    image "DSM Library Logo" [ref_1782]
+  group "8 / 8" [ref_1783]
+   link "Psychiatric News" [ref_1784] href="/psychiatricnews"
+    image "Psychiatric News" [ref_1785]
+  group "1 / 8" [ref_1786]
+   link "American Journal of Psychiatry Logo" [ref_1787] href="/journal/ajp"
+    image "American Journal of Psychiatry Logo" [ref_1788]
+  group "2 / 8" [ref_1789]
+   link "Focus Logo" [ref_1790] href="/journal/foc"
+    image "Focus Logo" [ref_1791]
+  group "3 / 8" [ref_1792]
+   link "The Journal of Neuropsychiatry and Clinical Neurosciences Logo" [ref_1793] href="/journal/jnp"
+    image "The Journal of Neuropsychiatry and Clinical Neurosciences Logo" [ref_1794]
+  group "4 / 8" [ref_1795]
+   link "Psychiatric Research and Clinical Practice Logo" [ref_1796] href="/journal/apt"
+    image "Psychiatric Research and Clinical Practice Logo" [ref_1797]
+  group "5 / 8" [ref_1798]
+   link "Psychiatric Services Logo" [ref_1799] href="/journal/ps"
+    image "Psychiatric Services Logo" [ref_1800]
+  group "6 / 8" [ref_1801]
+   link "American Journal of Psychotherapy Logo" [ref_1802] href="/journal/apt"
+    image "American Journal of Psychotherapy Logo" [ref_1803]
+  group "7 / 8" [ref_1804]
+   link "DSM Library Logo" [ref_1805] href="/dsm"
+    image "DSM Library Logo" [ref_1806]
+  group "8 / 8" [ref_1807]
+   link "Psychiatric News" [ref_1808] href="/psychiatricnews"
+    image "Psychiatric News" [ref_1809]
+  generic [ref_1810]
+ region [ref_1811]
+  link "go to the APA Publishing Homepage" [ref_1812] href="http://appi.org.ezproxy.lib.ucalgary.ca"
+   image "American Psychiatric Association's Publishing Department" [ref_1813]
+  generic "Follow us" [ref_1814]
+  list [ref_1815]
+   listitem [ref_1816]
+    link "Facebook" [ref_1817] href="https://www.facebook.com/PsychiatryOnline/"
+   listitem [ref_1818]
+    link "RSS feeds" [ref_1819] href="/action/showFeed?ui=0&jc=ajp&type=etoc&feed=rss"
+   listitem [ref_1820]
+    link "X" [ref_1821] href="https://twitter.com/APA_publishing"
+   listitem [ref_1822]
+    link "Youtube" [ref_1823] href="https://www.youtube.com/@AmericanPsychiatricAssociation"
+   listitem [ref_1824]
+    link "Linkedin" [ref_1825] href="https://www.linkedin.com/company/american-psychiatric-association/"
+  list [ref_1826]
+   listitem "Information" [ref_1827]
+   listitem [ref_1828]
+    link "Libraries & Institutions" [ref_1829] href="http://www.appi.org.ezproxy.lib.ucalgary.ca/institutions"
+   listitem [ref_1830]
+    link "Advertisers" [ref_1831] href="/advertising"
+   listitem [ref_1832]
+    link "Subscriptions" [ref_1833] href="/store/home"
+   listitem [ref_1834]
+    link "International" [ref_1835] href="/international"
+   listitem [ref_1836]
+    link "Media & Journalists" [ref_1837] href="/media_journalists"
+   listitem [ref_1838]
+    link "Reprints & Permissions" [ref_1839] href="/reprintspermissions"
+   listitem [ref_1840]
+    link "Copyright & Legal Disclaimer" [ref_1841] href="/copyright"
+  list [ref_1842]
+   listitem "Help and About Us" [ref_1843]
+   listitem [ref_1844]
+    link "Become an APA Member" [ref_1845] href="https://www.psychiatry.org/join-apa"
+   listitem [ref_1846]
+    link "About" [ref_1847] href="/public/about"
+   listitem [ref_1848]
+    link "Help" [ref_1849] href="/public/help"
+   listitem [ref_1850]
+    link "Accessibility" [ref_1851] href="/accessibility"
+   listitem [ref_1852]
+    link "Contact Us" [ref_1853] href="/contact"
+  button [ref_1854]
+   generic "Back to top" [ref_1855]
+ region [ref_1856]
+  generic "© American Psychiatric Association" [ref_1857]
+   generic "2026" [ref_1858]
+  list [ref_1859]
+   listitem [ref_1860]
+    link "Continue to the Terms of Use Page" [ref_1861] href="/termsofuse"
+   listitem [ref_1862]
+    link "Continue to the Privacy Policy Page" [ref_1863] href="/privacypolicy"
+dialog [ref_1864]
+ document [ref_1865]
+  heading "Request Username" [ref_1866]
+  button "close" [ref_1867] type="button"
+   generic "Close" [ref_1868]
+  form [ref_1869]
+   textbox "requestUsername" [ref_1870] type="hidden"
+   generic "Can't sign in? Forgot your username? Enter your email address below and we ..." [ref_1871]
+   label "Email" [ref_1872]
+   textbox "Email" [ref_1873] type="text"
+   button [ref_1874] type="submit"
+    generic "Submit" [ref_1875]
+  generic "If the address matches an existing account you will receive an email with instructions to retrieve y" [ref_1876]
+dialog [ref_1877]
+ document [ref_1878]
+  heading "Create a new account" [ref_1879]
+  button "close" [ref_1880] type="button"
+   generic "Close" [ref_1881]
+  form [ref_1882]
+   textbox "/doi/10.1176/appi.ajp.2018.18070834" [ref_1883] type="hidden"
+   label "Email" [ref_1884]
+   textbox "Email" [ref_1885] type="email"
+   link "Returning user" [ref_1886] href="https://psychiatryonline-org.ezproxy.lib.ucalgary.ca/action/ssostart?idp=https%3A%2F%2Fpsychiatry.my.salesforce.com&redirectUri=https%3A%2F%2Fpsychiatryonline.orgnull"
+   button [ref_1887] type="submit"
+    generic "Submit" [ref_1888]
+dialog [ref_1889]
+ document [ref_1890]
+  heading "Change Password" [ref_1891]
+  button "close" [ref_1892] type="button"
+   generic "Close" [ref_1893]
+  form [ref_1894]
+   textbox "submit" [ref_1895] type="hidden"
+   label "Old Password" [ref_1896]
+   textbox "Old Password" [ref_1897] type="password"
+   label "New Password" [ref_1898]
+   textbox "New Password" [ref_1899] type="password"
+   button [ref_1900] type="submit"
+    generic "Submit" [ref_1901]
+  heading "Password Changed Successfully" [ref_1902]
+  generic "Your password has been changed" [ref_1903]
+dialog [ref_1904]
+ document [ref_1905]
+  heading "Login" [ref_1906]
+  button "close" [ref_1907] type="button"
+   generic "Close" [ref_1908]
+  form [ref_1909]
+   textbox "8b9d5478-8260-48b2-a3be-5ada5fb5bce7" [ref_1910] type="hidden"
+   textbox "/doi/10.1176/appi.ajp.2018.18070834" [ref_1911] type="hidden"
+   textbox "/doi/10.1176/appi.ajp.2018.18070834" [ref_1912] type="hidden"
+   textbox "true" [ref_1913] type="hidden"
+   label "Username" [ref_1914]
+   textbox "Enter your email" [ref_1915] type="text" placeholder="Enter your email"
+   link "Forgot username?" [ref_1916] href="/action/requestUsername" type="button"
+   label "Password" [ref_1917]
+   textbox "Enter your password" [ref_1918] type="password" placeholder="Enter your password"
+   button "Show password" [ref_1919]
+   generic "Forgot your password?" [ref_1920]
+   link "Reset it here" [ref_1921] href="/action/requestResetPassword" type="button"
+   checkbox "Keep me logged in" [ref_1922] type="checkbox"
+   label "Keep me logged in" [ref_1923]
+   button [ref_1924] type="submit"
+    generic "Login" [ref_1925]
+   generic "Don’t have an account?" [ref_1926]
+   link "Register here" [ref_1927] href="/action/registration"
+dialog [ref_1928]
+ document [ref_1929]
+  heading "Reset password" [ref_1930]
+  button "close" [ref_1931] type="button"
+   generic "Close" [ref_1932]
+  generic "Can't sign in? Forgot your password?" [ref_1933]
+  generic "Enter your email address below and we will send you the reset instructions" [ref_1934]
+  form [ref_1935]
+   textbox "true" [ref_1936] type="hidden"
+   label "Email" [ref_1937]
+   textbox "Enter your email" [ref_1938] type="email" placeholder="Enter your email"
+   button [ref_1939] type="submit"
+    generic "Submit" [ref_1940]
+  generic "If the address matches an existing account you will receive an email with instructions to reset your" [ref_1941]
+dialog [ref_1942]
+ document [ref_1943]
+  heading "Change Password" [ref_1944]
+  button "close" [ref_1945] type="button"
+   generic "Close" [ref_1946]
+  form [ref_1947]
+   textbox "submit" [ref_1948] type="hidden"
+   label "Enter the verification code" [ref_1949]
+   textbox "Enter the verification code" [ref_1950] type="text"
+   button [ref_1951] type="submit"
+    generic "Submit" [ref_1952]
+  heading "Congrats!" [ref_1953]
+  generic "Your Phone has been verified" [ref_1954]
+generic [ref_1955]
+generic "As described within the American Psychiatric Association (APA)'s and , this website utilizes cookie." [ref_1956]
+ link "Privacy Policy" [ref_1957] href="/action/clickThrough?id=501153&url=%2Faction%2FclickThrough%3Fid%3D501152%26amp%3Burl%3Dhttps%253A%252F%252Fpsychiatryonline.org%252Fprivacypolicy%26amp%3Bloc%3D%252F%26amp%3BplaceholderId%3D501117%26amp%3BproductId%3D1010&loc=%2Fdoi%2F10.1176%2Fappi.ajp.2018.18070834&pubId=40736619&placeholderId=501118&productId=1010"
+ link "Terms of Use" [ref_1958] href="/action/clickThrough?id=501153&url=%2Faction%2FclickThrough%3Fid%3D501152%26amp%3Burl%3Dhttps%253A%252F%252Fpsychiatryonline.org%252Ftermsofuse%26amp%3Bloc%3D%252F%26amp%3BplaceholderId%3D501117%26amp%3BproductId%3D1010&loc=%2Fdoi%2F10.1176%2Fappi.ajp.2018.18070834&pubId=40736619&placeholderId=501118&productId=1010"
+generic "Close" [ref_1959]
+dialog [ref_1960]
+ label [ref_1961]
+ textbox "Copy link" [ref_1962] type="text"
+ dialog [ref_1963]
+  generic "Thanks for sharing!" [ref_1964]
+dialog "Share" [ref_1965]
+ label [ref_1966]
+ textbox "Find any service" [ref_1967] type="text"
+ presentation [ref_1968]
+ link "Share Buttons" [ref_1969] href="https://www.addtoany.com"
+generic "Share" [ref_1970]
+ link "Show all" [ref_1971] href="#addtoany"
+  generic "More…" [ref_1972]
+generic "AddToAny Utility Frame" [ref_1973]
+
+Viewport: 1134x672
+
+
+Tab Context:
+- Executed on tabId: 1159646026
+- Available tabs:
+  • tabId 1159646026: "Single, Repeated, and Maintenance Ketamine Infusions for Treatment-Resistant Depression: A Randomized Controlled Trial | American Journal of Psychiatry" (https://psychiatryonline-org.ezproxy.lib.ucalgary.ca/doi/10.1176/appi.ajp.2018.18070834)

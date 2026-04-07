@@ -1,0 +1,151 @@
+id,title,decision,category,confidence,notes
+9758,Cognitive-behavioral versus psychodynamic therapy,EXCLUDE,non-pharma,high,Psychotherapy comparison (CBT vs psychodynamic); Dutch study; no pharmacotherapy intervention for MH
+9759,A mind-body lifestyle intervention enhances emotional,EXCLUDE,non-pharma,high,Mind-body intervention vs CBT for depression; no pharmacotherapy; not Canadian
+9760,Is It Time for Going Beyond the P-Value Paradigm,EXCLUDE,methodology,high,Methodological/statistical paper on clinical trial design; not an RCT
+9761,Reward related ventral striatal activity,EXCLUDE,non-Canadian,high,EMBARC study - US multisite RCT; sertraline vs placebo for MDD; not Canadian
+9762,Patient Expectancy as a Mediator of Placebo Effects,EXCLUDE,non-Canadian,high,Citalopram RCT for MDD; no Canadian site indicated
+9763,Clinical validation of combinatorial pharmacogenomic,EXCLUDE,non-Canadian,high,GUIDED trial - US-based pharmacogenomic trial for MDD
+9764,Brexanolone in Postpartum Depression,EXCLUDE,non-Canadian,high,Brexanolone for PPD; US FDA-approved; no Canadian site indicated
+9765,Outcome of a three-phase treatment algorithm,EXCLUDE,non-Canadian,high,Single-center treatment algorithm for MDD; Netherlands study
+9766,Psychometric Properties of the Chinese Version,EXCLUDE,non-Canadian,high,Validation study of CUDOS in China; not an RCT of pharmacotherapy
+9767,A randomised clinical pilot trial to test,EXCLUDE,non-pharma,high,Parent training for ASD; non-pharmacological intervention
+9768,"A pilot, open-label investigation of glucosamine",EXCLUDE,non-Canadian,high,Open-label pilot of glucosamine for depression; not Canadian; not RCT
+9769,Effect of Nursing Outcome-Oriented Intervention,EXCLUDE,non-MH,high,Nursing intervention for elderly bedridden patients; not MH pharma RCT
+9770,"Depression and physical health, therapeutic alliance",EXCLUDE,non-Canadian,high,Duloxetine vs escitalopram +/- ASA for MDE; no Canadian site indicated
+9771,Comparative Study on Safety and Efficacy of Desvenlafaxine,EXCLUDE,non-Canadian,high,Desvenlafaxine vs sertraline for depression; not Canadian
+9772,"Double-blind, randomized crossover study of IV magnesium",EXCLUDE,non-Canadian,high,Magnesium sulfate for TRD; small (n=12); no Canadian site indicated
+9773,Telephone-based cognitive behavioral therapy for depression,EXCLUDE,non-pharma,high,T-CBT for depression in Parkinson disease; non-pharma intervention
+9774,19. Impact of Investigational Purified Microbiome,EXCLUDE,non-MH,high,Microbiome therapeutic for C. diff infection; not MH
+9775,Effect on return to work of Individual Placement,EXCLUDE,non-pharma,high,IPS vocational intervention for mood/anxiety disorders; Denmark; non-pharma
+9776,Effect of Telehealth Treatment by Lay Counselors,EXCLUDE,non-pharma,high,Telehealth behavioral activation vs PST for depression; US study; non-pharma
+9777,Do side effects of antidepressants impact efficacy,EXCLUDE,secondary analysis,high,Pooled patient-level analysis of duloxetine trials; secondary/post-hoc analysis
+9778,Anti-Inflammatory Effects of Chinese Herbal Formulae in Asthma,EXCLUDE,non-MH,high,Chinese herbal for asthma; not MH pharmacotherapy RCT
+9779,Role of Lactium in Psychodermatology: CERTAIN Trial,EXCLUDE,non-MH,high,Lactium for stress/acne; not a diagnosed MH condition; India
+9780,IMPROVING KNOWLEDGE TRANSFER OF PREVENTATIVE CARE IN IBD,EXCLUDE,non-MH,medium,Educational intervention for IBD trainees; Canadian (U of T) but not MH pharma RCT
+9781,"Relationships between circadian measures, depression",EXCLUDE,non-Canadian,high,Fluoxetine + TIB restriction RCT for MDD; no Canadian site indicated
+9782,Single i.v. ketamine augmentation of escitalopram,EXCLUDE,non-Canadian,high,Ketamine + escitalopram for MDD; no Canadian site indicated
+9783,High- versus low-intensity internet interventions for alcohol,EXCLUDE,non-pharma,high,Internet interventions for AUD; Sweden; non-pharmacological
+9784,Determinants of antidepressant response,EXCLUDE,secondary analysis,high,Pooled analysis of industry trials (NEWMEDS); secondary analysis
+9785,Transcranial direct current stimulation for vascular depression,EXCLUDE,non-pharma,high,tDCS as augmentation for vascular depression; Italy; neuromodulation not pharma
+9786,Feasibility of Exercise and CBT Intervention for Depression,EXCLUDE,non-pharma,high,Exercise + CBT for depression; non-pharmacological; small pilot (n=10)
+9787,Effects of Developmental Bibliotherapy on Subjective Well-Being,EXCLUDE,non-pharma,high,Bibliotherapy for older adults; non-pharma; no diagnosed MH condition
+9788,Patient with Treatment-resistant Depression Who Achieved Remission,EXCLUDE,case report,high,Case report of heated yoga for TRD; not an RCT
+9789,"Short-term effects of estradiol, raloxifene, phytoestrogen",EXCLUDE,non-Canadian,high,Estrogen compounds for perimenopausal depression; not Canadian
+9790,Increased plasma nesfatin-1 levels in MDD,EXCLUDE,non-RCT,high,Cross-sectional biomarker study in MDD; China; not an RCT
+9791,Chart review valsartan-amlodipine for blood pressure,EXCLUDE,non-MH,high,Antihypertensive chart review; depression scales as secondary outcome only
+9792,Efficacy of Low Dose Denosumab in Osteoporosis,EXCLUDE,non-MH,high,Denosumab for osteoporosis; not MH
+9793,"Screening for Depression, Anxiety, Suicide Risk in Children",EXCLUDE,review,high,Evidence review for USPSTF; not an RCT
+9794,Cognitive Considerations in Major Depression,EXCLUDE,non-Canadian,high,ECT + drug therapy for MDD cognitive deficits; not Canadian
+9795,Effects of Tianeptine on Depression in Alzheimer's Disease,EXCLUDE,observational,high,Retrospective observational study; not RCT
+9796,Preliminary Evidence of Pramipexole in Anhedonic Depression,EXCLUDE,non-RCT,high,Open-label pilot study; not an RCT
+9797,Microdosing and standard-dosing take-home buprenorphine,EXCLUDE,non-Canadian,medium,ED-initiated buprenorphine for OUD; feasibility study; unclear if Canadian but abstract says 'large urban ED' without Canadian indicators
+9798,Effectiveness of Metacognitive Therapy vs Behavioral Activation,EXCLUDE,non-pharma,high,Psychotherapy comparison for MDD; non-pharmacological
+9799,Efficacy and Safety of Electroacupuncture for Depression Sleep,EXCLUDE,non-pharma,high,Protocol for electroacupuncture trial; China; non-pharma; protocol without results
+9800,Preliminary RCT of Different Treatment Regimens for Melancholic,EXCLUDE,non-Canadian,high,Multi-arm RCT for melancholic depression including fluoxetine; China; not Canadian
+9801,Web- and Mobile-Based Intervention for Depression + Back Pain,EXCLUDE,non-pharma,high,Internet-based CBT for depression + chronic back pain; Germany; non-pharma
+9802,Impact of pharmacogenomics in MDD in GUIDED trial,EXCLUDE,non-Canadian,high,GUIDED trial - US-based pharmacogenomic RCT for MDD
+9803,Effectiveness of electroacupuncture for postherpetic neuralgia,EXCLUDE,non-MH,high,Electroacupuncture for neuralgia; China; not MH
+9804,Sham-controlled randomized trial of adjunctive light therapy,EXCLUDE,non-pharma,high,Light therapy for non-seasonal depression; neuromodulation not pharma
+9805,Comparison of perpendicular vs transverse needling at SP6,EXCLUDE,non-MH,high,Acupuncture for primary dysmenorrhea; China; not MH
+9806,Effect of acupuncture on lung cancer-related fatigue,EXCLUDE,non-MH,high,Acupuncture for cancer fatigue; China; protocol; not MH
+9807,Long-term effect of acupuncture for chronic tension-type headache,EXCLUDE,non-MH,high,Acupuncture for headache; China; protocol; not MH
+9808,Verbal memory predicts treatment outcome in anxious depression,EXCLUDE,non-Canadian,high,iSPOT-D trial; antidepressant RCT; international but no Canadian site indicated
+9809,Comparative Assessment of Anxiety During Rapid Maxillary Expansion,EXCLUDE,non-MH,high,RME in cleft palate; not MH pharmacotherapy
+9810,Efficacy of Group ACT for Preventing Post-Stroke Depression,EXCLUDE,non-pharma,high,Group ACT psychotherapy for post-stroke depression; China; non-pharma
+9811,Effects of pestle needle therapy on post-hemorrhoidectomy pain,EXCLUDE,non-MH,high,Acupoint stimulation for post-surgical pain; China; not MH
+9812,Effectiveness of Emotional Memory Reactivation Before ECT,EXCLUDE,non-pharma,high,Memory reactivation + ECT for MDD; Netherlands; neuromodulation/psychological
+9813,Evaluation of Spiritual care on anxiety and depression,EXCLUDE,non-pharma,high,Spiritual care for anxiety/depression; non-pharmacological; not Canadian
+9814,Acupuncture combined with SSRIs for depression,EXCLUDE,non-Canadian,high,Acupuncture + SSRIs for depression; China; not Canadian
+9815,Selective Nociceptin Receptor Antagonist to Treat Depression,EXCLUDE,non-Canadian,high,LY2940094 for MDD; POC trial; no Canadian site indicated
+9816,Effectiveness of Supplementary CBT for Pharmacotherapy-Resistant,EXCLUDE,non-Canadian,high,CBT supplementation for pharmacotherapy-resistant MDD; Japan; not Canadian
+9817,Effect of laser biostimulation and low-calorie diet,EXCLUDE,non-MH,high,Laser + diet for obese postmenopausal women; not MH pharma RCT
+9818,Randomized clinical trial of adjunctive ketamine in ECT,EXCLUDE,non-Canadian,high,Ketamine anesthesia in ECT for depression; China; not Canadian
+9819,Concise Health Risk Tracking-Self Report psychometrics,EXCLUDE,non-Canadian,high,EMBARC study psychometrics; US multisite; not Canadian
+9820,Pharmacoeconomic Review: Vortioxetine (Trintellix),EXCLUDE,review,high,CADTH pharmacoeconomic review; Canadian but not an RCT; health technology assessment
+9821,Initiate Danhong Injection before/after PCI for STEMI,EXCLUDE,non-MH,high,Protocol for Danhong injection in STEMI; China; not MH
+9822,Treatment of trauma-affected refugees with venlafaxine vs sertraline,EXCLUDE,non-Canadian,high,Venlafaxine vs sertraline for PTSD in refugees; Denmark; not Canadian
+9823,Antihyperalgesic effect of gamma-terpinene for neuropathic pain,EXCLUDE,animal,high,Animal study on neuropathic pain; not human; not MH
+9824,Effects of Attentional Bias Modification on residual depression,EXCLUDE,non-pharma,high,ABM training for residual depression; Norway; non-pharmacological
+9825,Efficacy of rTMS and agomelatine on sleep quality in depression,EXCLUDE,non-Canadian,high,rTMS + agomelatine for mild-moderate depression; not Canadian
+9826,Health-related quality of life in Chinese menstrual migraine,EXCLUDE,non-MH,high,Cross-sectional study of migraine QoL; China; not MH RCT
+9827,Psychological Status after Augmented MBCT for Depression,EXCLUDE,non-Canadian,high,MBCT + pharmacotherapy for depression; China; not Canadian
+9828,Effect of istradefylline on mood disorders in Parkinson's,EXCLUDE,non-Canadian,high,Istradefylline open-label for PD mood disorders; Japan; not RCT; not Canadian
+9829,Subjective Cognitive Decline and Post-operative Delirium,EXCLUDE,non-MH,high,SCD and post-op delirium after hip replacement; China; not MH pharma RCT
+9830,Safety of WALANT for lower limb surgery,EXCLUDE,non-MH,high,Local anesthesia for limb surgery; not MH
+9831,Does rTMS reduce depressive symptoms in young people,EXCLUDE,non-pharma,high,rTMS for treatment-resistant depression in youth; Australia; neuromodulation; retrospective
+9832,Early improvement predicts 8-week treatment outcome in GAD,EXCLUDE,non-Canadian,high,Escitalopram/venlafaxine for GAD; China; not Canadian
+9833,Out of my league: Appraisals of anxiety in SAD,EXCLUDE,non-pharma,high,Experimental study of social perception in SAD; not pharmacotherapy RCT
+9834,Empathetic nursing with mindful cognitive therapy for leukemia,EXCLUDE,non-MH,high,Nursing intervention for leukemia chemo patients; China; not MH pharma RCT
+9835,Effect of Tiaoshen Kaiqiao acupuncture for post-stroke depression,EXCLUDE,non-pharma,high,Acupuncture vs fluoxetine for post-stroke depression; China; non-pharma primary
+9836,Efficacy of Hypericum extract vs paroxetine,EXCLUDE,non-Canadian,high,Hypericum vs paroxetine for moderate MDE; subgroup analysis; not Canadian
+9837,Effect of immediate BP reduction on post-stroke depression,EXCLUDE,non-MH,high,CATIS trial - antihypertensive for stroke; PSD as secondary outcome; China
+9838,Vortioxetine for MDD: indirect comparison,EXCLUDE,review,high,Indirect comparison/meta-analytic approach; not an original RCT
+9839,Family psychoeducation for MDD - study protocol,EXCLUDE,protocol,high,Protocol for family psychoeducation RCT; Denmark; non-pharma; protocol w/o results
+9840,ACT for Depression after Psychosis,EXCLUDE,non-pharma,high,ACT psychotherapy for depression after psychosis; non-pharma
+9841,Moderators of response to sertraline in cocaine dependence,EXCLUDE,non-Canadian,high,Sertraline for cocaine dependence; secondary/moderator analysis; not Canadian
+9842,Evaluating benefits of youth mental health curriculum in Nicaragua,EXCLUDE,non-pharma,medium,Canadian MHC program delivered in Nicaragua; non-pharma educational intervention
+9843,Computerized-Adaptive vs Traditional Ratings in Ketamine Trial,EXCLUDE,methodology,high,Methodological pilot comparing rating instruments in ketamine trial; not primary RCT
+9844,Correction: Association Between Clinician Factors and CPT Fidelity,EXCLUDE,non-pharma,high,Implementation study of CPT for PTSD; non-pharmacological
+9845,Comparison of Aripiprazole vs Bupropion Augmentation in MDD,EXCLUDE,non-Canadian,high,Aripiprazole vs bupropion augmentation for MDD; Korea; not Canadian
+9846,Hamilton scale and MADRS are interchangeable in meta-analyses,EXCLUDE,methodology,high,Methodological study comparing rating scales; not an RCT
+9847,Health-Related Quality of Life in PCOS (BC CaMos),EXCLUDE,non-MH,high,Cross-sectional QoL study in PCOS; Canadian (BC) but not MH pharma RCT
+9848,Association of BMI with treatment outcomes in MDD,EXCLUDE,secondary analysis,high,Post-hoc analysis of clinical trial data on BMI and MDD outcomes
+9849,Efficacy of Tianeptine in Elderly Patients with MDD,EXCLUDE,non-Canadian,high,Tianeptine vs placebo vs escitalopram for elderly MDD; 10 countries; no Canadian site indicated
+9850,Effect of Estradiol Valerate on perimenopausal women,EXCLUDE,non-MH,high,Estradiol valerate for perimenopausal syndrome; China; not a diagnosed MH condition
+9851,Subjective Taste and Smell Changes in FC and IBS,EXCLUDE,non-MH,high,GI disorder study (FC/IBS); China; not MH pharma RCT
+9852,Management Based on Multimodal Brain Monitoring,EXCLUDE,non-MH,high,Anesthesia management for spinal surgery; China; not MH
+9853,Reliability and Validity of THINC-it for Bipolar Depression,EXCLUDE,non-RCT,high,Validation study of cognitive screening tool; China; not an RCT
+9854,Early effect on general interest of agomelatine vs escitalopram,EXCLUDE,non-Canadian,high,Agomelatine vs escitalopram for MDD; Romania; not Canadian
+9855,Effect of palliative care on caregiver anxiety/depression,EXCLUDE,non-pharma,high,Palliative care intervention for caregivers; China; non-pharma
+9856,LEVODOPA AUGMENTATION FOR NEGATIVE SYMPTOMS IN SCHIZOPHRENIA,EXCLUDE,non-Canadian,high,Open-label pilot of levodopa for schizophrenia negative symptoms; not RCT; not Canadian
+9857,Vitamin D supplementation for anxiety/depression symptoms,EXCLUDE,non-Canadian,high,Vitamin D for depression/anxiety; China; not Canadian
+9858,Influences of Big Five personality traits on depression in ACS,EXCLUDE,non-Canadian,high,Escitalopram vs placebo for depression in ACS; Korea; not Canadian
+9859,Home-based exercise for caregivers of persons with dementia,EXCLUDE,non-pharma,high,Exercise (Tai Chi) protocol for caregiver depression; Hong Kong; non-pharma; protocol
+9860,Treatment Adequacy and Adherence as Predictors of Depression Response,EXCLUDE,secondary analysis,high,Secondary analysis of adherence RCT; US primary care
+9861,Happiness During Low-Dose Ketamine Infusion Predicts Response,EXCLUDE,non-Canadian,high,Ketamine for TRD; Taiwan; not Canadian
+9862,Effects of Wait Times on Treatment Adherence in SDB,EXCLUDE,non-MH,medium,Secondary analysis of sleep-disordered breathing trial; Calgary/Canadian but SDB is not a diagnosed MH condition; no MH pharma intervention
+9863,Transient decrease in sound tolerance following hearing deprivation,EXCLUDE,non-MH,high,Audiology experimental study; not MH
+9864,Somapacitan (Sogroya) CADTH Reimbursement,EXCLUDE,non-MH,high,Growth hormone for pediatric GHD; CADTH review; not MH
+9865,Comparative Effectiveness of CT and DT for MDD,EXCLUDE,non-pharma,high,CT vs dynamic psychotherapy for MDD; US community setting; non-pharma
+9866,Assessment of functional outcomes by SDS in MDD,EXCLUDE,secondary analysis,high,Pooled analysis of duloxetine vs SSRI trials; secondary analysis
+9867,Effects of transtheoretical model on depression in CHD,EXCLUDE,non-pharma,high,TTM + motivational interviewing for depression in CHD; China; non-pharma
+9868,Negative Emotions and Course of Depression in Suicidal Older Adults,EXCLUDE,secondary analysis,high,Secondary analysis of psychotherapy RCT in older adults; US
+9869,"Multicenter RCT of bifrontal, bitemporal, and right unilateral ECT",EXCLUDE,non-pharma,high,ECT electrode placement comparison for MDD; China; neuromodulation
+9870,Mechanisms of change in cognitive therapy for MDD,EXCLUDE,non-pharma,high,Cognitive mechanisms in CT for MDD; US community; non-pharma
+9871,Effect of Paroxetine Combined with Probiotics,EXCLUDE,non-MH,high,Paroxetine + probiotics for diabetes/liver cancer patients; China; primary dx not MH
+9872,Effect of Buprenorphine Weekly Depot (CAM2038),EXCLUDE,non-Canadian,high,Buprenorphine depot for OUD; US multisite; not Canadian
+9873,EFFECTIVENESS OF PEER-BASED INTERVENTION ON OLDER CHINESE IMMIGRANTS IN CANADA,EXCLUDE,non-pharma,high,Peer support for older Chinese immigrants in Canada; Canadian RCT but non-pharma; no diagnosed MH condition
+9874,Guided internet CBT vs gold standard depression treatments,EXCLUDE,non-pharma,high,iCBT comparison for depression; non-pharmacological
+9875,In-vivo imaging of targeting by tDCS for depression,EXCLUDE,non-pharma,high,tDCS neuroimaging RCT for depression; neuromodulation not pharma
+9876,Consistency checks to improve measurement with HAM-D,EXCLUDE,methodology,high,Methodological study on rating scale consistency; not an RCT
+9877,Repeated low-dose oral esketamine for TRD: pilot study,EXCLUDE,non-RCT,high,Open-label pilot (n=7) of oral esketamine; not an RCT
+9878,Subjective Taste and Smell Changes in Globus Patients,EXCLUDE,non-MH,high,Study of taste/smell in globus patients; not MH pharma RCT
+9879,Reduced multisensory facilitation in autism,EXCLUDE,non-pharma,high,Experimental perception study in autism; not pharmacotherapy
+9880,Therapeutic effects of BLT + escitalopram for poststroke depression,EXCLUDE,non-Canadian,high,BLT + escitalopram for PSD insomnia; China; not Canadian
+9881,Evaluating response to mood stabilizers in mixed depression,EXCLUDE,non-Canadian,high,Open-label mood stabilizer trial for mixed bipolar; Brazil; not Canadian
+9882,Effect of Brahmi vati and Sarpagandha Ghana vati in hypertension,EXCLUDE,non-MH,high,Ayurvedic medicine for hypertension; India; not MH
+9883,Whether Fire-needle Therapy Benefits Plaque Psoriasis,EXCLUDE,non-MH,high,Fire-needle for psoriasis; China; not MH
+9884,Validity of patient-evaluated medication adherence in bipolar,EXCLUDE,non-Canadian,high,MONARCA trials - smartphone adherence in bipolar; Denmark; secondary analysis
+9885,Algorithm-Guided Treatment for Depressed Inpatients (GAP3),EXCLUDE,non-Canadian,high,Algorithm-guided MDD treatment RCT; Germany; not Canadian
+9886,Efficacy of neuromuscular electrical stimulation in cerebral infarction,EXCLUDE,non-MH,high,NMES for dysphagia after cerebral infarction; China; not MH pharma
+9887,Improvements in irritability with sertraline vs placebo,EXCLUDE,non-Canadian,high,EMBARC study - sertraline for irritability in MDD; US multisite; not Canadian
+9888,Dose-Related Effects of Adjunctive Ketamine in Taiwanese TRD,EXCLUDE,non-Canadian,high,Ketamine for TRD; Taiwan; not Canadian
+9889,Frontoparietal Activation Predicts Remission to Antidepressants,EXCLUDE,non-Canadian,high,iSPOT-D neuroimaging substudy; antidepressant predictors; not Canadian
+9890,OLDER PERSONS WITH HIV IN CANADIAN HOME AND LONG-TERM CARE,EXCLUDE,non-MH,high,Observational study of HIV in Canadian care contexts; not MH pharma RCT
+9891,Novel Treatment of Opioid Cravings With Transcranial Photobiomodulation,EXCLUDE,non-pharma,high,Transcranial photobiomodulation for OUD; neuromodulation not pharma
+9892,Effect of Low Dose Ketamine on Learning Memory in ECT,EXCLUDE,non-Canadian,high,Ketamine in ECT for depression; China; not Canadian
+9893,Plasma Circular RNA DYM in MDD and rTMS response,EXCLUDE,non-Canadian,high,Biomarker study + rTMS for MDD; China; not Canadian
+9894,OXYTOCIN ENHANCES VISUAL ATTENTION IN SCHIZOPHRENIA,EXCLUDE,non-Canadian,high,Oxytocin for social cognition in schizophrenia; conference abstract; no Canadian site indicated
+9895,Clinical Efficacy of Modified Danggui-Shaoyao San for Depression in CKD,EXCLUDE,non-Canadian,high,Chinese herbal for depression in CKD; China; not Canadian
+9896,Efficacy of rTMS in Treatment of MDD in Croatia,EXCLUDE,non-pharma,high,rTMS for MDD; Croatia; neuromodulation not pharma; cohort study
+9897,Temporal Associations of Alliance and Adherence in CBT for Depression,EXCLUDE,non-pharma,high,CBT mechanism study for depression; non-pharmacological
+9898,Randomized controlled study of early medication change in MDD,EXCLUDE,non-Canadian,high,EMC strategy RCT for MDD; Germany/Europe; not Canadian
+9899,Transcranial direct current stimulation for interstitial cystitis,EXCLUDE,non-MH,high,tDCS for interstitial cystitis; protocol; not MH
+9900,Effects of Psychosomatic Mutual Aid on Turner Syndrome,EXCLUDE,non-pharma,high,Psychosomatic intervention for Turner syndrome; China; non-pharma
+9901,Reliability and validity of PHQ-9 for MDD in China,EXCLUDE,non-RCT,high,Validation study of PHQ-9 in MDD; China; not an RCT
+9902,Circadian reinforcement therapy for discharged depression patients,EXCLUDE,non-pharma,high,Protocol for circadian/sleep intervention post-discharge for MDD; Denmark; non-pharma
+9903,Actigraphy in MDD Patients Undergoing rTMS,EXCLUDE,non-pharma,high,Open-label rTMS for MDD with actigraphy; neuromodulation; not Canadian
+9904,Identifying best treatment for MDD based on attachment,EXCLUDE,non-pharma,high,Protocol for psychotherapy comparison for MDD; Israel; non-pharma
+9905,Smartphone application for unhealthy alcohol use,EXCLUDE,non-pharma,high,Smartphone app for alcohol use; Sweden; non-pharmacological; no diagnosed MH
+9906,Incidence of nocebo response in placebo arms of olanzapine trials,EXCLUDE,secondary analysis,high,Meta-analysis of placebo arms in olanzapine bipolar trials; not primary RCT
+9907,Effect of psychoeducation on late life depression - Protocol,EXCLUDE,non-pharma,high,Protocol for psychoeducation in late-life depression; non-pharma; protocol w/o results
