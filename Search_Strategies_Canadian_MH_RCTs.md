@@ -1,5 +1,7 @@
 # Search Strategies: EDIA Representation in Canadian Mental Health Pharmacotherapy RCTs
 
+> **Note:** This document was the original search strategy planning document. The methodology evolved during execution: the "top 100 most-cited" selection was replaced with full screening of all 10,904 eligible records. Databases changed from PubMed/Embase/PsycINFO/CINAHL to PubMed/Europe PMC/OpenAlex/Scopus (API-accessible sources). See `04_database_search/search_strategy.md` for the executed methodology and actual results.
+
 ## Research Question
 Among randomized controlled trials conducted in Canada evaluating pharmacological interventions to prevent, treat, or manage diagnosed mental disorders, what is the representation and reporting of EDIA-related metrics among participants, and how does representation vary across trials and disorders?
 

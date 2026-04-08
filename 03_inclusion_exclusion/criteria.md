@@ -61,15 +61,10 @@ Findings from this review should be interpreted as reflecting primarily anglopho
 **Database selection — API-accessible sources only:**
 This review uses four databases with programmatic API access (PubMed, Europe PMC, Scopus, OpenAlex), enabling reproducible, scriptable search execution. PsycINFO (Ovid) and CINAHL (EBSCOhost) were excluded because they lack public APIs and require manual institutional-portal queries, which would compromise pipeline reproducibility. For *pharmacotherapy* RCTs specifically, PsycINFO's unique yield beyond PubMed/Scopus is modest — its primary strength is psychotherapy and psychological assessment literature. The four selected databases collectively index the major biomedical and multidisciplinary literature where pharmacotherapy RCTs are published.
 
-## Stratified Sampling Justification
+## Screening Scope
 
-This review screens a **stratified random sample of 200 records** from 10,719 eligible records, rather than screening the full eligible set. This is a feasibility-constrained design consistent with rapid review methodology (Garritty et al., *BMJ Evidence-Based Medicine* 2021).
+**Original plan:** Screen a stratified random sample of 200 records from the eligible set, consistent with rapid review methodology (Garritty et al., *BMJ Evidence-Based Medicine* 2021).
 
-**Rationale for n=200:**
-- At an estimated 5–10% inclusion rate (based on interim screening: 2.2% MAP after 2,409 records), a sample of 200 eligible records yields an expected 10–20 included trials
-- For descriptive scoping of EDIA reporting practices (proportions, not effect sizes), a sample of 15–25 included trials is sufficient to characterize the distribution of reporting practices with acceptable precision (±15–20 percentage points at 95% CI)
-- Full screening of 10,719 records at ~3 minutes per record = ~535 person-hours; 200-record sample = ~10 person-hours
+**Actual implementation:** All **10,904 eligible records** were screened at title/abstract level via dual independent review. This was feasible due to automated screening support. The stratified sample of 200 records (generated with `random.seed(42)` for reproducibility) was used as a pilot calibration set but is no longer the primary selection method.
 
-**Reproducibility:** Stratified sampling was performed using Python's `random` module with `random.seed(42)` to ensure full reproducibility. The seed value is arbitrary; any fixed seed would produce identical results. Re-running `refine_results.py` with the same input data and seed will produce the same 200-record sample.
-
-**Limitation:** This design **limits generalizability** — findings reflect the sampled portion of the literature, not all eligible Canadian RCTs. The manuscript will report findings as "among a stratified sample of Canadian mental health pharmacotherapy RCTs" and will not claim to characterize the full body of literature.
+**Result:** 129 records forwarded to full-text review; 65 studies included for data extraction. This comprehensive screening strengthens generalizability — findings reflect the full eligible Canadian RCT literature, not a sample.

@@ -20,15 +20,23 @@ prisma_crosswalk:
   MAP: "Included"
   OUT_OF_SCOPE: "Excluded"
   UNCERTAIN: "Awaiting classification"
-running_totals:
+running_totals_pre_qa:
+  # These are raw totals BEFORE QA audit corrections.
+  # For post-QA final numbers, see SCREENING_COMPLETE.md.
   screened: 10904
   map: 156
   out_of_scope: 10540
   uncertain: 204
-  missing: 4
+  missing: 4  # 4 records not present in batch CSVs (likely batch boundary artifacts)
   conflicts: 0
   agreement_rate: 0.96
   inclusion_rate: 0.014
+post_qa_totals:
+  confirmed_map: 56
+  uncertain_for_fulltext: 38
+  out_of_scope: 10810
+  forwarded_to_fulltext: 129
+  included_after_fulltext: 65
 # SCREENING COMPLETE: 2026-04-01
 # Batches 1-22: prior session (125 MAP)
 # Batches 23-42: this session, single-screened + QA audited (+20 MAP after corrections)

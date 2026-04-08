@@ -254,7 +254,7 @@ Trial demographics will be compared to Canadian population benchmarks:
 ## Coding Process
 
 1. Two independent reviewers extract data from each included trial
-2. Pilot calibration on **first 30 trials** (increased from 20; per CONSORT-Equity recommendation, Welch et al., *BMJ* 2019); calculate inter-rater agreement for key fields listed below
+2. Pilot calibration on **first 30 trials** (increased from 20; per CONSORT-Equity recommendation, Welch et al., *BMJ* 2017); calculate inter-rater agreement for key fields listed below
 3. Resolve disagreements by consensus; involve third reviewer if unresolved
 4. Target **kappa > 0.80** before proceeding to full extraction
 
@@ -273,7 +273,7 @@ Trial demographics will be compared to Canadian population benchmarks:
 Rationale: Race/ethnicity and Indigenous participation fields have highly skewed marginal distributions (most trials will score "No" or "Partial"). Chance agreement inflates overall kappa in such cases; category-specific agreement prevents this artefact (Viera & Garrett, *American Family Physician* 2005).
 
 **CONSORT-Equity alignment:**
-This review uses CONSORT-Equity (Welch et al., *BMJ* 2019) as a supplementary reporting quality benchmark. For each included trial, code `consort_equity_compliant` (Yes / Partial / No) based on whether the trial reports:
+This review uses CONSORT-Equity (Welch et al., *BMJ* 2017) as a supplementary reporting quality benchmark. For each included trial, code `consort_equity_compliant` (Yes / Partial / No) based on whether the trial reports:
 - Sociodemographic characteristics of randomized participants (Item 15 extension)
 - Equity-relevant subgroup analyses (Item 18 extension)
 - Generalizability discussion with reference to equity (Item 21 extension)

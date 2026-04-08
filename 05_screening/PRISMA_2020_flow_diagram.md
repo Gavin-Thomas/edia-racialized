@@ -17,14 +17,14 @@
  └──────────────────────────────────────────────┘
                         │
                         ▼
- Records removed before screening (n = 43,764):
+ Records removed before screening (n = 43,579):
  ┌──────────────────────────────────────────────┐
  │  Duplicate records ............. 14,497      │
- │  No abstract available ..........  4,152     │
- │  Outside date range (2016-2026) . 1,345      │
- │  Not relevant (missing Canada/   22,913      │
+ │  No abstract available ..........  1,557     │
+ │  Outside date range (2016-2026) . 12,473     │
+ │  Not relevant (missing Canada/   12,511      │
  │    MH/RCT terms in title/abstract)           │
- │  Systematic reviews / MAs .......   857      │
+ │  Systematic reviews / MAs .......  2,541     │
  └──────────────────────────────────────────────┘
                         │
                         ▼
@@ -32,7 +32,7 @@
                      SCREENING
  ================================================================
 
- Records screened at title/abstract (n = 10,719)
+ Records screened at title/abstract (n = 10,904)
  ┌──────────────────────────────────────────────┐
  │  Method: Dual independent screening          │
  │    Reviewer 1 + Reviewer 2 (independent)     │
@@ -44,7 +44,7 @@
            │                          │
            ▼                          ▼
  Records excluded             Reports sought for
- (n = 10,590)                 full-text retrieval
+ (n = 10,775)                 full-text retrieval
  ┌────────────────────┐       (n = 129)
  │ Both reviewers     │              │
  │ agreed: exclude    │              │
@@ -133,21 +133,21 @@ Search strategy: 3 concept blocks (Mental Health + RCT Design + Canada) combined
 | Filter | Records removed | Remaining |
 |--------|----------------|-----------|
 | Starting unique records | — | 39,986 |
-| No abstract available | 4,152 | 35,834 |
-| Year outside 2016-2026 | 1,345 | 34,489 |
-| Not relevant (missing Canada/MH/RCT terms) | 22,913 | 11,576 |
-| Systematic reviews / meta-analyses | 857 | 10,719 |
+| No abstract available | 1,557 | 38,429 |
+| Year outside 2016-2026 | 12,473 | 25,956 |
+| Not relevant (missing Canada/MH/RCT terms) | 12,511 | 13,445 |
+| Systematic reviews / meta-analyses | 2,541 | 10,904 |
 
 ### Title/Abstract Screening
 
 | Metric | Value |
 |--------|-------|
-| Records screened | 10,719 |
+| Records screened | 10,904 |
 | Screening method | Dual independent reviewers |
 | Inter-rater agreement | 95.2% |
 | QA audits performed | 3 (batches 23-42, 48-73, 1-22 MAP) |
 | Codex false-negative checks | 8 (all 10,904 OUT_OF_SCOPE verified) |
-| Excluded at title/abstract | 10,590 |
+| Excluded at title/abstract | 10,775 |
 | Forwarded to full-text | 129 |
 | — Both reviewers agree include (MAP) | 36 |
 | — Uncertain, needs arbiter | 93 |

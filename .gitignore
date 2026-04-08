@@ -1,0 +1,8 @@
+# Full-text papers (copyrighted)
+06_full_texts/*.pdf
+06_full_texts/*.txt
+06_full_texts/*.xml
+new pdfs/
+
+# macOS
+.DS_Store

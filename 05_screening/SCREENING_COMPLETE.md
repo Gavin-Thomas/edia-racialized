@@ -128,6 +128,10 @@ These are studies where the two independent reviewers disagreed. Most involve:
 
 ---
 
+## Full-Text Forwarding Note
+
+Pre-QA screening flagged **194 records** as MAP or UNCERTAIN (`included_for_fulltext_review.csv`). After QA audits resolved 65 of these to OUT_OF_SCOPE (mostly secondary analyses, non-Canadian sites, and non-pharmacological interventions), **129 records** were forwarded to full-text review (`fulltext_screening_decisions.csv`). Of these 129, **65 studies** were included and **64 excluded** at full-text stage.
+
 ## Screening Process Documentation
 
 1. **10,904 records** retrieved from 4 databases (PubMed, Scopus, Europe PMC, OpenAlex), deduplicated, and filtered

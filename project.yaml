@@ -8,7 +8,7 @@ review_config:
     - OpenAlex
     - Scopus
   language: English
-  selection_method: "Stratified random sample (n=200) by time period and disorder category"
+  selection_method: "Full screening of all 10,904 eligible records (originally planned as stratified sample n=200)"
   framework: PROGRESS-Plus
   focus: "Racialized groups (with separate Indigenous analysis)"
 stages:
@@ -16,6 +16,15 @@ stages:
   research_question: completed
   inclusion_exclusion: completed
   database_search: completed
-  abstract_screening: pending
+  abstract_screening: completed
+  fulltext_screening: completed
   data_extraction: pending
   search_date: "2026-03-30"
+  screening_completed: "2026-04-01"
+  fulltext_completed: "2026-04-02"
+screening_results:
+  total_screened: 10904
+  confirmed_map: 56
+  uncertain_for_fulltext: 38
+  forwarded_to_fulltext: 129
+  included_after_fulltext: 65

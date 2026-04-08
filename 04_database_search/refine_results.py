@@ -4,7 +4,7 @@ Refine deduplicated search results for the EDIA scoping review on
 racialized reporting in Canadian mental health pharmacotherapy RCTs.
 
 Input:  abstracts/combined_deduplicated.csv
-Output: abstracts/top_100_cited.csv
+Output: abstracts/stratified_sample_200.csv
         abstracts/refined_all.csv
         reports/search_log.md
 """
@@ -78,7 +78,7 @@ def year_in_range(row):
 
 # ---------------------------------------------------------------------------
 # Relevance filter: Canada + Mental Health + RCT
-# Applied BEFORE citation ranking so top 100 are actually relevant
+# Applied BEFORE screening so all records entering review are relevant
 # ---------------------------------------------------------------------------
 
 CANADA_TERMS = [

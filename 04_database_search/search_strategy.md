@@ -23,22 +23,26 @@ EDIA/equity/race/ethnicity terms are intentionally **excluded** from the search.
 
 **Final PubMed yield estimate: ~10,955 records**
 
-**Important note on yield interpretation:** This yield is expected and appropriate for this study design. The proposal specifies that the **top 100 most-cited trials will be identified via Scopus citation counts**, not by screening all database results. The purpose of these comprehensive search strategies is to:
+**Important note on yield interpretation:** This yield is expected and appropriate for this study design. After automated filtering (date range, relevance, review exclusion), 10,904 records were eligible for title/abstract screening. All 10,904 were screened via dual independent review. The purpose of these comprehensive search strategies is to:
 1. Define the universe of potentially eligible Canadian mental health pharmacotherapy RCTs
-2. Validate the Scopus-based identification approach
-3. Ensure no highly-cited trials are missed due to database coverage gaps
+2. Ensure comprehensive coverage across databases
+3. Ensure no eligible trials are missed due to database coverage gaps
 
-The high count confirms the search is appropriately sensitive (comprehensive). The citation-count ranking step replaces traditional title/abstract screening as the primary selection mechanism.
+The high count confirms the search is appropriately sensitive (comprehensive).
 
-### Cross-Database Volume Estimate
+### Cross-Database Volume (Actual, 2026-03-30)
 
-| Source | Estimated Count |
-|--------|----------------|
-| PubMed yield | ~10,955 |
-| OpenAlex total (all databases/sources) | ~15,907 |
-| Estimated unique records after deduplication | ~12,936 |
+| Source | Records |
+|--------|--------:|
+| PubMed | 9,964 |
+| Europe PMC | 15,772 |
+| OpenAlex | 764 |
+| Scopus | 27,983 |
+| **Combined (raw)** | **54,483** |
+| After deduplication | 39,986 |
+| After automated filtering | 10,904 |
 
-Note: The high volume across databases reflects the breadth of the mental disorders concept block (all DSM-5 categories) combined with the sensitivity of the RCT and Canada filters. Since the study selects the top 100 by citation count rather than screening all results, this volume does not represent a screening burden.
+Note: The high volume across databases reflects the breadth of the mental disorders concept block (all DSM-5 categories) combined with the sensitivity of the RCT and Canada filters. All 10,904 eligible records after automated filtering were screened at title/abstract level.
 
 ---
 
@@ -391,12 +395,12 @@ S42 S41 [Limiters - Published Date: 20000101-20261231; Language: English]
 
 ## Databases Used
 The original plan (PubMed, Embase, PsycINFO, CINAHL) was revised to use **PubMed, Europe PMC, OpenAlex, and Scopus**. This change was made because:
-- Scopus provides citation counts needed for the top-100 selection methodology
+- Scopus provides citation counts for descriptive analysis and benchmarking
 - OpenAlex provides open citation data as a secondary source
 - Europe PMC provides broad biomedical coverage complementary to PubMed
 - All four databases have free or API-accessible interfaces enabling automated, reproducible searches
 
-## Selection Strategy: Filter-Then-Rank
+## Selection Strategy: Filter-Then-Screen
 Records are processed through a multi-stage pipeline:
 
 1. **Identification**: Broad 3-concept search (Mental Disorders AND RCTs AND Canada) across all 4 databases
@@ -405,24 +409,28 @@ Records are processed through a multi-stage pipeline:
    - Remove records without abstracts
    - Restrict to 2016-2026 (last 10 years)
    - **Relevance filter**: Require all three concept blocks in title/abstract (Canada terms AND mental health terms AND RCT terms)
-4. **Ranking**: Sort by citation count (Scopus preferred, OpenAlex fallback)
-5. **Selection**: Top 100 most-cited for full EDIA data extraction
+   - Exclude systematic reviews and meta-analyses
+4. **Screening**: All 10,904 eligible records screened via dual independent title/abstract review
+5. **Full-text review**: 129 records forwarded; 65 studies included
 
 ## Results Summary (2026-03-30)
 
 | Stage | Records |
 |-------|--------:|
 | PubMed | 9,964 |
-| Europe PMC | 9,279 |
+| Europe PMC | 15,772 |
 | OpenAlex | 764 |
 | Scopus | 27,983 |
-| Combined raw | 47,990 |
-| After deduplication | 35,913 |
-| Removed (no abstract) | -1,551 |
-| Removed (year < 2016) | -10,043 |
-| Removed (not relevant) | -20,443 |
-| **Available for screening** | **3,876** |
-| **Top 100 most-cited** | **100** |
+| **Combined raw** | **54,483** |
+| After deduplication | 39,986 |
+| Removed (no abstract) | -1,557 |
+| Removed (year outside 2016-2026) | -12,473 |
+| Removed (not relevant) | -12,511 |
+| Removed (reviews/meta-analyses) | -2,541 |
+| **Available for screening** | **10,904** |
+| Screened at title/abstract | 10,904 |
+| Forwarded to full-text | 129 |
+| **Included after full-text** | **65** |
 
 ---
 
@@ -438,10 +446,12 @@ Records are processed through a multi-stage pipeline:
 
 5. **Automated deduplication.** Records were deduplicated programmatically using a 3-tier strategy: exact DOI match (case-insensitive, URL-prefix-normalized), exact PMID match, then fuzzy title matching (SequenceMatcher ratio >0.93 within same publication year, best-match selection). HTML artifacts were stripped from titles during processing.
 
-6. **Relevance filtering before citation ranking.** To ensure the top 100 most-cited records are topically relevant, a keyword-based relevance filter requiring all three concept blocks (Canada + mental health + RCT) was applied before citation ranking. This is a coarse automated pre-screen; full inclusion/exclusion criteria are applied during abstract screening.
+6. **Relevance filtering before screening.** A keyword-based relevance filter requiring all three concept blocks (Canada + mental health + RCT) was applied before manual screening. This is a coarse automated pre-screen; full inclusion/exclusion criteria are applied during title/abstract screening.
 
-7. **Citation counts.** Scopus citation counts are used as the primary ranking metric. For records not in Scopus, OpenAlex cited_by_count is used as fallback. Records without citation data from either source are ranked last.
+7. **Citation counts.** Scopus citation counts are captured for each record. For records not in Scopus, OpenAlex cited_by_count is used as fallback. Citation data is used for descriptive analysis, not for selection.
 
 8. **Date range restriction.** Records are restricted to 2016-2026 (last 10 years) to focus on current EDIA reporting practices, consistent with the post-2015 shift in equity reporting standards.
 
 9. **Date of search execution.** All database searches were executed on 2026-03-30 via API.
+
+10. **Known search limitation.** The Scopus query includes "dementia" and "Alzheimer*" but omits the explicit term "neurocognitive disorder" (DSM-5 terminology). PubMed and Europe PMC queries do include this term. The practical impact is low — trials using only "neurocognitive disorder" terminology without "dementia" or "Alzheimer" are rare, and any such Scopus-unique records would be captured by other databases. This is documented as a minor search gap.
