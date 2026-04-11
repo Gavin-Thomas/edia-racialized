@@ -1,5 +1,7 @@
 # Interim Screening Summary
 
+> ⚠️ **SUPERSEDED**: This file is a historical interim snapshot (partial screening results). For the authoritative, post-QA final screening report, see [`SCREENING_COMPLETE.md`](SCREENING_COMPLETE.md). Numbers in this file reflect early-batch progress only and do NOT match the final 10,904 / 56 / 38 / 129 / 65 counts. Retained for audit trail.
+
 ## Progress: Batches 1-4 of 73
 
 | Metric | Count | Rate |

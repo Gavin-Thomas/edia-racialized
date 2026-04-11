@@ -35,8 +35,28 @@ post_qa_totals:
   confirmed_map: 56
   uncertain_for_fulltext: 38
   out_of_scope: 10810
-  forwarded_to_fulltext: 129
-  included_after_fulltext: 65
+  forwarded_to_fulltext: 134  # was 129; +5 for propagated QA MAP upgrades (retroactive 2026-04-11)
+  reports_not_retrieved: 1    # PRISMA-strict: Record #113 (PMID 41218611, Semaglutide) unobtainable and dropped from included set
+  pdfs_pending_manual_retrieval: 2  # Records #132 (PMID 34637343 PRC-063) and #133 (PMID 40135470 MIRAGE) — included but PDFs pending manual retrieval
+  included_after_fulltext: 69  # was 65; +5 new QA-upgraded MAPs, -1 dropped PMID 41218611 (Semaglutide — full text unobtainable)
+retroactive_correction_2026_04_11:
+  # On 2026-04-11, a consolidated audit found that 5 records confirmed MAP by QA
+  # (per qa_audit_corrections.md) had been omitted from fulltext_screening_decisions.csv.
+  # These were added as records 130-134 in that CSV. Simultaneously, PMID 41218611
+  # (Semaglutide for cognitive dysfunction in MDD) was dropped from the included set
+  # because the full text is unobtainable (no open-access version identified via OpenAlex or
+  # Crossref metadata, not in PubMed Central / Europe PMC, publisher-paywalled).
+  added_map_records:
+    - pmid: 29338621  # CDP-choline sensory gating schizophrenia (Ottawa) — batch 27
+    - pmid: 36325158  # Buprenorphine augmentation TRD (CAMH) — batch 27
+    - pmid: 34637343  # PRC-063 methylphenidate adolescent ADHD (UBC) — batch 31
+    - pmid: 40135470  # Mirtazapine chronic insomnia MIRAGE (Quebec) — batch 33
+    - pmid: 38445382  # Intranasal oxytocin + psychotherapy MDD (Concordia/McGill) — batch 23
+  dropped_from_included:
+    - pmid: 41218611  # Semaglutide for cognitive dysfunction MDD — full text unobtainable
+  net_change:
+    forwarded_to_fulltext: +5
+    included_after_fulltext: +4  # +5 new, -1 dropped
 # SCREENING COMPLETE: 2026-04-01
 # Batches 1-22: prior session (125 MAP)
 # Batches 23-42: this session, single-screened + QA audited (+20 MAP after corrections)

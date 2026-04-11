@@ -4,8 +4,10 @@
 - Interventional randomized clinical trials (parallel, crossover, factorial, adaptive, pragmatic designs)
 - Participants with diagnosed or clinically significant mental disorders (DSM-5, ICD-10/11)
 - Pharmacological interventions explicitly targeting a DSM-5 diagnosed mental disorder
-- At least one Canadian recruitment site or clear Canadian post-secondary institutional leadership
-  - Multicenter international trials eligible only if Canadian data explicitly reported
+- **Geographic / site**: At least one recruitment site in Canada (a Canadian recruitment site listed in the paper's methods, ClinicalTrials.gov registry, or supplementary material). Canadian co-authorship alone is NOT sufficient. Canadian senior authorship / PI leadership alone is NOT sufficient — the trial must have enrolled participants at a Canadian location.
+  - Multicenter international trials eligible only if Canadian data (or a Canadian site) are explicitly reported
+  - **Decision rule for multisite international trials**: If the paper reports that some participants were enrolled at a Canadian site (via author affiliation in the Methods section, a clearly listed Canadian site in the trial registration on ClinicalTrials.gov / EU CTR / WHO ICTRP, or a supplementary site table), include it. If no Canadian enrollment site can be verified, exclude — regardless of whether any author is Canadian-affiliated.
+  - **Rationale**: This criterion is simpler and more defensible than inferring Canadian leadership from author affiliations. It aligns the scoping review's population focus (Canadian-recruited participants) with the equity analysis goal (EDIA reporting among Canadian trial participants).
 - Main trial results published from 2016 onward (last 10 years)
 - Published in English
 
@@ -15,7 +17,7 @@
 - Systematic reviews, meta-analyses, scoping reviews, narrative reviews
 - Educational or health promotion interventions not targeting diagnosed mental disorders
 - Non-pharmacological interventions (psychotherapy-only, neurostimulation-only, device-only)
-- Trials conducted entirely outside Canada with no Canadian sites/leadership
+- Trials conducted entirely outside Canada with no Canadian recruitment site (Canadian authorship alone does not confer eligibility)
 - Laboratory, simulation, animal, or methodological trials
 - Protocols, registry-only records, narrative reports, secondary analyses without primary results
 - Conference abstracts without full publication
@@ -23,7 +25,7 @@
 ## Key Definitions
 - **Mental disorders**: Conditions classified in the DSM-5 or ICD-10/11 (including depression, anxiety disorders, psychotic disorders, bipolar/mood disorders, OCD, PTSD, ADHD, eating disorders, substance use disorders, personality disorders, neurodevelopmental disorders, neurocognitive disorders/dementia, sleep-wake disorders)
 - **Pharmacotherapy**: Any pharmacological agent used to prevent, treat, or manage a mental disorder (includes combination pharmacotherapy + psychotherapy trials if a pharmacological arm is present)
-- **Canadian trial**: Trial with at least one Canadian recruitment site OR Canadian institutional PI leadership
+- **Canadian trial**: Trial with at least one Canadian recruitment site (a Canadian site listed in the paper's methods, ClinicalTrials.gov / EU CTR / WHO ICTRP registration, or supplementary site table). Canadian co-authorship or senior authorship alone is NOT sufficient — the trial must have enrolled participants at a Canadian location.
 - **EDIA reporting**: Reporting of any PROGRESS-Plus framework variable:
   - **P**lace of residence
   - **R**ace/ethnicity/racialization
@@ -67,4 +69,8 @@ This review uses four databases with programmatic API access (PubMed, Europe PMC
 
 **Actual implementation:** All **10,904 eligible records** were screened at title/abstract level via dual independent review. This was feasible due to automated screening support. The stratified sample of 200 records (generated with `random.seed(42)` for reproducibility) was used as a pilot calibration set but is no longer the primary selection method.
 
-**Result:** 129 records forwarded to full-text review; 65 studies included for data extraction. This comprehensive screening strengthens generalizability — findings reflect the full eligible Canadian RCT literature, not a sample.
+**Result:** 134 records forwarded to full-text review (129 originally, plus 5 QA-upgraded MAP records retroactively propagated on 2026-04-11 — see [`../05_screening/SCREENING_COMPLETE.md`](../05_screening/SCREENING_COMPLETE.md) → "Retroactive Correction"); **69 studies** included for data extraction (67 full text obtained, 2 pending manual retrieval; Record #113 unobtainable and recorded as "Reports not retrieved" per PRISMA 2020). This comprehensive screening strengthens generalizability — findings reflect the full eligible Canadian RCT literature, not a sample.
+
+## Criteria Revisions
+
+**Criterion refinement (2026-04-11)**: The original protocol included "Canadian institutional PI leadership" as an alternative inclusion pathway alongside Canadian recruitment sites. This alternative was removed during audit review because (a) "institutional PI leadership" was not operationalized with specific rules (e.g., senior author vs. corresponding author vs. ClinicalTrials.gov Principal Investigator) and (b) the equity analysis focus is on Canadian-recruited participants, for which recruitment site is the relevant indicator. This change simplifies the criterion and improves reviewer defensibility. Previously included records are retained unless a re-evaluation shows they fail the new recruitment-site criterion — see the audit flag list in the R2 audit report for records that may warrant re-evaluation.

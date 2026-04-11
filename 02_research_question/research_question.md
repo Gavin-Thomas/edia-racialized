@@ -38,7 +38,7 @@ The choice of 2020 as the primary cutpoint is defensible (COVID-19 pandemic; glo
 
 For each cutpoint, report the proportion of trials with adequate race/ethnicity reporting in the "before" vs. "after" window. If findings are consistent across all three cutpoints, the temporal effect is robust; if sensitive to cutpoint choice, report all three with appropriate caveats.
 
-**Interrupted time series (aspirational):** With the full 10,904-record population now screened, an interrupted time series analysis (Segmented regression, Penfold & Zhang *MMWR* 2013) could be considered if sample size permits, though this would require additional included studies beyond the current 65.
+**Interrupted time series (aspirational):** With the full 10,904-record population now screened, an interrupted time series analysis (Segmented regression, Penfold & Zhang *MMWR* 2013) could be considered if sample size permits, though this would require additional included studies beyond the current 69.
 
 ## Terminology
 - **Racialized groups**: People who experience racialization — the social process by which racial meaning is ascribed to groups. Race is a social construct, not a biological variable. In the Canadian context, this includes visible minorities as defined under the *Employment Equity Act* (non-Caucasian in race or non-white in colour), excluding Indigenous peoples.

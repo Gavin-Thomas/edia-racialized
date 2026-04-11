@@ -127,7 +127,7 @@ The following terms were verified via NLM MeSH Browser, Emtree documentation, an
 - `*` = Truncation (right-hand wildcard)
 - PubMed auto-explodes MeSH terms, so "Mental Disorders"[MeSH] retrieves all narrower terms in the F03 tree
 - "Canada"[MeSH] auto-explodes to include all provinces and territories
-- The affiliation field [ad] is searched to capture trials with Canadian institutional leadership even when Canada is not in the title/abstract
+- The affiliation field [ad] is searched to capture trials with a Canadian-affiliated author or institution even when "Canada" is not in the title/abstract. Final eligibility still requires verification of a Canadian recruitment site at full-text screening.
 - The Cochrane Highly Sensitive Search Strategy (sensitivity-maximizing version, 2008 revision) is used for the RCT concept block
 
 ---
@@ -395,7 +395,7 @@ S42 S41 [Limiters - Published Date: 20000101-20261231; Language: English]
 
 2. **Sensitivity over specificity.** The strategies err on the side of inclusiveness. The mental disorders block uses both the broad exploded MeSH/Emtree heading AND extensive free-text terms. The Canada block searches title/abstract, affiliation fields, AND controlled vocabulary.
 
-3. **Affiliation field searching.** Lines searching the affiliation/institution field (PubMed [ad], Embase .in., PsycINFO .in., CINAHL AF) capture trials with Canadian institutional leadership even when "Canada" does not appear in the title or abstract. This is critical for multi-site international trials with a Canadian arm.
+3. **Affiliation field searching.** Lines searching the affiliation/institution field (PubMed [ad], Embase .in., PsycINFO .in., CINAHL AF) capture trials with a Canadian-affiliated author or institution even when "Canada" does not appear in the title or abstract. This maximizes retrieval for multi-site international trials with a Canadian arm; final eligibility still requires verification of a Canadian recruitment site at full-text screening.
 
 4. **City names may generate false positives.** Some city names (Hamilton, London, Kingston, Victoria, Regina, St. John) exist in other countries. The affiliation field search and AND-combination with mental disorders and RCT concepts will minimize irrelevant results, but screening should be aware of this.
 

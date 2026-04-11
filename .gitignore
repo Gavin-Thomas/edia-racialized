@@ -1,8 +1,25 @@
-# Full-text papers (copyrighted)
-06_full_texts/*.pdf
-06_full_texts/*.txt
-06_full_texts/*.xml
+# Full-text papers (copyrighted) — do not commit article content
+07_full_texts/*.pdf
+07_full_texts/*.txt
+07_full_texts/*.xml
+
+# Stray inbox folder for incoming PDFs (should not be tracked)
 new pdfs/
 
-# macOS
+# macOS metadata (anywhere in tree)
 .DS_Store
+**/.DS_Store
+
+# Python bytecode / caches
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Secrets / local env
+.env
+
+# Python packaging / virtual envs
+*.egg-info/
+.venv/
+venv/

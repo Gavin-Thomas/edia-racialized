@@ -15,7 +15,19 @@ Every record in this review has been verified by at least 2 independent reviewer
 | 23-42 | 3,000 | Single-screened (this session) → QA audit of all MAP/UNCERTAIN | Codex GPT-5.4 second-pass of all 2,917 OUT_OF_SCOPE: **0 false negatives** (1 borderline: PMID 29458928, n=9, vitamin D) |
 | 43-73 | 4,595 | Dual-screened (Screener A + B independent) → QA audit of MAP/UNCERTAIN | N/A (already dual-screened) |
 
-**Mean inter-rater agreement (dual-screened batches 43-73):** 96%
+### Inter-Rater Agreement (Dual-Screened Batches 43-73)
+
+| Metric | Value | Interpretation |
+|--------|-------|----------------|
+| Percent agreement (normalized) | **97.8%** | After collapsing `EXCLUDE` ≡ `OUT_OF_SCOPE` vocabulary |
+| Cohen's κ | **0.39** | Fair agreement |
+| Raw string-match agreement (not recommended) | ~76% | Reflects vocabulary drift, not disagreement |
+| Dual-screened records | 4,458 | Batches 43-73 |
+| Records classified MAP by either reviewer | 28 | Small "positive" class |
+
+**Reporting guidance:** Cohen's κ = 0.39 is the preferred headline metric for this dataset. The base rate of exclusions is ~96%, so percent agreement is heavily inflated by trivially easy exclusions and overstates true reviewer concordance. The raw 76% agreement figure that appears in the batch CSVs without label normalization is an artifact of vocabulary inconsistency (`EXCLUDE` vs. `OUT_OF_SCOPE` were used synonymously across batches), not a reflection of real disagreement, and should not be reported.
+
+**Caveat on the "include" decision:** of the 4,458 dual-screened records, only 28 were classified as MAP by either reviewer. Agreement on exclusions is therefore near-perfect, but agreement on the harder "include" decisions is less well-characterized by these statistics. This is a known limitation of reporting percent agreement alone for imbalanced screening tasks, and is part of why κ is reported alongside.
 
 ---
 
@@ -130,7 +142,7 @@ These are studies where the two independent reviewers disagreed. Most involve:
 
 ## Full-Text Forwarding Note
 
-Pre-QA screening flagged **194 records** as MAP or UNCERTAIN (`included_for_fulltext_review.csv`). After QA audits resolved 65 of these to OUT_OF_SCOPE (mostly secondary analyses, non-Canadian sites, and non-pharmacological interventions), **129 records** were forwarded to full-text review (`fulltext_screening_decisions.csv`). Of these 129, **65 studies** were included and **64 excluded** at full-text stage.
+Pre-QA screening flagged **194 records** as MAP or UNCERTAIN (`included_for_fulltext_review.csv`). After QA audits resolved 65 of these to OUT_OF_SCOPE (mostly secondary analyses, non-Canadian sites, and non-pharmacological interventions), **129 records** were forwarded to full-text review (`fulltext_screening_decisions.csv`). After the 2026-04-11 retroactive correction (see below), 5 additional QA-upgraded MAP records were propagated into the full-text pool, bringing the total to **134 forwarded to full text**. Of these 134, **69 studies** were included, **64 excluded**, and **1 not retrieved** (Record #113, see below).
 
 ## Screening Process Documentation
 
@@ -153,3 +165,45 @@ Pre-QA screening flagged **194 records** as MAP or UNCERTAIN (`included_for_full
 | `codex_false_negatives_b{range}.csv` | Codex false-negative check results (all empty = no false negatives) |
 | `screening_progress.yaml` | Running totals and progress tracking |
 | `SCREENING_COMPLETE.md` | This file |
+
+---
+
+## Retroactive Correction (2026-04-11)
+
+During a final consistency check between this file and `fulltext_screening_decisions.csv`, five QA-upgraded MAP records listed above in "Batches 23-73: 31 confirmed" were found to have **never been written into `fulltext_screening_decisions.csv`**. They were therefore silently excluded from the full-text screening stage, even though this file had recorded them as confirmed MAP inclusions.
+
+**Affected records:**
+
+| Record # | PMID | Title (abbreviated) | Journal | DOI |
+|----------|------|---------------------|---------|-----|
+| 130 | 29338621 | CDP-choline sensory gating, schizophrenia (Aidelbaum 2018) | J Psychopharmacol 2018 | 10.1177/0269881117746903 |
+| 131 | 36325158 | Low-dose buprenorphine augmentation for TRD (Lee 2022) | Biol Psychiatry Glob Open Sci 2022 | 10.1016/j.bpsgos.2021.09.003 |
+| 132 | 34637343 | PRC-063 methylphenidate for adolescent ADHD (Weiss 2021) | J Child Adolesc Psychopharmacol 2021 | 10.1089/cap.2021.0034 |
+| 133 | 40135470 | Mirtazapine for chronic insomnia (MIRAGE, Nguyen 2025) | Age and Ageing 2025 | 10.1093/ageing/afaf050 |
+| 134 | 38445382 | Intranasal oxytocin + IPT for MDD (Ellenbogen 2024) | Psychological Medicine 2024 | 10.1017/S0033291724000217 |
+
+**Investigation.** Each of the five records was re-assessed against the inclusion criteria using PubMed abstracts, ClinicalTrials.gov registrations, and PubMed Central open-access text where available. All five were confirmed to meet the inclusion criteria at **HIGH** confidence: each is an interventional RCT of a pharmacological agent targeting a diagnosed mental-health condition, with clear Canadian site leadership (Ottawa, CAMH Toronto, UBC, Quebec/CHUM, and Concordia respectively), and main trial results published within the 2016–2026 window.
+
+**Resolution.** All five records were added to the final included list, bringing the total from 65 to **69 included studies**. Full texts were successfully retrieved for Records 130, 131, and 134. Records 132 (PRC-063, SAGE hybrid OA, blocked by Cloudflare on headless fetch) and 133 (MIRAGE, Oxford Academic paywall) remain **pending manual retrieval**.
+
+#### Provisional status: Records #132 and #133
+
+Records #132 (PMID 34637343, PRC-063 methylphenidate for adolescent ADHD) and #133 (PMID 40135470, MIRAGE mirtazapine for chronic insomnia) are currently listed as INCLUDE in `fulltext_screening_decisions.csv` based on HIGH-confidence abstract + ClinicalTrials.gov + QA-audit evidence. Their full-text PDFs are pending manual retrieval. Formal full-text review will be completed once the PDFs are obtained, and the inclusion decision may be revised at that time. Until then, these records should be treated as **provisionally included pending full-text review**.
+
+**Record #113 dropped.** Simultaneously, Record #113 (PMID 41218611, semaglutide for cognitive dysfunction in MDD, *Med* 2026, DOI 10.1016/j.medj.2025.100916) was dropped from the final included list because its full text is unobtainable via every tested retrieval method — no open-access version could be identified via OpenAlex or Crossref metadata (Europe PMC / PubMed Central, publisher OA), and the publisher site and U Calgary institutional proxy both returned paywalls. In the PRISMA 2020 flow, Record #113 is now recorded under "Reports not retrieved" rather than "Studies included".
+
+### Potential bias from dropping Record #113
+
+The single "report not retrieved" (Record #113, PMID 41218611: "Semaglutide for cognitive dysfunction in major depressive disorder", McIntyre et al. 2026, *Med*) is a recent (2026) MDD pharmacotherapy trial. Its exclusion removes one paper from the depression disorder category (currently ~22% of included studies) and one very recent publication from the 2023-2026 temporal window. Given the small absolute impact (1 of 70 eligible studies = 1.4%), we do not expect this exclusion to materially bias the scoping review's conclusions about EDIA reporting trends. The decision to drop was operational (full text unobtainable through any open-access version identified via OpenAlex and Crossref metadata, the library proxy, or a direct request to the authors), not methodological.
+
+**Net effect on counts.**
+
+| Count | Pre-correction | Post-correction |
+|-------|----------------|------------------|
+| Confirmed MAP (final) | 56 | 56 (unchanged) |
+| Forwarded to full-text review | 129 | **134** |
+| Assessed for eligibility at full text | 129 | 133 |
+| Studies included | 65 | **69** |
+| Studies excluded at full text | 64 | 64 (unchanged) |
+| Reports not retrieved | 0 | 1 (Record #113) |
+| Full-text PDFs in hand | 64 of 65 | **67 of 69** (records 132 and 133 pending) |

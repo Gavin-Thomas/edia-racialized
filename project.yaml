@@ -22,9 +22,13 @@ stages:
   search_date: "2026-03-30"
   screening_completed: "2026-04-01"
   fulltext_completed: "2026-04-02"
+  retroactive_correction: "2026-04-11"  # Added 5 QA-upgraded MAPs that had been missed; dropped PMID 41218611 as unobtainable
 screening_results:
   total_screened: 10904
   confirmed_map: 56
   uncertain_for_fulltext: 38
-  forwarded_to_fulltext: 129
-  included_after_fulltext: 65
+  forwarded_to_fulltext: 134  # was 129; +5 for propagated MAP upgrades discovered 2026-04-11
+  reports_not_retrieved: 1    # PRISMA-strict: Record #113 (PMID 41218611, Semaglutide) unobtainable and dropped from included set
+  pdfs_pending_manual_retrieval: 2  # Records #132 (PMID 34637343 PRC-063) and #133 (PMID 40135470 MIRAGE) included but PDFs pending; see 07_full_texts/README.md
+  included_after_fulltext: 69  # was 65; +5 new QA-upgraded MAPs, -1 dropped (PMID 41218611 Semaglutide, unobtainable)
+  correction_note: "2026-04-11: retroactive audit found 5 QA-upgraded MAPs (PMIDs 29338621, 36325158, 34637343, 40135470, 38445382) had been omitted from fulltext_screening_decisions.csv. Added. Simultaneously dropped PMID 41218611 (Semaglutide) from included set — full text unobtainable (no open-access version identified via OpenAlex or Crossref metadata, not in PubMed Central / Europe PMC, publisher-paywalled)."

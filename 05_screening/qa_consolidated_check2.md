@@ -6,6 +6,18 @@
 
 ---
 
+> ⚠️ **HISTORICAL SNAPSHOT — PRE-CORRECTION (2026-04-11)**
+>
+> This QA consolidated check describes the state of `fulltext_screening_decisions.csv` BEFORE the retroactive correction of 2026-04-11. The "5 missing MAP PMIDs" flagged as failures in this report were subsequently added to the included set (records 130-134 in the current CSV). See `SCREENING_COMPLETE.md` "Retroactive Correction" section and root `_README.md` "Revision history" for the post-correction resolution.
+>
+> Current canonical state (as of 2026-04-11):
+> - 134 forwarded to full-text review (was 129 pre-correction)
+> - 69 included in final review (was 65 pre-correction)
+> - 67 of 69 full texts obtained
+> - Record #113 (PMID 41218611) dropped from included set (unobtainable)
+
+---
+
 ## 1. COUNT CHECK -- FAIL
 
 | Category | Count |

@@ -2,7 +2,7 @@
 
 Your U of Calgary proxy session is active. Click each link → the article loads with full access → click "View PDF" or "Download PDF" on the page.
 
-Save each PDF to: `Desktop/EDIA - Racialized/06_full_texts/`
+Save each PDF to: `Desktop/EDIA - Racialized/07_full_texts/`
 
 ## Elsevier / ScienceDirect / Lancet
 - **#14** Balovaptan ASD: https://ezproxy.lib.ucalgary.ca/login?url=https://doi.org/10.1016/s2215-0366(21)00429-6

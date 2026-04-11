@@ -129,7 +129,7 @@ The following terms were verified via NLM MeSH Browser, Emtree documentation, an
 - `*` = Truncation (right-hand wildcard)
 - PubMed auto-explodes MeSH terms, so "Mental Disorders"[MeSH] retrieves all narrower terms in the F03 tree
 - "Canada"[MeSH] auto-explodes to include all provinces and territories
-- The affiliation field [ad] is searched to capture trials with Canadian institutional leadership even when Canada is not in the title/abstract
+- The affiliation field [ad] is searched to capture trials with a Canadian-affiliated author or institution even when "Canada" is not in the title/abstract. Final eligibility still requires verification of a Canadian recruitment site at full-text screening.
 - The Cochrane Highly Sensitive Search Strategy (sensitivity-maximizing version, 2008 revision) is used for the RCT concept block
 
 ---
@@ -411,7 +411,7 @@ Records are processed through a multi-stage pipeline:
    - **Relevance filter**: Require all three concept blocks in title/abstract (Canada terms AND mental health terms AND RCT terms)
    - Exclude systematic reviews and meta-analyses
 4. **Screening**: All 10,904 eligible records screened via dual independent title/abstract review
-5. **Full-text review**: 129 records forwarded; 65 studies included
+5. **Full-text review**: 134 records forwarded (129 originally, plus 5 QA-upgraded MAP records propagated retroactively on 2026-04-11); **69 studies** included
 
 ## Results Summary (2026-03-30)
 
@@ -429,8 +429,8 @@ Records are processed through a multi-stage pipeline:
 | Removed (reviews/meta-analyses) | -2,541 |
 | **Available for screening** | **10,904** |
 | Screened at title/abstract | 10,904 |
-| Forwarded to full-text | 129 |
-| **Included after full-text** | **65** |
+| Forwarded to full-text | 134 |
+| **Included after full-text** | **69** |
 
 ---
 
@@ -440,7 +440,7 @@ Records are processed through a multi-stage pipeline:
 
 2. **Sensitivity over specificity.** The strategies err on the side of inclusiveness. The mental disorders block uses both the broad exploded MeSH heading AND extensive free-text terms. The Canada block searches title/abstract, affiliation fields, AND controlled vocabulary.
 
-3. **Affiliation field searching.** PubMed [ad], Europe PMC AFF, Scopus AFFILCOUNTRY, and OpenAlex institutions.country_code capture trials with Canadian institutional leadership even when "Canada" does not appear in the title or abstract.
+3. **Affiliation field searching.** PubMed [ad], Europe PMC AFF, Scopus AFFILCOUNTRY, and OpenAlex institutions.country_code capture trials with a Canadian-affiliated author or institution even when "Canada" does not appear in the title or abstract. This maximizes retrieval; final eligibility still requires verification of a Canadian recruitment site at full-text screening.
 
 4. **City names may generate false positives.** Some city names (Hamilton, London, Kingston, Victoria, Regina, St. John) exist in other countries. The AND-combination with mental disorders and RCT concepts minimizes irrelevant results.
 
