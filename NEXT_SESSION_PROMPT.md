@@ -7,11 +7,13 @@ Hand this document to the next worker on the project (Claude Code session, anoth
 ## 1. Current Status
 
 - **Title/abstract screening:** Complete. 10,904 records screened, 134 forwarded to full-text review.
-- **Full-text retrieval:** 67 of 69 PDFs in hand. Two records remain (see Task A).
-- **Full-text screening:** Complete for the 67 retrieved records. Two records (132, 133) are provisional, pending PDF retrieval.
+- **Full-text retrieval:** 64 of 66 PDFs in hand. Two records remain (see Task A).
+- **Full-text screening:** Complete for the 64 retrieved records. Two records (132, 133) are provisional, pending PDF retrieval.
 - **Data extraction:** NOT STARTED.
-- **Provisional final included count:** 69 studies (subject to full-text review of the 2 pending PDFs).
-- **Dropped from included set:** Record #113 (Semaglutide for MDD) — unobtainable after exhaustive retrieval attempts.
+- **Provisional final included count:** 66 studies (subject to full-text review of the 2 pending PDFs).
+- **Dropped from included set:**
+  - Record #113 (Semaglutide for MDD) — unobtainable after exhaustive retrieval attempts.
+  - Records #20 (VIVRE vortioxetine, PMID 37227402), #42 (NaB+NAC schizophrenia, PMID 39144112), and #95 (Mavoglurant OCD, PMID 28044255) — dropped 2026-04-11 under the simplified "verified Canadian recruitment site" criterion after site-verification audit found no Canadian recruitment site.
 
 ---
 
@@ -46,7 +48,7 @@ Once each PDF is obtained:
 1. Apply the inclusion criteria in `03_inclusion_exclusion/criteria.md`.
 2. The load-bearing criterion is **verified Canadian recruitment site** (not merely Canadian co-authorship).
 3. Record the decision in `05_screening/fulltext_screening_decisions.csv`, updating the `reviewer_1`, `reviewer_2`, `final_decision`, and `arbiter_notes` fields.
-4. If either record is **excluded** after full-text review, revise the provisional included count downward (69 → 68 or 67) in every dependent file (see Task D).
+4. If either record is **excluded** after full-text review, revise the provisional included count downward (66 → 65 or 64) in every dependent file (see Task D).
 
 ### Task C — Data extraction
 
@@ -64,14 +66,14 @@ This is the main body of remaining work. Do not begin until Task A and Task B ar
 5. **Output file:** `06_data_extraction/extracted_data.csv` — one row per included study.
 6. **Dual extraction:** Recommended. Run two independent extraction passes and target Cohen's κ > 0.80 on coded fields.
 7. **Pilot first.** Extract the first 10 papers, review for consistency, calibrate the codebook or rubric if needed, then scale to the remaining studies.
-8. **Parallelism note:** For a set this size (~67–69 studies), splitting across parallel sub-agents (5–8 studies per agent) is appropriate. Reconcile at the end.
+8. **Parallelism note:** For a set this size (~64–66 studies), splitting across parallel sub-agents (5–8 studies per agent) is appropriate. Reconcile at the end.
 
 ### Task D — Update the PRISMA flow diagram
 
 After Task B is complete and the included count is final:
 - Update `05_screening/PRISMA_2020_flow_diagram.md` with the final included count and the full-text exclusion reasons with counts.
 - Update `05_screening/SCREENING_COMPLETE.md` to match.
-- If the included count changed, audit every other file that cites the number (69 appears in multiple places).
+- If the included count changed, audit every other file that cites the number (66 appears in multiple places).
 
 ### Task E — Draft manuscript
 
@@ -99,7 +101,7 @@ Only begin once data extraction (Task C) is complete and reconciled.
 | `05_screening/PRISMA_2020_flow_diagram.md` | PRISMA 2020 flow, pending final full-text numbers |
 | `05_screening/fulltext_screening_decisions.csv` | Per-record full-text decisions |
 | `06_data_extraction/extraction_codebook.md` | PROGRESS-Plus extraction codebook (authoritative) |
-| `07_full_texts/ALL_69_LINKS.md` | Full-text retrieval status for all 69 records |
+| `07_full_texts/ALL_66_LINKS.md` | Full-text retrieval status for all 66 records |
 | `07_full_texts/README.md` | Retrieval log and notes |
 | `PROTOCOL_REGISTRATION.md` | Transparency statement and protocol disclosures |
 
@@ -121,10 +123,11 @@ Only begin once data extraction (Task C) is complete and reconciled.
 |---|---|
 | Records screened (title/abstract) | 10,904 |
 | Forwarded to full-text | 134 |
-| Included (provisional) | 69 |
-| Full-text PDFs obtained | 67 |
+| Included (provisional) | 66 |
+| Full-text PDFs obtained | 64 |
 | Full-text PDFs pending | 2 (records #132, #133) |
 | Dropped (unobtainable) | 1 (record #113) |
+| Dropped (no Canadian recruitment site, criterion refinement 2026-04-11) | 3 (records #20, #42, #95) |
 
 ---
 

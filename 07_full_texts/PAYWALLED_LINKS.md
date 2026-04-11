@@ -1,12 +1,12 @@
 # Paywalled Links (DEPRECATED)
 
-**This file is deprecated as of 2026-04-11.** Retained only as a historical snapshot from 2026-04-03 with minor edits to reflect the 2026-04-11 retroactive QA correction.
+**This file is deprecated as of 2026-04-11.** Retained only as a historical snapshot from 2026-04-03 with minor edits to reflect the 2026-04-11 retroactive QA correction and the later same-day criterion refinement.
 
-For the authoritative full-text status of all **69** included records, see: **`ALL_69_LINKS.md`** (which supersedes the earlier `ALL_65_LINKS.md`).
+For the authoritative full-text status of all **66** included records, see: **`ALL_66_LINKS.md`** (which supersedes the earlier `ALL_65_LINKS.md` and interim `ALL_69_LINKS.md`).
 
 ## Current pending-retrieval list (2026-04-11)
 
-As of 2026-04-11, three records have incomplete full-text status and need manual retrieval via specific methods:
+As of 2026-04-11, three records have incomplete full-text status and need manual retrieval via specific methods. In addition, three records have been dropped from the final included list under the simplified "verified Canadian recruitment site" criterion (see bottom of this file).
 
 ### 1. Record #132 — PRC-063 methylphenidate for adolescent ADHD
 - Authors: Weiss et al., 2021
@@ -28,4 +28,23 @@ As of 2026-04-11, three records have incomplete full-text status and need manual
 - DOI: 10.1016/j.medj.2025.100916
 - Status: **Dropped from the final included list on 2026-04-11** — unobtainable via any open-access version identified through OpenAlex and Crossref metadata (PubMed Central, Europe PMC, publisher OA), the publisher site, or the institutional proxy. Now recorded as "Reports not retrieved" in the PRISMA 2020 flow diagram. Listed here for completeness only.
 
-See `../05_screening/SCREENING_COMPLETE.md` → "Retroactive Correction (2026-04-11)" for the full audit trail.
+## Additional records dropped under simplified criterion (2026-04-11)
+
+Three records were additionally dropped later on 2026-04-11 under the simplified "verified Canadian recruitment site" criterion. These are not retrieval/paywall failures — the PDFs were on disk — but the records no longer satisfy inclusion. They are listed here for completeness only.
+
+### 4. Record #20 — VIVRE vortioxetine vs. desvenlafaxine in MDD (DROPPED)
+- PMID: 37227402
+- DOI: 10.4088/jcp.23m14780
+- Status: Dropped 2026-04-11 (criterion refinement) — 80 sites in 12 countries, no Canadian recruitment site.
+
+### 5. Record #42 — NaB+NAC for early schizophrenia-spectrum disorder (DROPPED)
+- PMID: 39144112
+- DOI: 10.1093/schizbullopen/sgae004
+- Status: Dropped 2026-04-11 (criterion refinement) — 5 sites all in Pakistan.
+
+### 6. Record #95 — Mavoglurant augmentation for SSRI-resistant OCD (DROPPED)
+- PMID: 28044255
+- DOI: 10.1007/s12325-016-0468-5
+- Status: Dropped 2026-04-11 (criterion refinement) — 15 sites in Bulgaria, Germany, USA, Czechia, and Switzerland.
+
+See `../05_screening/SCREENING_COMPLETE.md` → "Retroactive Correction (2026-04-11)" and `ALL_66_LINKS.md` for the full audit trail.

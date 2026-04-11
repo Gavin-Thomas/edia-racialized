@@ -27,9 +27,11 @@ a multi-pass QA audit, and an automated false-negative validation layer.
 | OUT_OF_SCOPE (exclude) | **10,810** |
 | Pre-QA MAP/UNCERTAIN pool | 194 |
 | Forwarded to full-text review (post-correction) | **134** |
-| Final included after full text | **69** |
+| Final included after full text | **66** |
 
-> **Note (2026-04-11):** The "forwarded to full-text review" count was 129 prior to the retroactive QA propagation correction on 2026-04-11, after which 5 additional QA-upgraded MAP records (PMIDs 29338621, 36325158, 34637343, 40135470, 38445382) were added to the full-text pool, and Record #113 (PMID 41218611) was dropped as unobtainable. See [`SCREENING_COMPLETE.md`](SCREENING_COMPLETE.md) for the full correction audit.
+> **Note (2026-04-11):** The "forwarded to full-text review" count was 129 prior to the retroactive QA propagation correction on 2026-04-11, after which 5 additional QA-upgraded MAP records (PMIDs 29338621, 36325158, 34637343, 40135470, 38445382) were added to the full-text pool, and Record #113 (PMID 41218611) was dropped as unobtainable.
+>
+> **Note (2026-04-11, criterion refinement):** A subsequent audit under the simplified "verified Canadian recruitment site" criterion dropped 3 additional records that had previously been included: **Record #20** (VIVRE vortioxetine, PMID 37227402 — 80 sites in 12 countries with no Canadian site), **Record #42** (NaB+NAC schizophrenia, PMID 39144112 — 5 sites all in Pakistan), and **Record #95** (Mavoglurant OCD, PMID 28044255 — 15 sites in Bulgaria/Germany/USA/Czechia/Switzerland). Net included count: 69 → **66**. See [`SCREENING_COMPLETE.md`](SCREENING_COMPLETE.md) for the full correction audit.
 
 See [`PRISMA_2020_flow_diagram.md`](PRISMA_2020_flow_diagram.md) for the post-QA
 flow diagram, and [`SCREENING_COMPLETE.md`](SCREENING_COMPLETE.md) for the
@@ -140,8 +142,8 @@ and do not affect the final counts.
   `fulltext_screening_decisions.csv`; 5 retroactively propagated on
   2026-04-11, see `SCREENING_COMPLETE.md`); extraction metadata lives in
   [`../06_data_extraction/`](../06_data_extraction/_README.md).
-- **69 included studies** → full-text PDFs archived in
-  [`../07_full_texts/`](../07_full_texts/README.md) (67 in hand, 2 pending
+- **66 included studies** → full-text PDFs archived in
+  [`../07_full_texts/`](../07_full_texts/README.md) (64 in hand, 2 pending
   manual retrieval).
 
 ## Known caveats and limitations

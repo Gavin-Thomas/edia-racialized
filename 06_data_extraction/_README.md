@@ -1,14 +1,14 @@
 # 06 Data Extraction
 
-> PROGRESS-Plus data-extraction codebook and coding rules for the 69 included studies.
+> PROGRESS-Plus data-extraction codebook and coding rules for the 66 included studies.
 
 ## Status
 
-**NOT STARTED** (as of 2026-04-07, updated 2026-04-11). This folder currently contains only the extraction codebook. No extracted data yet exist. Extraction will begin once full-text PDFs for all **69 included studies** are finalized in [`../07_full_texts/`](../07_full_texts/). As of the latest project snapshot (2026-04-11), **67 of 69** full texts have been retrieved; 2 remain pending manual retrieval (Record #132 PRC-063 methylphenidate adolescent ADHD, and Record #133 MIRAGE mirtazapine for chronic insomnia). The former Record #113 (Semaglutide MDD) has been dropped from the included list as unobtainable — see [`../05_screening/SCREENING_COMPLETE.md`](../05_screening/SCREENING_COMPLETE.md) → "Retroactive Correction (2026-04-11)".
+**NOT STARTED** (as of 2026-04-07, updated 2026-04-11). This folder currently contains only the extraction codebook. No extracted data yet exist. Extraction will begin once full-text PDFs for all **66 included studies** are finalized in [`../07_full_texts/`](../07_full_texts/). As of the latest project snapshot (2026-04-11), **64 of 66** full texts have been retrieved; 2 remain pending manual retrieval (Record #132 PRC-063 methylphenidate adolescent ADHD, and Record #133 MIRAGE mirtazapine for chronic insomnia). The former Record #113 (Semaglutide MDD) has been dropped from the included list as unobtainable, and the former Records #20 (VIVRE vortioxetine), #42 (NaB+NAC schizophrenia), and #95 (Mavoglurant OCD) have been dropped under the simplified "verified Canadian recruitment site" criterion after site-verification audit — see [`../05_screening/SCREENING_COMPLETE.md`](../05_screening/SCREENING_COMPLETE.md) → "Retroactive Correction (2026-04-11)".
 
 ## Purpose
 
-This folder holds the data-extraction template and coding rules that operationalize the PROGRESS-Plus framework for the 69 included studies. Its goal is to produce a clean, dual-reviewed, publication-ready dataset capturing the completeness and granularity of EDIA reporting for each included trial.
+This folder holds the data-extraction template and coding rules that operationalize the PROGRESS-Plus framework for the 66 included studies. Its goal is to produce a clean, dual-reviewed, publication-ready dataset capturing the completeness and granularity of EDIA reporting for each included trial.
 
 ## Files in this folder
 
@@ -68,7 +68,7 @@ Trial demographics are compared to Canadian population benchmarks at the field l
 
 | File | Purpose | Status |
 |------|---------|--------|
-| `extracted_data.csv` | Dual-reviewed, consensus-reconciled extraction of all 69 included studies across every PROGRESS-Plus and trial-level field | **Not yet created** |
+| `extracted_data.csv` | Dual-reviewed, consensus-reconciled extraction of all 66 included studies across every PROGRESS-Plus and trial-level field | **Not yet created** |
 | `extraction_kappa.md` | Field-level agreement statistics computed on the pilot calibration (first 30 trials) | Not yet created |
 | `benchmark_crosswalk.csv` | Mapping of trial-reported race/ethnicity categories to Statistics Canada visible-minority taxonomy | Not yet created |
 

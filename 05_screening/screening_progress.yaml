@@ -38,7 +38,7 @@ post_qa_totals:
   forwarded_to_fulltext: 134  # was 129; +5 for propagated QA MAP upgrades (retroactive 2026-04-11)
   reports_not_retrieved: 1    # PRISMA-strict: Record #113 (PMID 41218611, Semaglutide) unobtainable and dropped from included set
   pdfs_pending_manual_retrieval: 2  # Records #132 (PMID 34637343 PRC-063) and #133 (PMID 40135470 MIRAGE) — included but PDFs pending manual retrieval
-  included_after_fulltext: 69  # was 65; +5 new QA-upgraded MAPs, -1 dropped PMID 41218611 (Semaglutide — full text unobtainable)
+  included_after_fulltext: 66  # was 69; -3 records dropped (2026-04-11 Wave 2 simplified-Canadian-criterion check): PMIDs 37227402, 39144112, 28044255 had PI/author-only Canadian ties with NO verified Canadian recruitment sites
 retroactive_correction_2026_04_11:
   # On 2026-04-11, a consolidated audit found that 5 records confirmed MAP by QA
   # (per qa_audit_corrections.md) had been omitted from fulltext_screening_decisions.csv.
@@ -57,6 +57,20 @@ retroactive_correction_2026_04_11:
   net_change:
     forwarded_to_fulltext: +5
     included_after_fulltext: +4  # +5 new, -1 dropped
+criterion_refinement_drop_3_records_2026_04_11:
+  # On 2026-04-11 (Wave 2), after the simplified Canadian criterion was applied
+  # (requires a VERIFIED Canadian recruitment site, not merely a Canadian PI/author),
+  # a 9-agent verification pass (using PDF Methods sections + ClinicalTrials.gov API)
+  # found 3 records that had been INCLUDED based on PI-legacy logic but had NO Canadian
+  # recruitment sites. These 3 records were reclassified from INCLUDE → EXCLUDE.
+  dropped_from_included:
+    - pmid: 37227402  # VIVRE vortioxetine vs desvenlafaxine MDD (NCT04448431) — 80 sites across 12 countries (RU, AR, UA, CZ, BG, SK, SE, ES, BE, LV, MX, EE); McIntyre (Toronto) is lead author only, not a site PI
+    - pmid: 39144112  # NaB+NAC early schizophrenia feasibility (NCT03510741) — 5 sites all in Pakistan; Husain/Foussias (CAMH) contributed design/supervision only
+    - pmid: 28044255  # Mavoglurant OCD augmentation (NCT01813019) — 15 sites across 5 countries (BG, DE, US, CZ, CH); Gomez-Mancilla's McGill listing is secondary cross-appointment (primary: Novartis Basel)
+  net_change:
+    included_after_fulltext: -3  # 69 → 66
+    excluded_at_fulltext: +3     # 64 → 67
+  arithmetic_check: "134 forwarded − 1 not_retrieved − 66 included − 67 excluded = 0"
 # SCREENING COMPLETE: 2026-04-01
 # Batches 1-22: prior session (125 MAP)
 # Batches 23-42: this session, single-screened + QA audited (+20 MAP after corrections)

@@ -76,17 +76,17 @@
            ▼                          ▼
  Reports excluded              Studies included
  at full-text                  in review
- (n = 64)                      (n = 69)
+ (n = 67) ‡                    (n = 66) ‡
  ┌────────────────────┐       ┌────────────────────┐
  │ Reasons:           │       │ Disorder categories│
  │ • Secondary/post-  │       │ (preliminary):     │
- │   hoc analysis: 34 │       │ • Depression:  ~22 │
+ │   hoc analysis: 34 │       │ • Depression:  ~21 │
  │ • No Canadian      │       │ • Bipolar:     ~10 │
- │   site/PI:      12 │       │ • Dementia:    ~10 │
+ │   site/PI:      15 │       │ • Dementia:    ~10 │
  │ • Not RCT/protocol/│       │ • Substance:   ~11 │
- │   review/case:  10 │       │ • Schizophrenia:~8 │
+ │   review/case:  10 │       │ • Schizophrenia:~7 │
  │ • Non-pharma/not   │       │ • ADHD:        ~6  │
- │   targeting MH:  7 │       │ • Other:       ~2  │
+ │   targeting MH:  7 │       │ • Other:       ~1  │
  │ • Pre-2016 primary │       └────────────────────┘
  │   results:       1 │
  └────────────────────┘
@@ -96,7 +96,7 @@
                      INCLUDED
  ================================================================
 
- Studies included for data extraction (n = 69) †
+ Studies included for data extraction (n = 66) † ‡
  ┌──────────────────────────────────────────────┐
  │  Framework: PROGRESS-Plus                    │
  │  Primary focus: Race/ethnicity reporting     │
@@ -211,8 +211,31 @@ On 2026-04-11, a final consistency check uncovered five MAP records that were co
 - **Reports sought for retrieval:** 129 → **134** (5 retroactively propagated MAP records: PMIDs 29338621, 36325158, 34637343, 40135470, 38445382)
 - **Reports not retrieved:** 0 → **1** (Record #113, PMID 41218611, semaglutide for cognitive dysfunction in MDD, *Med* 2026 — unobtainable via any open-access version identified through OpenAlex and Crossref metadata (PubMed Central, Europe PMC, publisher OA), the publisher site, or the institutional proxy; dropped from the included set)
 - **Reports assessed for eligibility:** 129 → **133** (134 forwarded minus 1 not retrieved)
-- **Studies included:** 65 → **69**
-- **Studies excluded at full text:** 64 (unchanged — the 5 newly-propagated records were all included)
+- **Studies included:** 65 → **69** (before the ‡ second correction below)
+- **Studies excluded at full text:** 64 (unchanged by this first correction — the 5 newly-propagated records were all included)
 - **Full-text PDFs in hand:** 64 of 65 → **67 of 69** (Records 132 PRC-063 and 133 MIRAGE pending manual retrieval)
 
 See `SCREENING_COMPLETE.md` → "Retroactive Correction (2026-04-11)" for the full audit trail and per-record inclusion justifications.
+
+---
+
+## ‡ Footnote: 2026-04-11 second correction — simplified Canadian-site criterion
+
+After the inclusion criterion was simplified on 2026-04-11 to require a verified Canadian recruitment site (removing the underspecified "Canadian institutional PI leadership" alternative — see `../03_inclusion_exclusion/criteria.md` → "Criteria Revisions"), three previously-included records were re-verified via full PDF review and ClinicalTrials.gov API queries. None had a Canadian recruitment site, and all three were reclassified as EXCLUDED at full text under the new criterion:
+
+| Record # | PMID | Study | Actual sites |
+|----------|------|-------|--------------|
+| #20 | 37227402 | VIVRE vortioxetine vs desvenlafaxine (McIntyre 2023) | 80 sites / 12 countries (Russia, Argentina, Ukraine, etc.) — no Canada |
+| #42 | 39144112 | NaB+NAC schizophrenia feasibility (Husain 2024) | 5 sites, all in Pakistan |
+| #95 | 28044255 | Mavoglurant for OCD (Rutrick 2017) | 15 sites in Bulgaria/Germany/USA/Czechia/Switzerland |
+
+Each trial had a Canadian-affiliated author (McIntyre, Husain, Gomez-Mancilla) but no verified Canadian recruitment site. The agreement metrics (97.8% normalized percent agreement, Cohen's κ = 0.39) are not affected by this retroactive full-text reclassification — they were computed on the title/abstract screening stage only.
+
+- **Reports sought for retrieval:** 134 (unchanged)
+- **Reports not retrieved:** 1 (Record #113, unchanged)
+- **Reports assessed for eligibility:** 133 (unchanged)
+- **Studies included:** 69 → **66**
+- **Studies excluded at full text:** 64 → **67**
+- **Full-text PDFs in hand:** 67 of 69 → **64 of 66** (Records 132 PRC-063 and 133 MIRAGE still pending manual retrieval)
+
+The 3 dropped records' PDFs remain on disk in `../07_full_texts/` as audit-trail evidence for the retroactive exclusion decision. See `SCREENING_COMPLETE.md` → "Criterion refinement drop (2026-04-11, second correction)" and `../03_inclusion_exclusion/criteria.md` → "Retroactive application of refined criterion (2026-04-11)" for per-record justifications.

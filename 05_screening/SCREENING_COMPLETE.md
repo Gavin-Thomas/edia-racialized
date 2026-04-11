@@ -142,7 +142,7 @@ These are studies where the two independent reviewers disagreed. Most involve:
 
 ## Full-Text Forwarding Note
 
-Pre-QA screening flagged **194 records** as MAP or UNCERTAIN (`included_for_fulltext_review.csv`). After QA audits resolved 65 of these to OUT_OF_SCOPE (mostly secondary analyses, non-Canadian sites, and non-pharmacological interventions), **129 records** were forwarded to full-text review (`fulltext_screening_decisions.csv`). After the 2026-04-11 retroactive correction (see below), 5 additional QA-upgraded MAP records were propagated into the full-text pool, bringing the total to **134 forwarded to full text**. Of these 134, **69 studies** were included, **64 excluded**, and **1 not retrieved** (Record #113, see below).
+Pre-QA screening flagged **194 records** as MAP or UNCERTAIN (`included_for_fulltext_review.csv`). After QA audits resolved 65 of these to OUT_OF_SCOPE (mostly secondary analyses, non-Canadian sites, and non-pharmacological interventions), **129 records** were forwarded to full-text review (`fulltext_screening_decisions.csv`). After the 2026-04-11 retroactive correction (see below), 5 additional QA-upgraded MAP records were propagated into the full-text pool, bringing the total to **134 forwarded to full text**. Of these 134, **66 studies** were included, **67 excluded**, and **1 not retrieved** (Record #113, see below). (Initially 69 included and 64 excluded; reduced by 3 after the 2026-04-11 second correction under the simplified Canadian-site criterion — see "Criterion refinement drop (2026-04-11, second correction)" below.)
 
 ## Screening Process Documentation
 
@@ -207,3 +207,26 @@ The single "report not retrieved" (Record #113, PMID 41218611: "Semaglutide for 
 | Studies excluded at full text | 64 | 64 (unchanged) |
 | Reports not retrieved | 0 | 1 (Record #113) |
 | Full-text PDFs in hand | 64 of 65 | **67 of 69** (records 132 and 133 pending) |
+
+---
+
+## Criterion refinement drop (2026-04-11, second correction)
+
+After the inclusion criterion was simplified to require a verified Canadian recruitment site (removing the underspecified "Canadian institutional PI leadership" alternative — see `03_inclusion_exclusion/criteria.md` → "Criteria Revisions"), three previously-included records were re-verified via full PDF review and ClinicalTrials.gov API queries. None had a Canadian recruitment site, and all three were reclassified as EXCLUDED at full text under the new criterion:
+
+| Record # | PMID | Study | Canadian-affiliated author | Actual sites |
+|----------|------|-------|-----------------------------|--------------|
+| #20 | 37227402 | VIVRE vortioxetine vs desvenlafaxine (McIntyre 2023) | McIntyre (UofT) — lead author, not a site PI | 80 sites / 12 countries (Russia, Argentina, Ukraine, etc.) — no Canada |
+| #42 | 39144112 | NaB+NAC schizophrenia feasibility (Husain 2024) | CAMH authors — design-only, no recruitment | 5 sites, all in Pakistan |
+| #95 | 28044255 | Mavoglurant for OCD (Rutrick 2017) | Gomez-Mancilla (McGill secondary, Novartis Basel primary) | 15 sites in Bulgaria/Germany/USA/Czechia/Switzerland |
+
+Each trial had a Canadian-affiliated author but no verified Canadian recruitment site. Under the simplified criterion, all three were reclassified as EXCLUDED at full text. Their PDFs remain on disk in `07_full_texts/` as audit-trail evidence for the retroactive exclusion decision.
+
+**Net effect on counts (second correction).**
+
+| Count | Before (first correction) | After (second correction) |
+|-------|---------------------------|---------------------------|
+| Studies included | 69 | **66** |
+| Studies excluded at full text | 64 | **67** |
+| Full-text PDFs in hand | 67 of 69 | **64 of 66** (records 132 and 133 still pending) |
+| Reports not retrieved | 1 (Record #113) | 1 (Record #113, unchanged) |

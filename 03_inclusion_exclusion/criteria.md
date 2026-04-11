@@ -69,8 +69,18 @@ This review uses four databases with programmatic API access (PubMed, Europe PMC
 
 **Actual implementation:** All **10,904 eligible records** were screened at title/abstract level via dual independent review. This was feasible due to automated screening support. The stratified sample of 200 records (generated with `random.seed(42)` for reproducibility) was used as a pilot calibration set but is no longer the primary selection method.
 
-**Result:** 134 records forwarded to full-text review (129 originally, plus 5 QA-upgraded MAP records retroactively propagated on 2026-04-11 — see [`../05_screening/SCREENING_COMPLETE.md`](../05_screening/SCREENING_COMPLETE.md) → "Retroactive Correction"); **69 studies** included for data extraction (67 full text obtained, 2 pending manual retrieval; Record #113 unobtainable and recorded as "Reports not retrieved" per PRISMA 2020). This comprehensive screening strengthens generalizability — findings reflect the full eligible Canadian RCT literature, not a sample.
+**Result:** 134 records forwarded to full-text review (129 originally, plus 5 QA-upgraded MAP records retroactively propagated on 2026-04-11 — see [`../05_screening/SCREENING_COMPLETE.md`](../05_screening/SCREENING_COMPLETE.md) → "Retroactive Correction"); **66 studies** included for data extraction (64 full text obtained, 2 pending manual retrieval; Record #113 unobtainable and recorded as "Reports not retrieved" per PRISMA 2020; 3 further records dropped on 2026-04-11 under the simplified Canadian-site criterion — see "Retroactive application of refined criterion (2026-04-11)" below). This comprehensive screening strengthens generalizability — findings reflect the full eligible Canadian RCT literature, not a sample.
 
 ## Criteria Revisions
 
 **Criterion refinement (2026-04-11)**: The original protocol included "Canadian institutional PI leadership" as an alternative inclusion pathway alongside Canadian recruitment sites. This alternative was removed during audit review because (a) "institutional PI leadership" was not operationalized with specific rules (e.g., senior author vs. corresponding author vs. ClinicalTrials.gov Principal Investigator) and (b) the equity analysis focus is on Canadian-recruited participants, for which recruitment site is the relevant indicator. This change simplifies the criterion and improves reviewer defensibility. Previously included records are retained unless a re-evaluation shows they fail the new recruitment-site criterion — see the audit flag list in the R2 audit report for records that may warrant re-evaluation.
+
+### Retroactive application of refined criterion (2026-04-11)
+
+Following the removal of the "Canadian institutional PI leadership" alternative, three previously-included records were re-verified against the stricter Canadian recruitment site requirement. None met the new criterion (verified via PDF Methods sections and ClinicalTrials.gov API queries):
+
+- Record #20 (PMID 37227402, VIVRE vortioxetine): 80 sites across 12 countries, 0 Canadian
+- Record #42 (PMID 39144112, NaB+NAC schizophrenia): 5 sites, all in Pakistan
+- Record #95 (PMID 28044255, Mavoglurant OCD): 15 sites across 5 countries (Bulgaria, Germany, USA, Czechia, Switzerland), 0 Canadian
+
+All three trials had Canadian-affiliated authors (McIntyre at UofT, Husain at CAMH, Gomez-Mancilla with secondary McGill appointment) but no Canadian recruitment sites. Reclassified as EXCLUDED at full text. Net impact: final included count 69 → 66.

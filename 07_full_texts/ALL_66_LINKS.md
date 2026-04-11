@@ -1,12 +1,12 @@
-# Full-Text Links for All 69 Included Studies
+# Full-Text Links for All 66 Included Studies
 
-Last updated: 2026-04-11
+Last updated: 2026-04-11 (criterion refinement)
 
-Status: **67 of 69 full texts acquired locally.** Records #132 and #133 remain pending manual retrieval. Record #113 has been dropped from the final included list (see "DROPPED FROM INCLUDED LIST" section at the bottom).
+Status: **64 ALREADY DOWNLOADED / 2 NEED PDF / 3+1 DROPPED** — 64 of 66 full texts acquired locally. Records #132 and #133 remain pending manual retrieval. Four records have been dropped from the final included list (see "DROPPED FROM INCLUDED LIST" and "DROPPED UNDER SIMPLIFIED CRITERION" sections at the bottom): Record #113 (unobtainable) plus Records #20, #42, #95 (no verified Canadian recruitment site — criterion refinement 2026-04-11).
 
 PDFs and extracted full-text files are kept locally and are not committed to git (see `.gitignore`).
 
-This file supersedes `ALL_65_LINKS.md`, which is now removed. The list length went from 65 → 69 on 2026-04-11 after a retroactive QA propagation correction; see `../05_screening/SCREENING_COMPLETE.md` → "Retroactive Correction (2026-04-11)" for the audit trail.
+This file supersedes `ALL_65_LINKS.md` → `ALL_69_LINKS.md`, both of which are now removed. List-length history on 2026-04-11: **65 → 69** after a retroactive QA propagation correction, then **69 → 66** later the same day after the simplified "verified Canadian recruitment site" criterion was applied and three records (#20, #42, #95) were dropped. See `../05_screening/SCREENING_COMPLETE.md` → "Retroactive Correction (2026-04-11)" for the full audit trail.
 
 ---
 
@@ -30,9 +30,11 @@ This file supersedes `ALL_65_LINKS.md`, which is now removed. The list length we
 
 ---
 
-## ALREADY DOWNLOADED (67 studies)
+## ALREADY DOWNLOADED (64 studies)
 
 Full text available in this folder. Links provided for reference.
+
+Note: numbered rows below retain their original sequence from the previous `ALL_69_LINKS.md` revision to preserve the audit trail. The three rows for records #20, #42, and #95 were moved to the DROPPED section below on 2026-04-11 (criterion refinement), so the **actual count in this section is 64**, with row numbers skipping their original positions (18, 34, 52) rather than being renumbered.
 
 ### 1. Record #1 — European Neuropsychopharmacology (2018)
 **12-week double-blind randomized multicenter study of efficacy and safety of agomelatine (25-50 mg/day) versus escitalopram (10-20 mg/day) in out-patients with severe generalized anxiety disorder.**
@@ -136,11 +138,7 @@ Full text available in this folder. Links provided for reference.
 - PubMed: https://pubmed.ncbi.nlm.nih.gov/28061017/
 - DOI: https://doi.org/10.1111/add.13753
 
-### 18. Record #20 — The Journal of clinical psychiatry (2023)
-**Head-To-Head Comparison of Vortioxetine Versus Desvenlafaxine in Patients With Major Depressive Disorder With Partial Response to SSRI Therapy: Results of the VIVRE Study.**
-
-- PubMed: https://pubmed.ncbi.nlm.nih.gov/37227402/
-- DOI: https://doi.org/10.4088/jcp.23m14780
+### 18. [REMOVED — see DROPPED FROM INCLUDED LIST: Record #20 (VIVRE vortioxetine)]
 
 ### 19. Record #21 — JAMA Psychiatry (2016)
 **Hydromorphone Compared With Diacetylmorphine for Long-term Opioid Dependence: A Randomized Clinical Trial.**
@@ -233,11 +231,7 @@ Full text available in this folder. Links provided for reference.
 - PubMed: https://pubmed.ncbi.nlm.nih.gov/37689680/
 - DOI: https://doi.org/10.1186/s13063-023-07543-2
 
-### 34. Record #42 — Schizophrenia bulletin open (2024)
-**Add-on Sodium Benzoate and N-Acetylcysteine in Patients With Early Schizophrenia Spectrum Disorder: A Multicenter, Double-Blind, Randomized Placebo-Controlled Feasibility Trial.**
-
-- PubMed: https://pubmed.ncbi.nlm.nih.gov/39144112/
-- DOI: https://doi.org/10.1093/schizbullopen/sgae004
+### 34. [REMOVED — see DROPPED FROM INCLUDED LIST: Record #42 (NaB+NAC schizophrenia)]
 
 ### 35. Record #44 — JAMA neurology (2025)
 **Ambroxol as a Treatment for Parkinson Disease Dementia: A Randomized Clinical Trial.**
@@ -341,11 +335,7 @@ Full text available in this folder. Links provided for reference.
 - PubMed: https://pubmed.ncbi.nlm.nih.gov/32979939/
 - DOI: https://doi.org/10.1016/s2352-4642(20)30243-1
 
-### 52. Record #95 — Advances in Therapy (2017)
-**Mavoglurant Augmentation in OCD Patients Resistant to Selective Serotonin Reuptake Inhibitors: A Proof-of-Concept, Randomized, Placebo-Controlled, Phase 2 Study.**
-
-- PubMed: https://pubmed.ncbi.nlm.nih.gov/28044255/
-- DOI: https://doi.org/10.1007/s12325-016-0468-5
+### 52. [REMOVED — see DROPPED FROM INCLUDED LIST: Record #95 (Mavoglurant OCD)]
 
 ### 53. Record #96 — Scientific Reports (2020)
 **Melatonin for Treatment-Seeking Alcohol Use Disorder patients with sleeping problems: A randomized clinical pilot trial.**
@@ -446,7 +436,7 @@ Full text available in this folder. Links provided for reference.
 
 ---
 
-## DROPPED FROM INCLUDED LIST (1 record)
+## DROPPED FROM INCLUDED LIST (4 records)
 
 ### Record #113 — Med (New York, N.Y.) (2026)
 **Semaglutide for the treatment of cognitive dysfunction in major depressive disorder: A randomized clinical trial.**
@@ -454,6 +444,40 @@ Full text available in this folder. Links provided for reference.
 - PubMed: https://pubmed.ncbi.nlm.nih.gov/41218611/
 - DOI: https://doi.org/10.1016/j.medj.2025.100916
 
-**Reason for removal (2026-04-11):** Full text is unobtainable via all tested retrieval methods — the article is not on Europe PMC / PubMed Central, has no open-access version identified through OpenAlex or Crossref metadata, is not available on the publisher's open-access pathway, and is not accessible via the U Calgary institutional proxy. Rather than mark the study as "included with no full text in hand" (which would misrepresent the analysable corpus), the record is moved to "Reports not retrieved" in the PRISMA 2020 flow diagram, per PRISMA 2020 guidance for unretrievable full texts. This reduces the included-study count by one in parallel with the five additions above; the net is 65 − 1 + 5 = **69 included studies**.
+**Reason for removal (2026-04-11):** Full text is unobtainable via all tested retrieval methods — the article is not on Europe PMC / PubMed Central, has no open-access version identified through OpenAlex or Crossref metadata, is not available on the publisher's open-access pathway, and is not accessible via the U Calgary institutional proxy. Rather than mark the study as "included with no full text in hand" (which would misrepresent the analysable corpus), the record is moved to "Reports not retrieved" in the PRISMA 2020 flow diagram, per PRISMA 2020 guidance for unretrievable full texts.
+
+---
+
+## DROPPED UNDER SIMPLIFIED CRITERION (2026-04-11)
+
+The following three records were dropped later on 2026-04-11 after a targeted site-verification audit under the simplified "verified Canadian recruitment site" criterion. Their PDFs remain on disk as audit evidence but they are no longer in the included set.
+
+### Record #20 — The Journal of clinical psychiatry (2023)
+**Head-To-Head Comparison of Vortioxetine Versus Desvenlafaxine in Patients With Major Depressive Disorder With Partial Response to SSRI Therapy: Results of the VIVRE Study.**
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/37227402/
+- DOI: https://doi.org/10.4088/jcp.23m14780
+
+**Reason for removal (2026-04-11, criterion refinement):** 80 sites across 12 countries; no Canadian recruitment site identified in the paper's methods, ClinicalTrials.gov record, or supplementary site list. Does not satisfy the "verified Canadian recruitment site" criterion.
+
+### Record #42 — Schizophrenia bulletin open (2024)
+**Add-on Sodium Benzoate and N-Acetylcysteine in Patients With Early Schizophrenia Spectrum Disorder: A Multicenter, Double-Blind, Randomized Placebo-Controlled Feasibility Trial.**
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/39144112/
+- DOI: https://doi.org/10.1093/schizbullopen/sgae004
+
+**Reason for removal (2026-04-11, criterion refinement):** 5 recruiting sites, all in Pakistan. No Canadian recruitment site.
+
+### Record #95 — Advances in Therapy (2017)
+**Mavoglurant Augmentation in OCD Patients Resistant to Selective Serotonin Reuptake Inhibitors: A Proof-of-Concept, Randomized, Placebo-Controlled, Phase 2 Study.**
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/28044255/
+- DOI: https://doi.org/10.1007/s12325-016-0468-5
+
+**Reason for removal (2026-04-11, criterion refinement):** 15 sites across Bulgaria, Germany, USA, Czechia, and Switzerland; no Canadian recruitment site.
+
+---
+
+**Net included count:** the 2026-04-11 revisions were: **65 (original) + 5 (QA propagation additions) − 1 (Record #113 unobtainable) − 3 (Records #20, #42, #95 no Canadian site) = 66 included studies**.
 
 See `../05_screening/SCREENING_COMPLETE.md` → "Retroactive Correction (2026-04-11)" and `../05_screening/PRISMA_2020_flow_diagram.md` for the full audit trail.

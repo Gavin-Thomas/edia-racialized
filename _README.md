@@ -11,13 +11,13 @@
 | Inclusion/exclusion criteria | Complete | 2026-03 |
 | Database search (4 databases) | Complete | 2026-03-30 |
 | Title/abstract screening (10,904 records) | Complete | 2026-04-01 |
-| Full-text screening (134 records) | 67 of 69 complete; 2 pending formal full-text review (records #132, #133) | 2026-04-02 initial / 2026-04-11 retroactive +5 |
-| Full-text retrieval (69 studies) | 67 of 69 obtained, 2 pending manual retrieval | 2026-04 |
+| Full-text screening (134 records) | 64 of 66 complete; 2 pending formal full-text review (records #132, #133) | 2026-04-02 initial / 2026-04-11 retroactive +5 / 2026-04-11 second correction -3 |
+| Full-text retrieval (66 studies) | 64 of 66 obtained, 2 pending manual retrieval | 2026-04 |
 | Data extraction | **Not started** | — |
 
-**Headline numbers**: 54,483 raw records → 39,986 unique after deduplication → 10,904 after filters → 134 forwarded to full text → **69 included** (67 full text in hand, 2 pending manual retrieval).
+**Headline numbers**: 54,483 raw records → 39,986 unique after deduplication → 10,904 after filters → 134 forwarded to full text → **66 included** (64 full text in hand, 2 pending manual retrieval).
 
-> **Note (2026-04-11):** Counts above reflect a retroactive QA correction that propagated 5 previously-confirmed MAP records (PMIDs 29338621, 36325158, 34637343, 40135470, 38445382) into the included set, and dropped Record #113 (PMID 41218611, Semaglutide MDD, *Med* 2026) as unobtainable. Prior drafts of this README showed the pre-correction counts (129 forwarded / 65 included). See **Revision history** at the bottom of this file.
+> **Note (2026-04-11):** Counts above reflect two 2026-04-11 corrections: (1) the retroactive QA correction that propagated 5 previously-confirmed MAP records (PMIDs 29338621, 36325158, 34637343, 40135470, 38445382) into the included set and dropped Record #113 (PMID 41218611, Semaglutide MDD, *Med* 2026) as unobtainable; and (2) a second correction following the simplification of the Canadian-site criterion, which dropped 3 records (#20 PMID 37227402, #42 PMID 39144112, #95 PMID 28044255) that had no verified Canadian recruitment site. Prior drafts of this README showed the pre-correction counts (129 forwarded / 65 included, or 134 forwarded / 69 included before the second correction). See **Revision history** at the bottom of this file.
 
 ## Contents
 
@@ -127,6 +127,28 @@ https://github.com/Gavin-Thomas/edia-racialized
 
 ## Revision history
 
+### 2026-04-11 (second correction) — Simplified Canadian criterion, 3 records dropped
+
+After the inclusion criterion was simplified to require a verified Canadian recruitment site (removing the underspecified "Canadian institutional PI leadership" alternative), three records were re-verified via full PDF review and ClinicalTrials.gov API queries. None had a Canadian recruitment site:
+
+| Record # | PMID | Study | Actual sites |
+|----------|------|-------|--------------|
+| #20 | 37227402 | VIVRE vortioxetine vs desvenlafaxine (McIntyre 2023) | 80 sites / 12 countries (Russia, Argentina, Ukraine, etc.) — no Canada |
+| #42 | 39144112 | NaB+NAC schizophrenia feasibility (Husain 2024) | 5 sites, all in Pakistan |
+| #95 | 28044255 | Mavoglurant for OCD (Rutrick 2017) | 15 sites in Bulgaria/Germany/USA/Czechia/Switzerland |
+
+Each trial had a Canadian-affiliated author (McIntyre, Husain, Gomez-Mancilla) but no verified Canadian recruitment site. Under the simplified criterion, all three were reclassified as EXCLUDED at full text.
+
+**Net effect on counts (second correction):**
+
+| Count | Before (2026-04-11 first) | After (2026-04-11 second) |
+|-------|---------------------------|--------------------------|
+| Studies included | 69 | **66** |
+| Excluded at full text | 64 | 67 |
+| Full texts in hand | 67 of 69 | 64 of 66 |
+
+The 3 dropped records' PDFs remain on disk in `07_full_texts/` as audit-trail evidence for the retroactive exclusion decision.
+
 ### 2026-04-11 — Retroactive QA propagation correction
 
 A consistency check discovered that five records confirmed as MAP in `SCREENING_COMPLETE.md` had never been written into `fulltext_screening_decisions.csv`, and therefore never entered the full-text screening pipeline. A retroactive investigation confirmed that all five meet the inclusion criteria with HIGH confidence (Canadian-led RCTs of pharmacological interventions targeting mental disorders, published 2016–2025). All five were added to the final included set:
@@ -155,4 +177,4 @@ The single "report not retrieved" (Record #113, PMID 41218611: "Semaglutide for 
 | Full texts in hand | 64 of 65 | 67 of 69 |
 | Pending manual retrieval | 1 (#113) | 2 (#132, #133) |
 
-Affected files have been updated accordingly: `05_screening/SCREENING_COMPLETE.md`, `05_screening/PRISMA_2020_flow_diagram.md`, `05_screening/_README.md`, `03_inclusion_exclusion/_README.md`, `06_data_extraction/_README.md`, `07_full_texts/README.md`, `07_full_texts/ALL_69_LINKS.md` (renamed from `ALL_65_LINKS.md`), and `07_full_texts/PAYWALLED_LINKS.md`.
+Affected files have been updated accordingly: `05_screening/SCREENING_COMPLETE.md`, `05_screening/PRISMA_2020_flow_diagram.md`, `05_screening/_README.md`, `03_inclusion_exclusion/_README.md`, `06_data_extraction/_README.md`, `07_full_texts/README.md`, `07_full_texts/ALL_66_LINKS.md` (progressively renamed from `ALL_65_LINKS.md`), and `07_full_texts/PAYWALLED_LINKS.md`.

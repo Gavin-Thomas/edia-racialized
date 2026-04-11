@@ -411,7 +411,7 @@ Records are processed through a multi-stage pipeline:
    - **Relevance filter**: Require all three concept blocks in title/abstract (Canada terms AND mental health terms AND RCT terms)
    - Exclude systematic reviews and meta-analyses
 4. **Screening**: All 10,904 eligible records screened via dual independent title/abstract review
-5. **Full-text review**: 134 records forwarded (129 originally, plus 5 QA-upgraded MAP records propagated retroactively on 2026-04-11); **69 studies** included
+5. **Full-text review**: 134 records forwarded (129 originally, plus 5 QA-upgraded MAP records propagated retroactively on 2026-04-11); **66 studies** included (69 − 3 after the 2026-04-11 criterion-refinement drop of Records #20, #42, #95 for lacking a verified Canadian recruitment site; Record #113 also dropped as unobtainable)
 
 ## Results Summary (2026-03-30)
 
@@ -430,7 +430,7 @@ Records are processed through a multi-stage pipeline:
 | **Available for screening** | **10,904** |
 | Screened at title/abstract | 10,904 |
 | Forwarded to full-text | 134 |
-| **Included after full-text** | **69** |
+| **Included after full-text** | **66** |
 
 ---
 
