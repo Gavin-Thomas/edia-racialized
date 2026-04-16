@@ -18,7 +18,7 @@ stages:
   database_search: completed
   abstract_screening: completed
   fulltext_screening: completed
-  data_extraction: pending
+  data_extraction: completed
   search_date: "2026-03-30"
   screening_completed: "2026-04-01"
   fulltext_completed: "2026-04-02"

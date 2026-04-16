@@ -1,0 +1,67 @@
+
+digraph PRISMA {
+    // ---- Global look ------------------------------------------------------
+    graph  [rankdir=TB, splines=ortho, nodesep=0.30, ranksep=0.55,
+            bgcolor="white", margin=0.15, fontname="Times New Roman"];
+    node   [shape=box, style="filled", fillcolor="white",
+            color="black", penwidth=1.0, fontname="Times New Roman",
+            fontsize=11, margin="0.18,0.10"];
+    edge   [color="black", penwidth=1.0, arrowsize=0.7,
+            fontname="Times New Roman", fontsize=10];
+
+    // ---- Row 1: Identification -------------------------------------------
+    { rank = same;
+        stage_id   [label=<<B>IDENTIFICATION</B>>, shape=plaintext,
+                    fontsize=12, width=1.4];
+        n_id       [label=<Records identified from databases<BR/><B>(n = 54,483)</B><BR/><FONT POINT-SIZE="10">PubMed 9,964 &#183; Europe PMC 15,772</FONT><BR/><FONT POINT-SIZE="10">Scopus 27,983 &#183; OpenAlex 764</FONT>>, width=3.7];
+        n_id_excl  [label=<Records removed before screening<BR/><B>(n = 43,579)</B><BR/><FONT POINT-SIZE="10">Duplicates 14,497 &#183; No abstract 1,557</FONT><BR/><FONT POINT-SIZE="10">Out of date 12,473 &#183; Not relevant 12,511</FONT><BR/><FONT POINT-SIZE="10">Sys. reviews / meta-analyses 2,541</FONT>>, width=3.7];
+    }
+
+    // ---- Row 2: Screened (with side exclusion) ---------------------------
+    { rank = same;
+        stage_sc1  [label=<<B>SCREENING</B>>, shape=plaintext,
+                    fontsize=12, width=1.4];
+        n_screened     [label=<Records screened (title / abstract)<BR/><B>(n = 10,904)</B><BR/><FONT POINT-SIZE="10">Dual independent review &#183; &#954; = 0.39</FONT>>, width=3.7];
+        n_screened_excl[label=<Records excluded at title / abstract<BR/><B>(n = 10,810)</B>>, width=3.7];
+    }
+
+    // ---- Row 3: Sought for retrieval --------------------------------------
+    { rank = same;
+        stage_sc2  [label="", shape=plaintext, width=1.4];
+        n_sought   [label=<Reports sought for retrieval<BR/><B>(n = 134)</B>>, width=3.7];
+        n_notret   [label=<Reports not retrieved<BR/><B>(n = 1)</B>>, width=3.7];
+    }
+
+    // ---- Row 4: Assessed for eligibility ----------------------------------
+    { rank = same;
+        stage_sc3  [label="", shape=plaintext, width=1.4];
+        n_assessed     [label=<Reports assessed for eligibility<BR/><B>(n = 133)</B>>, width=3.7];
+        n_assessed_excl[label=<Reports excluded at full text<BR/><B>(n = 70)</B><BR/><FONT POINT-SIZE="10">Secondary / post-hoc 35</FONT><BR/><FONT POINT-SIZE="10">No Canadian site 16</FONT><BR/><FONT POINT-SIZE="10">Not an RCT 10</FONT><BR/><FONT POINT-SIZE="10">Non-pharma / not mental health 8</FONT><BR/><FONT POINT-SIZE="10">Pre-2016 primary 1</FONT>>, width=3.7];
+    }
+
+    // ---- Row 5: Included --------------------------------------------------
+    { rank = same;
+        stage_in   [label=<<B>INCLUDED</B>>, shape=plaintext,
+                    fontsize=12, width=1.4];
+        n_included [label=<Studies included in review<BR/><B>(n = 63)</B><BR/><FONT POINT-SIZE="10">N = 8,837 participants &#183; PROGRESS-Plus extraction</FONT>>, width=3.7, penwidth=2.0];
+        spacer_in  [label="", shape=plaintext, width=3.7, height=0.01];
+    }
+
+    // ---- Force vertical alignment of the three columns -------------------
+    stage_id  -> stage_sc1 -> stage_sc2 -> stage_sc3 -> stage_in
+        [style=invis, weight=100];
+    n_id_excl -> n_screened_excl -> n_notret -> n_assessed_excl -> spacer_in
+        [style=invis, weight=100];
+
+    // ---- Main downward flow (center column) ------------------------------
+    n_id        -> n_screened [weight=20];
+    n_screened  -> n_sought   [weight=20];
+    n_sought    -> n_assessed [weight=20];
+    n_assessed  -> n_included [weight=20];
+
+    // ---- Side exclusions (rightward arrows) ------------------------------
+    n_id        -> n_id_excl;
+    n_screened  -> n_screened_excl;
+    n_sought    -> n_notret;
+    n_assessed  -> n_assessed_excl;
+}

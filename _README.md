@@ -11,18 +11,19 @@
 | Inclusion/exclusion criteria | Complete | 2026-03 |
 | Database search (4 databases) | Complete | 2026-03-30 |
 | Title/abstract screening (10,904 records) | Complete | 2026-04-01 |
-| Full-text screening (134 records) | 64 of 66 complete; 2 pending formal full-text review (records #132, #133) | 2026-04-02 initial / 2026-04-11 retroactive +5 / 2026-04-11 second correction -3 |
-| Full-text retrieval (66 studies) | 64 of 66 obtained, 2 pending manual retrieval | 2026-04 |
-| Data extraction | **Not started** | — |
+| Full-text screening (134 records) | Complete (63 included, 70 excluded, 1 not retrieved) | 2026-04-02 initial / 2026-04-11 corrections / 2026-04-13 final |
+| Full-text retrieval | Complete (63/63 obtained) | 2026-04-12 |
+| Data extraction (PROGRESS-Plus) | **Complete** (63 studies, Pass 2 QC done, all kappa > 0.86) | 2026-04-13 |
+| Manuscript outline | Complete (PRISMA-ScR) | 2026-04-13 |
 
-**Headline numbers**: 54,483 raw records → 39,986 unique after deduplication → 10,904 after filters → 134 forwarded to full text → **66 included** (64 full text in hand, 2 pending manual retrieval).
+**Headline numbers**: 54,483 raw records → 39,986 unique after deduplication → 10,904 after filters → 134 forwarded to full text → **63 included** (N=8,837 participants).
 
 > **Note (2026-04-11):** Counts above reflect two 2026-04-11 corrections: (1) the retroactive QA correction that propagated 5 previously-confirmed MAP records (PMIDs 29338621, 36325158, 34637343, 40135470, 38445382) into the included set and dropped Record #113 (PMID 41218611, Semaglutide MDD, *Med* 2026) as unobtainable; and (2) a second correction following the simplification of the Canadian-site criterion, which dropped 3 records (#20 PMID 37227402, #42 PMID 39144112, #95 PMID 28044255) that had no verified Canadian recruitment site. Prior drafts of this README showed the pre-correction counts (129 forwarded / 65 included, or 134 forwarded / 69 included before the second correction). See **Revision history** at the bottom of this file.
 
 ## Contents
 
 - `01_literature_search/` — Landscape report and key references
-- `02_research_question/` — PICO framework and objectives
+- `02_research_question/` — PCC framework and objectives
 - `03_inclusion_exclusion/` — Criteria with decision rules
 - `04_database_search/` — Scripted fetch, deduplication, and refinement pipeline
 - `05_screening/` — Batch reconciled CSVs, QA audits, PRISMA flow diagram, screening summary

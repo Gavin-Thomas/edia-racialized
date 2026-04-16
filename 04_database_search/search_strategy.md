@@ -1,5 +1,8 @@
 # Search Strategies: EDIA Representation in Canadian Mental Health Pharmacotherapy RCTs
 
+> **Databases searched:** PubMed, Europe PMC, Scopus, OpenAlex (all searched 2026-03-30).
+> **Databases with strategies prepared but NOT executed:** Embase (Ovid), PsycINFO (Ovid), CINAHL (EBSCOhost). These three databases lack public APIs; their strategies were prepared for completeness and to document the controlled vocabulary mapping, but were not executed because institutional portal queries would break pipeline reproducibility. For pharmacotherapy RCTs, PsycINFO's unique yield beyond PubMed/Scopus is modest. See `03_inclusion_exclusion/criteria.md` → "Database selection" for the full rationale.
+
 ## Research Question
 Among randomized controlled trials conducted in Canada evaluating pharmacological interventions to prevent, treat, or manage diagnosed mental disorders, what is the representation and reporting of EDIA-related metrics among participants, and how does representation vary across trials and disorders?
 
@@ -44,6 +47,10 @@ The high count confirms the search is appropriately sensitive (comprehensive).
 
 Note: The high volume across databases reflects the breadth of the mental disorders concept block (all DSM-5 categories) combined with the sensitivity of the RCT and Canada filters. All 10,904 eligible records after automated filtering were screened at title/abstract level.
 
+**Note on OpenAlex low yield (764 records vs. 10,000-28,000 for other databases):** OpenAlex's low record count is expected and does not indicate a search error. OpenAlex uses a works-level indexing approach rather than article-level bibliographic indexing, and its coverage of mental health pharmacotherapy literature is less comprehensive than traditional bibliographic databases (PubMed, Europe PMC, Scopus). Additionally, OpenAlex's search API uses different matching semantics — its inverted-index abstract reconstruction means that some records without full abstract text are less retrievable. OpenAlex was included primarily as an open citation data source and secondary retrieval net; its primary value in this pipeline is supplementary coverage and citation data rather than comprehensive recall.
+
+**Note on date range in search strategies:** The search strategies documented in this file specify "2000-present" as the date range. The API queries intentionally used this broad range to avoid missing records with inconsistent date metadata (e.g., records with an electronic publication date in 2015 but a print publication date in 2016). The 2016-2026 date filter was applied during the automated pre-screening phase (see `04_database_search/refine_results.py`), not at the API query level. The effective date range for included studies remains 2016-2026 as specified in `03_inclusion_exclusion/criteria.md`.
+
 ---
 
 ## Verification of Controlled Vocabulary
@@ -59,6 +66,8 @@ The following terms were verified via NLM MeSH Browser, Emtree documentation, an
 ---
 
 # 1. PubMed Search Strategy
+
+**Search executed:** 2026-03-30
 
 ## Concept Table
 
@@ -134,7 +143,7 @@ The following terms were verified via NLM MeSH Browser, Emtree documentation, an
 
 ---
 
-# 2. Embase (Ovid) Search Strategy
+# 2. Embase (Ovid) Search Strategy — NOT EXECUTED
 
 ## Concept Table
 
@@ -217,7 +226,7 @@ The following terms were verified via NLM MeSH Browser, Emtree documentation, an
 
 ---
 
-# 3. PsycINFO (Ovid) Search Strategy
+# 3. PsycINFO (Ovid) Search Strategy — NOT EXECUTED
 
 ## Concept Table
 
@@ -296,7 +305,7 @@ The following terms were verified via NLM MeSH Browser, Emtree documentation, an
 
 ---
 
-# 4. CINAHL (EBSCO) Search Strategy
+# 4. CINAHL (EBSCO) Search Strategy — NOT EXECUTED
 
 ## Concept Table
 
@@ -392,6 +401,8 @@ S42 S41 [Limiters - Published Date: 20000101-20261231; Language: English]
 ---
 
 # Revised Methodology (Executed 2026-03-30)
+
+**Search execution dates:** PubMed — 2026-03-30; Europe PMC — 2026-03-30; OpenAlex — 2026-03-30; Scopus — 2026-03-30.
 
 ## Databases Used
 The original plan (PubMed, Embase, PsycINFO, CINAHL) was revised to use **PubMed, Europe PMC, OpenAlex, and Scopus**. This change was made because:

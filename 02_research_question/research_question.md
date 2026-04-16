@@ -2,12 +2,11 @@
 
 Among randomized controlled trials conducted in Canada evaluating pharmacological interventions to prevent, treat, or manage diagnosed mental disorders (2016-2026), what is the representation and reporting of EDIA-related metrics — with a focus on racialized groups — among participants, and how does representation vary across trials and disorders?
 
-## Framework: PICO
+## Framework: PCC (Population, Concept, Context)
 
-- **Population**: Canadian RCTs evaluating pharmacotherapies for diagnosed mental disorders (DSM-5/ICD-10/11), published 2016-2026
-- **Intervention/Exposure**: EDIA reporting practices (PROGRESS-Plus framework variables)
-- **Comparison**: Across disorder categories, time periods (pre/post-2020), trial characteristics (funder, multisite/single-site, sample size)
-- **Outcome**: Proportion and quality of EDIA reporting; representation of racialized groups; trial-level factors associated with reporting
+- **Population**: RCTs evaluating pharmacological interventions for DSM-5/ICD-10 mental disorders with at least one verified Canadian recruitment site, published 2016-2026 in English
+- **Concept**: EDIA reporting practices as defined by the PROGRESS-Plus framework — specifically race/ethnicity representation, sex/gender distinction, Indigenous participation and governance, and CONSORT-Equity compliance
+- **Context**: Canadian clinical trial infrastructure, benchmarked against Statistics Canada Census 2021 and compared across disorder categories, time periods (pre/post-2020), and trial characteristics (funder, multisite/single-site, sample size)
 
 ## Primary Objectives
 1. Determine the proportion of trials reporting participant race/ethnicity and characterize completeness and granularity of reporting

@@ -230,3 +230,23 @@ Each trial had a Canadian-affiliated author but no verified Canadian recruitment
 | Studies excluded at full text | 64 | **67** |
 | Full-text PDFs in hand | 67 of 69 | **64 of 66** (records 132 and 133 still pending) |
 | Reports not retrieved | 1 (Record #113) | 1 (Record #113, unchanged) |
+
+---
+
+## Third correction (2026-04-13) — 3 additional exclusions during data extraction
+
+During data extraction (Sessions 1-16), three further records were identified as not meeting inclusion criteria and were excluded after investigation and human approval:
+
+| Record # | PMID | Study | Reason for exclusion |
+|----------|------|-------|---------------------|
+| #4 | 39415650 | Brexpiprazole maintenance for MDD (McIntyre 2024) | ClinicalTrials.gov NCT03538691 lists only Los Angeles CA. No Canadian recruitment site. McIntyre contributed data interpretation only. |
+| #12 | 38153735 | Sequential insomnia therapies — daytime functioning (Morin 2023) | Secondary analysis of Record #13 (NCT01651442). Paper states "primary results can be found elsewhere." |
+| #45 | 36327043 | Smoking cessation NRT + counselling for SMI (Pettey 2022) | Both arms receive identical NRT at equivalent doses. Randomized difference is psychosocial (MI counselling), not pharmacological. |
+
+**Net effect on counts (third correction).**
+
+| Count | Before (second correction) | After (third correction) |
+|-------|---------------------------|--------------------------|
+| Studies included | 66 | **63** |
+| Studies excluded at full text | 67 | **70** |
+| Total participants | ~9,598 | **8,837** |

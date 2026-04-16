@@ -1,29 +1,28 @@
 # 02 Research Question
 
-> Formalization of the scoping review question using the PICO framework.
+> Formalization of the scoping review question using the PCC framework (Population, Concept, Context) per JBI scoping review methodology.
 
 ## Purpose
 
-This folder holds the formalized research question and objectives for the scoping review. It translates the landscape gaps identified in [`../01_literature_search/`](../01_literature_search/) into a specific, answerable question using the PICO framework and articulates the primary and secondary objectives that guide every downstream stage (inclusion criteria, search strategy, data extraction).
+This folder holds the formalized research question and objectives for the scoping review. It translates the landscape gaps identified in [`../01_literature_search/`](../01_literature_search/) into a specific, answerable question using the PCC framework and articulates the primary and secondary objectives that guide every downstream stage (inclusion criteria, search strategy, data extraction).
 
 ## Files in this folder
 
 | File | Description |
 |------|-------------|
-| [`research_question.md`](research_question.md) | Full research question, PICO breakdown, primary/secondary objectives, temporal-comparison analysis plan, sensitivity-analysis cutpoints, and terminology (racialized groups vs. Indigenous peoples). |
+| [`research_question.md`](research_question.md) | Full research question, PCC breakdown, primary/secondary objectives, temporal-comparison analysis plan, sensitivity-analysis cutpoints, and terminology (racialized groups vs. Indigenous peoples). |
 
 ## Research question
 
 > Among randomized controlled trials conducted in Canada evaluating pharmacological interventions to prevent, treat, or manage diagnosed mental disorders (2016-2026), what is the representation and reporting of EDIA-related metrics — with a focus on racialized groups — among participants, and how does representation vary across trials and disorders?
 
-## PICO summary
+## PCC summary
 
 | Element | Specification |
 |---------|---------------|
-| **P**opulation | Canadian RCTs evaluating pharmacotherapies for DSM-5/ICD-10/11 mental disorders, published 2016-2026 |
-| **I**ntervention / Exposure | EDIA reporting practices (PROGRESS-Plus framework variables) |
-| **C**omparison | Across disorder categories, time periods (pre/post-2020), trial characteristics (funder, multi/single-site, sample size) |
-| **O**utcome | Proportion and quality of EDIA reporting; representation of racialized groups; trial-level factors associated with reporting |
+| **P**opulation | RCTs evaluating pharmacological interventions for DSM-5/ICD-10 mental disorders with at least one verified Canadian recruitment site, published 2016-2026 in English |
+| **C**oncept | EDIA reporting practices as defined by the PROGRESS-Plus framework — specifically race/ethnicity representation, sex/gender distinction, Indigenous participation and governance, and CONSORT-Equity compliance |
+| **C**ontext | Canadian clinical trial infrastructure, benchmarked against Statistics Canada Census 2021 and compared across disorder categories, time periods (pre/post-2020), and trial characteristics (funder, multisite/single-site, sample size) |
 
 ## Objectives
 
@@ -50,7 +49,7 @@ This folder holds the formalized research question and objectives for the scopin
 
 This stage produces the operational inputs consumed downstream:
 
-- The PICO and objectives are operationalized into inclusion/exclusion rules in [`../03_inclusion_exclusion/criteria.md`](../03_inclusion_exclusion/criteria.md).
+- The PCC framework and objectives are operationalized into inclusion/exclusion rules in [`../03_inclusion_exclusion/criteria.md`](../03_inclusion_exclusion/criteria.md).
 - The PROGRESS-Plus variable list drives both the search-strategy concept blocks ([`../04_database_search/search_strategy.md`](../04_database_search/search_strategy.md)) and the data-extraction fields ([`../06_data_extraction/extraction_codebook.md`](../06_data_extraction/extraction_codebook.md)).
 - The temporal-comparison design determines the year variable and sensitivity-analysis plan used at the analysis stage.
 

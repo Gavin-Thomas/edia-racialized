@@ -34,7 +34,7 @@ screening (AI-assisted), full-text screening, and documentation — were perform
 by the author with AI-assisted tooling (LLM agents for screening, as disclosed in
 the root README).
 
-Data extraction and manuscript drafting are pending as of 2026-04-11.
+Data extraction is complete as of 2026-04-13 (63 studies, Pass 2 QC done, all kappa > 0.86). Manuscript drafting is in progress.
 
 ## Acknowledgements
 

@@ -41,6 +41,7 @@
  │    Codex GPT-5.4 false-negative verification │
  │  Inter-rater agreement:                      │
  │    97.8% (normalized) | κ = 0.39 (Cohen)     │
+ │    (96% exclusion base rate; see caveats)     │
  └──────────────────────────────────────────────┘
            │                          │
            │                          │
@@ -76,19 +77,20 @@
            ▼                          ▼
  Reports excluded              Studies included
  at full-text                  in review
- (n = 67) ‡                    (n = 66) ‡
+ (n = 70) ‡§                   (n = 63) ‡§
  ┌────────────────────┐       ┌────────────────────┐
- │ Reasons:           │       │ Disorder categories│
- │ • Secondary/post-  │       │ (preliminary):     │
- │   hoc analysis: 34 │       │ • Depression:  ~21 │
- │ • No Canadian      │       │ • Bipolar:     ~10 │
- │   site/PI:      15 │       │ • Dementia:    ~10 │
- │ • Not RCT/protocol/│       │ • Substance:   ~11 │
- │   review/case:  10 │       │ • Schizophrenia:~7 │
- │ • Non-pharma/not   │       │ • ADHD:        ~6  │
- │   targeting MH:  7 │       │ • Other:       ~1  │
- │ • Pre-2016 primary │       └────────────────────┘
- │   results:       1 │
+ │ Reasons:           │       │ N = 63 studies     │
+ │ • Secondary/post-  │       │ (8,837 participants│
+ │   hoc analysis: 35 │       │                    │
+ │ • No Canadian      │       │ Disorder categories│
+ │   site:         16 │       │ • Depression:  ~19 │
+ │ • Not RCT/protocol/│       │ • Bipolar:     ~10 │
+ │   review/case:  10 │       │ • Dementia:    ~10 │
+ │ • Non-pharma/not   │       │ • Substance:   ~10 │
+ │   targeting MH:  8 │       │ • Schizophrenia:~7 │
+ │ • Pre-2016 primary │       │ • ADHD:        ~5  │
+ │   results:       1 │       │ • Other:       ~2  │
+ │                    │       └────────────────────┘
  └────────────────────┘
                                      │
                                      ▼
@@ -96,7 +98,7 @@
                      INCLUDED
  ================================================================
 
- Studies included for data extraction (n = 66) † ‡
+ Studies included for data extraction (n = 63) † ‡ §
  ┌──────────────────────────────────────────────┐
  │  Framework: PROGRESS-Plus                    │
  │  Primary focus: Race/ethnicity reporting     │
@@ -111,6 +113,11 @@
  │  • Trial-level covariates                    │
  └──────────────────────────────────────────────┘
 ```
+
+**Footnotes:**
+- † 134 forwarded to full text after retroactive QA propagation (2026-04-11); originally 129.
+- ‡ Counts reflect two 2026-04-11 corrections: +5 QA-upgraded MAP records propagated; -1 unobtainable (Record #113); -3 no Canadian recruitment site (Records #20, #42, #95).
+- § Counts reflect 2026-04-13 third correction: -3 additional exclusions at full text: Record #4 (no Canadian site per ClinicalTrials.gov), Record #12 (secondary analysis of #13), Record #45 (not a pharmacotherapy comparison). Net: 66 → **63 included**.
 
 ---
 

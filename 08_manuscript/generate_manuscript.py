@@ -160,9 +160,12 @@ def style_table(table, num_cols):
     rows = table.rows
     n_rows = len(rows)
 
+    none_side = {"val": "none", "sz": 0, "color": "auto"}
     for r_idx, row in enumerate(rows):
         for c_idx, cell in enumerate(row.cells):
-            borders = {}
+            # Default: all four sides explicitly 'none' to override any style defaults
+            borders = {"top": none_side, "bottom": none_side,
+                       "left": none_side, "right": none_side}
             if r_idx == 0:
                 borders["top"]    = {"val": "single", "sz": 8, "color": "000000"}
                 borders["bottom"] = {"val": "single", "sz": 4, "color": "000000"}
@@ -658,7 +661,11 @@ def build_docx():
 
         n_cols = len(headers)
         table = doc.add_table(rows=1 + len(rows), cols=n_cols)
-        table.style = "Table Grid"
+        # Use Normal Table (no default borders) so APA horizontal rules are clean
+        try:
+            table.style = "Normal Table"
+        except KeyError:
+            pass
 
         # Header row
         hdr_row = table.rows[0]
